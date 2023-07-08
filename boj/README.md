@@ -12,6 +12,7 @@
 |[1001](https://www.acmicpc.net/problem/1001)|A-B|2019/3/17 23:47:52|[C](./01xxx/01001.c)|
 |[1002](https://www.acmicpc.net/problem/1002)|터렛|2020/8/31 17:02:29|[C](./01xxx/01002.c)|
 |[1003](https://www.acmicpc.net/problem/1003)|피보나치 함수|2020/8/31 17:58:43|[C](./01xxx/01003.c)|
+|[1004](https://www.acmicpc.net/problem/1004)|어린 왕자|2023/7/8 22:38:04|[C](./01xxx/01004.c)|
 |[1008](https://www.acmicpc.net/problem/1008)|A/B|2019/9/14 01:43:35|[C](./01xxx/01008.c)|
 |[1009](https://www.acmicpc.net/problem/1009)|분산처리|2020/11/8 17:51:44|[C](./01xxx/01009.c)|
 |[1010](https://www.acmicpc.net/problem/1010)|다리 놓기|2023/2/11 16:30:43|[C](./01xxx/01010.c)|
@@ -19,10 +20,12 @@
 |[1012](https://www.acmicpc.net/problem/1012)|유기농 배추|2023/2/16 19:10:21|[C](./01xxx/01012.c)|
 |[1018](https://www.acmicpc.net/problem/1018)|체스판 다시 칠하기|2020/6/6 13:16:40|[C](./01xxx/01018.c)|
 |[1022](https://www.acmicpc.net/problem/1022)|소용돌이 예쁘게 출력하기|2023/2/11 01:17:58|[C](./01xxx/01022.c)|
+|[1024](https://www.acmicpc.net/problem/1024)|수열의 합|2023/7/8 22:28:32|[C](./01xxx/01024.c)|
 |[1026](https://www.acmicpc.net/problem/1026)|보물|2023/6/26 02:04:38|[C](./01xxx/01026.C)|
 |[1032](https://www.acmicpc.net/problem/1032)|명령 프롬프트|2023/6/30 18:21:12|[C](./01xxx/01032.c)|
 |[1037](https://www.acmicpc.net/problem/1037)|약수|2019/10/2 20:34:57|[C](./01xxx/01037.c)|
 |[1063](https://www.acmicpc.net/problem/1063)|킹|2023/6/27 00:31:31|[C](./01xxx/01063.c)|
+|[1064](https://www.acmicpc.net/problem/1064)|평행사변형|2023/7/7 16:21:38|[C](./01xxx/01064.c)|
 |[1065](https://www.acmicpc.net/problem/1065)|한수|2019/9/15 11:39:48|[C](./01xxx/01065.c)|
 |[1075](https://www.acmicpc.net/problem/1075)|나누기|2019/10/2 19:42:04|[C](./01xxx/01075.c)|
 |[1076](https://www.acmicpc.net/problem/1076)|저항|2020/11/8 18:11:17|[C](./01xxx/01076.c)|
@@ -43,22 +46,28 @@
 |[1267](https://www.acmicpc.net/problem/1267)|핸드폰 요금|2023/6/29 15:48:06|[C](./01xxx/01267.c)|
 |[1269](https://www.acmicpc.net/problem/1269)|대칭 차집합|2023/6/8 15:22:56|[C](./01xxx/01269.c)|
 |[1292](https://www.acmicpc.net/problem/1292)|쉽게 푸는 문제|2023/6/29 15:22:41|[C](./01xxx/01292.c)|
+|[1297](https://www.acmicpc.net/problem/1297)|TV 크기|2023/7/7 15:58:03|[C](./01xxx/01297.c)|
 |[1316](https://www.acmicpc.net/problem/1316)|그룹 단어 체커|2020/8/22 12:23:16|[C](./01xxx/01316.c)|
 |[1330](https://www.acmicpc.net/problem/1330)|두 수 비교하기|2019/8/23 23:15:12|[C](./01xxx/01330.c)|
 |[1427](https://www.acmicpc.net/problem/1427)|소트인사이드|2019/12/13 21:16:17|[C](./01xxx/01427.c)|
 |[1436](https://www.acmicpc.net/problem/1436)|영화감독 숌|2020/10/1 00:30:16|[C](./01xxx/01436.c)|
 |[1439](https://www.acmicpc.net/problem/1439)|뒤집기|2023/7/1 16:50:15|[C](./01xxx/01439.c)|
+|[1463](https://www.acmicpc.net/problem/1463)|1로 만들기|2023/7/6 13:42:32|[C](./01xxx/01463.c)|
 |[1476](https://www.acmicpc.net/problem/1476)|날짜 계산|2023/7/1 16:26:26|[C](./01xxx/01476.c)|
 |[1546](https://www.acmicpc.net/problem/1546)|평균|2019/9/15 00:29:43|[C](./01xxx/01546.c)|
 |[1550](https://www.acmicpc.net/problem/1550)|16진수|2020/11/8 22:08:18|[C](./01xxx/01550.c)|
 |[1629](https://www.acmicpc.net/problem/1629)|곱셈|2023/7/1 16:17:59|[C](./01xxx/01629.c)|
 |[1676](https://www.acmicpc.net/problem/1676)|팩토리얼 0의 개수|2023/2/15 00:04:15|[C](./01xxx/01676.c)|
 |[1699](https://www.acmicpc.net/problem/1699)|제곱수의 합|2023/7/3 16:08:08|[C](./01xxx/01699.c)|
+|[1711](https://www.acmicpc.net/problem/1711)|직각삼각형|2023/7/8 23:28:25|[C](./01xxx/01711.c)|
 |[1712](https://www.acmicpc.net/problem/1712)|손익분기점|2019/9/14 01:14:14|[C](./01xxx/01712.c)|
 |[1735](https://www.acmicpc.net/problem/1735)|분수 합|2023/3/23 17:18:28|[C](./01xxx/01735.c)|
+|[1747](https://www.acmicpc.net/problem/1747)|소수&팰린드롬|2023/7/8 19:13:02|[C](./01xxx/01747.c)|
 |[1789](https://www.acmicpc.net/problem/1789)|수들의 합|2023/7/1 17:18:15|[C](./01xxx/01789.c)|
+|[1850](https://www.acmicpc.net/problem/1850)|최대공약수|2023/7/8 19:01:25|[C](./01xxx/01850.c)|
 |[1904](https://www.acmicpc.net/problem/1904)|01타일|2023/3/17 16:17:02|[C](./01xxx/01904.c)|
 |[1912](https://www.acmicpc.net/problem/1912)|연속합|2023/6/29 18:05:31|[C](./01xxx/01912.c)|
+|[1920](https://www.acmicpc.net/problem/1920)|수 찾기|2023/7/7 18:14:55|[C](./01xxx/01920.c)|
 |[1924](https://www.acmicpc.net/problem/1924)|2007년|2019/12/14 19:33:27|[C](./01xxx/01924.c)|
 |[1929](https://www.acmicpc.net/problem/1929)|소수 구하기|2020/8/22 14:23:27|[C](./01xxx/01929.c)|
 |[1932](https://www.acmicpc.net/problem/1932)|정수 삼각형|2023/7/1 16:08:21|[C](./01xxx/01932.c)|
@@ -75,6 +84,7 @@
 |Problem|Title|Time Submitted|Source Code|
 |:---:|:---:|:---:|:---:|
 |[2003](https://www.acmicpc.net/problem/2003)|수들의 합 2|2023/7/3 16:16:37|[C](./02xxx/2003.c)|
+|[2010](https://www.acmicpc.net/problem/2010)|플러그|2023/7/6 20:59:18|[C](./02xxx/02010.c)|
 |[2033](https://www.acmicpc.net/problem/2033)|반올림|2020/11/8 22:39:49|[C](./02xxx/02033.c)|
 |[2108](https://www.acmicpc.net/problem/2108)|통계학|2023/2/10 15:41:39|[C](./02xxx/02108.c)|
 |[2163](https://www.acmicpc.net/problem/2163)|초콜릿 자르기|2023/2/15 00:17:30|[C](./02xxx/02163.c)|
@@ -83,6 +93,7 @@
 |[2292](https://www.acmicpc.net/problem/2292)|벌집|2020/8/22 12:38:53|[C](./02xxx/02292.c)|
 |[2309](https://www.acmicpc.net/problem/2309)|일곱 난쟁이|2020/8/31 15:27:49|[C](./02xxx/02309.c)|
 |[2355](https://www.acmicpc.net/problem/2355)|시그마|2023/3/24 01:14:24|[C](./02xxx/02355.c)|
+|[2399](https://www.acmicpc.net/problem/2399)|거리의 합|2023/7/8 19:49:40|[C](./02xxx/02399.c)|
 |[2420](https://www.acmicpc.net/problem/2420)|사파리월드|2023/2/11 17:51:15|[C](./02xxx/02420.c)|
 |[2438](https://www.acmicpc.net/problem/2438)|별 찍기 - 1|2019/4/20 11:40:50|[C](./02xxx/02438.c)|
 |[2439](https://www.acmicpc.net/problem/2439)|별 찍기 - 2|2019/8/31 14:40:39|[C](./02xxx/02439.c)|
@@ -96,6 +107,7 @@
 |[2447](https://www.acmicpc.net/problem/2447)|별 찍기 - 10|2019/11/3 14:36:38|[C](./02xxx/02447.c)|
 |[2448](https://www.acmicpc.net/problem/2448)|별 찍기 - 11|2023/7/2 12:16:16|[C](./02xxx/02448.c)|
 |[2455](https://www.acmicpc.net/problem/2455)|지능형 기차|2023/6/10 22:42:48|[C](./02xxx/02455.c)|
+|[2460](https://www.acmicpc.net/problem/2460)|지능형 기차 2|2023/7/6 21:09:12|[C](./02xxx/02460.c)|
 |[2475](https://www.acmicpc.net/problem/2475)|검증수|2019/12/14 18:00:22|[C](./02xxx/02475.c)|
 |[2480](https://www.acmicpc.net/problem/2480)|주사위 세개|2022/12/10 17:54:09|[C](./02xxx/02480.c)|
 |[2485](https://www.acmicpc.net/problem/2485)|가로수|2023/6/29 17:07:58|[C](./02xxx/02485.c)|
@@ -120,6 +132,7 @@
 |[2609](https://www.acmicpc.net/problem/2609)|최대공약수와 최소공배수|2019/12/14 18:08:12|[C](./02xxx/02609.c)|
 |[2667](https://www.acmicpc.net/problem/2667)|단지번호붙이기|2023/7/4 23:12:42|[C](./02xxx/02667.c)|
 |[2675](https://www.acmicpc.net/problem/2675)|문자열 반복|2019/9/15 12:17:55|[C](./02xxx/02675.c)|
+|[2702](https://www.acmicpc.net/problem/2702)|초6 수학|2023/7/8 18:44:39|[C](./02xxx/02702.c)|
 |[2720](https://www.acmicpc.net/problem/2720)|세탁소 사장 동혁|2023/6/9 15:36:26|[C](./02xxx/02720.c)|
 |[2738](https://www.acmicpc.net/problem/2738)|행렬 덧셈|2023/2/9 17:16:35|[C](./02xxx/02738.c)|
 |[2739](https://www.acmicpc.net/problem/2739)|구구단|2019/4/20 11:20:36|[C](./02xxx/02739.c)|
@@ -140,6 +153,7 @@
 |[2839](https://www.acmicpc.net/problem/2839)|설탕 배달|2020/4/21 21:35:30|[C](./02xxx/02839.c)|
 |[2845](https://www.acmicpc.net/problem/2845)|파티가 끝나고 난 뒤|2020/11/8 22:27:19|[C](./02xxx/02845.c)|
 |[2869](https://www.acmicpc.net/problem/2869)|달팽이는 올라가고 싶다|2020/8/22 13:08:51|[C](./02xxx/02869.c)|
+|[2875](https://www.acmicpc.net/problem/2875)|대회 or 인턴|2023/7/6 21:04:31|[C](./02xxx/02875.c)|
 |[2884](https://www.acmicpc.net/problem/2884)|알람 시계|2020/3/26 00:44:54|[C](./02xxx/02884.c)|
 |[2902](https://www.acmicpc.net/problem/2902)|KMP는 왜 KMP일까?|2023/6/30 21:49:07|[C](./02xxx/02902.c)|
 |[2903](https://www.acmicpc.net/problem/2903)|중앙 이동 알고리즘|2023/6/29 15:56:25|[C](./02xxx/02903.c)|
@@ -160,7 +174,9 @@
 |:---:|:---:|:---:|:---:|
 |[3003](https://www.acmicpc.net/problem/3003)|킹, 퀸, 룩, 비숍, 나이트, 폰|2022/12/10 17:45:15|[C](./03xxx/03003.c)|
 |[3009](https://www.acmicpc.net/problem/3009)|네 번째 점|2020/8/30 17:38:39|[C](./03xxx/03009.c)|
+|[3034](https://www.acmicpc.net/problem/3034)|앵그리 창영|2023/7/7 16:03:31|[C](./03xxx/03034.c)|
 |[3046](https://www.acmicpc.net/problem/3046)|R2|2020/11/8 19:25:52|[C](./03xxx/03046.c)|
+|[3047](https://www.acmicpc.net/problem/3047)|ABC|2023/7/8 19:46:15|[C](./03xxx/03047.c)|
 |[3052](https://www.acmicpc.net/problem/3052)|나머지|2019/9/14 18:38:27|[C](./03xxx/03052.c)|
 |[3053](https://www.acmicpc.net/problem/3053)|택시 기하학|2020/8/31 02:00:29|[C](./03xxx/03053.c)|
 
@@ -201,6 +217,7 @@
 |[5585](https://www.acmicpc.net/problem/5585)|거스름돈|2023/3/24 11:17:45|[C](./05xxx/05585.c)|
 |[5596](https://www.acmicpc.net/problem/5596)|시험 점수|2023/6/29 15:43:11|[C](./05xxx/05596.c)|
 |[5597](https://www.acmicpc.net/problem/5597)|과제 안 내신 분..?|2023/2/9 16:58:06|[C](./05xxx/05597.c)|
+|[5618](https://www.acmicpc.net/problem/5618)|공약수|2023/7/8 19:38:05|[C](./05xxx/05618.c)|
 |[5622](https://www.acmicpc.net/problem/5622)|다이얼|2019/12/15 18:19:18|[C](./05xxx/05622.c)|
 
 </details>
@@ -211,6 +228,8 @@
 
 |Problem|Title|Time Submitted|Source Code|
 |:---:|:---:|:---:|:---:|
+|[6322](https://www.acmicpc.net/problem/6322)|직각 삼각형의 두 변|2023/7/7 16:41:57|[C](./06xxx/06322.c)|
+|[6502](https://www.acmicpc.net/problem/6502)|동혁 피자|2023/7/7 16:27:26|[C](./06xxx/06502.c)|
 |[6588](https://www.acmicpc.net/problem/6588)||2023/7/4 00:18:00|[C](./06xxx/06588.c)|
 
 </details>
@@ -222,6 +241,7 @@
 |Problem|Title|Time Submitted|Source Code|
 |:---:|:---:|:---:|:---:|
 |[7287](https://www.acmicpc.net/problem/7287)|등록|2019/3/18 00:00:18|[C](./07xxx/07287.c)|
+|[7510](https://www.acmicpc.net/problem/7510)|고급 수학|2023/7/7 16:11:03|[C](./07xxx/07510.c)|
 |[7567](https://www.acmicpc.net/problem/7567)|그릇|2019/12/14 20:00:53|[C](./07xxx/07567.c)|
 |[7568](https://www.acmicpc.net/problem/7568)|덩치|2020/8/22 14:46:01|[C](./07xxx/07568.c)|
 
@@ -257,6 +277,13 @@
 |[9506](https://www.acmicpc.net/problem/9506)|약수들의 합|2023/3/23 15:31:18|[C](./09xxx/09506.c)|
 |[9653](https://www.acmicpc.net/problem/9653)|스타워즈 로고|2020/11/8 21:56:21|[C](./09xxx/09653.c)|
 |[9654](https://www.acmicpc.net/problem/9654)|나부 함대 데이터|2020/11/8 22:17:01|[C](./09xxx/09654.c)|
+|[9655](https://www.acmicpc.net/problem/9655)|돌 게임|2023/7/5 16:21:39|[C](./09xxx/09655.c)|
+|[9656](https://www.acmicpc.net/problem/9656)|돌 게임 2|2023/7/5 16:24:03|[C](./09xxx/09656.c)|
+|[9657](https://www.acmicpc.net/problem/9657)|돌 게임 3|2023/7/5 16:31:38|[C](./09xxx/09657.c)|
+|[9658](https://www.acmicpc.net/problem/9658)|돌 게임 4|2023/7/5 16:36:30|[C](./09xxx/09658.c)|
+|[9659](https://www.acmicpc.net/problem/9659)|돌 게임 5|2023/7/5 16:39:23|[C](./09xxx/09659.c)|
+|[9660](https://www.acmicpc.net/problem/9660)|돌 게임 6|2023/7/5 16:41:48|[C](./09xxx/09660.c)|
+|[9661](https://www.acmicpc.net/problem/9661)|돌 게임 7|2023/7/5 17:42:47|[C](./09xxx/09661.c)|
 |[9663](https://www.acmicpc.net/problem/9663)|N-Queen|2023/6/30 22:39:07|[C](./09xxx/09663.c)|
 
 </details>
@@ -275,6 +302,7 @@
 |[10171](https://www.acmicpc.net/problem/10171)|고양이|2019/9/14 01:38:33|[C](./10xxx/10171.c)|
 |[10172](https://www.acmicpc.net/problem/10172)|개|2019/9/14 01:36:57|[C](./10xxx/10172.c)|
 |[10250](https://www.acmicpc.net/problem/10250)|ACM 호텔|2019/9/14 18:08:20|[C](./10xxx/10250.c)|
+|[10386](https://www.acmicpc.net/problem/10386)|\(\text{Con}+\cfrac{\text{tin}}{\text{ued}+\cfrac{\text{Frac}}{\text{tions}}}\)|2023/7/6 22:42:35|[C](./10xxx/10386.c)|
 |[10430](https://www.acmicpc.net/problem/10430)|나머지|2019/3/24 21:38:30|[C](./10xxx/10430.c)|
 |[10699](https://www.acmicpc.net/problem/10699)|오늘 날짜|2019/12/14 19:43:09|[C](./10xxx/10699.c)|
 |[10718](https://www.acmicpc.net/problem/10718)|We love kriii|2019/3/18 22:43:04|[C](./10xxx/10718.c)|
@@ -293,6 +321,7 @@
 |[10815](https://www.acmicpc.net/problem/10815)|숫자 카드|2023/6/28 17:57:51|[C](./10xxx/10815.c)|
 |[10817](https://www.acmicpc.net/problem/10817)|세 수|2019/9/14 00:06:11|[C](./10xxx/10817.c)|
 |[10818](https://www.acmicpc.net/problem/10818)|최소, 최대|2019/9/5 22:25:07|[C](./10xxx/10818.c)|
+|[10822](https://www.acmicpc.net/problem/10822)|더하기|2023/7/5 18:05:57|[C](./10xxx/10822.c)|
 |[10824](https://www.acmicpc.net/problem/10824)|네 수|2023/6/30 22:24:07|[C](./10xxx/10824.c)|
 |[10828](https://www.acmicpc.net/problem/10828)|스택|2020/10/11 15:25:13|[C](./10xxx/10828.c)|
 |[10830](https://www.acmicpc.net/problem/10830)|행렬 제곱|2023/6/8 18:58:19|[C](./10xxx/10830.c)|
@@ -330,6 +359,7 @@
 |[11021](https://www.acmicpc.net/problem/11021)|A+B - 7|2019/9/6 00:08:36|[C](./11xxx/11021.c)|
 |[11022](https://www.acmicpc.net/problem/11022)|A+B - 8|2019/9/6 00:46:14|[C](./11xxx/11022.c)|
 |[11047](https://www.acmicpc.net/problem/11047)|동전 0|2023/5/9 17:21:31|[C](./11xxx/11047.c)|
+|[11048](https://www.acmicpc.net/problem/11048)|이동하기|2023/7/8 15:26:03|[C](./11xxx/11048.c)|
 |[11050](https://www.acmicpc.net/problem/11050)|이항 계수 1|2023/2/10 22:14:41|[C](./11xxx/11050.c)|
 |[11051](https://www.acmicpc.net/problem/11051)|이항 계수 2|2023/6/27 10:02:29|[C](./11xxx/11051.c)|
 |[11382](https://www.acmicpc.net/problem/11382)|꼬마 정민|2023/2/11 17:48:01|[C](./11xxx/11382.c)|
@@ -345,10 +375,13 @@
 |[11719](https://www.acmicpc.net/problem/11719)|그대로 출력하기 2|2020/9/15 01:59:00|[C](./11xxx/11719.c)|
 |[11720](https://www.acmicpc.net/problem/11720)|숫자의 합|2019/9/7 20:56:40|[C](./11xxx/11720.c)|
 |[11721](https://www.acmicpc.net/problem/11721)|열 개씩 끊어 출력하기|2023/2/10 22:01:44|[C](./11xxx/11721.c)|
+|[11723](https://www.acmicpc.net/problem/11723)|집합|2023/7/8 14:48:09|[C](./11xxx/11723.c)|
 |[11726](https://www.acmicpc.net/problem/11726)|2×n 타일링|2023/7/1 14:58:39|[C](./11xxx/11726.c)|
 |[11727](https://www.acmicpc.net/problem/11727)|2×n 타일링 2|2023/7/1 15:59:48|[C](./11xxx/11727.c)|
+|[11728](https://www.acmicpc.net/problem/11728)|배열 합치기|2023/7/8 15:08:06|[C](./11xxx/11728.c)|
 |[11729](https://www.acmicpc.net/problem/11729)|하노이 탑 이동 순서|2019/11/3 14:43:54|[C](./11xxx/11729.c)|
 |[11758](https://www.acmicpc.net/problem/11758)|CCW|2023/3/21 17:27:32|[C](./11xxx/11758.c)|
+|[11816](https://www.acmicpc.net/problem/11816)|8진수, 10진수, 16진수|2023/7/8 18:41:24|[C](./11xxx/11816.c)|
 |[11931](https://www.acmicpc.net/problem/11931)|수 정렬하기 4|2023/7/4 22:42:05|[C](./11xxx/11931.c)|
 |[11942](https://www.acmicpc.net/problem/11942)|고려대는 사랑입니다|2020/11/8 19:32:07|[C](./11xxx/11942.c)|
 
@@ -376,11 +409,13 @@
 |Problem|Title|Time Submitted|Source Code|
 |:---:|:---:|:---:|:---:|
 |[14215](https://www.acmicpc.net/problem/14215)|세 막대|2023/3/21 00:39:15|[C](./14xxx/14215.c)|
+|[14467](https://www.acmicpc.net/problem/14467)|소가 길을 건너간 이유 1|2023/7/8 16:49:28|[C](./14xxx/14467.c)|
 |[14502](https://www.acmicpc.net/problem/14502)|연구소|2023/6/9 15:58:01|[C](./14xxx/14502.c)|
 |[14581](https://www.acmicpc.net/problem/14581)|팬들에게 둘러싸인 홍준|2023/6/27 10:34:11|[C](./14xxx/14581.c)|
 |[14645](https://www.acmicpc.net/problem/14645)|와이버스 부릉부릉|2023/3/16 00:04:14|[C](./14xxx/14645.c)|
 |[14652](https://www.acmicpc.net/problem/14652)|나는 행복합니다~|2023/6/27 10:22:55|[C](./14xxx/14652.c)|
 |[14681](https://www.acmicpc.net/problem/14681)|사분면 고르기|2020/3/26 00:52:14|[C](./14xxx/14681.c)|
+|[14786](https://www.acmicpc.net/problem/14786)|Ax+Bsin(x)=C ②|2023/7/5 19:43:40|[C](./14xxx/14786.c)|
 
 </details>
 
@@ -393,6 +428,7 @@
 |[15439](https://www.acmicpc.net/problem/15439)|베라의 패션|2023/7/2 22:30:04|[C](./15xxx/15439.c)|
 |[15552](https://www.acmicpc.net/problem/15552)|빠른 A+B|2019/8/31 14:30:02|[C](./15xxx/15552.c)|
 |[15596](https://www.acmicpc.net/problem/15596)|정수 N개의 합|2019/8/23 00:24:13|[C](./15xxx/15596.c)|
+|[15624](https://www.acmicpc.net/problem/15624)|피보나치 수 7|2023/7/5 16:15:17|[C](./15xxx/15624.c)|
 |[15649](https://www.acmicpc.net/problem/15649)|N과 M (1)|2023/6/29 19:18:13|[C](./15xxx/15649.c)|
 |[15650](https://www.acmicpc.net/problem/15650)|N과 M (2)|2023/7/1 15:13:23|[C](./15xxx/15650.c)|
 |[15651](https://www.acmicpc.net/problem/15651)|N과 M (3)|2023/7/3 16:23:06|[C](./15xxx/15651.c)|
@@ -421,8 +457,11 @@
 |Problem|Title|Time Submitted|Source Code|
 |:---:|:---:|:---:|:---:|
 |[16170](https://www.acmicpc.net/problem/16170)|오늘의 날짜는?|2023/6/27 10:18:47|[C](./16xxx/16170.c)|
+|[16212](https://www.acmicpc.net/problem/16212)|정열적인 정렬|2023/7/8 19:40:48|[C](./16xxx/16212.c)|
 |[16394](https://www.acmicpc.net/problem/16394)|홍익대학교|2023/6/27 00:57:35|[C](./16xxx/16394.c)|
 |[16430](https://www.acmicpc.net/problem/16430)|제리와 톰|2023/6/27 10:15:00|[C](./16xxx/16430.c)|
+|[16479](https://www.acmicpc.net/problem/16479)|컵라면 측정하기|2023/7/7 16:55:56|[C](./16xxx/16479.c)|
+|[16483](https://www.acmicpc.net/problem/16483)|접시 안의 원|2023/7/7 17:00:46|[C](./16xxx/16483.c)|
 
 </details>
 
@@ -432,8 +471,11 @@
 
 |Problem|Title|Time Submitted|Source Code|
 |:---:|:---:|:---:|:---:|
+|[17009](https://www.acmicpc.net/problem/17009)||2023/7/8 18:47:37|[C](./17xxx/17009.c)|
 |[17103](https://www.acmicpc.net/problem/17103)|골드바흐 파티션|2023/6/29 17:40:27|[C](./17xxx/17103.c)|
 |[17256](https://www.acmicpc.net/problem/17256)|달달함이 넘쳐흘러|2023/6/27 10:31:37|[C](./17xxx/17256.c)|
+|[17386](https://www.acmicpc.net/problem/17386)|선분 교차 1|2023/7/8 22:46:37|[C](./17xxx/17386.c)|
+|[17387](https://www.acmicpc.net/problem/17387)|선분 교차 2|2023/7/8 23:12:06|[C](./17xxx/17387.c)|
 |[17425](https://www.acmicpc.net/problem/17425)|약수의 합|2023/6/28 18:56:17|[C](./17xxx/17425.c)|
 |[17478](https://www.acmicpc.net/problem/17478)|재귀함수가 뭔가요?|2023/7/1 16:42:40|[C](./17xxx/17478.c)|
 |[17608](https://www.acmicpc.net/problem/17608)|막대기|2023/3/24 11:22:23|[C](./17xxx/17608.c)|
@@ -450,6 +492,7 @@
 |:---:|:---:|:---:|:---:|
 |[18108](https://www.acmicpc.net/problem/18108)|1998년생인 내가 태국에서는 2541년생?!|2022/12/10 17:19:26|[C](./18xxx/18108.c)|
 |[18301](https://www.acmicpc.net/problem/18301)|Rats|2023/6/28 15:45:06|[C](./18xxx/18301.c)|
+|[18795](https://www.acmicpc.net/problem/18795)|이동하기 3|2023/7/8 15:31:11|[C](./18xxx/18795.c)|
 |[18870](https://www.acmicpc.net/problem/18870)|좌표 압축|2023/6/29 16:42:52|[C](./18xxx/18870.c)|
 
 </details>
@@ -482,6 +525,16 @@
 |Problem|Title|Time Submitted|Source Code|
 |:---:|:---:|:---:|:---:|
 |[21736](https://www.acmicpc.net/problem/21736)|헌내기는 친구가 필요해|2023/7/4 23:22:51|[C](./21xxx/21736.c)|
+
+</details>
+
+<details>
+
+<summary>22xxx</summary>
+
+|Problem|Title|Time Submitted|Source Code|
+|:---:|:---:|:---:|:---:|
+|[22938](https://www.acmicpc.net/problem/22938)|백발백준하는 명사수|2023/7/7 16:51:04|[C](./22xxx/22938.c)|
 
 </details>
 
