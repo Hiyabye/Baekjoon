@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+void solve(void) {
+  int a, b, c; cin >> a >> b >> c;
+
+  cout << 3 * b * c / a;
+}
+
+int main(void) {
+  ios::sync_with_stdio(false);
+  cin.tie(NULL); cout.tie(NULL);
+
+  solve();
+  return 0;
+}
