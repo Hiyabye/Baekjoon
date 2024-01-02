@@ -1,4 +1,8 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <utility>
+#include <map>
+#include <vector>
+#include <algorithm>
 using namespace std;
 
 bool cmp(pair<int, pair<int, int> > &a, pair<int, pair<int, int> > &b) {

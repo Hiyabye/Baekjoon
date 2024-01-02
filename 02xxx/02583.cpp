@@ -1,5 +1,6 @@
-#include <bits/stdc++.h>
-
+#include <iostream>
+#include <vector>
+#include <algorithm>
 using namespace std;
 
 int check(vector<vector<bool> > &board, int x, int y) {

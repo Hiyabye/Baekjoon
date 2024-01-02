@@ -1,5 +1,7 @@
-#include <bits/stdc++.h>
-
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
 using namespace std;
 
 int dist(int a, int b, int c) {

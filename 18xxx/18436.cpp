@@ -1,4 +1,7 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <utility>
+#include <cmath>
 using namespace std;
 
 template <typename T>

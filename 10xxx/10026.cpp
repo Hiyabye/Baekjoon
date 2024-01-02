@@ -1,5 +1,7 @@
-#include <bits/stdc++.h>
-
+#include <iostream>
+#include <vector>
+#include <utility>
+#include <queue>
 using namespace std;
 
 void process(vector<vector<char> > &a, int n, pair<int, int> c) {

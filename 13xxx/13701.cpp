@@ -1,5 +1,5 @@
-#include <bits/stdc++.h>
-
+#include <iostream>
+#include <bitset>
 using namespace std;
 
 bitset<33554432> b;

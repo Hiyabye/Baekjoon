@@ -1,5 +1,6 @@
-#include <bits/stdc++.h>
-
+#include <iostream>
+#include <string>
+#include <list>
 using namespace std;
 
 void solve(void) {

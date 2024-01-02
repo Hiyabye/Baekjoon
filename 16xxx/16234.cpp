@@ -1,5 +1,7 @@
-#include <bits/stdc++.h>
-
+#include <iostream>
+#include <utility>
+#include <vector>
+#include <cmath>
 using namespace std;
 
 int n, l, r;

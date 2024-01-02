@@ -1,4 +1,5 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std;
 
 vector<vector<int> > dp(1<<15, vector<int>(5, 0));

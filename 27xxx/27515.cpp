@@ -1,4 +1,7 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <cmath>
+#include <algorithm>
 using namespace std;
 
 long long process(vector<long long> &a) {

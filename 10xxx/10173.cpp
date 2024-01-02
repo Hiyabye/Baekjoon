@@ -1,4 +1,6 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <string>
+#include <cctype>
 using namespace std;
 
 bool solve(void) {

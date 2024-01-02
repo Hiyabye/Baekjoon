@@ -1,4 +1,9 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <cmath>
+#include <vector>
+#include <map>
+#include <string>
+#include <algorithm>
 using namespace std;
 
 typedef struct Team {

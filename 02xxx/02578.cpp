@@ -1,4 +1,6 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <utility>
+#include <vector>
 using namespace std;
 
 pair<int, int> find(vector<vector<int> > &a, int x) {

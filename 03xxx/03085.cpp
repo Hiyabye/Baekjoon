@@ -1,4 +1,7 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <string>
 using namespace std;
 
 int check(int n, int x, int y, vector<vector<char> > &a) {

@@ -1,4 +1,7 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <set>
+#include <utility>
+#include <cmath>
 using namespace std;
 
 int gcd(int a, int b) {

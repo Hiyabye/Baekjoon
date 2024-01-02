@@ -1,4 +1,7 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <climits>
+#include <vector>
+#include <algorithm>
 using namespace std;
 
 int n, ans_min = INT_MAX, ans_max = INT_MIN;

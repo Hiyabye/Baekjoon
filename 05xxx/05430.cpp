@@ -1,4 +1,6 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <string>
+#include <deque>
 using namespace std;
 
 void solve(void) {

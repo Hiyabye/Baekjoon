@@ -1,5 +1,7 @@
-#include <bits/stdc++.h>
-
+#include <iostream>
+#include <deque>
+#include <vector>
+#include <algorithm>
 using namespace std;
 
 void solve(void) {

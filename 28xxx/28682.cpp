@@ -1,4 +1,7 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <cstdlib>
+#include <string>
 using namespace std;
 
 void solve(void) {

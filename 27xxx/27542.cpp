@@ -1,4 +1,6 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <cmath>
 using namespace std;
 
 void solve(void) {

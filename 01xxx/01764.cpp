@@ -1,5 +1,8 @@
-#include <bits/stdc++.h>
-
+#include <iostream>
+#include <map>
+#include <string>
+#include <vector>
+#include <algorithm>
 using namespace std;
 
 void solve(void) {

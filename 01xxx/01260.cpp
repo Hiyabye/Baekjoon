@@ -1,5 +1,6 @@
-#include <bits/stdc++.h>
-
+#include <iostream>
+#include <vector>
+#include <queue>
 using namespace std;
 
 void dfs(vector<vector<bool> > &p, vector<bool> &visited, int cur) {

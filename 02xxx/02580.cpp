@@ -1,5 +1,6 @@
-#include <bits/stdc++.h>
-
+#include <iostream>
+#include <vector>
+#include <utility>
 using namespace std;
 
 vector<vector<int> > board(9, vector<int>(9));

@@ -1,5 +1,7 @@
-#include <bits/stdc++.h>
-
+#include <iostream>
+#include <queue>
+#include <vector>
+#include <functional>
 using namespace std;
 
 void solve(void) {

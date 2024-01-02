@@ -1,5 +1,7 @@
-#include <bits/stdc++.h>
-
+#include <iostream>
+#include <vector>
+#include <utility>
+#include <queue>
 using namespace std;
 
 void bfs(vector<vector<bool> > &a, pair<int, int> c) {

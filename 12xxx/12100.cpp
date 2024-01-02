@@ -1,5 +1,6 @@
-#include <bits/stdc++.h>
-
+#include <iostream>
+#include <vector>
+#include <algorithm>
 using namespace std;
 
 vector<vector<int> > up(int n, vector<vector<int> > a) {
