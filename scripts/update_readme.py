@@ -1,4 +1,4 @@
-# scripts/readme.py
+# scripts/update_readme.py
 # README.md 파일을 자동으로 업데이트 해주는 스크립트
 
 import requests
@@ -60,7 +60,7 @@ def getSolutionPath(id):
   # 디렉토리
   if (id < 10000):
     id = f"0{id}"
-  dir = f"../{str(id)[:2]}xxx"
+  dir = f"{str(id)[:2]}xxx"
 
   # 파일 찾기
   files = glob.glob(f"{dir}/{id}.*")
@@ -69,7 +69,6 @@ def getSolutionPath(id):
     exit(1)
   solution = ""
   for file in files:
-    file = file[3:]
     if file.endswith(".c"):
       solution += f"[C99]({file}) "
     elif file.endswith(".cpp"):
@@ -90,7 +89,7 @@ def getHeader():
   header = "# Baekjoon\n\n"
   header += "백준 알고리즘 문제 풀이 기록\n\n"
   header += "[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)\n\n"
-  header += "주로 C/C++로 해결하였으며, 가끔 Python으로도 문제를 풀었습니다. 목록은 다음과 같습니다:\n\n"
+  header += "문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:\n\n"
   header += "마지막으로 업데이트: "
   header += datetime.now(timezone(timedelta(hours=9))).strftime("%Y-%m-%d %H:%M:%S")
   header += " (KST)\n\n"
@@ -110,6 +109,6 @@ def getTable():
 
 # 메인 함수
 if __name__ == "__main__":
-  with open("../README.md", "w") as f:
+  with open("README.md", "w") as f:
     f.write(getHeader() + getTable())
-  print("README.md updated")
+  print("README.md updated without errors")

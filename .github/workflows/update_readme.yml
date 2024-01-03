@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 */12 * * *'
 
 jobs:
   update-readme:
@@ -22,7 +22,7 @@ jobs:
           pip install requests datetime
 
       - name: Run script
-        run: python scripts/readme.py
+        run: python scripts/update_readme.py
 
       - name: Commit and push if it changed
         run: |
