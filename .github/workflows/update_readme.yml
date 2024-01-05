@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
@@ -18,15 +18,18 @@ jobs:
 
       - name: Install dependencies
         run: |
+          sudo apt-get install -y patchutils
           python -m pip install --upgrade pip
           pip install requests datetime
 
       - name: Run script
         run: python scripts/update_readme.py
+      
+      - name: Check for changes
+        run: git diff --quiet | filterdiff -x '*:9' --exit-code && exit 0
 
       - name: Commit and push if it changed
         run: |
-          git diff --exit-code && exit 0
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git commit -am "Update README.md" || exit 0

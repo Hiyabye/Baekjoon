@@ -42,6 +42,11 @@ def getProblems():
 def getProblemURL(id):
   return f"https://www.acmicpc.net/problem/{id}"
 
+# 문제 제목의 특수문자를 처리하여 반환
+def getProblemTitle(title):
+  title = title.replace("|", "\\|") # 17203번: ∑|ΔEasyMAX|
+  return title
+
 # 문제 난이도를 입력받아 문제 티어를 반환
 def getProblemTier(level):
   tier = {
@@ -62,6 +67,18 @@ def getSolutionPath(id):
     id = f"0{id}"
   dir = f"{str(id)[:2]}xxx"
 
+  # 파일 확장자
+  ext = {
+    ".ads": "Ada",
+    ".bas": "FreeBasic",
+    ".c"  : "C99",
+    ".cpp": "C++17",
+    ".gs" : "GolfScript",
+    ".py" : "Python 3",
+    ".txt": "Text",
+    ".vb" : "Visual Basic .NET"
+  }
+
   # 파일 찾기
   files = glob.glob(f"{dir}/{id}.*")
   if len(files) == 0:
@@ -69,25 +86,7 @@ def getSolutionPath(id):
     exit(1)
   solution = ""
   for file in files:
-    if file.endswith(".c"):
-      solution += f"[C99]({file}) "
-    elif file.endswith(".cpp"):
-      solution += f"[C++17]({file}) "
-    elif file.endswith(".py"):
-      solution += f"[Python 3]({file}) "
-    elif file.endswith(".txt"):
-      solution += f"[Text]({file}) "
-    elif file.endswith(".gs"):
-      solution += f"[GolfScript]({file}) "
-    elif file.endswith(".bas"):
-      solution += f"[FreeBASIC]({file}) "
-    elif file.endswith(".ads"):
-      solution += f"[Ada]({file}) "
-    elif file.endswith(".vb"):
-      solution += f"[Visual Basic]({file}) "
-    else:
-      print(f"Unknown file type: {file}")
-      exit(1)
+    solution += f"[{ext[file[file.rfind('.'):]]}]({file}) "
   return solution
 
 # README.md 헤더를 반환
@@ -104,10 +103,11 @@ def getHeader():
 # README.md 테이블을 반환
 def getTable():
   problems = getProblems()
-  table = "| # | 제목 | 난이도 | 솔루션 |\n"
+  table = "| # | 제목 | 레벨 | 솔루션 |\n"
   table += "|:---:|:---:|:---:|:---:|\n"
   for (id, title, level) in problems:
     url = getProblemURL(id)
+    title = getProblemTitle(title)
     tier = getProblemTier(level)
     path = getSolutionPath(id)
     table += f"| [{id}]({url}) | {title} | {tier} | {path}|\n"
