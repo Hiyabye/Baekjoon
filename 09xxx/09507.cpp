@@ -22,7 +22,7 @@ void solve(vector<long long> &v) {
 
 int main(void) {
   ios::sync_with_stdio(false);
-  cin.tie(NULL); cout.tie(NULL);
+  cin.tie(nullptr); cout.tie(nullptr);
 
   vector<long long> v = precompute();
   int t; cin >> t;

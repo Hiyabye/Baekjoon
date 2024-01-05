@@ -25,7 +25,7 @@ bool solve(int idx) {
 
 int main(void) {
   ios::sync_with_stdio(false);
-  cin.tie(NULL); cout.tie(NULL);
+  cin.tie(nullptr); cout.tie(nullptr);
 
   int idx = 1;
   while (solve(idx++));

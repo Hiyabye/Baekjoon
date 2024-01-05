@@ -49,7 +49,7 @@ void solve(vector<vector<char> > &v) {
 
 int main(void) {
   ios::sync_with_stdio(false);
-  cin.tie(NULL); cout.tie(NULL);
+  cin.tie(nullptr); cout.tie(nullptr);
 
   vector<vector<char> > v = precompute();
   solve(v);
