@@ -79,6 +79,12 @@ def getSolutionPath(id):
       solution += f"[Text]({file}) "
     elif file.endswith(".gs"):
       solution += f"[GolfScript]({file}) "
+    elif file.endswith(".bas"):
+      solution += f"[FreeBASIC]({file}) "
+    elif file.endswith(".ads"):
+      solution += f"[Ada]({file}) "
+    elif file.endswith(".vb"):
+      solution += f"[Visual Basic]({file}) "
     else:
       print(f"Unknown file type: {file}")
       exit(1)
