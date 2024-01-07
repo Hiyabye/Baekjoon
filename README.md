@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-01-07 09:36:39 (KST)
+마지막으로 업데이트: 2024-01-07 21:11:17 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -57,6 +57,7 @@
 | [1157](https://www.acmicpc.net/problem/1157) | 단어 공부 | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="25" height="25"> | [C99](01xxx/01157.c) |
 | [1158](https://www.acmicpc.net/problem/1158) | 요세푸스 문제 | <img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25" height="25"> | [C99](01xxx/01158.c) |
 | [1159](https://www.acmicpc.net/problem/1159) | 농구 경기 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C99](01xxx/01159.c) |
+| [1173](https://www.acmicpc.net/problem/1173) | 운동 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C++17](01xxx/01173.cpp) |
 | [1181](https://www.acmicpc.net/problem/1181) | 단어 정렬 | <img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="25" height="25"> | [C99](01xxx/01181.c) |
 | [1182](https://www.acmicpc.net/problem/1182) | 부분수열의 합 | <img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="25" height="25"> | [C99](01xxx/01182.c) |
 | [1193](https://www.acmicpc.net/problem/1193) | 분수찾기 | <img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="25" height="25"> | [C99](01xxx/01193.c) |
