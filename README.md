@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-01-06 21:11:14 (KST)
+마지막으로 업데이트: 2024-01-07 09:36:39 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -885,6 +885,7 @@
 | [14652](https://www.acmicpc.net/problem/14652) | 나는 행복합니다~ | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C99](14xxx/14652.c) |
 | [14656](https://www.acmicpc.net/problem/14656) | 조교는 새디스트야!! | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="25" height="25"> | [C++17](14xxx/14656.cpp) |
 | [14681](https://www.acmicpc.net/problem/14681) | 사분면 고르기 | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [C99](14xxx/14681.c) |
+| [14696](https://www.acmicpc.net/problem/14696) | 딱지놀이 | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="25" height="25"> | [C++17](14xxx/14696.cpp) |
 | [14697](https://www.acmicpc.net/problem/14697) | 방 배정하기 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C++17](14xxx/14697.cpp) |
 | [14720](https://www.acmicpc.net/problem/14720) | 우유 축제 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="25" height="25"> | [C++17](14xxx/14720.cpp) |
 | [14730](https://www.acmicpc.net/problem/14730) | 謎紛芥索紀 (Small) | <img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="25" height="25"> | [C++17](14xxx/14730.cpp) |
