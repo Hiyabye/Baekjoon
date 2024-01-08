@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-01-08 09:34:22 (KST)
+마지막으로 업데이트: 2024-01-08 21:12:24 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -805,7 +805,7 @@
 | [11945](https://www.acmicpc.net/problem/11945) | 뜨거운 붕어빵 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](11xxx/11945.cpp) |
 | [11948](https://www.acmicpc.net/problem/11948) | 과목선택 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](11xxx/11948.cpp) |
 | [11966](https://www.acmicpc.net/problem/11966) | 2의 제곱인가? | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="25" height="25"> | [C++17](11xxx/11966.cpp) |
-| [11985](https://www.acmicpc.net/problem/11985) | 오렌지 출하 | <img src="https://static.solved.ac/tier_small/11.svg" alt="Gold V" width="25" height="25"> | [C++17](11xxx/11985.cpp) |
+| [11985](https://www.acmicpc.net/problem/11985) | 오렌지 출하 | <img src="https://static.solved.ac/tier_small/12.svg" alt="Gold IV" width="25" height="25"> | [C++17](11xxx/11985.cpp) |
 | [12015](https://www.acmicpc.net/problem/12015) | 가장 긴 증가하는 부분 수열 2 | <img src="https://static.solved.ac/tier_small/14.svg" alt="Gold II" width="25" height="25"> | [C99](12xxx/12015.c) |
 | [12018](https://www.acmicpc.net/problem/12018) | Yonsei TOTO | <img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25" height="25"> | [C++17](12xxx/12018.cpp) |
 | [12040](https://www.acmicpc.net/problem/12040) | Password Security (Small1) | <img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25" height="25"> | [C++17](12xxx/12040.cpp) |
@@ -1132,6 +1132,7 @@
 | [25372](https://www.acmicpc.net/problem/25372) | 성택이의 은밀한 비밀번호 | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [C99](25xxx/25372.c) |
 | [25377](https://www.acmicpc.net/problem/25377) | 빵 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C99](25xxx/25377.c) |
 | [25501](https://www.acmicpc.net/problem/25501) | 재귀의 귀재 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C99](25xxx/25501.c) |
+| [25628](https://www.acmicpc.net/problem/25628) | 햄버거 만들기 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](25xxx/25628.cpp) |
 | [25821](https://www.acmicpc.net/problem/25821) | Palindromic Primes | <img src="https://static.solved.ac/tier_small/17.svg" alt="Platinum IV" width="25" height="25"> | [C++17](25xxx/25821.cpp) |
 | [26069](https://www.acmicpc.net/problem/26069) | 붙임성 좋은 총총이 | <img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25" height="25"> | [C++17](26xxx/26069.cpp) |
 | [26082](https://www.acmicpc.net/problem/26082) | WARBOY | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [C++17](26xxx/26082.cpp) |
