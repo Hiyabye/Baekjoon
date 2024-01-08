@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-01-07 21:11:17 (KST)
+마지막으로 업데이트: 2024-01-08 09:34:22 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -1004,6 +1004,7 @@
 | [17388](https://www.acmicpc.net/problem/17388) | 와글와글 숭고한 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](17xxx/17388.cpp) |
 | [17401](https://www.acmicpc.net/problem/17401) | 일하는 세포 | <img src="https://static.solved.ac/tier_small/16.svg" alt="Platinum V" width="25" height="25"> | [C++17](17xxx/17401.cpp) |
 | [17404](https://www.acmicpc.net/problem/17404) | RGB거리 2 | <img src="https://static.solved.ac/tier_small/12.svg" alt="Gold IV" width="25" height="25"> | [C99](17xxx/17404.c) |
+| [17419](https://www.acmicpc.net/problem/17419) | 비트가 넘쳐흘러 | <img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25" height="25"> | [C++17](17xxx/17419.cpp) |
 | [17425](https://www.acmicpc.net/problem/17425) | 약수의 합 | <img src="https://static.solved.ac/tier_small/12.svg" alt="Gold IV" width="25" height="25"> | [C99](17xxx/17425.c) |
 | [17427](https://www.acmicpc.net/problem/17427) | 약수의 합 2 | <img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="25" height="25"> | [C++17](17xxx/17427.cpp) |
 | [17466](https://www.acmicpc.net/problem/17466) | N! mod P (1) | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C++17](17xxx/17466.cpp) |
