@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-01-09 09:33:43 (KST)
+마지막으로 업데이트: 2024-01-09 21:13:24 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -506,6 +506,7 @@
 | [5789](https://www.acmicpc.net/problem/5789) | 한다 안한다 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="25" height="25"> | [C++17](05xxx/05789.cpp) |
 | [5800](https://www.acmicpc.net/problem/5800) | 성적 통계 | <img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="25" height="25"> | [C++17](05xxx/05800.cpp) |
 | [5893](https://www.acmicpc.net/problem/5893) | 17배 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="25" height="25"> | [C++17](05xxx/05893.cpp) |
+| [5928](https://www.acmicpc.net/problem/5928) | Contest Timing | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](05xxx/05928.cpp) |
 | [5988](https://www.acmicpc.net/problem/5988) | 홀수일까 짝수일까 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="25" height="25"> | [Python 3](05xxx/05988.py) |
 | [6064](https://www.acmicpc.net/problem/6064) | 카잉 달력 | <img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="25" height="25"> | [C++17](06xxx/06064.cpp) |
 | [6092](https://www.acmicpc.net/problem/6092) | Strange Towers of Hanoi | <img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25" height="25"> | [C++17](06xxx/06092.cpp) |
