@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-01-10 09:33:49 (KST)
+마지막으로 업데이트: 2024-01-10 21:13:18 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -1134,6 +1134,7 @@
 | [25377](https://www.acmicpc.net/problem/25377) | 빵 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C99](25xxx/25377.c) |
 | [25501](https://www.acmicpc.net/problem/25501) | 재귀의 귀재 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C99](25xxx/25501.c) |
 | [25628](https://www.acmicpc.net/problem/25628) | 햄버거 만들기 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](25xxx/25628.cpp) |
+| [25640](https://www.acmicpc.net/problem/25640) | MBTI | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](25xxx/25640.cpp) |
 | [25821](https://www.acmicpc.net/problem/25821) | Palindromic Primes | <img src="https://static.solved.ac/tier_small/17.svg" alt="Platinum IV" width="25" height="25"> | [C++17](25xxx/25821.cpp) |
 | [26069](https://www.acmicpc.net/problem/26069) | 붙임성 좋은 총총이 | <img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25" height="25"> | [C++17](26xxx/26069.cpp) |
 | [26082](https://www.acmicpc.net/problem/26082) | WARBOY | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [C++17](26xxx/26082.cpp) |
