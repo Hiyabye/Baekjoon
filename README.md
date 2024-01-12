@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-01-11 21:12:19 (KST)
+마지막으로 업데이트: 2024-01-12 21:12:12 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -1031,6 +1031,7 @@
 | [18382](https://www.acmicpc.net/problem/18382) | 2048 | <img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="25" height="25"> | [C++17](18xxx/18382.cpp) |
 | [18398](https://www.acmicpc.net/problem/18398) | HOMWRK | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](18xxx/18398.cpp) |
 | [18406](https://www.acmicpc.net/problem/18406) | 럭키 스트레이트 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C++17](18xxx/18406.cpp) |
+| [18408](https://www.acmicpc.net/problem/18408) | 3 つの整数 (Three Integers) | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](18xxx/18408.cpp) |
 | [18409](https://www.acmicpc.net/problem/18409) | 母音を数える (Counting Vowels) | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [C++17](18xxx/18409.cpp) |
 | [18436](https://www.acmicpc.net/problem/18436) | 수열과 쿼리 37 | <img src="https://static.solved.ac/tier_small/15.svg" alt="Gold I" width="25" height="25"> | [C++17](18xxx/18436.cpp) |
 | [18795](https://www.acmicpc.net/problem/18795) | 이동하기 3 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C99](18xxx/18795.c) |
@@ -1065,6 +1066,7 @@
 | [21612](https://www.acmicpc.net/problem/21612) | Boiling Water | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](21xxx/21612.cpp) |
 | [21736](https://www.acmicpc.net/problem/21736) | 헌내기는 친구가 필요해 | <img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="25" height="25"> | [C99](21xxx/21736.c) |
 | [21919](https://www.acmicpc.net/problem/21919) | 소수 최소 공배수 | <img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25" height="25"> | [C++17](21xxx/21919.cpp) |
+| [21964](https://www.acmicpc.net/problem/21964) | 선린인터넷고등학교 교가 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](21xxx/21964.cpp) |
 | [22193](https://www.acmicpc.net/problem/22193) | Multiply | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [Python 3](22xxx/22193.py) |
 | [22251](https://www.acmicpc.net/problem/22251) | 빌런 호석 | <img src="https://static.solved.ac/tier_small/11.svg" alt="Gold V" width="25" height="25"> | [C++17](22xxx/22251.cpp) |
 | [22938](https://www.acmicpc.net/problem/22938) | 백발백준하는 명사수 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="25" height="25"> | [C99](22xxx/22938.c) |
