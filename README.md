@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-01-12 21:12:12 (KST)
+마지막으로 업데이트: 2024-01-13 09:32:56 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -525,6 +525,7 @@
 | [6657](https://www.acmicpc.net/problem/6657) | Soccer Tournament | <img src="https://static.solved.ac/tier_small/12.svg" alt="Gold IV" width="25" height="25"> | [C++17](06xxx/06657.cpp) |
 | [6679](https://www.acmicpc.net/problem/6679) | 싱기한 네자리 숫자 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C++17](06xxx/06679.cpp) |
 | [6749](https://www.acmicpc.net/problem/6749) | Next in line | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](06xxx/06749.cpp) |
+| [6763](https://www.acmicpc.net/problem/6763) | Speed fines are not fine! | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](06xxx/06763.cpp) |
 | [6778](https://www.acmicpc.net/problem/6778) | Which Alien? | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](06xxx/06778.cpp) |
 | [6810](https://www.acmicpc.net/problem/6810) | ISBN | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](06xxx/06810.cpp) |
 | [6840](https://www.acmicpc.net/problem/6840) | Who is in the middle? | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [C++17](06xxx/06840.cpp) |
@@ -538,6 +539,7 @@
 | [7568](https://www.acmicpc.net/problem/7568) | 덩치 | <img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="25" height="25"> | [C99](07xxx/07568.c) |
 | [7569](https://www.acmicpc.net/problem/7569) | 토마토 | <img src="https://static.solved.ac/tier_small/11.svg" alt="Gold V" width="25" height="25"> | [C++17](07xxx/07569.cpp) |
 | [7576](https://www.acmicpc.net/problem/7576) | 토마토 | <img src="https://static.solved.ac/tier_small/11.svg" alt="Gold V" width="25" height="25"> | [C++17](07xxx/07576.cpp) |
+| [7595](https://www.acmicpc.net/problem/7595) | Triangles | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](07xxx/07595.cpp) |
 | [7685](https://www.acmicpc.net/problem/7685) | Nim | <img src="https://static.solved.ac/tier_small/14.svg" alt="Gold II" width="25" height="25"> | [C++17](07xxx/07685.cpp) |
 | [7770](https://www.acmicpc.net/problem/7770) | 아즈텍 피라미드 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C++17](07xxx/07770.cpp) |
 | [7772](https://www.acmicpc.net/problem/7772) | 구조 이성질체 | <img src="https://static.solved.ac/tier_small/22.svg" alt="Diamond IV" width="25" height="25"> | [C++17](07xxx/07772.cpp) |
@@ -550,6 +552,7 @@
 | [8394](https://www.acmicpc.net/problem/8394) | 악수 | <img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25" height="25"> | [C++17](08xxx/08394.cpp) |
 | [8437](https://www.acmicpc.net/problem/8437) | Julka | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [Python 3](08xxx/08437.py) |
 | [8545](https://www.acmicpc.net/problem/8545) | Zadanie próbne | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [C++17](08xxx/08545.cpp) |
+| [8723](https://www.acmicpc.net/problem/8723) | Patyki | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](08xxx/08723.cpp) |
 | [8741](https://www.acmicpc.net/problem/8741) | 이진수 합 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C++17](08xxx/08741.cpp) |
 | [8871](https://www.acmicpc.net/problem/8871) | Zadanie próbne 2 | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [C++17](08xxx/08871.cpp) |
 | [8892](https://www.acmicpc.net/problem/8892) | 팰린드롬 | <img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="25" height="25"> | [C++17](08xxx/08892.cpp) |
@@ -834,6 +837,7 @@
 | [12865](https://www.acmicpc.net/problem/12865) | 평범한 배낭 | <img src="https://static.solved.ac/tier_small/11.svg" alt="Gold V" width="25" height="25"> | [C99](12xxx/12865.c) |
 | [12871](https://www.acmicpc.net/problem/12871) | 무한 문자열 | <img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="25" height="25"> | [C++17](12xxx/12871.cpp) |
 | [13015](https://www.acmicpc.net/problem/13015) | 별 찍기 - 23 | <img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25" height="25"> | [C99](13xxx/13015.c) |
+| [13118](https://www.acmicpc.net/problem/13118) | 뉴턴과 사과 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](13xxx/13118.cpp) |
 | [13136](https://www.acmicpc.net/problem/13136) | Do Not Touch Anything | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](13xxx/13136.cpp) |
 | [13137](https://www.acmicpc.net/problem/13137) | Exchange Problem | <img src="https://static.solved.ac/tier_small/18.svg" alt="Platinum III" width="25" height="25"> | [C++17](13xxx/13137.cpp) |
 | [13140](https://www.acmicpc.net/problem/13140) | Hello World! | <img src="https://static.solved.ac/tier_small/11.svg" alt="Gold V" width="25" height="25"> | [C++17](13xxx/13140.cpp) |
@@ -848,6 +852,7 @@
 | [13430](https://www.acmicpc.net/problem/13430) | 합 구하기 | <img src="https://static.solved.ac/tier_small/16.svg" alt="Platinum V" width="25" height="25"> | [C++17](13xxx/13430.cpp) |
 | [13458](https://www.acmicpc.net/problem/13458) | 시험 감독 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C99](13xxx/13458.c) |
 | [13597](https://www.acmicpc.net/problem/13597) | Tri-du | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](13xxx/13597.cpp) |
+| [13623](https://www.acmicpc.net/problem/13623) | Zero or One | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](13xxx/13623.cpp) |
 | [13699](https://www.acmicpc.net/problem/13699) | 점화식 | <img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25" height="25"> | [C++17](13xxx/13699.cpp) |
 | [13701](https://www.acmicpc.net/problem/13701) | 중복 제거 | <img src="https://static.solved.ac/tier_small/12.svg" alt="Gold IV" width="25" height="25"> | [C++17](13xxx/13701.cpp) |
 | [13705](https://www.acmicpc.net/problem/13705) | Ax+Bsin(x)=C | <img src="https://static.solved.ac/tier_small/21.svg" alt="Diamond V" width="25" height="25"> | [Python 3](13xxx/13705.py) |
@@ -903,11 +908,14 @@
 | [14935](https://www.acmicpc.net/problem/14935) | FA | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](14xxx/14935.cpp) |
 | [14940](https://www.acmicpc.net/problem/14940) | 쉬운 최단거리 | <img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="25" height="25"> | [C++17](14xxx/14940.cpp) |
 | [15000](https://www.acmicpc.net/problem/15000) | CAPS | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [C++17](15xxx/15000.cpp) |
+| [15059](https://www.acmicpc.net/problem/15059) | Hard choice | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](15xxx/15059.cpp) |
+| [15232](https://www.acmicpc.net/problem/15232) | Rectangles | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](15xxx/15232.cpp) |
 | [15312](https://www.acmicpc.net/problem/15312) | 이름 궁합 | <img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="25" height="25"> | [C++17](15xxx/15312.cpp) |
 | [15328](https://www.acmicpc.net/problem/15328) | 산타의 선물 | <img src="https://static.solved.ac/tier_small/14.svg" alt="Gold II" width="25" height="25"> | [C++17](15xxx/15328.cpp) |
 | [15353](https://www.acmicpc.net/problem/15353) | 큰 수 A+B (2) | <img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25" height="25"> | [C++17](15xxx/15353.cpp) |
 | [15372](https://www.acmicpc.net/problem/15372) | A Simple Problem. | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](15xxx/15372.cpp) |
 | [15439](https://www.acmicpc.net/problem/15439) | 베라의 패션 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C99](15xxx/15439.c) |
+| [15474](https://www.acmicpc.net/problem/15474) | 鉛筆 (Pencils) | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](15xxx/15474.cpp) |
 | [15486](https://www.acmicpc.net/problem/15486) | 퇴사 2 | <img src="https://static.solved.ac/tier_small/11.svg" alt="Gold V" width="25" height="25"> | [C++17](15xxx/15486.cpp) |
 | [15489](https://www.acmicpc.net/problem/15489) | 파스칼 삼각형 | <img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25" height="25"> | [C++17](15xxx/15489.cpp) |
 | [15549](https://www.acmicpc.net/problem/15549) | if | <img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="25" height="25"> | [Text](15xxx/15549.txt) |
@@ -979,6 +987,7 @@
 | [16486](https://www.acmicpc.net/problem/16486) | 운동장 한 바퀴 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](16xxx/16486.cpp) |
 | [16561](https://www.acmicpc.net/problem/16561) | 3의 배수 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C++17](16xxx/16561.cpp) |
 | [16563](https://www.acmicpc.net/problem/16563) | 어려운 소인수분해 | <img src="https://static.solved.ac/tier_small/12.svg" alt="Gold IV" width="25" height="25"> | [C++17](16xxx/16563.cpp) |
+| [16600](https://www.acmicpc.net/problem/16600) | Contemporary Art | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](16xxx/16600.cpp) |
 | [16673](https://www.acmicpc.net/problem/16673) | 고려대학교에는 공식 와인이 있다 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="25" height="25"> | [C++17](16xxx/16673.cpp) |
 | [16894](https://www.acmicpc.net/problem/16894) | 약수 게임 | <img src="https://static.solved.ac/tier_small/13.svg" alt="Gold III" width="25" height="25"> | [C++17](16xxx/16894.cpp) |
 | [16895](https://www.acmicpc.net/problem/16895) | 님 게임 3 | <img src="https://static.solved.ac/tier_small/17.svg" alt="Platinum IV" width="25" height="25"> | [C++17](16xxx/16895.cpp) |
@@ -1033,6 +1042,8 @@
 | [18406](https://www.acmicpc.net/problem/18406) | 럭키 스트레이트 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C++17](18xxx/18406.cpp) |
 | [18408](https://www.acmicpc.net/problem/18408) | 3 つの整数 (Three Integers) | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](18xxx/18408.cpp) |
 | [18409](https://www.acmicpc.net/problem/18409) | 母音を数える (Counting Vowels) | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [C++17](18xxx/18409.cpp) |
+| [18411](https://www.acmicpc.net/problem/18411) | 試験 (Exam) | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](18xxx/18411.cpp) |
+| [18414](https://www.acmicpc.net/problem/18414) | X に最も近い値 (The Nearest Value) | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](18xxx/18414.cpp) |
 | [18436](https://www.acmicpc.net/problem/18436) | 수열과 쿼리 37 | <img src="https://static.solved.ac/tier_small/15.svg" alt="Gold I" width="25" height="25"> | [C++17](18xxx/18436.cpp) |
 | [18795](https://www.acmicpc.net/problem/18795) | 이동하기 3 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C99](18xxx/18795.c) |
 | [18870](https://www.acmicpc.net/problem/18870) | 좌표 압축 | <img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="25" height="25"> | [C99](18xxx/18870.c) |
@@ -1052,6 +1063,7 @@
 | [20299](https://www.acmicpc.net/problem/20299) | 3대 측정 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C++17](20xxx/20299.cpp) |
 | [20332](https://www.acmicpc.net/problem/20332) | Divvying Up | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="25" height="25"> | [C++17](20xxx/20332.cpp) |
 | [20352](https://www.acmicpc.net/problem/20352) | Circus | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](20xxx/20352.cpp) |
+| [20353](https://www.acmicpc.net/problem/20353) | Atrium | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](20xxx/20353.cpp) |
 | [20361](https://www.acmicpc.net/problem/20361) | 일우는 야바위꾼 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="25" height="25"> | [C++17](20xxx/20361.cpp) |
 | [20363](https://www.acmicpc.net/problem/20363) | 당근 키우기 | <img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25" height="25"> | [C++17](20xxx/20363.cpp) |
 | [20365](https://www.acmicpc.net/problem/20365) | 블로그2 | <img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25" height="25"> | [C++17](20xxx/20365.cpp) |
@@ -1059,6 +1071,7 @@
 | [20499](https://www.acmicpc.net/problem/20499) | Darius님 한타 안 함? | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](20xxx/20499.cpp) |
 | [20529](https://www.acmicpc.net/problem/20529) | 가장 가까운 세 사람의 심리적 거리 | <img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="25" height="25"> | [C++17](20xxx/20529.cpp) |
 | [20920](https://www.acmicpc.net/problem/20920) | 영단어 암기는 괴로워 | <img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25" height="25"> | [C++17](20xxx/20920.cpp) |
+| [20976](https://www.acmicpc.net/problem/20976) | 2 番目に大きい整数 (The Second Largest Integer) | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](20xxx/20976.cpp) |
 | [21300](https://www.acmicpc.net/problem/21300) | Bottle Return | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [C++17](21xxx/21300.cpp) |
 | [21567](https://www.acmicpc.net/problem/21567) | 숫자의 개수 2 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C++17](21xxx/21567.cpp) |
 | [21591](https://www.acmicpc.net/problem/21591) | Laptop Sticker | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](21xxx/21591.cpp) |
@@ -1067,6 +1080,7 @@
 | [21736](https://www.acmicpc.net/problem/21736) | 헌내기는 친구가 필요해 | <img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="25" height="25"> | [C99](21xxx/21736.c) |
 | [21919](https://www.acmicpc.net/problem/21919) | 소수 최소 공배수 | <img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25" height="25"> | [C++17](21xxx/21919.cpp) |
 | [21964](https://www.acmicpc.net/problem/21964) | 선린인터넷고등학교 교가 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](21xxx/21964.cpp) |
+| [22015](https://www.acmicpc.net/problem/22015) | 金平糖 (Konpeito) | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](22xxx/22015.cpp) |
 | [22193](https://www.acmicpc.net/problem/22193) | Multiply | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [Python 3](22xxx/22193.py) |
 | [22251](https://www.acmicpc.net/problem/22251) | 빌런 호석 | <img src="https://static.solved.ac/tier_small/11.svg" alt="Gold V" width="25" height="25"> | [C++17](22xxx/22251.cpp) |
 | [22938](https://www.acmicpc.net/problem/22938) | 백발백준하는 명사수 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="25" height="25"> | [C99](22xxx/22938.c) |
@@ -1134,7 +1148,10 @@
 | [25332](https://www.acmicpc.net/problem/25332) | 수들의 합 8 | <img src="https://static.solved.ac/tier_small/13.svg" alt="Gold III" width="25" height="25"> | [C++17](25xxx/25332.cpp) |
 | [25372](https://www.acmicpc.net/problem/25372) | 성택이의 은밀한 비밀번호 | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [C99](25xxx/25372.c) |
 | [25377](https://www.acmicpc.net/problem/25377) | 빵 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C99](25xxx/25377.c) |
+| [25487](https://www.acmicpc.net/problem/25487) | 단순한 문제 (Large) | <img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25" height="25"> | [C++17](25xxx/25487.cpp) |
+| [25494](https://www.acmicpc.net/problem/25494) | 단순한 문제 (Small) | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](25xxx/25494.cpp) |
 | [25501](https://www.acmicpc.net/problem/25501) | 재귀의 귀재 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C99](25xxx/25501.c) |
+| [25591](https://www.acmicpc.net/problem/25591) | 푸앙이와 종윤이 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](25xxx/25591.cpp) |
 | [25628](https://www.acmicpc.net/problem/25628) | 햄버거 만들기 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](25xxx/25628.cpp) |
 | [25640](https://www.acmicpc.net/problem/25640) | MBTI | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](25xxx/25640.cpp) |
 | [25821](https://www.acmicpc.net/problem/25821) | Palindromic Primes | <img src="https://static.solved.ac/tier_small/17.svg" alt="Platinum IV" width="25" height="25"> | [C++17](25xxx/25821.cpp) |
@@ -1158,6 +1175,7 @@
 | [27172](https://www.acmicpc.net/problem/27172) | 수 나누기 게임 | <img src="https://static.solved.ac/tier_small/11.svg" alt="Gold V" width="25" height="25"> | [C++17](27xxx/27172.cpp) |
 | [27219](https://www.acmicpc.net/problem/27219) | Робинзон Крузо | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [C++17](27xxx/27219.cpp) |
 | [27294](https://www.acmicpc.net/problem/27294) | 몇개고? | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [C++17](27xxx/27294.cpp) |
+| [27310](https://www.acmicpc.net/problem/27310) | :chino_shock: | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](27xxx/27310.cpp) |
 | [27323](https://www.acmicpc.net/problem/27323) | 직사각형 | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [C99](27xxx/27323.c) |
 | [27324](https://www.acmicpc.net/problem/27324) | ゾロ目 (Same Numbers) | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [C++17](27xxx/27324.cpp) |
 | [27327](https://www.acmicpc.net/problem/27327) | 時間 (Hour) | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [C++17](27xxx/27327.cpp) |
@@ -1185,6 +1203,7 @@
 | [28278](https://www.acmicpc.net/problem/28278) | 스택 2 | <img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25" height="25"> | [C++17](28xxx/28278.cpp) |
 | [28281](https://www.acmicpc.net/problem/28281) | 선물 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C99](28xxx/28281.c) |
 | [28295](https://www.acmicpc.net/problem/28295) | 체육은 코딩과목 입니다 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C99](28xxx/28295.c) |
+| [28352](https://www.acmicpc.net/problem/28352) | 10! | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="25" height="25"> | [C++17](28xxx/28352.cpp) |
 | [28383](https://www.acmicpc.net/problem/28383) | 다섯 제곱수의 합 | <img src="https://static.solved.ac/tier_small/15.svg" alt="Gold I" width="25" height="25"> | [C++17](28xxx/28383.cpp) |
 | [28444](https://www.acmicpc.net/problem/28444) | HI-ARC=? | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="25" height="25"> | [C++17](28xxx/28444.cpp) |
 | [28682](https://www.acmicpc.net/problem/28682) | 재우야 임관하자 | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="25" height="25"> | [C++17](28xxx/28682.cpp) |
