@@ -1,24 +1,33 @@
 #include <iostream>
-#include <map>
+#include <vector>
 #define MOD 1000000007
 using namespace std;
+using Matrix = vector<vector<long long>>;
 
-map<long long, long long> dp;
+Matrix matmul(Matrix a, Matrix b) {
+  Matrix c(2, vector<long long>(2));
+  for (int i=0; i<2; i++) for (int j=0; j<2; j++) for (int k=0; k<2; k++) {
+    c[i][j] = (c[i][j] + a[i][k] * b[k][j]) % MOD;
+  }
+  return c;
+}
 
-long long f(long long n) {
-  if (dp.find(n) != dp.end()) return dp[n];
-
-  dp[n] = (f(n/2+1) * f(n-n/2) + f(n/2) * f(n-n/2-1)) % MOD;
-  return dp[n];
+Matrix matpow(Matrix base, long long exp) {
+  Matrix ret(2, vector<long long>(2, 0));
+  for (int i=0; i<2; i++) ret[i][i] = 1;
+  while (exp) {
+    if (exp & 1) ret = matmul(ret, base);
+    base = matmul(base, base);
+    exp >>= 1;
+  }
+  return ret;
 }
 
 void solve(void) {
   long long n; cin >> n;
 
-  dp[0] = 0;
-  dp[1] = 1;
-  dp[2] = 1;
-  cout << f(n);
+  Matrix ans = matpow({{1, 1}, {1, 0}}, n);
+  cout << ans[0][1];
 }
 
 int main(void) {
