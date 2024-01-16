@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-01-16 09:33:21 (KST)
+마지막으로 업데이트: 2024-01-16 21:12:26 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -1012,6 +1012,7 @@
 | [16894](https://www.acmicpc.net/problem/16894) | 약수 게임 | <img src="https://static.solved.ac/tier_small/13.svg" alt="Gold III" width="25" height="25"> | [C++17](16xxx/16894.cpp) |
 | [16895](https://www.acmicpc.net/problem/16895) | 님 게임 3 | <img src="https://static.solved.ac/tier_small/17.svg" alt="Platinum IV" width="25" height="25"> | [C++17](16xxx/16895.cpp) |
 | [16916](https://www.acmicpc.net/problem/16916) | 부분 문자열 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C++17](16xxx/16916.cpp) |
+| [16917](https://www.acmicpc.net/problem/16917) | 양념 반 후라이드 반 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="25" height="25"> | [C++17](16xxx/16917.cpp) |
 | [16933](https://www.acmicpc.net/problem/16933) | 벽 부수고 이동하기 3 | <img src="https://static.solved.ac/tier_small/15.svg" alt="Gold I" width="25" height="25"> | [C++17](16xxx/16933.cpp) |
 | [16972](https://www.acmicpc.net/problem/16972) | 814 - 1 | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="25" height="25"> | [C++17](16xxx/16972.cpp) |
 | [16975](https://www.acmicpc.net/problem/16975) | 수열과 쿼리 21 | <img src="https://static.solved.ac/tier_small/17.svg" alt="Platinum IV" width="25" height="25"> | [C++17](16xxx/16975.cpp) |
