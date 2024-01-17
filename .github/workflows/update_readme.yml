@@ -2,33 +2,33 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out code
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
       - name: Install dependencies
         run: |
-          sudo apt-get install -y patchutils
           python -m pip install --upgrade pip
-          pip install requests datetime
+          pip install datetime requests tqdm
 
-      - name: Run script to update README
-        run: python scripts/update_readme.py
+      - name: Run script
+        run: |
+          python scripts/update_readme.py
+          if [ $? -eq 123 ]; then
+            exit 0
+          fi
       
-      - name: Check for changes
-        run: git diff --exit-code | filterdiff -x '*:9' || exit 0
-
-      - name: Commit and push
+      - name: Push changes and commit
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"

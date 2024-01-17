@@ -1,54 +1,44 @@
 # scripts/update_readme.py
 # README.md 파일을 자동으로 업데이트 해주는 스크립트
 
-import requests
-import json
 from datetime import datetime, timezone, timedelta
 import glob
+import json
+import os
+import requests
+from tqdm import tqdm
 
-# solved.ac API로 해결한 문제 수를 가져옴
-def getSolvedCount():
-  profile = requests.get("https://solved.ac/api/v3/user/show?handle=hiyabye")
-  if profile.status_code != requests.codes.ok:
+# solved.ac API로 해결한 문제 수를 int로 가져옴
+def get_solved_count(handle):
+  response = requests.get(f"https://solved.ac/api/v3/user/show", params={"handle": handle})
+  if response.status_code != requests.codes.ok:
     print("Failed to get user info")
-    print(f"Status code: {profile.status_code}")
+    print(f"Status code: {response.status_code}")
     exit(1)
-  profile = json.loads(profile.content.decode("utf-8"))
-  return profile["solvedCount"]
 
-# solved.ac API로 해결한 문제들을 가져옴 (50개씩)
-def getProblemsPartial(page):
-  solved = requests.get(f"https://solved.ac/api/v3/search/problem?query=solved_by%3Ahiyabye&sort=id&direction=asc&page={page}")
-  if solved.status_code != requests.codes.ok:
-    print("Failed to get solved problems")
-    print(f"Status code: {solved.status_code}")
+  return int(json.loads(response.content.decode("utf-8"))["solvedCount"])
+
+# solved.ac API로 해결한 문제들을 50개씩 가져옴
+def get_problems(handle, page):
+  response = requests.get("https://solved.ac/api/v3/search/problem", params={"query": f"solved_by:{handle}", "direction": "asc", "page": page, "sort": "id"})
+  if response.status_code != requests.codes.ok:
+    print(f"Failed to get solved problems for page {page}")
+    print(f"Status code: {response.status_code}")
     exit(1)
-  solved = json.loads(solved.content.decode("utf-8"))
-  return solved
 
-# solved.ac API로 해결한 문제들을 가져옴 (모두)
-def getProblems():
-  solvedCount = int(getSolvedCount())
-  pages = (solvedCount - 1) // 50 + 1
-  problems = []
-  for page in range(1, pages + 1):
-    solved = getProblemsPartial(page)
-    for problem in solved["items"]:
-      problems.append((int(problem["problemId"]), problem["titleKo"], int(problem["level"])))
-    print(f"Progress: {len(problems)} / {solvedCount}")
-  return problems
+  return json.loads(response.content.decode("utf-8"))
 
 # 문제 번호를 입력받아 문제 URL을 반환
-def getProblemURL(id):
+def get_problem_url(id):
   return f"https://www.acmicpc.net/problem/{id}"
 
 # 문제 제목의 특수문자를 처리하여 반환
-def getProblemTitle(title):
+def get_problem_title(title):
   title = title.replace("|", "\\|") # 17203번: ∑|ΔEasyMAX|
   return title
 
 # 문제 난이도를 입력받아 문제 티어를 반환
-def getProblemTier(level):
+def get_problem_tier(level):
   tier = {
     0: "Unrated",
     1: "Bronze V", 2: "Bronze IV", 3: "Bronze III", 4: "Bronze II", 5: "Bronze I",
@@ -58,10 +48,10 @@ def getProblemTier(level):
     21: "Diamond V", 22: "Diamond IV", 23: "Diamond III", 24: "Diamond II", 25: "Diamond I",
     26: "Ruby V", 27: "Ruby IV", 28: "Ruby III", 29: "Ruby II", 30: "Ruby I"
   }
-  return f'<img src="https://static.solved.ac/tier_small/{level}.svg" alt="{tier[level]}" width="25" height="25">'
+  return f'<img src="https://static.solved.ac/tier_small/{level}.svg" alt="{tier[level]}" width="24" height="24">'
 
 # 문제 번호를 입력받아 솔루션 경로를 모두 반환 (문자열로)
-def getSolutionPath(id):
+def get_solution_path(id):
   # 디렉토리
   if (id < 10000):
     id = f"0{id}"
@@ -70,13 +60,13 @@ def getSolutionPath(id):
   # 파일 확장자
   ext = {
     ".ads": "Ada",
-    ".bas": "FreeBasic",
+    ".bas": "FreeBASIC",
     ".c"  : "C99",
     ".cpp": "C++17",
-    ".gs" : "GolfScript",
+    ".gs" : "Golfscript",
     ".py" : "Python 3",
     ".txt": "Text",
-    ".vb" : "Visual Basic .NET"
+    ".vb" : "Visual Basic"
   }
 
   # 파일 찾기
@@ -90,10 +80,10 @@ def getSolutionPath(id):
   return solution
 
 # README.md 헤더를 반환
-def getHeader():
+def get_header(handle):
   header = "# Baekjoon\n\n"
   header += "백준 알고리즘 문제 풀이 기록\n\n"
-  header += "[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)\n\n"
+  header += f"[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})\n\n"
   header += "문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:\n\n"
   header += "마지막으로 업데이트: "
   header += datetime.now(timezone(timedelta(hours=9))).strftime("%Y-%m-%d %H:%M:%S")
@@ -101,20 +91,50 @@ def getHeader():
   return header
 
 # README.md 테이블을 반환
-def getTable():
-  problems = getProblems()
+def get_table(problems):
   table = "| # | 제목 | 레벨 | 솔루션 |\n"
   table += "|:---:|:---:|:---:|:---:|\n"
-  for (id, title, level) in problems:
-    url = getProblemURL(id)
-    title = getProblemTitle(title)
-    tier = getProblemTier(level)
-    path = getSolutionPath(id)
+
+  print("Generating table...")
+  for (id, title, level) in tqdm(problems):
+    url = get_problem_url(id)
+    title = get_problem_title(title)
+    tier = get_problem_tier(level)
+    path = get_solution_path(id)
     table += f"| [{id}]({url}) | {title} | {tier} | {path}|\n"
   return table
 
 # 메인 함수
 if __name__ == "__main__":
-  with open("README.md", "w") as f:
-    f.write(getHeader() + getTable())
-  print("README.md updated without errors")
+  # solved.ac API로 푼 문제 수 가져오기
+  solved_count = get_solved_count("hiyabye")
+  pages = (solved_count - 1) // 50 + 1
+  problems = []
+
+  # solved.ac API로 문제 정보 가져오기
+  print(f"Getting problems from {pages} pages...")
+  for page in tqdm(range(1, pages+1)):
+    solved = get_problems("hiyabye", page)
+    for problem in solved["items"]:
+      problems.append((int(problem["problemId"]), problem["titleKo"], int(problem["level"])))
+
+  # README.md 파일 업데이트
+  with open("README.md.tmp", "w", encoding="utf-8") as f:
+    f.write(get_header("hiyabye") + get_table(problems))
+
+  # README.md.tmp과 README.md을 비교하여 변경사항이 있으면 업데이트
+  # 이때 첫 9줄은 헤더이므로 비교에서 제외
+  with open("README.md.tmp", "r", encoding="utf-8") as f:
+    tmp = f.readlines()
+    with open("README.md", "r", encoding="utf-8") as f:
+      readme = f.readlines()
+      if tmp[9:] != readme[9:]:
+        with open("README.md", "w", encoding="utf-8") as f:
+          f.writelines(tmp)
+        print("README.md updated without errors")
+      else:
+        print("README.md is up to date")
+        return 123 # exit github action with success
+      
+  # README.md.tmp 파일 삭제
+  os.remove("README.md.tmp")
