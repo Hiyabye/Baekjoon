@@ -134,7 +134,7 @@ if __name__ == "__main__":
         print("README.md updated without errors")
       else:
         print("README.md is up to date")
-        return 123 # exit github action with success
+        exit(123) # exit github action with success
       
   # README.md.tmp 파일 삭제
   os.remove("README.md.tmp")
