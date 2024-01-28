@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-01-27 09:44:49 (KST)
+마지막으로 업데이트: 2024-01-28 09:48:27 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -153,6 +153,7 @@
 | [1747](https://www.acmicpc.net/problem/1747) | 소수&팰린드롬 | <img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="24" height="24"> | [C99](01xxx/01747.c) |
 | [1748](https://www.acmicpc.net/problem/1748) | 수 이어 쓰기 1 | <img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="24" height="24"> | [C++17](01xxx/01748.cpp) |
 | [1753](https://www.acmicpc.net/problem/1753) | 최단경로 | <img src="https://static.solved.ac/tier_small/12.svg" alt="Gold IV" width="24" height="24"> | [C++17](01xxx/01753.cpp) |
+| [1755](https://www.acmicpc.net/problem/1755) | 숫자놀이 | <img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="24" height="24"> | [C++17](01xxx/01755.cpp) |
 | [1758](https://www.acmicpc.net/problem/1758) | 알바생 강호 | <img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="24" height="24"> | [C++17](01xxx/01758.cpp) |
 | [1759](https://www.acmicpc.net/problem/1759) | 암호 만들기 | <img src="https://static.solved.ac/tier_small/11.svg" alt="Gold V" width="24" height="24"> | [C++17](01xxx/01759.cpp) |
 | [1761](https://www.acmicpc.net/problem/1761) | 정점들의 거리 | <img src="https://static.solved.ac/tier_small/16.svg" alt="Platinum V" width="24" height="24"> | [C++17](01xxx/01761.cpp) |
@@ -754,7 +755,7 @@
 | [10974](https://www.acmicpc.net/problem/10974) | 모든 순열 | <img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="24" height="24"> | [C++17](10xxx/10974.cpp) |
 | [10984](https://www.acmicpc.net/problem/10984) | 내 학점을 구해줘 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](10xxx/10984.cpp) |
 | [10986](https://www.acmicpc.net/problem/10986) | 나머지 합 | <img src="https://static.solved.ac/tier_small/13.svg" alt="Gold III" width="24" height="24"> | [C++17](10xxx/10986.cpp) |
-| [10987](https://www.acmicpc.net/problem/10987) | 모음의 개수 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](10xxx/10987.cpp) |
+| [10987](https://www.acmicpc.net/problem/10987) | 모음의 개수 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](10xxx/10987.cpp) |
 | [10988](https://www.acmicpc.net/problem/10988) | 팰린드롬인지 확인하기 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C99](10xxx/10988.c) |
 | [10989](https://www.acmicpc.net/problem/10989) | 수 정렬하기 3 | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C99](10xxx/10989.c) |
 | [10990](https://www.acmicpc.net/problem/10990) | 별 찍기 - 15 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C99](10xxx/10990.c) |
