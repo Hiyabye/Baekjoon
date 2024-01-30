@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-01-29 09:45:42 (KST)
+마지막으로 업데이트: 2024-01-30 09:45:02 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -630,6 +630,7 @@
 | [9501](https://www.acmicpc.net/problem/9501) | 꿍의 우주여행 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](09xxx/09501.cpp) |
 | [9506](https://www.acmicpc.net/problem/9506) | 약수들의 합 | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C99](09xxx/09506.c) |
 | [9507](https://www.acmicpc.net/problem/9507) | Generations of Tribbles | <img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="24" height="24"> | [C++17](09xxx/09507.cpp) |
+| [9517](https://www.acmicpc.net/problem/9517) | 아이 러브 크로아티아 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](09xxx/09517.cpp) |
 | [9527](https://www.acmicpc.net/problem/9527) | 1의 개수 세기 | <img src="https://static.solved.ac/tier_small/14.svg" alt="Gold II" width="24" height="24"> | [C++17](09xxx/09527.cpp) |
 | [9546](https://www.acmicpc.net/problem/9546) | 3000번 버스 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++17](09xxx/09546.cpp) |
 | [9550](https://www.acmicpc.net/problem/9550) | 아이들은 사탕을 좋아해 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](09xxx/09550.cpp) |
