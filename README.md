@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-01-30 09:45:02 (KST)
+마지막으로 업데이트: 2024-01-31 09:45:22 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -394,6 +394,7 @@
 | [2979](https://www.acmicpc.net/problem/2979) | 트럭 주차 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++17](02xxx/02979.cpp) |
 | [2981](https://www.acmicpc.net/problem/2981) | 검문 | <img src="https://static.solved.ac/tier_small/12.svg" alt="Gold IV" width="24" height="24"> | [C++17](02xxx/02981.cpp) |
 | [2985](https://www.acmicpc.net/problem/2985) | 세 수 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](02xxx/02985.cpp) |
+| [2991](https://www.acmicpc.net/problem/2991) | 사나운 개 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](02xxx/02991.cpp) |
 | [2997](https://www.acmicpc.net/problem/2997) | 네 번째 수 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](02xxx/02997.cpp) |
 | [2998](https://www.acmicpc.net/problem/2998) | 8진수 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++17](02xxx/02998.cpp) |
 | [3003](https://www.acmicpc.net/problem/3003) | 킹, 퀸, 룩, 비숍, 나이트, 폰 | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C99](03xxx/03003.c) |
