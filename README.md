@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-02-03 09:44:16 (KST)
+마지막으로 업데이트: 2024-02-05 09:46:50 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -98,6 +98,7 @@
 | [1357](https://www.acmicpc.net/problem/1357) | 뒤집힌 덧셈 | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C99](01xxx/01357.c) |
 | [1371](https://www.acmicpc.net/problem/1371) | 가장 많은 글자 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++17](01xxx/01371.cpp) |
 | [1373](https://www.acmicpc.net/problem/1373) | 2진수 8진수 | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C99](01xxx/01373.c) |
+| [1389](https://www.acmicpc.net/problem/1389) | 케빈 베이컨의 6단계 법칙 | <img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="24" height="24"> | [C++17](01xxx/01389.cpp) |
 | [1402](https://www.acmicpc.net/problem/1402) | 아무래도이문제는A번난이도인것같다 | <img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="24" height="24"> | [C++17](01xxx/01402.cpp) |
 | [1406](https://www.acmicpc.net/problem/1406) | 에디터 | <img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="24" height="24"> | [C++17](01xxx/01406.cpp) |
 | [1407](https://www.acmicpc.net/problem/1407) | 2로 몇 번 나누어질까 | <img src="https://static.solved.ac/tier_small/12.svg" alt="Gold IV" width="24" height="24"> | [C++17](01xxx/01407.cpp) |
@@ -441,6 +442,7 @@
 | [4297](https://www.acmicpc.net/problem/4297) | Ultra-QuickSort | <img src="https://static.solved.ac/tier_small/16.svg" alt="Platinum V" width="24" height="24"> | [C++17](04xxx/04297.cpp) |
 | [4299](https://www.acmicpc.net/problem/4299) | AFC 윔블던 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](04xxx/04299.cpp) |
 | [4300](https://www.acmicpc.net/problem/4300) | Traditional BINGO | <img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="24" height="24"> | [C++17](04xxx/04300.cpp) |
+| [4307](https://www.acmicpc.net/problem/4307) | 개미 | <img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="24" height="24"> | [C++17](04xxx/04307.cpp) |
 | [4344](https://www.acmicpc.net/problem/4344) | 평균은 넘겠지 | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C99](04xxx/04344.c) |
 | [4355](https://www.acmicpc.net/problem/4355) | 서로소 | <img src="https://static.solved.ac/tier_small/15.svg" alt="Gold I" width="24" height="24"> | [C++17](04xxx/04355.cpp) |
 | [4375](https://www.acmicpc.net/problem/4375) | 1 | <img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="24" height="24"> | [C++17](04xxx/04375.cpp) |
@@ -1032,7 +1034,7 @@
 | [15687](https://www.acmicpc.net/problem/15687) | 직사각형 | <img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="24" height="24"> | [C++17](15xxx/15687.cpp) |
 | [15688](https://www.acmicpc.net/problem/15688) | 수 정렬하기 5 | <img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="24" height="24"> | [C99](15xxx/15688.c) |
 | [15700](https://www.acmicpc.net/problem/15700) | 타일 채우기 4 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](15xxx/15700.cpp) |
-| [15707](https://www.acmicpc.net/problem/15707) | exceed or not | <img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="24" height="24"> | [C++17](15xxx/15707.cpp) |
+| [15707](https://www.acmicpc.net/problem/15707) | exceed or not | <img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="24" height="24"> | [C++17](15xxx/15707.cpp) |
 | [15720](https://www.acmicpc.net/problem/15720) | 카우버거 | <img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="24" height="24"> | [C++17](15xxx/15720.cpp) |
 | [15726](https://www.acmicpc.net/problem/15726) | 이칙연산 | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](15xxx/15726.cpp) |
 | [15727](https://www.acmicpc.net/problem/15727) | 조별과제를 하려는데 조장이 사라졌다 | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C99](15xxx/15727.c) |
@@ -1093,6 +1095,7 @@
 | [16916](https://www.acmicpc.net/problem/16916) | 부분 문자열 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++17](16xxx/16916.cpp) |
 | [16917](https://www.acmicpc.net/problem/16917) | 양념 반 후라이드 반 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++17](16xxx/16917.cpp) |
 | [16933](https://www.acmicpc.net/problem/16933) | 벽 부수고 이동하기 3 | <img src="https://static.solved.ac/tier_small/15.svg" alt="Gold I" width="24" height="24"> | [C++17](16xxx/16933.cpp) |
+| [16953](https://www.acmicpc.net/problem/16953) | A → B | <img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="24" height="24"> | [C++17](16xxx/16953.cpp) |
 | [16972](https://www.acmicpc.net/problem/16972) | 814 - 1 | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C++17](16xxx/16972.cpp) |
 | [16975](https://www.acmicpc.net/problem/16975) | 수열과 쿼리 21 | <img src="https://static.solved.ac/tier_small/17.svg" alt="Platinum IV" width="24" height="24"> | [C++17](16xxx/16975.cpp) |
 | [17009](https://www.acmicpc.net/problem/17009) | Winning Score | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C99](17xxx/17009.c) |
@@ -1493,3 +1496,5 @@
 | [31281](https://www.acmicpc.net/problem/31281) | ЗЛАТНАТА СРЕДА | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](31xxx/31281.cpp) |
 | [31282](https://www.acmicpc.net/problem/31282) | ЛОВНО КУЧЕ | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](31xxx/31282.cpp) |
 | [31306](https://www.acmicpc.net/problem/31306) | Is Y a Vowel? | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](31xxx/31306.cpp) |
+| [31395](https://www.acmicpc.net/problem/31395) | 정렬된 연속한 부분수열의 개수 | <img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="24" height="24"> | [C++17](31xxx/31395.cpp) |
+| [31403](https://www.acmicpc.net/problem/31403) | $A + B - C$ | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](31xxx/31403.cpp) |
