@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-02-05 09:46:50 (KST)
+마지막으로 업데이트: 2024-02-07 09:43:08 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -967,6 +967,7 @@
 | [14568](https://www.acmicpc.net/problem/14568) | 2017 연세대학교 프로그래밍 경시대회 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](14xxx/14568.cpp) |
 | [14581](https://www.acmicpc.net/problem/14581) | 팬들에게 둘러싸인 홍준 | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C99](14xxx/14581.c) |
 | [14582](https://www.acmicpc.net/problem/14582) | 오늘도 졌다 | <img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="24" height="24"> | [C++17](14xxx/14582.cpp) |
+| [14623](https://www.acmicpc.net/problem/14623) | 감정이입 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++17](14xxx/14623.cpp) |
 | [14627](https://www.acmicpc.net/problem/14627) | 파닭파닭 | <img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="24" height="24"> | [C++17](14xxx/14627.cpp) |
 | [14645](https://www.acmicpc.net/problem/14645) | 와이버스 부릉부릉 | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C99](14xxx/14645.c) |
 | [14652](https://www.acmicpc.net/problem/14652) | 나는 행복합니다~ | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C99](14xxx/14652.c) |
@@ -1382,7 +1383,7 @@
 | [27522](https://www.acmicpc.net/problem/27522) | 카트라이더: 드리프트 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++17](27xxx/27522.cpp) |
 | [27541](https://www.acmicpc.net/problem/27541) | 末尾の文字 (Last Letter) | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](27xxx/27541.cpp) |
 | [27542](https://www.acmicpc.net/problem/27542) | 絶対階差数列 (Sequence of Absolute Differences) | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++17](27xxx/27542.cpp) |
-| [27543](https://www.acmicpc.net/problem/27543) | 鐘 (Bell) | <img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="24" height="24"> | [C++17](27xxx/27543.cpp) |
+| [27543](https://www.acmicpc.net/problem/27543) | 鐘 (Bell) | <img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="24" height="24"> | [C++17](27xxx/27543.cpp) |
 | [27590](https://www.acmicpc.net/problem/27590) | Sun and Moon | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](27xxx/27590.cpp) |
 | [27855](https://www.acmicpc.net/problem/27855) | Cornhole | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](27xxx/27855.cpp) |
 | [27865](https://www.acmicpc.net/problem/27865) | 랜덤 게임? | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C++17](27xxx/27865.cpp) |
