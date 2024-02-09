@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-02-08 09:44:12 (KST)
+마지막으로 업데이트: 2024-02-09 09:43:47 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -667,6 +667,7 @@
 | [9772](https://www.acmicpc.net/problem/9772) | Quadrants | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](09xxx/09772.cpp) |
 | [9782](https://www.acmicpc.net/problem/9782) | Median | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](09xxx/09782.cpp) |
 | [9783](https://www.acmicpc.net/problem/9783) | Easy Encryption | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](09xxx/09783.cpp) |
+| [9933](https://www.acmicpc.net/problem/9933) | 민균이의 비밀번호 | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C++17](09xxx/09933.cpp) |
 | [9935](https://www.acmicpc.net/problem/9935) | 문자열 폭발 | <img src="https://static.solved.ac/tier_small/12.svg" alt="Gold IV" width="24" height="24"> | [C++17](09xxx/09935.cpp) |
 | [9946](https://www.acmicpc.net/problem/9946) | 단어 퍼즐 | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C++17](09xxx/09946.cpp) |
 | [10026](https://www.acmicpc.net/problem/10026) | 적록색약 | <img src="https://static.solved.ac/tier_small/11.svg" alt="Gold V" width="24" height="24"> | [C++17](10xxx/10026.cpp) |
@@ -1099,6 +1100,7 @@
 | [16917](https://www.acmicpc.net/problem/16917) | 양념 반 후라이드 반 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++17](16xxx/16917.cpp) |
 | [16933](https://www.acmicpc.net/problem/16933) | 벽 부수고 이동하기 3 | <img src="https://static.solved.ac/tier_small/15.svg" alt="Gold I" width="24" height="24"> | [C++17](16xxx/16933.cpp) |
 | [16953](https://www.acmicpc.net/problem/16953) | A → B | <img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="24" height="24"> | [C++17](16xxx/16953.cpp) |
+| [16968](https://www.acmicpc.net/problem/16968) | 차량 번호판 1 | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C++17](16xxx/16968.cpp) |
 | [16972](https://www.acmicpc.net/problem/16972) | 814 - 1 | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C++17](16xxx/16972.cpp) |
 | [16975](https://www.acmicpc.net/problem/16975) | 수열과 쿼리 21 | <img src="https://static.solved.ac/tier_small/17.svg" alt="Platinum IV" width="24" height="24"> | [C++17](16xxx/16975.cpp) |
 | [17009](https://www.acmicpc.net/problem/17009) | Winning Score | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C99](17xxx/17009.c) |
