@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-02-10 09:43:07 (KST)
+마지막으로 업데이트: 2024-02-11 09:49:25 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -470,6 +470,7 @@
 | [4690](https://www.acmicpc.net/problem/4690) | 완전 세제곱 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](04xxx/04690.cpp) |
 | [4696](https://www.acmicpc.net/problem/4696) | St. Ives | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](04xxx/04696.cpp) |
 | [4714](https://www.acmicpc.net/problem/4714) | Lunacy | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](04xxx/04714.cpp) |
+| [4740](https://www.acmicpc.net/problem/4740) | 거울, 오! 거울 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](04xxx/04740.cpp) |
 | [4766](https://www.acmicpc.net/problem/4766) | 일반 화학 실험 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](04xxx/04766.cpp) |
 | [4796](https://www.acmicpc.net/problem/4796) | 캠핑 | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C99](04xxx/04796.c) |
 | [4806](https://www.acmicpc.net/problem/4806) | 줄 세기 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](04xxx/04806.cpp) |
