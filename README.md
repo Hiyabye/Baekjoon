@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-02-11 09:49:25 (KST)
+마지막으로 업데이트: 2024-02-12 09:45:20 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -407,6 +407,7 @@
 | [2991](https://www.acmicpc.net/problem/2991) | 사나운 개 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](02xxx/02991.cpp) |
 | [2997](https://www.acmicpc.net/problem/2997) | 네 번째 수 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](02xxx/02997.cpp) |
 | [2998](https://www.acmicpc.net/problem/2998) | 8진수 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++17](02xxx/02998.cpp) |
+| [2999](https://www.acmicpc.net/problem/2999) | 비밀 이메일 | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C++17](02xxx/02999.cpp) |
 | [3003](https://www.acmicpc.net/problem/3003) | 킹, 퀸, 룩, 비숍, 나이트, 폰 | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C99](03xxx/03003.c) |
 | [3004](https://www.acmicpc.net/problem/3004) | 체스판 조각 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](03xxx/03004.cpp) |
 | [3005](https://www.acmicpc.net/problem/3005) | 크로스워드 퍼즐 쳐다보기 | <img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="24" height="24"> | [C++17](03xxx/03005.cpp) |
