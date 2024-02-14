@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-02-13 09:45:13 (KST)
+마지막으로 업데이트: 2024-02-14 09:45:38 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -960,6 +960,7 @@
 | [14215](https://www.acmicpc.net/problem/14215) | 세 막대 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C99](14xxx/14215.c) |
 | [14264](https://www.acmicpc.net/problem/14264) | 정육각형과 삼각형 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](14xxx/14264.cpp) |
 | [14337](https://www.acmicpc.net/problem/14337) | Helicopter | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [Visual Basic](14xxx/14337.vb) |
+| [14405](https://www.acmicpc.net/problem/14405) | 피카츄 | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C++17](14xxx/14405.cpp) |
 | [14425](https://www.acmicpc.net/problem/14425) | 문자열 집합 | <img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="24" height="24"> | [C++17](14xxx/14425.cpp) |
 | [14427](https://www.acmicpc.net/problem/14427) | 수열과 쿼리 15 | <img src="https://static.solved.ac/tier_small/13.svg" alt="Gold III" width="24" height="24"> | [C++17](14xxx/14427.cpp) |
 | [14428](https://www.acmicpc.net/problem/14428) | 수열과 쿼리 16 | <img src="https://static.solved.ac/tier_small/15.svg" alt="Gold I" width="24" height="24"> | [C++17](14xxx/14428.cpp) |
