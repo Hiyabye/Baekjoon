@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-02-14 09:45:38 (KST)
+마지막으로 업데이트: 2024-02-15 09:45:31 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -1253,6 +1253,7 @@
 | [23057](https://www.acmicpc.net/problem/23057) | 도전 숫자왕 | <img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="24" height="24"> | [C++17](23xxx/23057.cpp) |
 | [23234](https://www.acmicpc.net/problem/23234) | The World Responds | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C99](23xxx/23234.c) |
 | [23235](https://www.acmicpc.net/problem/23235) | The Fastest Sorting Algorithm In The World | <img src="https://static.solved.ac/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C++17](23xxx/23235.cpp) |
+| [23303](https://www.acmicpc.net/problem/23303) | 이 문제는 D2 입니다. | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](23xxx/23303.cpp) |
 | [23323](https://www.acmicpc.net/problem/23323) | 황소 다마고치 | <img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="24" height="24"> | [C++17](23xxx/23323.cpp) |
 | [23348](https://www.acmicpc.net/problem/23348) | 스트릿 코딩 파이터 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](23xxx/23348.cpp) |
 | [23794](https://www.acmicpc.net/problem/23794) | 골뱅이 찍기 - 정사각형 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C99](23xxx/23794.c) |
