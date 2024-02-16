@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-02-15 09:45:31 (KST)
+마지막으로 업데이트: 2024-02-16 09:43:53 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -368,6 +368,7 @@
 | [2783](https://www.acmicpc.net/problem/2783) | 삼각 김밥 | <img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](02xxx/02783.cpp) |
 | [2789](https://www.acmicpc.net/problem/2789) | 유학 금지 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++17](02xxx/02789.cpp) |
 | [2798](https://www.acmicpc.net/problem/2798) | 블랙잭 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C99](02xxx/02798.c) |
+| [2804](https://www.acmicpc.net/problem/2804) | 크로스워드 만들기 | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C++17](02xxx/02804.cpp) |
 | [2805](https://www.acmicpc.net/problem/2805) | 나무 자르기 | <img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="24" height="24"> | [C++17](02xxx/02805.cpp) |
 | [2810](https://www.acmicpc.net/problem/2810) | 컵홀더 | <img src="https://static.solved.ac/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C++17](02xxx/02810.cpp) |
 | [2822](https://www.acmicpc.net/problem/2822) | 점수 계산 | <img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="24" height="24"> | [C++17](02xxx/02822.cpp) |
