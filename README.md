@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-02-16 09:43:53 (KST)
+마지막으로 업데이트: 2024-02-17 09:43:51 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -925,6 +925,7 @@
 | [13136](https://www.acmicpc.net/problem/13136) | Do Not Touch Anything | <img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](13xxx/13136.cpp) |
 | [13137](https://www.acmicpc.net/problem/13137) | Exchange Problem | <img src="https://static.solved.ac/tier_small/18.svg" alt="Platinum III" width="24" height="24"> | [C++17](13xxx/13137.cpp) |
 | [13140](https://www.acmicpc.net/problem/13140) | Hello World! | <img src="https://static.solved.ac/tier_small/11.svg" alt="Gold V" width="24" height="24"> | [C++17](13xxx/13140.cpp) |
+| [13163](https://www.acmicpc.net/problem/13163) | 닉네임에 갓 붙이기 | <img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++17](13xxx/13163.cpp) |
 | [13171](https://www.acmicpc.net/problem/13171) | A | <img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="24" height="24"> | [C++17](13xxx/13171.cpp) |
 | [13172](https://www.acmicpc.net/problem/13172) | Σ | <img src="https://static.solved.ac/tier_small/12.svg" alt="Gold IV" width="24" height="24"> | [C++17](13xxx/13172.cpp) |
 | [13241](https://www.acmicpc.net/problem/13241) | 최소공배수 | <img src="https://static.solved.ac/tier_small/6.svg" alt="Silver V" width="24" height="24"> | [C99](13xxx/13241.c) |
