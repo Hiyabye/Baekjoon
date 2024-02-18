@@ -11,22 +11,14 @@ from tqdm import tqdm
 # solved.ac API로 해결한 문제 수를 int로 가져옴
 def get_solved_count(handle):
   response = requests.get(f"https://solved.ac/api/v3/user/show", params={"handle": handle})
-  if response.status_code != requests.codes.ok:
-    print("Failed to get user info")
-    print(f"Status code: {response.status_code}")
-    exit(1)
-
-  return int(json.loads(response.content.decode("utf-8"))["solvedCount"])
+  response.raise_for_status()
+  return int(response.json()["solvedCount"])
 
 # solved.ac API로 해결한 문제들을 50개씩 가져옴
 def get_problems(handle, page):
   response = requests.get("https://solved.ac/api/v3/search/problem", params={"query": f"solved_by:{handle}", "direction": "asc", "page": page, "sort": "id"})
-  if response.status_code != requests.codes.ok:
-    print(f"Failed to get solved problems for page {page}")
-    print(f"Status code: {response.status_code}")
-    exit(1)
-
-  return json.loads(response.content.decode("utf-8"))
+  response.raise_for_status()
+  return response.json()
 
 # 문제 번호를 입력받아 문제 URL을 반환
 def get_problem_url(id):
@@ -48,7 +40,7 @@ def get_problem_tier(level):
     21: "Diamond V", 22: "Diamond IV", 23: "Diamond III", 24: "Diamond II", 25: "Diamond I",
     26: "Ruby V", 27: "Ruby IV", 28: "Ruby III", 29: "Ruby II", 30: "Ruby I"
   }
-  return f'<img src="https://static.solved.ac/tier_small/{level}.svg" alt="{tier[level]}" width="24" height="24">'
+  return f'<img src="assets/tier_small/{level}.svg" alt="{tier[level]}" width="24" height="24">'
 
 # 문제 번호를 입력받아 솔루션 경로를 모두 반환 (문자열로)
 def get_solution_path(id):
@@ -72,8 +64,8 @@ def get_solution_path(id):
   # 파일 찾기
   files = glob.glob(f"{dir}/{id}.*")
   if len(files) == 0:
-    print(f"Failed to find solution for problem {id}")
-    exit(1)
+    raise ValueError(f"Failed to find solution for problem {id}")
+  files.sort()
   solution = ""
   for file in files:
     solution += f"[{ext[file[file.rfind('.'):]]}]({file}) "
