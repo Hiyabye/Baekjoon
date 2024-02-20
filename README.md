@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-02-19 09:46:11 (KST)
+마지막으로 업데이트: 2024-02-20 09:43:49 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -1351,6 +1351,7 @@
 | [25784](https://www.acmicpc.net/problem/25784) | Easy-to-Solve Expressions | <img src="assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](25xxx/25784.cpp) |
 | [25821](https://www.acmicpc.net/problem/25821) | Palindromic Primes | <img src="assets/tier_small/17.svg" alt="Platinum IV" width="24" height="24"> | [C++17](25xxx/25821.cpp) |
 | [25828](https://www.acmicpc.net/problem/25828) | Corona Virus Testing | <img src="assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](25xxx/25828.cpp) |
+| [25849](https://www.acmicpc.net/problem/25849) | Briefcases Full of Money | <img src="assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](25xxx/25849.cpp) |
 | [25858](https://www.acmicpc.net/problem/25858) | Divide the Cash | <img src="assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](25xxx/25858.cpp) |
 | [25881](https://www.acmicpc.net/problem/25881) | Electric Bill | <img src="assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](25xxx/25881.cpp) |
 | [25893](https://www.acmicpc.net/problem/25893) | Majestic 10 | <img src="assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](25xxx/25893.cpp) |
@@ -1517,6 +1518,7 @@
 | [30791](https://www.acmicpc.net/problem/30791) | gahui and sousenkyo 1 | <img src="assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](30xxx/30791.cpp) |
 | [30793](https://www.acmicpc.net/problem/30793) | gahui and sousenkyo 3 | <img src="assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](30xxx/30793.cpp) |
 | [30794](https://www.acmicpc.net/problem/30794) | 가희와 클럽 오디션 1 | <img src="assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](30xxx/30794.cpp) |
+| [30802](https://www.acmicpc.net/problem/30802) | 웰컴 키트 | <img src="assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](30xxx/30802.cpp) |
 | [30868](https://www.acmicpc.net/problem/30868) | 개표 | <img src="assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](30xxx/30868.cpp) |
 | [30876](https://www.acmicpc.net/problem/30876) | Tren del Fin del Mundo | <img src="assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](30xxx/30876.cpp) |
 | [30917](https://www.acmicpc.net/problem/30917) | A+B - 10 (제1편) | <img src="assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](30xxx/30917.cpp) |
@@ -1537,3 +1539,6 @@
 | [31306](https://www.acmicpc.net/problem/31306) | Is Y a Vowel? | <img src="assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](31xxx/31306.cpp) |
 | [31395](https://www.acmicpc.net/problem/31395) | 정렬된 연속한 부분수열의 개수 | <img src="assets/tier_small/7.svg" alt="Silver IV" width="24" height="24"> | [C++17](31xxx/31395.cpp) |
 | [31403](https://www.acmicpc.net/problem/31403) | $A + B - C$ | <img src="assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](31xxx/31403.cpp) |
+| [31422](https://www.acmicpc.net/problem/31422) | AND, OR, XOR 2 | <img src="assets/tier_small/15.svg" alt="Gold I" width="24" height="24"> | [C++17](31xxx/31422.cpp) |
+| [31428](https://www.acmicpc.net/problem/31428) | 엘리스 트랙 매칭 | <img src="assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](31xxx/31428.cpp) |
+| [31429](https://www.acmicpc.net/problem/31429) | SUAPC 2023 Summer | <img src="assets/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C++17](31xxx/31429.cpp) |
