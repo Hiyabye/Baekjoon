@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-02-20 09:43:49 (KST)
+마지막으로 업데이트: 2024-02-21 09:45:17 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -571,6 +571,8 @@
 | [6378](https://www.acmicpc.net/problem/6378) | 디지털 루트 | <img src="assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](06xxx/06378.cpp) |
 | [6443](https://www.acmicpc.net/problem/6443) | 애너그램 | <img src="assets/tier_small/11.svg" alt="Gold V" width="24" height="24"> | [C++17](06xxx/06443.cpp) |
 | [6502](https://www.acmicpc.net/problem/6502) | 동혁 피자 | <img src="assets/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C99](06xxx/06502.c) |
+| [6504](https://www.acmicpc.net/problem/6504) | 킬로미터를 마일로 | <img src="assets/tier_small/6.svg" alt="Silver V" width="24" height="24"> | [C++17](06xxx/06504.cpp) |
+| [6571](https://www.acmicpc.net/problem/6571) | 피보나치 수의 개수 | <img src="assets/tier_small/8.svg" alt="Silver III" width="24" height="24"> | [C++17](06xxx/06571.cpp) |
 | [6588](https://www.acmicpc.net/problem/6588) | 골드바흐의 추측 | <img src="assets/tier_small/10.svg" alt="Silver I" width="24" height="24"> | [C99](06xxx/06588.c) |
 | [6603](https://www.acmicpc.net/problem/6603) | 로또 | <img src="assets/tier_small/9.svg" alt="Silver II" width="24" height="24"> | [C++17](06xxx/06603.cpp) |
 | [6657](https://www.acmicpc.net/problem/6657) | Soccer Tournament | <img src="assets/tier_small/12.svg" alt="Gold IV" width="24" height="24"> | [C++17](06xxx/06657.cpp) |
@@ -651,6 +653,7 @@
 | [9461](https://www.acmicpc.net/problem/9461) | 파도반 수열 | <img src="assets/tier_small/8.svg" alt="Silver III" width="24" height="24"> | [C99](09xxx/09461.c) |
 | [9465](https://www.acmicpc.net/problem/9465) | 스티커 | <img src="assets/tier_small/10.svg" alt="Silver I" width="24" height="24"> | [C99](09xxx/09465.c) |
 | [9469](https://www.acmicpc.net/problem/9469) | 폰 노이만 | <img src="assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](09xxx/09469.cpp) |
+| [9471](https://www.acmicpc.net/problem/9471) | 피사노 주기 | <img src="assets/tier_small/7.svg" alt="Silver IV" width="24" height="24"> | [C++17](09xxx/09471.cpp) |
 | [9498](https://www.acmicpc.net/problem/9498) | 시험 성적 | <img src="assets/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C99](09xxx/09498.c) [C++17](09xxx/09498.cpp) |
 | [9501](https://www.acmicpc.net/problem/9501) | 꿍의 우주여행 | <img src="assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](09xxx/09501.cpp) |
 | [9506](https://www.acmicpc.net/problem/9506) | 약수들의 합 | <img src="assets/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C99](09xxx/09506.c) |
@@ -846,6 +849,8 @@
 | [11437](https://www.acmicpc.net/problem/11437) | LCA | <img src="assets/tier_small/13.svg" alt="Gold III" width="24" height="24"> | [C++17](11xxx/11437.cpp) |
 | [11440](https://www.acmicpc.net/problem/11440) | 피보나치 수의 제곱의 합 | <img src="assets/tier_small/16.svg" alt="Platinum V" width="24" height="24"> | [C++17](11xxx/11440.cpp) |
 | [11441](https://www.acmicpc.net/problem/11441) | 합 구하기 | <img src="assets/tier_small/8.svg" alt="Silver III" width="24" height="24"> | [C++17](11xxx/11441.cpp) |
+| [11442](https://www.acmicpc.net/problem/11442) | 홀수번째 피보나치 수의 합 | <img src="assets/tier_small/14.svg" alt="Gold II" width="24" height="24"> | [C++17](11xxx/11442.cpp) |
+| [11443](https://www.acmicpc.net/problem/11443) | 짝수번째 피보나치 수의 합 | <img src="assets/tier_small/14.svg" alt="Gold II" width="24" height="24"> | [C++17](11xxx/11443.cpp) |
 | [11444](https://www.acmicpc.net/problem/11444) | 피보나치 수 6 | <img src="assets/tier_small/14.svg" alt="Gold II" width="24" height="24"> | [C++17](11xxx/11444.cpp) |
 | [11478](https://www.acmicpc.net/problem/11478) | 서로 다른 부분 문자열의 개수 | <img src="assets/tier_small/8.svg" alt="Silver III" width="24" height="24"> | [C++17](11xxx/11478.cpp) |
 | [11505](https://www.acmicpc.net/problem/11505) | 구간 곱 구하기 | <img src="assets/tier_small/15.svg" alt="Gold I" width="24" height="24"> | [C++17](11xxx/11505.cpp) |
@@ -1313,6 +1318,7 @@
 | [24356](https://www.acmicpc.net/problem/24356) | ЧАСОВНИК | <img src="assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](24xxx/24356.cpp) |
 | [24365](https://www.acmicpc.net/problem/24365) | ПЧЕЛИЧКАТА МАЯ | <img src="assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](24xxx/24365.cpp) |
 | [24416](https://www.acmicpc.net/problem/24416) | 알고리즘 수업 - 피보나치 수 1 | <img src="assets/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C99](24xxx/24416.c) |
+| [24417](https://www.acmicpc.net/problem/24417) | 알고리즘 수업 - 피보나치 수 2 | <img src="assets/tier_small/7.svg" alt="Silver IV" width="24" height="24"> | [C++17](24xxx/24417.cpp) |
 | [24464](https://www.acmicpc.net/problem/24464) | 득수 밥 먹이기 | <img src="assets/tier_small/10.svg" alt="Silver I" width="24" height="24"> | [C++17](24xxx/24464.cpp) |
 | [24516](https://www.acmicpc.net/problem/24516) | 잘 알려진 수열 구하기 | <img src="assets/tier_small/8.svg" alt="Silver III" width="24" height="24"> | [C++17](24xxx/24516.cpp) |
 | [24568](https://www.acmicpc.net/problem/24568) | Cupcake Party | <img src="assets/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C++17](24xxx/24568.cpp) |
@@ -1519,6 +1525,7 @@
 | [30793](https://www.acmicpc.net/problem/30793) | gahui and sousenkyo 3 | <img src="assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](30xxx/30793.cpp) |
 | [30794](https://www.acmicpc.net/problem/30794) | 가희와 클럽 오디션 1 | <img src="assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](30xxx/30794.cpp) |
 | [30802](https://www.acmicpc.net/problem/30802) | 웰컴 키트 | <img src="assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](30xxx/30802.cpp) |
+| [30824](https://www.acmicpc.net/problem/30824) | 피보나치 더하기 | <img src="assets/tier_small/8.svg" alt="Silver III" width="24" height="24"> | [C++17](30xxx/30824.cpp) |
 | [30868](https://www.acmicpc.net/problem/30868) | 개표 | <img src="assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](30xxx/30868.cpp) |
 | [30876](https://www.acmicpc.net/problem/30876) | Tren del Fin del Mundo | <img src="assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](30xxx/30876.cpp) |
 | [30917](https://www.acmicpc.net/problem/30917) | A+B - 10 (제1편) | <img src="assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](30xxx/30917.cpp) |
