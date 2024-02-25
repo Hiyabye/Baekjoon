@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-02-24 09:42:36 (KST)
+마지막으로 업데이트: 2024-02-25 09:48:55 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -877,6 +877,7 @@
 | [11656](https://www.acmicpc.net/problem/11656) | 접미사 배열 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/7.svg" alt="Silver IV" width="24" height="24"> | [C++17](11xxx/11656.cpp) |
 | [11659](https://www.acmicpc.net/problem/11659) | 구간 합 구하기 4 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/8.svg" alt="Silver III" width="24" height="24"> | [C99](11xxx/11659.c) |
 | [11660](https://www.acmicpc.net/problem/11660) | 구간 합 구하기 5 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/10.svg" alt="Silver I" width="24" height="24"> | [C99](11xxx/11660.c) |
+| [11665](https://www.acmicpc.net/problem/11665) | 직육면체 교집합 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C++17](11xxx/11665.cpp) |
 | [11689](https://www.acmicpc.net/problem/11689) | GCD(n, k) = 1 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/15.svg" alt="Gold I" width="24" height="24"> | [C++17](11xxx/11689.cpp) |
 | [11693](https://www.acmicpc.net/problem/11693) | n^m의 약수의 합 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/15.svg" alt="Gold I" width="24" height="24"> | [C++17](11xxx/11693.cpp) |
 | [11718](https://www.acmicpc.net/problem/11718) | 그대로 출력하기 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C99](11xxx/11718.c) [C++17](11xxx/11718.cpp) |
