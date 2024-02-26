@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-02-25 09:48:55 (KST)
+마지막으로 업데이트: 2024-02-26 09:46:03 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -1343,6 +1343,7 @@
 | [24723](https://www.acmicpc.net/problem/24723) | 녹색거탑 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](24xxx/24723.cpp) |
 | [24736](https://www.acmicpc.net/problem/24736) | Football Scoring | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C++17](24xxx/24736.cpp) |
 | [24751](https://www.acmicpc.net/problem/24751) | Betting | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](24xxx/24751.cpp) |
+| [24839](https://www.acmicpc.net/problem/24839) | Speed Typing | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/7.svg" alt="Silver IV" width="24" height="24"> | [C++17](24xxx/24839.cpp) |
 | [24860](https://www.acmicpc.net/problem/24860) | Counting Antibodies | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](24xxx/24860.cpp) |
 | [24883](https://www.acmicpc.net/problem/24883) | 자동완성 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C++17](24xxx/24883.cpp) |
 | [24900](https://www.acmicpc.net/problem/24900) | 한별 찍기 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C99](24xxx/24900.c) |
