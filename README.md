@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-02-26 09:46:03 (KST)
+마지막으로 업데이트: 2024-02-27 09:44:03 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -1375,6 +1375,7 @@
 | [25628](https://www.acmicpc.net/problem/25628) | 햄버거 만들기 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](25xxx/25628.cpp) |
 | [25640](https://www.acmicpc.net/problem/25640) | MBTI | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](25xxx/25640.cpp) |
 | [25704](https://www.acmicpc.net/problem/25704) | 출석 이벤트 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](25xxx/25704.cpp) |
+| [25756](https://www.acmicpc.net/problem/25756) | 방어율 무시 계산하기 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](25xxx/25756.cpp) |
 | [25784](https://www.acmicpc.net/problem/25784) | Easy-to-Solve Expressions | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](25xxx/25784.cpp) |
 | [25821](https://www.acmicpc.net/problem/25821) | Palindromic Primes | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/17.svg" alt="Platinum IV" width="24" height="24"> | [C++17](25xxx/25821.cpp) |
 | [25828](https://www.acmicpc.net/problem/25828) | Corona Virus Testing | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++17](25xxx/25828.cpp) |
