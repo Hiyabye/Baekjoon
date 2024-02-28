@@ -6,7 +6,7 @@
 
 문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:
 
-마지막으로 업데이트: 2024-02-27 09:44:03 (KST)
+마지막으로 업데이트: 2024-02-28 09:43:46 (KST)
 
 | # | 제목 | 레벨 | 솔루션 |
 |:---:|:---:|:---:|:---:|
@@ -1089,6 +1089,7 @@
 | [15781](https://www.acmicpc.net/problem/15781) | 헬멧과 조끼 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](15xxx/15781.cpp) |
 | [15792](https://www.acmicpc.net/problem/15792) | A/B - 2 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C++17](15xxx/15792.cpp) |
 | [15813](https://www.acmicpc.net/problem/15813) | 너의 이름은 몇 점이니? | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++17](15xxx/15813.cpp) |
+| [15820](https://www.acmicpc.net/problem/15820) | 맞았는데 왜 틀리죠? | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++17](15xxx/15820.cpp) |
 | [15824](https://www.acmicpc.net/problem/15824) | 너 봄에는 캡사이신이 맛있단다 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/14.svg" alt="Gold II" width="24" height="24"> | [C++17](15xxx/15824.cpp) |
 | [15829](https://www.acmicpc.net/problem/15829) | Hashing | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C99](15xxx/15829.c) |
 | [15836](https://www.acmicpc.net/problem/15836) | Matrix Multiplication Calculator | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C++17](15xxx/15836.cpp) |
