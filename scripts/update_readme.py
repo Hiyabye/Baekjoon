@@ -53,10 +53,10 @@ def get_solution_path(id):
   ext = {
     ".ads": "Ada",
     ".bas": "FreeBASIC",
-    ".c"  : "C99",
-    ".cpp": "C++17",
+    ".c"  : "C",
+    ".cpp": "C++",
     ".gs" : "Golfscript",
-    ".py" : "Python 3",
+    ".py" : "Python",
     ".txt": "Text",
     ".vb" : "Visual Basic"
   }
@@ -68,7 +68,7 @@ def get_solution_path(id):
   files.sort()
   solution = ""
   for file in files:
-    solution += f"[{ext[file[file.rfind('.'):]]}]({file}) "
+    solution += f"[{ext[file[file.rfind('.'):]]}](https://github.com/Hiyabye/Baekjoon/blob/main/{file}) "
   return solution
 
 # README.md 헤더를 반환
