@@ -27,6 +27,8 @@ def get_problem_url(id):
 # 문제 제목의 특수문자를 처리하여 반환
 def get_problem_title(title):
   title = title.replace("|", "\\|") # 17203번: ∑|ΔEasyMAX|
+  title = title.replace("\\(", "$") # 10386번: LaTeX로 구성된 제목
+  title = title.replace("\\)", "$") # 10386번: LaTeX로 구성된 제목
   return title
 
 # 문제 난이도를 입력받아 문제 티어를 반환
@@ -76,10 +78,10 @@ def get_header(handle):
   header = "# Baekjoon\n\n"
   header += "백준 알고리즘 문제 풀이 기록\n\n"
   header += f"[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})\n\n"
-  header += "문제들은 주로 C/C++로 해결하였으며, 가끔 Python으로도 풀었습니다. 목록은 다음과 같습니다:\n\n"
   header += "마지막으로 업데이트: "
   header += datetime.now(timezone(timedelta(hours=9))).strftime("%Y-%m-%d %H:%M:%S")
   header += " (KST)\n\n"
+  header += "목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.\n\n"
   return header
 
 # README.md 테이블을 반환
