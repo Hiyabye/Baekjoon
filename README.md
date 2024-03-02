@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-03-01 09:50:25 (KST)
+마지막으로 업데이트: 2024-03-02 09:43:27 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -1634,3 +1634,5 @@
 | [31422](https://www.acmicpc.net/problem/31422) | AND, OR, XOR 2 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/15.svg" alt="Gold I" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31422.cpp) |
 | [31428](https://www.acmicpc.net/problem/31428) | 엘리스 트랙 매칭 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31428.cpp) |
 | [31429](https://www.acmicpc.net/problem/31429) | SUAPC 2023 Summer | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31429.cpp) |
+| [31448](https://www.acmicpc.net/problem/31448) | Ascending hike | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31448.cpp) |
+| [31450](https://www.acmicpc.net/problem/31450) | Everyone is a winner | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31450.cpp) |
