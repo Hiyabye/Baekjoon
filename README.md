@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-03-02 09:43:27 (KST)
+마지막으로 업데이트: 2024-03-03 09:47:40 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -1192,6 +1192,7 @@
 | [16975](https://www.acmicpc.net/problem/16975) | 수열과 쿼리 21 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/17.svg" alt="Platinum IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/16xxx/16975.cpp) |
 | [17009](https://www.acmicpc.net/problem/17009) | Winning Score | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17009.c) |
 | [17010](https://www.acmicpc.net/problem/17010) | Time to Decompress | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17010.cpp) |
+| [17013](https://www.acmicpc.net/problem/17013) | Flipper | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17013.cpp) |
 | [17094](https://www.acmicpc.net/problem/17094) | Serious Problem | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17094.cpp) |
 | [17103](https://www.acmicpc.net/problem/17103) | 골드바흐 파티션 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/9.svg" alt="Silver II" width="24" height="24"> | [C](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17103.c) |
 | [17106](https://www.acmicpc.net/problem/17106) | 빙고 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/16.svg" alt="Platinum V" width="24" height="24"> | [Text](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17106.txt) |
