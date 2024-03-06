@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-03-05 09:44:22 (KST)
+마지막으로 업데이트: 2024-03-06 09:44:32 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -653,7 +653,7 @@
 | [8731](https://www.acmicpc.net/problem/8731) | Sznurki | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/08xxx/08731.cpp) |
 | [8741](https://www.acmicpc.net/problem/8741) | 이진수 합 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/08xxx/08741.cpp) |
 | [8760](https://www.acmicpc.net/problem/8760) | Schronisko | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/08xxx/08760.cpp) |
-| [8794](https://www.acmicpc.net/problem/8794) | Poniedziałki | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/08xxx/08794.cpp) |
+| [8794](https://www.acmicpc.net/problem/8794) | Poniedziałki | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/08xxx/08794.cpp) |
 | [8806](https://www.acmicpc.net/problem/8806) | Papier kamień nożyczki | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/08xxx/08806.cpp) |
 | [8815](https://www.acmicpc.net/problem/8815) | Test | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/08xxx/08815.cpp) |
 | [8826](https://www.acmicpc.net/problem/8826) | Spacer | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/08xxx/08826.cpp) |
@@ -1663,3 +1663,5 @@
 | [31474](https://www.acmicpc.net/problem/31474) | 양갈래 짝 맞추기 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/7.svg" alt="Silver IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31474.cpp) |
 | [31495](https://www.acmicpc.net/problem/31495) | 그게 무슨 코드니.. | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31495.cpp) |
 | [31499](https://www.acmicpc.net/problem/31499) | 프랙탈 수열 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/8.svg" alt="Silver III" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31499.cpp) |
+| [31518](https://www.acmicpc.net/problem/31518) | Triple Sevens | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31518.cpp) |
+| [31520](https://www.acmicpc.net/problem/31520) | Champernowne Verification | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31520.cpp) |
