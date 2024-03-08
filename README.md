@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-03-07 09:36:25 (KST)
+마지막으로 업데이트: 2024-03-08 09:44:24 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -1012,6 +1012,7 @@
 | [13333](https://www.acmicpc.net/problem/13333) | Q-인덱스 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/6.svg" alt="Silver V" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13333.cpp) |
 | [13410](https://www.acmicpc.net/problem/13410) | 거꾸로 구구단 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13410.cpp) |
 | [13411](https://www.acmicpc.net/problem/13411) | 하늘에서 정의가 빗발친다! | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/7.svg" alt="Silver IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13411.cpp) |
+| [13416](https://www.acmicpc.net/problem/13416) | 주식 투자 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13416.cpp) |
 | [13420](https://www.acmicpc.net/problem/13420) | 사칙연산 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13420.cpp) |
 | [13430](https://www.acmicpc.net/problem/13430) | 합 구하기 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/16.svg" alt="Platinum V" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13430.cpp) |
 | [13458](https://www.acmicpc.net/problem/13458) | 시험 감독 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13458.c) |
