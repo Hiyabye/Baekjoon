@@ -1,24 +1,19 @@
+#include <algorithm>
 #include <iostream>
-#include <set>
 #include <vector>
 using namespace std;
 
 void solve(void) {
   int n; cin >> n;
-  vector<int> a(n);
-  for (int i=0; i<n; i++) cin >> a[i];
-
-  set<int> s;
-  for (int i=0; i<(1<<n); i++) {
-    int sum = 0;
-    for (int j=0; j<n; j++) {
-      if (i & (1<<j)) sum += a[j];
-    }
-    s.insert(sum);
-  }
+  vector<int> v(n);
+  for (int i=0; i<n; i++) cin >> v[i];
+  sort(v.begin(), v.end());
 
   int ans = 1;
-  while (s.count(ans)) ans++;
+  for (int i=0; i<n; i++) {
+    if (ans < v[i]) break;
+    ans += v[i];
+  }
   cout << ans;
 }
 
