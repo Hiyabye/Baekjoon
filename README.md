@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-03-10 09:48:48 (KST)
+마지막으로 업데이트: 2024-03-11 09:46:07 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -34,7 +34,7 @@
 | [1037](https://www.acmicpc.net/problem/1037) | 약수 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01037.c) |
 | [1049](https://www.acmicpc.net/problem/1049) | 기타줄 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/7.svg" alt="Silver IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01049.cpp) |
 | [1051](https://www.acmicpc.net/problem/1051) | 숫자 정사각형 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/8.svg" alt="Silver III" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01051.cpp) |
-| [1052](https://www.acmicpc.net/problem/1052) | 물병 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/10.svg" alt="Silver I" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01052.cpp) |
+| [1052](https://www.acmicpc.net/problem/1052) | 물병 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/11.svg" alt="Gold V" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01052.cpp) |
 | [1057](https://www.acmicpc.net/problem/1057) | 토너먼트 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/7.svg" alt="Silver IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01057.cpp) |
 | [1059](https://www.acmicpc.net/problem/1059) | 좋은 구간 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/7.svg" alt="Silver IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01059.cpp) |
 | [1063](https://www.acmicpc.net/problem/1063) | 킹 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/8.svg" alt="Silver III" width="24" height="24"> | [C](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01063.c) |
@@ -750,7 +750,7 @@
 | [10158](https://www.acmicpc.net/problem/10158) | 개미 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/8.svg" alt="Silver III" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/10xxx/10158.cpp) |
 | [10162](https://www.acmicpc.net/problem/10162) | 전자레인지 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C](https://github.com/Hiyabye/Baekjoon/blob/main/10xxx/10162.c) |
 | [10163](https://www.acmicpc.net/problem/10163) | 색종이 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/5.svg" alt="Bronze I" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/10xxx/10163.cpp) |
-| [10164](https://www.acmicpc.net/problem/10164) | 격자상의 경로 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/10.svg" alt="Silver I" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/10xxx/10164.cpp) |
+| [10164](https://www.acmicpc.net/problem/10164) | 격자상의 경로 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/9.svg" alt="Silver II" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/10xxx/10164.cpp) |
 | [10170](https://www.acmicpc.net/problem/10170) | NFC West vs North | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C](https://github.com/Hiyabye/Baekjoon/blob/main/10xxx/10170.c) |
 | [10171](https://www.acmicpc.net/problem/10171) | 고양이 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C](https://github.com/Hiyabye/Baekjoon/blob/main/10xxx/10171.c) [C++](https://github.com/Hiyabye/Baekjoon/blob/main/10xxx/10171.cpp) |
 | [10172](https://www.acmicpc.net/problem/10172) | 개 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C](https://github.com/Hiyabye/Baekjoon/blob/main/10xxx/10172.c) [C++](https://github.com/Hiyabye/Baekjoon/blob/main/10xxx/10172.cpp) |
@@ -1671,6 +1671,7 @@
 | [31429](https://www.acmicpc.net/problem/31429) | SUAPC 2023 Summer | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31429.cpp) |
 | [31448](https://www.acmicpc.net/problem/31448) | Ascending hike | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31448.cpp) |
 | [31450](https://www.acmicpc.net/problem/31450) | Everyone is a winner | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31450.cpp) |
+| [31458](https://www.acmicpc.net/problem/31458) | !!초콜릿 중독 주의!! | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31458.cpp) |
 | [31472](https://www.acmicpc.net/problem/31472) | 갈래의 색종이 자르기 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31472.cpp) |
 | [31473](https://www.acmicpc.net/problem/31473) | 하늘과 핑크 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/4.svg" alt="Bronze II" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31473.cpp) |
 | [31474](https://www.acmicpc.net/problem/31474) | 양갈래 짝 맞추기 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/7.svg" alt="Silver IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31474.cpp) |
