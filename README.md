@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-03-13 09:45:40 (KST)
+마지막으로 업데이트: 2024-03-14 09:44:21 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -1106,7 +1106,7 @@
 | [15059](https://www.acmicpc.net/problem/15059) | Hard choice | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/15xxx/15059.cpp) |
 | [15080](https://www.acmicpc.net/problem/15080) | Every Second Counts | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/15xxx/15080.cpp) |
 | [15128](https://www.acmicpc.net/problem/15128) | Congruent Numbers | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/15xxx/15128.cpp) |
-| [15232](https://www.acmicpc.net/problem/15232) | Rectangles | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/15xxx/15232.cpp) |
+| [15232](https://www.acmicpc.net/problem/15232) | Rectangles | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/15xxx/15232.cpp) |
 | [15238](https://www.acmicpc.net/problem/15238) | Pirates | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/15xxx/15238.cpp) |
 | [15272](https://www.acmicpc.net/problem/15272) | Hissing Microphone | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/15xxx/15272.cpp) |
 | [15295](https://www.acmicpc.net/problem/15295) | Chanukah Challenge | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/3.svg" alt="Bronze III" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/15xxx/15295.cpp) |
@@ -1695,3 +1695,4 @@
 | [31518](https://www.acmicpc.net/problem/31518) | Triple Sevens | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31518.cpp) |
 | [31520](https://www.acmicpc.net/problem/31520) | Champernowne Verification | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31520.cpp) |
 | [31561](https://www.acmicpc.net/problem/31561) | 시계탑 | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/2.svg" alt="Bronze IV" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31561.cpp) |
+| [31606](https://www.acmicpc.net/problem/31606) | 果物 (Fruit) | <img src="https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier_small/1.svg" alt="Bronze V" width="24" height="24"> | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31606.cpp) |
