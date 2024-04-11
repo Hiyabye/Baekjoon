@@ -11,8 +11,8 @@ void solve(void) {
   int m; cin >> m;
   while (m--) {
     int k, l, r; cin >> k >> l >> r; l--; r--;
-    if (k == 1) for (int j=l; j<r+1; j++) a[j] = a[j] * a[j] % 2010;
-    else cout << accumulate(a.begin()+l, a.begin()+r+1, 0) % 2010 << "\n";
+    if (k == 1) for (int j=l; j<=r; j++) a[j] = a[j] * a[j] % 2010;
+    else cout << accumulate(a.begin()+l, a.begin()+r+1, 0) << "\n";
   }
 }
 
