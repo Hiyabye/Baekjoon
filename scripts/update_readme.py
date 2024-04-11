@@ -60,6 +60,7 @@ def get_solution_path(id):
     ".cpp": "C++",
     ".f"  : "Fortran",
     ".gs" : "Golfscript",
+    ".js" : "node.js",
     ".py" : "Python",
     ".txt": "Text",
     ".vb" : "Visual Basic"
