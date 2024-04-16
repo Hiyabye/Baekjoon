@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-04-15 12:12:12 (KST)
+마지막으로 업데이트: 2024-04-16 09:46:06 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -725,6 +725,7 @@
 | [7130](https://www.acmicpc.net/problem/7130) | Milk and Honey | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/07xxx/07130.cpp) |
 | [7287](https://www.acmicpc.net/problem/7287) | 등록 | ![Bronze V](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/1.svg) | [C](https://github.com/Hiyabye/Baekjoon/blob/main/07xxx/07287.c) [C++](https://github.com/Hiyabye/Baekjoon/blob/main/07xxx/07287.cpp) |
 | [7390](https://www.acmicpc.net/problem/7390) | Easy Trading | ![Silver V](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/6.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/07xxx/07390.cpp) |
+| [7453](https://www.acmicpc.net/problem/7453) | 합이 0인 네 정수 | ![Gold II](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/14.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/07xxx/07453.cpp) |
 | [7482](https://www.acmicpc.net/problem/7482) | 상자 만들기 | ![Silver V](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/6.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/07xxx/07482.cpp) |
 | [7510](https://www.acmicpc.net/problem/7510) | 고급 수학 | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C](https://github.com/Hiyabye/Baekjoon/blob/main/07xxx/07510.c) |
 | [7523](https://www.acmicpc.net/problem/7523) | Gauß | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/07xxx/07523.cpp) |
@@ -1064,6 +1065,7 @@
 | [11176](https://www.acmicpc.net/problem/11176) | In the Shower | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11176.cpp) |
 | [11179](https://www.acmicpc.net/problem/11179) | 2진수 뒤집기 | ![Bronze I](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/5.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11179.cpp) |
 | [11257](https://www.acmicpc.net/problem/11257) | IT Passport Examination | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11257.cpp) |
+| [11258](https://www.acmicpc.net/problem/11258) | Thai Lottery Checking | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11258.cpp) |
 | [11269](https://www.acmicpc.net/problem/11269) | Cryptographer’s Conundrum | ![Bronze II](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/4.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11269.cpp) |
 | [11279](https://www.acmicpc.net/problem/11279) | 최대 힙 | ![Silver II](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/9.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11279.cpp) |
 | [11282](https://www.acmicpc.net/problem/11282) | 한글 | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [Python](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11282.py) |
@@ -1600,6 +1602,7 @@
 | [17884](https://www.acmicpc.net/problem/17884) | Lost Lineup | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17884.cpp) |
 | [17903](https://www.acmicpc.net/problem/17903) | Counting Clauses | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17903.cpp) |
 | [17912](https://www.acmicpc.net/problem/17912) | License to Launch | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17912.cpp) |
+| [17924](https://www.acmicpc.net/problem/17924) | Cooking Water | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17924.cpp) |
 | [17944](https://www.acmicpc.net/problem/17944) | 퐁당퐁당 1 | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17944.cpp) |
 | [17945](https://www.acmicpc.net/problem/17945) | 통학의 신 | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17945.cpp) |
 | [17946](https://www.acmicpc.net/problem/17946) | 피자는 나눌 수록 커지잖아요 | ![Bronze II](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/4.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17946.cpp) |
@@ -1716,6 +1719,7 @@
 | [21197](https://www.acmicpc.net/problem/21197) | Stopwatch | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/21xxx/21197.cpp) |
 | [21200](https://www.acmicpc.net/problem/21200) | Forced Choice | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/21xxx/21200.cpp) |
 | [21212](https://www.acmicpc.net/problem/21212) | Cakes | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/21xxx/21212.cpp) |
+| [21280](https://www.acmicpc.net/problem/21280) | Förvirrad föreläsare | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/21xxx/21280.cpp) |
 | [21300](https://www.acmicpc.net/problem/21300) | Bottle Return | ![Bronze V](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/1.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/21xxx/21300.cpp) |
 | [21312](https://www.acmicpc.net/problem/21312) | 홀짝 칵테일 | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/21xxx/21312.cpp) |
 | [21335](https://www.acmicpc.net/problem/21335) | Another Eruption | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/21xxx/21335.cpp) |
@@ -1747,6 +1751,7 @@
 | [21964](https://www.acmicpc.net/problem/21964) | 선린인터넷고등학교 교가 | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/21xxx/21964.cpp) |
 | [21983](https://www.acmicpc.net/problem/21983) | Basalt Breakdown | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/21xxx/21983.cpp) |
 | [22015](https://www.acmicpc.net/problem/22015) | 金平糖 (Konpeito) | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/22xxx/22015.cpp) |
+| [22093](https://www.acmicpc.net/problem/22093) | Соцопрос | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/22xxx/22093.cpp) |
 | [22123](https://www.acmicpc.net/problem/22123) | Экзамен | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/22xxx/22123.cpp) |
 | [22150](https://www.acmicpc.net/problem/22150) | Шоколадка | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/22xxx/22150.cpp) |
 | [22155](https://www.acmicpc.net/problem/22155) | Простая задача | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/22xxx/22155.cpp) |
@@ -1835,7 +1840,9 @@
 | [24312](https://www.acmicpc.net/problem/24312) | ДИНИ | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/24xxx/24312.cpp) |
 | [24313](https://www.acmicpc.net/problem/24313) | 알고리즘 수업 - 점근적 표기 1 | ![Silver V](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/6.svg) | [C](https://github.com/Hiyabye/Baekjoon/blob/main/24xxx/24313.c) |
 | [24314](https://www.acmicpc.net/problem/24314) | 알고리즘 수업 - 점근적 표기 2 | ![Silver V](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/6.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/24xxx/24314.cpp) |
+| [24333](https://www.acmicpc.net/problem/24333) | СРЕЩА НА ПРИЯТЕЛИ | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/24xxx/24333.cpp) |
 | [24348](https://www.acmicpc.net/problem/24348) | ИЗРАЗ | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/24xxx/24348.cpp) |
+| [24349](https://www.acmicpc.net/problem/24349) | МЕД | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/24xxx/24349.cpp) |
 | [24356](https://www.acmicpc.net/problem/24356) | ЧАСОВНИК | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/24xxx/24356.cpp) |
 | [24365](https://www.acmicpc.net/problem/24365) | ПЧЕЛИЧКАТА МАЯ | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/24xxx/24365.cpp) |
 | [24387](https://www.acmicpc.net/problem/24387) | ИЗЛОЖЕНИЕ НА ПЧЕЛЕН МЕД | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/24xxx/24387.cpp) |
@@ -1858,6 +1865,7 @@
 | [24751](https://www.acmicpc.net/problem/24751) | Betting | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/24xxx/24751.cpp) |
 | [24768](https://www.acmicpc.net/problem/24768) | Left Beehind | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/24xxx/24768.cpp) |
 | [24783](https://www.acmicpc.net/problem/24783) | Number Fun | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/24xxx/24783.cpp) |
+| [24803](https://www.acmicpc.net/problem/24803) | Provinces and Gold | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/24xxx/24803.cpp) |
 | [24805](https://www.acmicpc.net/problem/24805) | Climbing Worm | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/24xxx/24805.cpp) |
 | [24807](https://www.acmicpc.net/problem/24807) | Math Homework | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/24xxx/24807.cpp) |
 | [24830](https://www.acmicpc.net/problem/24830) | Broken Calculator | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/24xxx/24830.cpp) |
@@ -1949,8 +1957,10 @@
 | [25904](https://www.acmicpc.net/problem/25904) | 안녕 클레오파트라 세상에서 제일가는 포테이토칩 | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25904.cpp) |
 | [25915](https://www.acmicpc.net/problem/25915) | 연세여 사랑한다 | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25915.cpp) |
 | [25932](https://www.acmicpc.net/problem/25932) | Find the Twins | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25932.cpp) |
+| [25933](https://www.acmicpc.net/problem/25933) | Medal Ranking | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25933.cpp) |
 | [25955](https://www.acmicpc.net/problem/25955) | APC는 쉬운 난이도 순일까, 아닐까? | ![Silver IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/7.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25955.cpp) |
 | [25965](https://www.acmicpc.net/problem/25965) | 미션 도네이션 | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25965.cpp) |
+| [25985](https://www.acmicpc.net/problem/25985) | Fastestest Function | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25985.cpp) |
 | [25991](https://www.acmicpc.net/problem/25991) | Lots of Liquid | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25991.cpp) |
 | [26004](https://www.acmicpc.net/problem/26004) | HI-ARC | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26004.cpp) |
 | [26026](https://www.acmicpc.net/problem/26026) | Coffee Cup Combo | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26026.cpp) |
@@ -1977,6 +1987,7 @@
 | [26500](https://www.acmicpc.net/problem/26500) | Absolutely | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26500.cpp) |
 | [26502](https://www.acmicpc.net/problem/26502) | Decoder | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26502.cpp) |
 | [26509](https://www.acmicpc.net/problem/26509) | Triangle | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26509.cpp) |
+| [26510](https://www.acmicpc.net/problem/26510) | V for Vendetta | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26510.cpp) |
 | [26517](https://www.acmicpc.net/problem/26517) | 연속인가? ? | ![Silver V](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/6.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26517.cpp) |
 | [26518](https://www.acmicpc.net/problem/26518) | 수열의 극한값 | ![Silver II](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/9.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26518.cpp) |
 | [26529](https://www.acmicpc.net/problem/26529) | Bunnies | ![Bronze II](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/4.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26529.cpp) |
@@ -1993,6 +2004,7 @@
 | [26566](https://www.acmicpc.net/problem/26566) | Pizza | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26566.cpp) |
 | [26574](https://www.acmicpc.net/problem/26574) | Copier | ![Bronze V](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/1.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26574.cpp) |
 | [26575](https://www.acmicpc.net/problem/26575) | Pups | ![Bronze V](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/1.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26575.cpp) |
+| [26583](https://www.acmicpc.net/problem/26583) | Scale | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26583.cpp) |
 | [26592](https://www.acmicpc.net/problem/26592) | Triangle Height | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26592.cpp) |
 | [26594](https://www.acmicpc.net/problem/26594) | ZOAC 5 | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26594.cpp) |
 | [26595](https://www.acmicpc.net/problem/26595) | 전투의 신 | ![Silver V](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/6.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26595.cpp) |
@@ -2003,6 +2015,7 @@
 | [26736](https://www.acmicpc.net/problem/26736) | Wynik meczu | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26736.cpp) |
 | [26741](https://www.acmicpc.net/problem/26741) | Farma | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26741.cpp) |
 | [26742](https://www.acmicpc.net/problem/26742) | Skarpetki | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26742.cpp) |
+| [26752](https://www.acmicpc.net/problem/26752) | Zegarek | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26752.cpp) |
 | [26766](https://www.acmicpc.net/problem/26766) | Serca | ![Bronze V](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/1.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26766.cpp) |
 | [26767](https://www.acmicpc.net/problem/26767) | Hurra! | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26767.cpp) |
 | [26768](https://www.acmicpc.net/problem/26768) | H4x0r | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/26xxx/26768.cpp) |
@@ -2018,10 +2031,13 @@
 | [27159](https://www.acmicpc.net/problem/27159) | 노 땡스! | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27159.cpp) |
 | [27172](https://www.acmicpc.net/problem/27172) | 수 나누기 게임 | ![Gold V](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/11.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27172.cpp) |
 | [27182](https://www.acmicpc.net/problem/27182) | Rain Diary | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27182.cpp) |
+| [27194](https://www.acmicpc.net/problem/27194) | Meeting Near the Fountain | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27194.cpp) |
 | [27213](https://www.acmicpc.net/problem/27213) | Граничные клетки | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27213.cpp) |
 | [27219](https://www.acmicpc.net/problem/27219) | Робинзон Крузо | ![Bronze V](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/1.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27219.cpp) |
+| [27225](https://www.acmicpc.net/problem/27225) | Класс | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27225.cpp) |
 | [27239](https://www.acmicpc.net/problem/27239) | Шахматная доска | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27239.cpp) |
 | [27245](https://www.acmicpc.net/problem/27245) | Комната | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27245.cpp) |
+| [27251](https://www.acmicpc.net/problem/27251) | Звездочки | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27251.cpp) |
 | [27257](https://www.acmicpc.net/problem/27257) | Любитель нулей | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27257.cpp) |
 | [27262](https://www.acmicpc.net/problem/27262) | Лифт | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27262.cpp) |
 | [27267](https://www.acmicpc.net/problem/27267) | Сравнение комнат | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27267.cpp) |
@@ -2083,6 +2099,7 @@
 | [28135](https://www.acmicpc.net/problem/28135) | Since 1973 | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28135.cpp) |
 | [28214](https://www.acmicpc.net/problem/28214) | 크림빵 | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28214.cpp) |
 | [28224](https://www.acmicpc.net/problem/28224) | Final Price | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28224.cpp) |
+| [28225](https://www.acmicpc.net/problem/28225) | Flower Festival | ![Bronze III](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/3.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28225.cpp) |
 | [28235](https://www.acmicpc.net/problem/28235) | 코드마스터 2023 | ![Bronze V](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/1.svg) | [C](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28235.c) [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28235.cpp) |
 | [28248](https://www.acmicpc.net/problem/28248) | Deliv-e-droid | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28248.cpp) |
 | [28249](https://www.acmicpc.net/problem/28249) | Chili Peppers | ![Bronze IV](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/2.svg) | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28249.cpp) |
