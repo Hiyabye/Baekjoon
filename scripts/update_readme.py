@@ -42,7 +42,8 @@ def get_problem_tier(level):
     21: "Diamond V", 22: "Diamond IV", 23: "Diamond III", 24: "Diamond II", 25: "Diamond I",
     26: "Ruby V", 27: "Ruby IV", 28: "Ruby III", 29: "Ruby II", 30: "Ruby I"
   }
-  return f"![{tier[level]}](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/{level}.svg)"
+  # return f"![{tier[level]}](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/{level}.svg)"
+  return tier[level]
 
 # 문제 번호를 입력받아 솔루션 경로를 모두 반환 (문자열로)
 def get_solution_path(id):
