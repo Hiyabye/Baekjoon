@@ -1,0 +1,204 @@
+get A
+get B
+get C
+get D
+get E
+get F
+get G
+get H
+get I
+get J
+get K
+get L
+get M
+get N
+get O
+get P
+get Q
+get R
+get S
+
+mov Z S
+shl Z 1
+or Z R
+shl Z 1
+or Z Q
+shl Z 1
+or Z P
+shl Z 1
+or Z O
+shl Z 1
+or Z N
+shl Z 1
+or Z M
+
+mov Y L
+shl Y 1
+or Y K
+shl Y 1
+or Y J
+shl Y 1
+or Y I
+shl Y 1
+or Y H
+shl Y 1
+or Y G
+
+mov X F
+shl X 1
+or X E
+shl X 1
+or X D
+shl X 1
+or X C
+shl X 1
+or X B
+shl X 1
+or X A
+
+mov A X
+and A Y
+mov B Y
+and B Z
+mov C Z
+and C X
+mov D A
+or D B
+or D C
+
+mov E D
+not E
+
+mov F X
+or F Y
+or F Z
+
+mov G E
+and G F
+
+mov H X
+and H Y
+and H Z
+
+mov I G
+or I H
+
+mov J I
+not J
+
+mov K E
+and K J
+
+mov L D
+and L J
+
+mov M Y
+or M Z
+and M G
+mov N Y
+and N Z
+and N L
+or M N
+or M K
+
+mov O Z
+or O X
+and O G
+mov P Z
+and P X
+and P L
+or O P
+or O K
+
+mov Q X
+or Q Y
+and Q G
+mov R X
+and R Y
+and R L
+or Q R
+or Q K
+
+mov X M
+mov Y O
+mov Z Q
+
+mov A X
+and A 1
+shr X 1
+mov B X
+and B 1
+shr X 1
+mov C X
+and C 1
+shr X 1
+mov D X
+and D 1
+shr X 1
+mov E X
+and E 1
+shr X 1
+mov F X
+and F 1
+shr X 1
+
+mov G Y
+and G 1
+shr Y 1
+mov H Y
+and H 1
+shr Y 1
+mov I Y
+and I 1
+shr Y 1
+mov J Y
+and J 1
+shr Y 1
+mov K Y
+and K 1
+shr Y 1
+mov L Y
+and L 1
+shr Y 1
+
+mov M Z
+and M 1
+shr Z 1
+mov N Z
+and N 1
+shr Z 1
+mov O Z
+and O 1
+shr Z 1
+mov P Z
+and P 1
+shr Z 1
+mov Q Z
+and Q 1
+shr Z 1
+mov R Z
+and R 1
+shr Z 1
+mov S Z
+and S 1
+shr Z 1
+
+put A
+put B
+put C
+put D
+put E
+put F
+put G
+put H
+put I
+put J
+put K
+put L
+put M
+put N
+put O
+put P
+put Q
+put R
+put S
