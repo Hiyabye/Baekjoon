@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-04-27 09:46:57 (KST)
+마지막으로 업데이트: 2024-04-28 09:52:19 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -1537,6 +1537,7 @@
 | [15989](https://www.acmicpc.net/problem/15989) | 1, 2, 3 더하기 4 | Gold V | [C](https://github.com/Hiyabye/Baekjoon/blob/main/15xxx/15989.c) |
 | [15990](https://www.acmicpc.net/problem/15990) | 1, 2, 3 더하기 5 | Silver II | [C](https://github.com/Hiyabye/Baekjoon/blob/main/15xxx/15990.c) |
 | [15992](https://www.acmicpc.net/problem/15992) | 1, 2, 3 더하기 7 | Silver I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/15xxx/15992.cpp) |
+| [15995](https://www.acmicpc.net/problem/15995) | 잉여역수 구하기 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/15xxx/15995.cpp) |
 | [15999](https://www.acmicpc.net/problem/15999) | 뒤집기 | Gold III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/15xxx/15999.cpp) |
 | [16017](https://www.acmicpc.net/problem/16017) | Telemarketer or not? | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/16xxx/16017.cpp) |
 | [16088](https://www.acmicpc.net/problem/16088) | Finding Your Coach | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/16xxx/16088.cpp) |
@@ -2173,7 +2174,7 @@
 | [27465](https://www.acmicpc.net/problem/27465) | 소수가 아닌 수 | Bronze III | [C](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27465.c) |
 | [27475](https://www.acmicpc.net/problem/27475) | Cancel the Trains | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27475.cpp) |
 | [27481](https://www.acmicpc.net/problem/27481) | Hotelier | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27481.cpp) |
-| [27494](https://www.acmicpc.net/problem/27494) | 2023년은 검은 토끼의 해 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27494.cpp) |
+| [27494](https://www.acmicpc.net/problem/27494) | 2023년은 검은 토끼의 해 | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27494.cpp) |
 | [27512](https://www.acmicpc.net/problem/27512) | 스네이크 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27512.cpp) |
 | [27514](https://www.acmicpc.net/problem/27514) | 1차원 2048 | Silver III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27514.cpp) |
 | [27515](https://www.acmicpc.net/problem/27515) | 1차원 2048과 쿼리 | Silver II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27515.cpp) |
