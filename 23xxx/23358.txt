@@ -1,0 +1,9 @@
+>n 0 >a 1 >b
+:start Znend
+Pa
+<a <b + >c
+<b >a <c >b
+<n 1 - >n
+Jstart
+:end
+Q
