@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-05-09 09:48:45 (KST)
+마지막으로 업데이트: 2024-05-10 09:48:43 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -2380,6 +2380,7 @@
 | [28224](https://www.acmicpc.net/problem/28224) | Final Price | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28224.cpp) |
 | [28225](https://www.acmicpc.net/problem/28225) | Flower Festival | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28225.cpp) |
 | [28235](https://www.acmicpc.net/problem/28235) | 코드마스터 2023 | Bronze V | [C](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28235.c) [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28235.cpp) |
+| [28239](https://www.acmicpc.net/problem/28239) | 배고파(Easy) | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28239.cpp) |
 | [28248](https://www.acmicpc.net/problem/28248) | Deliv-e-droid | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28248.cpp) |
 | [28249](https://www.acmicpc.net/problem/28249) | Chili Peppers | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28249.cpp) |
 | [28278](https://www.acmicpc.net/problem/28278) | 스택 2 | Silver IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28278.cpp) |
