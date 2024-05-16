@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-05-15 09:49:42 (KST)
+마지막으로 업데이트: 2024-05-16 09:49:46 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -155,6 +155,7 @@
 | [1568](https://www.acmicpc.net/problem/1568) | 새 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01568.cpp) |
 | [1592](https://www.acmicpc.net/problem/1592) | 영식이와 친구들 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01592.cpp) |
 | [1598](https://www.acmicpc.net/problem/1598) | 꼬리를 무는 숫자 나열 | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01598.cpp) |
+| [1602](https://www.acmicpc.net/problem/1602) | 도망자 원숭이 | Platinum III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01602.cpp) |
 | [1613](https://www.acmicpc.net/problem/1613) | 역사 | Gold III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01613.cpp) |
 | [1620](https://www.acmicpc.net/problem/1620) | 나는야 포켓몬 마스터 이다솜 | Silver IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01620.cpp) |
 | [1629](https://www.acmicpc.net/problem/1629) | 곱셈 | Silver I | [C](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01629.c) |
@@ -577,6 +578,7 @@
 | [4471](https://www.acmicpc.net/problem/4471) | The Navi-Computer is Down! | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/04xxx/04471.cpp) |
 | [4493](https://www.acmicpc.net/problem/4493) | 가위 바위 보? | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/04xxx/04493.cpp) |
 | [4504](https://www.acmicpc.net/problem/4504) | 배수 찾기 | Bronze III | [C](https://github.com/Hiyabye/Baekjoon/blob/main/04xxx/04504.c) |
+| [4539](https://www.acmicpc.net/problem/4539) | 반올림 | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/04xxx/04539.cpp) |
 | [4562](https://www.acmicpc.net/problem/4562) | No Brainer | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/04xxx/04562.cpp) |
 | [4564](https://www.acmicpc.net/problem/4564) | 숫자 카드놀이 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/04xxx/04564.cpp) |
 | [4573](https://www.acmicpc.net/problem/4573) | Pizza Pricing | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/04xxx/04573.cpp) |
@@ -1101,6 +1103,7 @@
 | [10872](https://www.acmicpc.net/problem/10872) | 팩토리얼 | Bronze III | [C](https://github.com/Hiyabye/Baekjoon/blob/main/10xxx/10872.c) [C++](https://github.com/Hiyabye/Baekjoon/blob/main/10xxx/10872.cpp) |
 | [10874](https://www.acmicpc.net/problem/10874) | 이교수님의 시험 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/10xxx/10874.cpp) |
 | [10886](https://www.acmicpc.net/problem/10886) | 0 = not cute / 1 = cute | Bronze III | [C](https://github.com/Hiyabye/Baekjoon/blob/main/10xxx/10886.c) |
+| [10895](https://www.acmicpc.net/problem/10895) | Great Pow! | Silver II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/10xxx/10895.cpp) |
 | [10902](https://www.acmicpc.net/problem/10902) | Penalty calculation | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/10xxx/10902.cpp) |
 | [10926](https://www.acmicpc.net/problem/10926) | ??! | Bronze V | [C](https://github.com/Hiyabye/Baekjoon/blob/main/10xxx/10926.c) [C++](https://github.com/Hiyabye/Baekjoon/blob/main/10xxx/10926.cpp) |
 | [10927](https://www.acmicpc.net/problem/10927) | MD5 | Unrated | [Python](https://github.com/Hiyabye/Baekjoon/blob/main/10xxx/10927.py) |
@@ -1216,6 +1219,7 @@
 | [11444](https://www.acmicpc.net/problem/11444) | 피보나치 수 6 | Gold II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11444.cpp) |
 | [11466](https://www.acmicpc.net/problem/11466) | Alex Origami Squares | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11466.cpp) |
 | [11478](https://www.acmicpc.net/problem/11478) | 서로 다른 부분 문자열의 개수 | Silver III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11478.cpp) |
+| [11501](https://www.acmicpc.net/problem/11501) | 주식 | Silver II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11501.cpp) |
 | [11505](https://www.acmicpc.net/problem/11505) | 구간 곱 구하기 | Gold I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11505.cpp) |
 | [11507](https://www.acmicpc.net/problem/11507) | 카드셋트 | Silver IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11507.cpp) |
 | [11508](https://www.acmicpc.net/problem/11508) | 2+1 세일 | Silver IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11508.cpp) |
@@ -2035,6 +2039,7 @@
 | [23234](https://www.acmicpc.net/problem/23234) | The World Responds | Bronze V | [C](https://github.com/Hiyabye/Baekjoon/blob/main/23xxx/23234.c) |
 | [23235](https://www.acmicpc.net/problem/23235) | The Fastest Sorting Algorithm In The World | Bronze V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/23xxx/23235.cpp) |
 | [23251](https://www.acmicpc.net/problem/23251) | 스물셋 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/23xxx/23251.cpp) |
+| [23253](https://www.acmicpc.net/problem/23253) | 자료구조는 정말 최고야 | Silver V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/23xxx/23253.cpp) |
 | [23274](https://www.acmicpc.net/problem/23274) | Joint Jog Jam | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/23xxx/23274.cpp) |
 | [23303](https://www.acmicpc.net/problem/23303) | 이 문제는 D2 입니다. | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/23xxx/23303.cpp) |
 | [23320](https://www.acmicpc.net/problem/23320) | 홍익 절대평가 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/23xxx/23320.cpp) |
@@ -2430,6 +2435,7 @@
 | [28417](https://www.acmicpc.net/problem/28417) | 스케이트보드 | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28417.cpp) |
 | [28431](https://www.acmicpc.net/problem/28431) | 양말 짝 맞추기 | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28431.cpp) |
 | [28432](https://www.acmicpc.net/problem/28432) | 끝말잇기 | Silver V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28432.cpp) |
+| [28438](https://www.acmicpc.net/problem/28438) | 행렬 연산 (행렬 계산하기) | Silver III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28438.cpp) |
 | [28444](https://www.acmicpc.net/problem/28444) | HI-ARC=? | Bronze V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28444.cpp) |
 | [28453](https://www.acmicpc.net/problem/28453) | Previous Level | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28453.cpp) |
 | [28454](https://www.acmicpc.net/problem/28454) | Gift Expire Date | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28454.cpp) |
@@ -2479,6 +2485,7 @@
 | [29608](https://www.acmicpc.net/problem/29608) | Диагональное преобладание | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29608.cpp) |
 | [29614](https://www.acmicpc.net/problem/29614) | 학점계산프로그램 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29614.cpp) |
 | [29623](https://www.acmicpc.net/problem/29623) | Квадратный корень | Bronze II | [Python](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29623.py) |
+| [29627](https://www.acmicpc.net/problem/29627) | Ноутбук | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29627.cpp) |
 | [29657](https://www.acmicpc.net/problem/29657) | Стандарты времени | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29657.cpp) |
 | [29666](https://www.acmicpc.net/problem/29666) | Блокировка телефона | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29666.cpp) |
 | [29667](https://www.acmicpc.net/problem/29667) | Ответный матч | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29667.cpp) |
@@ -2603,6 +2610,7 @@
 | [31090](https://www.acmicpc.net/problem/31090) | 2023은 무엇이 특별할까? | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31090.cpp) |
 | [31097](https://www.acmicpc.net/problem/31097) | Astrology | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31097.cpp) |
 | [31216](https://www.acmicpc.net/problem/31216) | 슈퍼 소수 | Silver V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31216.cpp) |
+| [31229](https://www.acmicpc.net/problem/31229) | 또 수열 문제야 | Silver V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31229.cpp) |
 | [31243](https://www.acmicpc.net/problem/31243) | ВРЕМЕ | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31243.cpp) |
 | [31258](https://www.acmicpc.net/problem/31258) | МАКСИМАЛНА ПЕЧАЛБА | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31258.cpp) |
 | [31261](https://www.acmicpc.net/problem/31261) | НАМИСЛИХ СИ ЧИСЛО | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31261.cpp) |
@@ -2666,6 +2674,11 @@
 | [31803](https://www.acmicpc.net/problem/31803) | 교실 배정 | Silver III | [Python](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31803.py) |
 | [31821](https://www.acmicpc.net/problem/31821) | 학식 사주기 | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31821.cpp) |
 | [31822](https://www.acmicpc.net/problem/31822) | 재수강 | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31822.cpp) |
+| [31823](https://www.acmicpc.net/problem/31823) | 악질 검거 | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31823.cpp) |
+| [31824](https://www.acmicpc.net/problem/31824) | 근로장학생 | Silver III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31824.cpp) |
+| [31825](https://www.acmicpc.net/problem/31825) | 알파벳과 쿼리 (Easy) | Silver V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31825.cpp) |
+| [31826](https://www.acmicpc.net/problem/31826) | 주식 시장 | Silver III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31826.cpp) |
+| [31827](https://www.acmicpc.net/problem/31827) | 소수 수열 | Silver I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31827.cpp) |
 | [31831](https://www.acmicpc.net/problem/31831) | 과민성 대장 증후군 | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31831.cpp) |
 | [31832](https://www.acmicpc.net/problem/31832) | 팀명 정하기 2 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31832.cpp) |
 | [31833](https://www.acmicpc.net/problem/31833) | 온데간데없을뿐더러 | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31833.cpp) |
