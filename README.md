@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-05-16 09:49:46 (KST)
+마지막으로 업데이트: 2024-05-17 09:49:50 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -2485,7 +2485,8 @@
 | [29608](https://www.acmicpc.net/problem/29608) | Диагональное преобладание | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29608.cpp) |
 | [29614](https://www.acmicpc.net/problem/29614) | 학점계산프로그램 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29614.cpp) |
 | [29623](https://www.acmicpc.net/problem/29623) | Квадратный корень | Bronze II | [Python](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29623.py) |
-| [29627](https://www.acmicpc.net/problem/29627) | Ноутбук | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29627.cpp) |
+| [29627](https://www.acmicpc.net/problem/29627) | Ноутбук | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29627.cpp) |
+| [29648](https://www.acmicpc.net/problem/29648) | Разрезание заготовки | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29648.cpp) |
 | [29657](https://www.acmicpc.net/problem/29657) | Стандарты времени | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29657.cpp) |
 | [29666](https://www.acmicpc.net/problem/29666) | Блокировка телефона | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29666.cpp) |
 | [29667](https://www.acmicpc.net/problem/29667) | Ответный матч | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29667.cpp) |
