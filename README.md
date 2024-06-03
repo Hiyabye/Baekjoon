@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-06-02 09:54:43 (KST)
+마지막으로 업데이트: 2024-06-03 09:52:17 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -2693,6 +2693,8 @@
 | [30993](https://www.acmicpc.net/problem/30993) | 자동차 주차 | Silver V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/30xxx/30993.cpp) |
 | [30999](https://www.acmicpc.net/problem/30999) | 민주주의 | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/30xxx/30999.cpp) |
 | [31009](https://www.acmicpc.net/problem/31009) | 진주로 가자! (Easy) | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31009.cpp) |
+| [31048](https://www.acmicpc.net/problem/31048) | Last Factorial Digit | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31048.cpp) |
+| [31052](https://www.acmicpc.net/problem/31052) | Relocation | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31052.cpp) |
 | [31067](https://www.acmicpc.net/problem/31067) | 다오의 경주 대회 | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31067.cpp) |
 | [31090](https://www.acmicpc.net/problem/31090) | 2023은 무엇이 특별할까? | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31090.cpp) |
 | [31097](https://www.acmicpc.net/problem/31097) | Astrology | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31097.cpp) |
