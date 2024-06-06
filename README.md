@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-06-05 09:51:28 (KST)
+마지막으로 업데이트: 2024-06-06 09:51:18 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -916,6 +916,7 @@
 | [8979](https://www.acmicpc.net/problem/8979) | 올림픽 | Silver V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/08xxx/08979.cpp) |
 | [9012](https://www.acmicpc.net/problem/9012) | 괄호 | Silver IV | [C](https://github.com/Hiyabye/Baekjoon/blob/main/09xxx/09012.c) |
 | [9020](https://www.acmicpc.net/problem/9020) | 골드바흐의 추측 | Silver II | [C](https://github.com/Hiyabye/Baekjoon/blob/main/09xxx/09020.c) |
+| [9027](https://www.acmicpc.net/problem/9027) | Stadium | Gold V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/09xxx/09027.cpp) |
 | [9046](https://www.acmicpc.net/problem/9046) | 복호화 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/09xxx/09046.cpp) |
 | [9047](https://www.acmicpc.net/problem/9047) | 6174 | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/09xxx/09047.cpp) |
 | [9063](https://www.acmicpc.net/problem/9063) | 대지 | Bronze III | [C](https://github.com/Hiyabye/Baekjoon/blob/main/09xxx/09063.c) |
@@ -1885,7 +1886,7 @@
 | [17884](https://www.acmicpc.net/problem/17884) | Lost Lineup | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17884.cpp) |
 | [17903](https://www.acmicpc.net/problem/17903) | Counting Clauses | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17903.cpp) |
 | [17912](https://www.acmicpc.net/problem/17912) | License to Launch | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17912.cpp) |
-| [17924](https://www.acmicpc.net/problem/17924) | Cooking Water | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17924.cpp) |
+| [17924](https://www.acmicpc.net/problem/17924) | Cooking Water | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17924.cpp) |
 | [17944](https://www.acmicpc.net/problem/17944) | 퐁당퐁당 1 | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17944.cpp) |
 | [17945](https://www.acmicpc.net/problem/17945) | 통학의 신 | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17945.cpp) |
 | [17946](https://www.acmicpc.net/problem/17946) | 피자는 나눌 수록 커지잖아요 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/17xxx/17946.cpp) |
@@ -2557,7 +2558,7 @@
 | [29002](https://www.acmicpc.net/problem/29002) | Космический корабль | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29002.cpp) |
 | [29029](https://www.acmicpc.net/problem/29029) | Фигурки | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29029.cpp) |
 | [29064](https://www.acmicpc.net/problem/29064) | Обучение войск | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29064.cpp) |
-| [29074](https://www.acmicpc.net/problem/29074) | Почти любимые числа | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29074.cpp) |
+| [29074](https://www.acmicpc.net/problem/29074) | Почти любимые числа | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29074.cpp) |
 | [29108](https://www.acmicpc.net/problem/29108) | Логины | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29108.cpp) |
 | [29159](https://www.acmicpc.net/problem/29159) | 케이크 두 개 | Silver III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29159.cpp) |
 | [29163](https://www.acmicpc.net/problem/29163) | Счастье Мистера Бина | Bronze V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/29xxx/29163.cpp) |
