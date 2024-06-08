@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-06-07 09:53:37 (KST)
+마지막으로 업데이트: 2024-06-08 09:51:52 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -1403,6 +1403,7 @@
 | [13224](https://www.acmicpc.net/problem/13224) | Chop Cup | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13224.cpp) |
 | [13225](https://www.acmicpc.net/problem/13225) | Divisors | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13225.cpp) |
 | [13228](https://www.acmicpc.net/problem/13228) | The REAL Manhattan distance | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13228.cpp) |
+| [13234](https://www.acmicpc.net/problem/13234) | George Boole | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13234.cpp) |
 | [13235](https://www.acmicpc.net/problem/13235) | 팰린드롬 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13235.cpp) |
 | [13236](https://www.acmicpc.net/problem/13236) | Collatz Conjecture | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13236.cpp) |
 | [13240](https://www.acmicpc.net/problem/13240) | Chessboard | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13240.cpp) |
@@ -2496,6 +2497,7 @@
 | [27959](https://www.acmicpc.net/problem/27959) | 초코바 | Bronze V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27959.cpp) |
 | [27960](https://www.acmicpc.net/problem/27960) | 사격 내기 | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27960.cpp) |
 | [27961](https://www.acmicpc.net/problem/27961) | 고양이는 많을수록 좋다 | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27961.cpp) |
+| [27962](https://www.acmicpc.net/problem/27962) | 오렌지먹은지오랜지 | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27962.cpp) |
 | [27964](https://www.acmicpc.net/problem/27964) | 콰트로치즈피자 | Silver V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27964.cpp) |
 | [27983](https://www.acmicpc.net/problem/27983) | 리본 (Easy) | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/27xxx/27983.cpp) |
 | [28014](https://www.acmicpc.net/problem/28014) | 첨탑 밀어서 부수기 | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/28xxx/28014.cpp) |
