@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-06-15 09:51:58 (KST)
+마지막으로 업데이트: 2024-06-16 09:56:26 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -1448,6 +1448,7 @@
 | [13304](https://www.acmicpc.net/problem/13304) | 방 배정 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13304.cpp) |
 | [13305](https://www.acmicpc.net/problem/13305) | 주유소 | Silver III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13305.cpp) |
 | [13311](https://www.acmicpc.net/problem/13311) | 행운의 편지 | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13311.cpp) |
+| [13312](https://www.acmicpc.net/problem/13312) | 아크코사인은 믿음입니다 | Gold IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13312.cpp) |
 | [13322](https://www.acmicpc.net/problem/13322) | 접두사 배열 | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13322.cpp) |
 | [13333](https://www.acmicpc.net/problem/13333) | Q-인덱스 | Silver V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13333.cpp) |
 | [13335](https://www.acmicpc.net/problem/13335) | 트럭 | Silver I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/13xxx/13335.cpp) |
@@ -2373,6 +2374,7 @@
 | [25569](https://www.acmicpc.net/problem/25569) | My뷰 꾸미기 | Platinum IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25569.cpp) |
 | [25576](https://www.acmicpc.net/problem/25576) | 찾았다 악질 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25576.cpp) |
 | [25591](https://www.acmicpc.net/problem/25591) | 푸앙이와 종윤이 | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25591.cpp) |
+| [25592](https://www.acmicpc.net/problem/25592) | 바둑돌 게임 | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25592.cpp) |
 | [25594](https://www.acmicpc.net/problem/25594) | HG 음성기호 | Silver V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25594.cpp) |
 | [25600](https://www.acmicpc.net/problem/25600) | Triathlon | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25600.cpp) |
 | [25625](https://www.acmicpc.net/problem/25625) | 샤틀버스 | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25625.cpp) |
@@ -2879,7 +2881,7 @@
 | [31824](https://www.acmicpc.net/problem/31824) | 근로장학생 | Silver III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31824.cpp) |
 | [31825](https://www.acmicpc.net/problem/31825) | 알파벳과 쿼리 (Easy) | Silver V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31825.cpp) |
 | [31826](https://www.acmicpc.net/problem/31826) | 주식 시장 | Silver III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31826.cpp) |
-| [31827](https://www.acmicpc.net/problem/31827) | 소수 수열 | Silver I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31827.cpp) |
+| [31827](https://www.acmicpc.net/problem/31827) | 소수 수열 | Gold V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31827.cpp) |
 | [31831](https://www.acmicpc.net/problem/31831) | 과민성 대장 증후군 | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31831.cpp) |
 | [31832](https://www.acmicpc.net/problem/31832) | 팀명 정하기 2 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31832.cpp) |
 | [31833](https://www.acmicpc.net/problem/31833) | 온데간데없을뿐더러 | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31833.cpp) |
