@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-06-16 09:56:26 (KST)
+마지막으로 업데이트: 2024-06-17 09:54:06 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -237,7 +237,7 @@
 | [1932](https://www.acmicpc.net/problem/1932) | 정수 삼각형 | Silver I | [C](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01932.c) |
 | [1934](https://www.acmicpc.net/problem/1934) | 최소공배수 | Bronze I | [C](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01934.c) |
 | [1940](https://www.acmicpc.net/problem/1940) | 주몽 | Silver IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01940.cpp) |
-| [1942](https://www.acmicpc.net/problem/1942) | 디지털시계 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01942.cpp) |
+| [1942](https://www.acmicpc.net/problem/1942) | 디지털시계 | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01942.cpp) |
 | [1946](https://www.acmicpc.net/problem/1946) | 신입 사원 | Silver I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01946.cpp) |
 | [1952](https://www.acmicpc.net/problem/1952) | 달팽이2 | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01952.cpp) |
 | [1956](https://www.acmicpc.net/problem/1956) | 운동 | Gold IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01956.cpp) |
@@ -1966,6 +1966,7 @@
 | [18186](https://www.acmicpc.net/problem/18186) | 라면 사기 (Large) | Diamond IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/18xxx/18186.cpp) |
 | [18198](https://www.acmicpc.net/problem/18198) | Basketball One-on-One | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/18xxx/18198.cpp) |
 | [18228](https://www.acmicpc.net/problem/18228) | 펭귄추락대책위원회 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/18xxx/18228.cpp) |
+| [18229](https://www.acmicpc.net/problem/18229) | 내가 살게, 아냐 내가 살게 | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/18xxx/18229.cpp) |
 | [18238](https://www.acmicpc.net/problem/18238) | ZOAC 2 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/18xxx/18238.cpp) |
 | [18243](https://www.acmicpc.net/problem/18243) | Small World Network | Silver I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/18xxx/18243.cpp) |
 | [18245](https://www.acmicpc.net/problem/18245) | 이상한 나라의 암호 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/18xxx/18245.cpp) |
