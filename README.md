@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-06-18 09:52:55 (KST)
+마지막으로 업데이트: 2024-06-19 09:52:59 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -533,6 +533,7 @@
 | [3135](https://www.acmicpc.net/problem/3135) | 라디오 | Silver V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/03xxx/03135.cpp) |
 | [3151](https://www.acmicpc.net/problem/3151) | 합이 0 | Gold IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/03xxx/03151.cpp) |
 | [3181](https://www.acmicpc.net/problem/3181) | 줄임말 만들기 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/03xxx/03181.cpp) |
+| [3183](https://www.acmicpc.net/problem/3183) | Dates | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/03xxx/03183.cpp) |
 | [3184](https://www.acmicpc.net/problem/3184) | 양 | Silver I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/03xxx/03184.cpp) |
 | [3187](https://www.acmicpc.net/problem/3187) | 양치기 꿍 | Silver I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/03xxx/03187.cpp) |
 | [3216](https://www.acmicpc.net/problem/3216) | 다운로드 | Silver I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/03xxx/03216.cpp) |
@@ -2057,6 +2058,7 @@
 | [20154](https://www.acmicpc.net/problem/20154) | 이 구역의 승자는 누구야?! | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/20xxx/20154.cpp) |
 | [20155](https://www.acmicpc.net/problem/20155) | 우리 집 밑에 편의점이 있는데 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/20xxx/20155.cpp) |
 | [20205](https://www.acmicpc.net/problem/20205) | 교수님 그림이 깨지는데요? | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/20xxx/20205.cpp) |
+| [20206](https://www.acmicpc.net/problem/20206) | 푸앙이가 길을 건너간 이유 | Silver I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/20xxx/20206.cpp) |
 | [20215](https://www.acmicpc.net/problem/20215) | Cutting Corners | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/20xxx/20215.cpp) |
 | [20232](https://www.acmicpc.net/problem/20232) | Archivist | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/20xxx/20232.cpp) |
 | [20233](https://www.acmicpc.net/problem/20233) | Bicycle | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/20xxx/20233.cpp) |
@@ -2918,3 +2920,5 @@
 | [31924](https://www.acmicpc.net/problem/31924) | 현대모비스 특별상의 주인공은? 2 | Silver V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31924.cpp) |
 | [31925](https://www.acmicpc.net/problem/31925) | APC2shake! | Silver V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31925.cpp) |
 | [31945](https://www.acmicpc.net/problem/31945) | 정육면체의 네 꼭짓점 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31945.cpp) |
+| [31962](https://www.acmicpc.net/problem/31962) | 등교 | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31962.cpp) |
+| [31994](https://www.acmicpc.net/problem/31994) | 강당 대관 | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31994.cpp) |
