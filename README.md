@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-06-19 09:52:59 (KST)
+마지막으로 업데이트: 2024-06-20 09:51:23 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -662,6 +662,7 @@
 | [5095](https://www.acmicpc.net/problem/5095) | Matrix Powers | Gold IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/05xxx/05095.cpp) |
 | [5101](https://www.acmicpc.net/problem/5101) | Sequences | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/05xxx/05101.cpp) |
 | [5102](https://www.acmicpc.net/problem/5102) | Sarah's Toys | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/05xxx/05102.cpp) |
+| [5121](https://www.acmicpc.net/problem/5121) | Alarmist | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/05xxx/05121.cpp) |
 | [5163](https://www.acmicpc.net/problem/5163) | Isn’t It Funny How a Bear Likes Honey? | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/05xxx/05163.cpp) |
 | [5176](https://www.acmicpc.net/problem/5176) | 대회 자리 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/05xxx/05176.cpp) |
 | [5211](https://www.acmicpc.net/problem/5211) | 가단조와 다장조 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/05xxx/05211.cpp) |
@@ -2917,8 +2918,10 @@
 | [31893](https://www.acmicpc.net/problem/31893) | Bridging the Gap | Ruby IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31893.cpp) |
 | [31907](https://www.acmicpc.net/problem/31907) | GIST 찍기 | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31907.cpp) |
 | [31922](https://www.acmicpc.net/problem/31922) | 이 대회는 이제 제 겁니다 | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31922.cpp) |
+| [31923](https://www.acmicpc.net/problem/31923) | 마라탕후루 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31923.cpp) |
 | [31924](https://www.acmicpc.net/problem/31924) | 현대모비스 특별상의 주인공은? 2 | Silver V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31924.cpp) |
 | [31925](https://www.acmicpc.net/problem/31925) | APC2shake! | Silver V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31925.cpp) |
 | [31945](https://www.acmicpc.net/problem/31945) | 정육면체의 네 꼭짓점 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31945.cpp) |
 | [31962](https://www.acmicpc.net/problem/31962) | 등교 | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31962.cpp) |
 | [31994](https://www.acmicpc.net/problem/31994) | 강당 대관 | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31994.cpp) |
+| [31995](https://www.acmicpc.net/problem/31995) | 게임말 올려놓기 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/31xxx/31995.cpp) |
