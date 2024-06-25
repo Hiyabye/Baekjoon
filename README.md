@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-06-24 09:53:43 (KST)
+마지막으로 업데이트: 2024-06-25 09:52:28 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -1274,7 +1274,7 @@
 | [11328](https://www.acmicpc.net/problem/11328) | Strfry | Bronze II | [C](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11328.c) |
 | [11337](https://www.acmicpc.net/problem/11337) | Largest inscribed rectangle | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11337.cpp) |
 | [11365](https://www.acmicpc.net/problem/11365) | !밀비 급일 | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11365.cpp) |
-| [11366](https://www.acmicpc.net/problem/11366) | Tons of Orcs, no Fibbin’ | Silver IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11366.cpp) |
+| [11366](https://www.acmicpc.net/problem/11366) | Tons of Orcs, no Fibbin’ | Silver III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11366.cpp) |
 | [11367](https://www.acmicpc.net/problem/11367) | Report Card Time | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11367.cpp) |
 | [11368](https://www.acmicpc.net/problem/11368) | A Serious Reading Problem | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11368.cpp) |
 | [11382](https://www.acmicpc.net/problem/11382) | 꼬마 정민 | Bronze V | [C](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11382.c) [C++](https://github.com/Hiyabye/Baekjoon/blob/main/11xxx/11382.cpp) |
@@ -1992,6 +1992,7 @@
 | [18245](https://www.acmicpc.net/problem/18245) | 이상한 나라의 암호 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/18xxx/18245.cpp) |
 | [18247](https://www.acmicpc.net/problem/18247) | 겨울왕국 티켓 예매 | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/18xxx/18247.cpp) |
 | [18258](https://www.acmicpc.net/problem/18258) | 큐 2 | Silver IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/18xxx/18258.cpp) |
+| [18268](https://www.acmicpc.net/problem/18268) | Cow Gymnastics | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/18xxx/18268.cpp) |
 | [18269](https://www.acmicpc.net/problem/18269) | Where Am I? | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/18xxx/18269.cpp) |
 | [18290](https://www.acmicpc.net/problem/18290) | NM과 K (1) | Silver I | [C](https://github.com/Hiyabye/Baekjoon/blob/main/18xxx/18290.c) |
 | [18291](https://www.acmicpc.net/problem/18291) | 비요뜨의 징검다리 건너기 | Gold V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/18xxx/18291.cpp) |
