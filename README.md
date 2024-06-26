@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-06-25 09:52:28 (KST)
+마지막으로 업데이트: 2024-06-26 09:52:19 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -2361,6 +2361,7 @@
 | [25088](https://www.acmicpc.net/problem/25088) | Punched Cards | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25088.cpp) |
 | [25089](https://www.acmicpc.net/problem/25089) | 3D Printing | Silver IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25089.cpp) |
 | [25090](https://www.acmicpc.net/problem/25090) | d1000000 | Silver III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25090.cpp) |
+| [25165](https://www.acmicpc.net/problem/25165) | 영리한 아리의 포탈 타기 | Bronze II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25165.cpp) |
 | [25166](https://www.acmicpc.net/problem/25166) | 배고픈 아리의 샌드위치 구매하기 | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25166.cpp) |
 | [25175](https://www.acmicpc.net/problem/25175) | 두~~부 두부 두부 | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25175.cpp) |
 | [25176](https://www.acmicpc.net/problem/25176) | 청정수열 (Easy) | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/25xxx/25176.cpp) |
