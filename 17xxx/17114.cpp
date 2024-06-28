@@ -9,7 +9,7 @@ typedef struct Coord {
 
 int main(void) {
   ios::sync_with_stdio(false);
-  cin.tie(nullptr); cout.tie(nullptr);
+  cin.tie(nullptr);
 
   int m, n, o, p, q, r, s, t, u, v, w;
   cin >> m >> n >> o >> p >> q >> r >> s >> t >> u >> v >> w;

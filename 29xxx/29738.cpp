@@ -13,7 +13,7 @@ void solve(int tc) {
 
 int main(void) {
   ios::sync_with_stdio(false);
-  cin.tie(nullptr); cout.tie(nullptr);
+  cin.tie(nullptr);
 
   int tc; cin >> tc;
   for (int i=1; i<=tc; i++) solve(i);

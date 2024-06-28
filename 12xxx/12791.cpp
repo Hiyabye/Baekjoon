@@ -21,7 +21,7 @@ void solve(void) {
 
 int main(void) {
   ios::sync_with_stdio(false);
-  cin.tie(nullptr); cout.tie(nullptr);
+  cin.tie(nullptr);
 
   int q; cin >> q;
   while (q--) solve();

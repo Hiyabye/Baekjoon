@@ -19,7 +19,7 @@ void solve(vector<long long> &fac) {
 
 int main(void) {
   ios::sync_with_stdio(false);
-  cin.tie(nullptr); cout.tie(nullptr);
+  cin.tie(nullptr);
 
   // precompute
   vector<long long> fac(4000001, 1);

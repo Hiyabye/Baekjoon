@@ -19,7 +19,7 @@ void solve(string s, int n) {
 
 int main(void) {
   ios::sync_with_stdio(false);
-  cin.tie(nullptr); cout.tie(nullptr);
+  cin.tie(nullptr);
 
   for (int i=2; i<=10; i++) fact[i] = fact[i-1] * i;
 

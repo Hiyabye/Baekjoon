@@ -65,7 +65,7 @@ long long add(long long a, long long b) {
 
 int main(void) {
   ios::sync_with_stdio(false);
-  cin.tie(nullptr); cout.tie(nullptr);
+  cin.tie(nullptr);
 
   int n, m, k;
   cin >> n >> m >> k;

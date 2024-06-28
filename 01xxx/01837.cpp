@@ -35,7 +35,7 @@ void solve(vector<bool> &prime) {
 
 int main(void) {
   ios::sync_with_stdio(false);
-  cin.tie(nullptr); cout.tie(nullptr);
+  cin.tie(nullptr);
 
   vector<bool> prime = precompute();
   solve(prime);

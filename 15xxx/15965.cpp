@@ -32,7 +32,7 @@ void solve(vector<int>& prime) {
 
 int main(void) {
   ios::sync_with_stdio(false);
-  cin.tie(nullptr); cout.tie(nullptr);
+  cin.tie(nullptr);
 
   vector<int> prime = sieve(7368787);
   solve(prime);

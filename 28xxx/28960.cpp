@@ -9,7 +9,7 @@ bool solve(void) {
 
 int main(void) {
   ios::sync_with_stdio(false);
-  cin.tie(nullptr); cout.tie(nullptr);
+  cin.tie(nullptr);
 
   cout << (solve() ? "YES" : "NO");
   return 0;

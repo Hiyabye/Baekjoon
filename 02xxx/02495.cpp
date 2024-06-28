@@ -17,7 +17,7 @@ void solve(void) {
 
 int main(void) {
   ios::sync_with_stdio(false);
-  cin.tie(nullptr); cout.tie(nullptr);
+  cin.tie(nullptr);
 
   for (int i=0; i<3; i++) solve();
   return 0;

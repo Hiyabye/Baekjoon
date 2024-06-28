@@ -90,7 +90,7 @@ void solve(int n, int k) {
 
 int main(void) {
   ios::sync_with_stdio(false);
-  cin.tie(nullptr); cout.tie(nullptr);
+  cin.tie(nullptr);
 
   int n, k;
   while (cin >> n >> k) {
