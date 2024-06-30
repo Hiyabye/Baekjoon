@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 
-마지막으로 업데이트: 2024-06-29 09:51:44 (KST)
+마지막으로 업데이트: 2024-06-30 09:56:58 (KST)
 
 목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.
 
@@ -252,7 +252,7 @@
 | [1987](https://www.acmicpc.net/problem/1987) | 알파벳 | Gold IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01987.cpp) |
 | [1991](https://www.acmicpc.net/problem/1991) | 트리 순회 | Silver I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01991.cpp) |
 | [1992](https://www.acmicpc.net/problem/1992) | 쿼드트리 | Silver I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/01xxx/01992.cpp) |
-| [2002](https://www.acmicpc.net/problem/2002) | 추월 | Silver II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/02xxx/02002.cpp) |
+| [2002](https://www.acmicpc.net/problem/2002) | 추월 | Silver I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/02xxx/02002.cpp) |
 | [2003](https://www.acmicpc.net/problem/2003) | 수들의 합 2 | Silver IV | [C](https://github.com/Hiyabye/Baekjoon/blob/main/02xxx/02003.c) |
 | [2004](https://www.acmicpc.net/problem/2004) | 조합 0의 개수 | Silver II | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/02xxx/02004.cpp) |
 | [2010](https://www.acmicpc.net/problem/2010) | 플러그 | Bronze III | [C](https://github.com/Hiyabye/Baekjoon/blob/main/02xxx/02010.c) |
@@ -462,6 +462,7 @@
 | [2810](https://www.acmicpc.net/problem/2810) | 컵홀더 | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/02xxx/02810.cpp) |
 | [2822](https://www.acmicpc.net/problem/2822) | 점수 계산 | Silver V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/02xxx/02822.cpp) |
 | [2824](https://www.acmicpc.net/problem/2824) | 최대공약수 | Silver I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/02xxx/02824.cpp) |
+| [2828](https://www.acmicpc.net/problem/2828) | 사과 담기 게임 | Silver V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/02xxx/02828.cpp) |
 | [2839](https://www.acmicpc.net/problem/2839) | 설탕 배달 | Silver IV | [C](https://github.com/Hiyabye/Baekjoon/blob/main/02xxx/02839.c) |
 | [2845](https://www.acmicpc.net/problem/2845) | 파티가 끝나고 난 뒤 | Bronze IV | [C](https://github.com/Hiyabye/Baekjoon/blob/main/02xxx/02845.c) |
 | [2846](https://www.acmicpc.net/problem/2846) | 오르막길 | Bronze I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/02xxx/02846.cpp) |
@@ -2829,6 +2830,7 @@
 | [30824](https://www.acmicpc.net/problem/30824) | 피보나치 더하기 | Silver III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/30xxx/30824.cpp) |
 | [30841](https://www.acmicpc.net/problem/30841) | Ложки | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/30xxx/30841.cpp) |
 | [30868](https://www.acmicpc.net/problem/30868) | 개표 | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/30xxx/30868.cpp) |
+| [30873](https://www.acmicpc.net/problem/30873) | Hanyang Popularity Exceeding Competition | Silver V | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/30xxx/30873.cpp) |
 | [30876](https://www.acmicpc.net/problem/30876) | Tren del Fin del Mundo | Bronze IV | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/30xxx/30876.cpp) |
 | [30878](https://www.acmicpc.net/problem/30878) | 약속 시간 | Gold I | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/30xxx/30878.cpp) |
 | [30886](https://www.acmicpc.net/problem/30886) | Artistic Souvenir | Bronze III | [C++](https://github.com/Hiyabye/Baekjoon/blob/main/30xxx/30886.cpp) |
