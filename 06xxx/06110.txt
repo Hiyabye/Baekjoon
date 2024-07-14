@@ -1,0 +1,17 @@
+abcde|pppqq_qrrrs|aaa#c
+abcde|ooonn|tttss|bbbcc
+abcde|#mmmn|uuuvv|eeddd
+fggii_illlk|xwwwv|efffg
+fghhh|jjjkk|xxyyy|hhhgg
+_----+-----+-----+-----
+fjjjk|uvwxy|aaaii_ijjjk
+lllkk|uvwxy|bbbff|lllkk
+mmmnn|uvwxy|cccgf|mnopq
+ooppn|tttss|dd#gg|mnopq
+#opqq_qrrrs|deeeh|mnopq
+-----+-----+----_+-----
+aaab#|tuvwx|mmmjh|aaaf#
+cccbb|tuvwx|nnljh|bbbff
+defgh|tuvwx|onlji|cccgh
+defgh|rrsss|oolki|dddgh
+defgh|rqqqp_ppkki|eeegh
