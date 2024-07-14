@@ -22,7 +22,7 @@ def get_problems(handle, page):
 
 # 문제 번호를 입력받아 문제 URL을 반환
 def get_problem_url(id):
-  return f"https://www.acmicpc.net/problem/{id}"
+  return f"https://boj.kr/{id}"
 
 # 문제 제목의 특수문자를 처리하여 반환
 def get_problem_title(title):
@@ -42,8 +42,7 @@ def get_problem_tier(level):
     21: "Diamond V", 22: "Diamond IV", 23: "Diamond III", 24: "Diamond II", 25: "Diamond I",
     26: "Ruby V", 27: "Ruby IV", 28: "Ruby III", 29: "Ruby II", 30: "Ruby I"
   }
-  # return f"![{tier[level]}](https://raw.githubusercontent.com/Hiyabye/Baekjoon/main/assets/tier/{level}.svg)"
-  return tier[level]
+  return f'<img alt="{tier[level]}" src="./assets/tier/{level}.svg">'
 
 # 문제 번호를 입력받아 솔루션 경로를 모두 반환 (문자열로)
 def get_solution_path(id):
@@ -74,23 +73,30 @@ def get_solution_path(id):
   files.sort()
   solution = ""
   for file in files:
-    solution += f"[{ext[file[file.rfind('.'):]]}](https://github.com/Hiyabye/Baekjoon/blob/main/{file}) "
+    solution += f"[{ext[file[file.rfind('.'):]]}](./{file}) "
   return solution
 
 # README.md 헤더를 반환
 def get_header(handle):
-  header = "# Baekjoon\n\n"
-  header += "백준 알고리즘 문제 풀이 기록\n\n"
-  header += f"[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})\n\n"
+  header = '<div align="center">\n\n'
+  header += "# Baekjoon\n\n"
+  header += "**백준 문제 풀이 저장소**\n\n"
+  header += "[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHiyabye%2FBaekjoon&count_bg=%2333BBBB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)\n"
+  header += "![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Hiyabye/Baekjoon?style=flat-square)\n"
+  header += "![GitHub last commit](https://img.shields.io/github/last-commit/Hiyabye/Baekjoon?style=flat-square)\n\n"
+  header += "[![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)\n"
+  header += "![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=hiyabye&theme=warm)\n\n"
   header += "마지막으로 업데이트: "
   header += datetime.now(timezone(timedelta(hours=9))).strftime("%Y-%m-%d %H:%M:%S")
   header += " (KST)\n\n"
-  header += "목록이 너무 길어서 단축키 `Ctrl+F`로 문제를 찾는 것을 추천합니다.\n\n"
+  header += "목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.\n\n"
+  header += "코드를 그대로 복붙하는 것은 자제 부탁드립니다.\n\n"
+  header += "</div>\n\n"
   return header
 
 # README.md 테이블을 반환
 def get_table(problems):
-  table = "| # | 제목 | 레벨 | 솔루션 |\n"
+  table = "| 번호 | 제목 | 레벨 | 코드 |\n"
   table += "|:---:|:---:|:---:|:---:|\n"
 
   print("Generating table...")
@@ -121,18 +127,17 @@ if __name__ == "__main__":
     f.write(get_header("hiyabye") + get_table(problems))
 
   # README.md.tmp과 README.md을 비교하여 변경사항이 있으면 업데이트
-  # 이때 첫 9줄은 헤더이므로 비교에서 제외
+  # 이때 첫 20줄은 헤더이므로 비교에서 제외
   with open("README.md.tmp", "r", encoding="utf-8") as f:
     tmp = f.readlines()
     with open("README.md", "r", encoding="utf-8") as f:
       readme = f.readlines()
-      if tmp[9:] != readme[9:]:
+      if tmp[20:] != readme[20:]:
         with open("README.md", "w", encoding="utf-8") as f:
           f.writelines(tmp)
         print("README.md updated without errors")
       else:
         print("README.md is up to date")
-        exit(123) # exit github action with success
       
   # README.md.tmp 파일 삭제
   os.remove("README.md.tmp")
