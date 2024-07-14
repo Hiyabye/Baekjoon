@@ -1,0 +1,17 @@
+aa#cc|iijjj
+adddc|ikkkl
+befgh|mm#ll
+befgh|mooop
+befgh|nnnpp
+-----+-----
+qqqrr|yyzzz
+tsssr|y#aaa
+ttuuu|bbbcc
+vvwxx|edddc
+#vwwx|eefff
+-----+-----
+ggghh|ooopp
+jiiih|rqqqp
+jjkkk|rrt#s
+mmm#l|uttvs
+nnnll|uuvvs
