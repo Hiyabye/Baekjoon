@@ -11,7 +11,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=hiyabye&theme=warm)
 
-마지막으로 업데이트: 2024-07-20 09:52:52 (KST)
+마지막으로 업데이트: 2024-07-21 09:57:56 (KST)
 
 목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -1619,6 +1619,7 @@
 | [13655](https://boj.kr/13655) | Guarda Costeira | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./13xxx/13655.cpp) |
 | [13667](https://boj.kr/13667) | Leitura Ótica | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./13xxx/13667.cpp) |
 | [13670](https://boj.kr/13670) | Alarme Despertador | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./13xxx/13670.cpp) |
+| [13680](https://boj.kr/13680) | Dama | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./13xxx/13680.cpp) |
 | [13684](https://boj.kr/13684) | Divisão da Nlogõnia | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./13xxx/13684.cpp) |
 | [13687](https://boj.kr/13687) | Copa do Mundo | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./13xxx/13687.cpp) |
 | [13698](https://boj.kr/13698) | Hawk eyes | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./13xxx/13698.cpp) |
@@ -2397,6 +2398,7 @@
 | [22541](https://boj.kr/22541) | Sum of Consecutive Integers | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./22xxx/22541.cpp) |
 | [22656](https://boj.kr/22656) | Princess' Gamble | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./22xxx/22656.cpp) |
 | [22680](https://boj.kr/22680) | Space Coconut Crab | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./22xxx/22680.cpp) |
+| [22825](https://boj.kr/22825) | Fermat's Last Theorem | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./22xxx/22825.cpp) |
 | [22864](https://boj.kr/22864) | 피로도 | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./22xxx/22864.cpp) |
 | [22885](https://boj.kr/22885) | Reversort | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./22xxx/22885.cpp) |
 | [22886](https://boj.kr/22886) | Moons and Umbrellas | <img alt="Gold V" src="./assets/tier/11.svg"> | [C++](./22xxx/22886.cpp) |
