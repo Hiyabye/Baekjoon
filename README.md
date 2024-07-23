@@ -11,7 +11,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=hiyabye&theme=warm)
 
-마지막으로 업데이트: 2024-07-22 09:56:14 (KST)
+마지막으로 업데이트: 2024-07-23 09:54:39 (KST)
 
 목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -843,6 +843,7 @@
 | [6198](https://boj.kr/6198) | 옥상 정원 꾸미기 | <img alt="Gold V" src="./assets/tier/11.svg"> | [C++](./06xxx/06198.cpp) |
 | [6219](https://boj.kr/6219) | 소수의 자격 | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./06xxx/06219.cpp) |
 | [6246](https://boj.kr/6246) | 풍선 놀이 | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./06xxx/06246.cpp) |
+| [6318](https://boj.kr/6318) | Box of Bricks | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./06xxx/06318.cpp) |
 | [6321](https://boj.kr/6321) | IBM 빼기 1 | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./06xxx/06321.cpp) |
 | [6322](https://boj.kr/6322) | 직각 삼각형의 두 변 | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C](./06xxx/06322.c) |
 | [6359](https://boj.kr/6359) | 만취한 상범 | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./06xxx/06359.cpp) |
@@ -2876,6 +2877,7 @@
 | [27962](https://boj.kr/27962) | 오렌지먹은지오랜지 | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./27xxx/27962.cpp) |
 | [27963](https://boj.kr/27963) | 합금 주화 | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./27xxx/27963.cpp) |
 | [27964](https://boj.kr/27964) | 콰트로치즈피자 | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./27xxx/27964.cpp) |
+| [27982](https://boj.kr/27982) | 큐브 더미 | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./27xxx/27982.cpp) |
 | [27983](https://boj.kr/27983) | 리본 (Easy) | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./27xxx/27983.cpp) |
 | [28014](https://boj.kr/28014) | 첨탑 밀어서 부수기 | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./28xxx/28014.cpp) |
 | [28061](https://boj.kr/28061) | 레몬 따기 | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./28xxx/28061.cpp) |
@@ -3252,6 +3254,6 @@
 | [32047](https://boj.kr/32047) | Overtaking | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./32xxx/32047.cpp) |
 | [32048](https://boj.kr/32048) | Honeycomb Distance | <img alt="Silver II" src="./assets/tier/9.svg"> | [C++](./32xxx/32048.cpp) |
 | [32068](https://boj.kr/32068) | 보물 찾기 | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./32xxx/32068.cpp) |
-| [32076](https://boj.kr/32076) | Easy as ABC | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./32xxx/32076.cpp) |
+| [32076](https://boj.kr/32076) | Easy as ABC | <img alt="Silver IV" src="./assets/tier/7.svg"> | [C++](./32xxx/32076.cpp) |
 | [32089](https://boj.kr/32089) | 部員の変遷 | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./32xxx/32089.cpp) |
 | [32090](https://boj.kr/32090) | シンプルなエディタ | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./32xxx/32090.cpp) |
