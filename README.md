@@ -11,7 +11,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=hiyabye&theme=warm)
 
-마지막으로 업데이트: 2024-08-25 11:07:21 (KST)
+마지막으로 업데이트: 2024-08-26 10:00:31 (KST)
 
 목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -2029,6 +2029,7 @@
 | [14593](https://boj.kr/14593) | 2017 아주대학교 프로그래밍 경시대회 (Large) | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./14xxx/14593.cpp) |
 | [14606](https://boj.kr/14606) | 피자 (Small) | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./14xxx/14606.cpp) |
 | [14607](https://boj.kr/14607) | 피자 (Large) | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./14xxx/14607.cpp) |
+| [14613](https://boj.kr/14613) | 너의 티어는? | <img alt="Silver I" src="./assets/tier/10.svg"> | [C++](./14xxx/14613.cpp) |
 | [14614](https://boj.kr/14614) | Calculate! | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./14xxx/14614.cpp) |
 | [14623](https://boj.kr/14623) | 감정이입 | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./14xxx/14623.cpp) |
 | [14624](https://boj.kr/14624) | 전북대학교 | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./14xxx/14624.cpp) |
@@ -2257,6 +2258,7 @@
 | [15963](https://boj.kr/15963) | CASIO | <img alt="Bronze V" src="./assets/tier/1.svg"> | [C++](./15xxx/15963.cpp) |
 | [15964](https://boj.kr/15964) | 이상한 기호 | <img alt="Bronze V" src="./assets/tier/1.svg"> | [C](./15xxx/15964.c) [C++](./15xxx/15964.cpp) |
 | [15965](https://boj.kr/15965) | K번째 소수 | <img alt="Silver II" src="./assets/tier/9.svg"> | [C++](./15xxx/15965.cpp) |
+| [15966](https://boj.kr/15966) | 군계일학 | <img alt="Silver I" src="./assets/tier/10.svg"> | [C++](./15xxx/15966.cpp) |
 | [15969](https://boj.kr/15969) | 행복 | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C](./15xxx/15969.c) |
 | [15973](https://boj.kr/15973) | 두 박스 | <img alt="Silver I" src="./assets/tier/10.svg"> | [C++](./15xxx/15973.cpp) |
 | [15979](https://boj.kr/15979) | 스승님 찾기 | <img alt="Silver II" src="./assets/tier/9.svg"> | [C++](./15xxx/15979.cpp) |
@@ -3809,3 +3811,4 @@
 | [32089](https://boj.kr/32089) | 部員の変遷 | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./32xxx/32089.cpp) |
 | [32090](https://boj.kr/32090) | シンプルなエディタ | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./32xxx/32090.cpp) |
 | [32132](https://boj.kr/32132) | PlayStation이 아니에요 | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./32xxx/32132.cpp) |
+| [32141](https://boj.kr/32141) | 카드 게임 (Easy) | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./32xxx/32141.cpp) |
