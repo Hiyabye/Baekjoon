@@ -6,6 +6,7 @@ import glob
 import json
 import os
 import requests
+from time import sleep
 from tqdm import tqdm
 
 # solved.ac API로 해결한 문제 수를 int로 가져옴
@@ -118,7 +119,18 @@ if __name__ == "__main__":
   # solved.ac API로 문제 정보 가져오기
   print(f"Getting problems from {pages} pages...")
   for page in tqdm(range(1, pages+1)):
-    solved = get_problems("hiyabye", page)
+    attempts = 0
+    while attempts < 3:
+      try:
+        solved = get_problems("hiyabye", page)
+        break
+      except:
+        attempts += 1
+        print(f"Failed to get problems from page {page}, attempt {attempts}")
+        sleep(1)
+      else:
+        print(f"Failed to get problems from page {page} after 3 attempts")
+        continue
     for problem in solved["items"]:
       problems.append((int(problem["problemId"]), problem["titleKo"], int(problem["level"])))
 
