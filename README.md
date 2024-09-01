@@ -11,7 +11,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=hiyabye&theme=warm)
 
-마지막으로 업데이트: 2024-08-31 10:04:36 (KST)
+마지막으로 업데이트: 2024-09-01 11:57:54 (KST)
 
 목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -641,6 +641,7 @@
 | [3184](https://boj.kr/3184) | 양 | <img alt="Silver I" src="./assets/tier/10.svg"> | [C++](./03xxx/03184.cpp) |
 | [3187](https://boj.kr/3187) | 양치기 꿍 | <img alt="Silver I" src="./assets/tier/10.svg"> | [C++](./03xxx/03187.cpp) |
 | [3208](https://boj.kr/3208) | gus | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./03xxx/03208.cpp) |
+| [3211](https://boj.kr/3211) | kino | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./03xxx/03211.cpp) |
 | [3216](https://boj.kr/3216) | 다운로드 | <img alt="Silver II" src="./assets/tier/9.svg"> | [C++](./03xxx/03216.cpp) |
 | [3226](https://boj.kr/3226) | 전화 요금 | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./03xxx/03226.cpp) |
 | [3232](https://boj.kr/3232) | Multiply | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./03xxx/03232.cpp) |
@@ -935,6 +936,7 @@
 | [5800](https://boj.kr/5800) | 성적 통계 | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./05xxx/05800.cpp) |
 | [5883](https://boj.kr/5883) | 아이폰 9S | <img alt="Silver IV" src="./assets/tier/7.svg"> | [C++](./05xxx/05883.cpp) |
 | [5893](https://boj.kr/5893) | 17배 | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./05xxx/05893.cpp) |
+| [5911](https://boj.kr/5911) | 선물 | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./05xxx/05911.cpp) |
 | [5919](https://boj.kr/5919) | Hay Bales | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./05xxx/05919.cpp) |
 | [5928](https://boj.kr/5928) | Contest Timing | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./05xxx/05928.cpp) |
 | [5938](https://boj.kr/5938) | Daisy Chains in the Field | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./05xxx/05938.cpp) |
@@ -954,6 +956,7 @@
 | [6013](https://boj.kr/6013) | Lonesome Partners | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./06xxx/06013.cpp) |
 | [6014](https://boj.kr/6014) | Shorter Musical Notes | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./06xxx/06014.cpp) |
 | [6030](https://boj.kr/6030) | Scavenger Hunt | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./06xxx/06030.cpp) |
+| [6032](https://boj.kr/6032) | Toy Shopping | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./06xxx/06032.cpp) |
 | [6039](https://boj.kr/6039) | Need For Speed | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./06xxx/06039.cpp) |
 | [6040](https://boj.kr/6040) | Hexadecimal Conversion | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./06xxx/06040.cpp) |
 | [6060](https://boj.kr/6060) | Wheel Rotation | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./06xxx/06060.cpp) |
@@ -1021,6 +1024,7 @@
 | [6749](https://boj.kr/6749) | Next in line | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./06xxx/06749.cpp) |
 | [6750](https://boj.kr/6750) | Rotating letters | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./06xxx/06750.cpp) |
 | [6751](https://boj.kr/6751) | From 1987 to 2013 | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./06xxx/06751.cpp) |
+| [6752](https://boj.kr/6752) | Time on task | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./06xxx/06752.cpp) |
 | [6754](https://boj.kr/6754) | Bridge transport | <img alt="Silver IV" src="./assets/tier/7.svg"> | [C++](./06xxx/06754.cpp) |
 | [6763](https://boj.kr/6763) | Speed fines are not fine! | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./06xxx/06763.cpp) |
 | [6764](https://boj.kr/6764) | Sounds fishy! | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./06xxx/06764.cpp) |
@@ -1091,6 +1095,7 @@
 | [7281](https://boj.kr/7281) | Internetas | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./07xxx/07281.cpp) |
 | [7286](https://boj.kr/7286) | Ancient Keyboard | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./07xxx/07286.cpp) |
 | [7287](https://boj.kr/7287) | 등록 | <img alt="Bronze V" src="./assets/tier/1.svg"> | [C](./07xxx/07287.c) [C++](./07xxx/07287.cpp) |
+| [7304](https://boj.kr/7304) | Rotten Ropes | <img alt="Silver IV" src="./assets/tier/7.svg"> | [C++](./07xxx/07304.cpp) |
 | [7326](https://boj.kr/7326) | Number Steps | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./07xxx/07326.cpp) |
 | [7360](https://boj.kr/7360) | Undercut | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./07xxx/07360.cpp) |
 | [7366](https://boj.kr/7366) | Counting Sheep | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./07xxx/07366.cpp) |
@@ -1138,7 +1143,9 @@
 | [7891](https://boj.kr/7891) | Can you add this? | <img alt="Bronze V" src="./assets/tier/1.svg"> | [C++](./07xxx/07891.cpp) |
 | [7946](https://boj.kr/7946) | Supermarket | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./07xxx/07946.cpp) |
 | [7947](https://boj.kr/7947) | Koncert | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./07xxx/07947.cpp) |
+| [8016](https://boj.kr/8016) | Insulator | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./08xxx/08016.cpp) |
 | [8111](https://boj.kr/8111) | 0과 1 | <img alt="Platinum V" src="./assets/tier/16.svg"> | [C++](./08xxx/08111.cpp) |
+| [8117](https://boj.kr/8117) | Triangles | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./08xxx/08117.cpp) |
 | [8246](https://boj.kr/8246) | Stół | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./08xxx/08246.cpp) |
 | [8270](https://boj.kr/8270) | Tulips | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./08xxx/08270.cpp) |
 | [8295](https://boj.kr/8295) | Rectangles | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./08xxx/08295.cpp) |
@@ -1282,6 +1289,7 @@
 | [9421](https://boj.kr/9421) | 소수상근수 | <img alt="Silver I" src="./assets/tier/10.svg"> | [C++](./09xxx/09421.cpp) |
 | [9433](https://boj.kr/9433) | Zombie Invasion | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./09xxx/09433.cpp) |
 | [9437](https://boj.kr/9437) | 사라진 페이지 찾기 | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./09xxx/09437.cpp) |
+| [9440](https://boj.kr/9440) | 숫자 더하기 | <img alt="Silver II" src="./assets/tier/9.svg"> | [C++](./09xxx/09440.cpp) |
 | [9443](https://boj.kr/9443) | Arrangement of Contest | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./09xxx/09443.cpp) |
 | [9449](https://boj.kr/9449) | Garage | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./09xxx/09449.cpp) |
 | [9455](https://boj.kr/9455) | 박스 | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./09xxx/09455.cpp) |
@@ -1350,10 +1358,12 @@
 | [9782](https://boj.kr/9782) | Median | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./09xxx/09782.cpp) |
 | [9783](https://boj.kr/9783) | Easy Encryption | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./09xxx/09783.cpp) |
 | [9784](https://boj.kr/9784) | Boiled Eggs | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./09xxx/09784.cpp) |
+| [9785](https://boj.kr/9785) | Damage Over Time | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./09xxx/09785.cpp) |
 | [9786](https://boj.kr/9786) | Common Fraction | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./09xxx/09786.cpp) |
 | [9791](https://boj.kr/9791) | Encoding Binary Numbers | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./09xxx/09791.cpp) |
 | [9793](https://boj.kr/9793) | Length and Frequency of Sentences | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./09xxx/09793.cpp) |
 | [9806](https://boj.kr/9806) | The King | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./09xxx/09806.cpp) |
+| [9830](https://boj.kr/9830) | Paint | <img alt="Silver IV" src="./assets/tier/7.svg"> | [C++](./09xxx/09830.cpp) |
 | [9838](https://boj.kr/9838) | XMAS | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./09xxx/09838.cpp) |
 | [9842](https://boj.kr/9842) | Prime | <img alt="Silver IV" src="./assets/tier/7.svg"> | [C++](./09xxx/09842.cpp) |
 | [9844](https://boj.kr/9844) | Gecko | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./09xxx/09844.cpp) |
@@ -1535,6 +1545,7 @@
 | [10874](https://boj.kr/10874) | 이교수님의 시험 | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./10xxx/10874.cpp) |
 | [10886](https://boj.kr/10886) | 0 = not cute / 1 = cute | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C](./10xxx/10886.c) |
 | [10889](https://boj.kr/10889) | Ancient symbol | <img alt="Unrated" src="./assets/tier/0.svg"> | [C++](./10xxx/10889.cpp) |
+| [10892](https://boj.kr/10892) | Divide into triangle | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./10xxx/10892.cpp) |
 | [10895](https://boj.kr/10895) | Great Pow! | <img alt="Silver I" src="./assets/tier/10.svg"> | [C++](./10xxx/10895.cpp) |
 | [10902](https://boj.kr/10902) | Penalty calculation | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./10xxx/10902.cpp) |
 | [10914](https://boj.kr/10914) | Veni, vidi, vici | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./10xxx/10914.cpp) |
@@ -1822,6 +1833,8 @@
 | [12400](https://boj.kr/12400) | Speaking in Tongues (Small) | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./12xxx/12400.cpp) |
 | [12517](https://boj.kr/12517) | Centauri Prime (Small1) | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./12xxx/12517.cpp) |
 | [12518](https://boj.kr/12518) | Centauri Prime (Small2) | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./12xxx/12518.cpp) |
+| [12537](https://boj.kr/12537) | Closing the Loop (Small) | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./12xxx/12537.cpp) |
+| [12538](https://boj.kr/12538) | Closing the Loop (Large) | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./12xxx/12538.cpp) |
 | [12539](https://boj.kr/12539) | Investing at the Market (Small) | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./12xxx/12539.cpp) |
 | [12540](https://boj.kr/12540) | Investing at the Market (Large) | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./12xxx/12540.cpp) |
 | [12571](https://boj.kr/12571) | Rope Intranet (Small) | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./12xxx/12571.cpp) |
@@ -2024,6 +2037,7 @@
 | [14235](https://boj.kr/14235) | 크리스마스 선물 | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./14xxx/14235.cpp) |
 | [14244](https://boj.kr/14244) | 트리 만들기 | <img alt="Silver IV" src="./assets/tier/7.svg"> | [C++](./14xxx/14244.cpp) |
 | [14245](https://boj.kr/14245) | XOR | <img alt="Platinum IV" src="./assets/tier/17.svg"> | [C++](./14xxx/14245.cpp) |
+| [14247](https://boj.kr/14247) | 나무 자르기 | <img alt="Silver II" src="./assets/tier/9.svg"> | [C++](./14xxx/14247.cpp) |
 | [14248](https://boj.kr/14248) | 점프 점프 | <img alt="Silver II" src="./assets/tier/9.svg"> | [C++](./14xxx/14248.cpp) |
 | [14264](https://boj.kr/14264) | 정육각형과 삼각형 | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./14xxx/14264.cpp) |
 | [14277](https://boj.kr/14277) | 등차 수열과 등비 수열 | <img alt="Gold V" src="./assets/tier/11.svg"> | [C++](./14xxx/14277.cpp) |
@@ -2245,6 +2259,7 @@
 | [15576](https://boj.kr/15576) | 큰 수 곱셈 (2) | <img alt="Platinum I" src="./assets/tier/20.svg"> | [C++](./15xxx/15576.cpp) |
 | [15577](https://boj.kr/15577) | Prosjek | <img alt="Silver IV" src="./assets/tier/7.svg"> | [C++](./15xxx/15577.cpp) |
 | [15593](https://boj.kr/15593) | Lifeguards (Bronze) | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./15xxx/15593.cpp) |
+| [15594](https://boj.kr/15594) | Out of Place | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./15xxx/15594.cpp) |
 | [15595](https://boj.kr/15595) | 정답 비율 계산하기 | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./15xxx/15595.cpp) |
 | [15596](https://boj.kr/15596) | 정수 N개의 합 | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C](./15xxx/15596.c) |
 | [15600](https://boj.kr/15600) | Boss Battle | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./15xxx/15600.cpp) |
@@ -2350,6 +2365,7 @@
 | [16020](https://boj.kr/16020) | Sunflowers | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./16xxx/16020.cpp) |
 | [16032](https://boj.kr/16032) | Income Inequality | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./16xxx/16032.cpp) |
 | [16043](https://boj.kr/16043) | Missing Gnomes | <img alt="Gold V" src="./assets/tier/11.svg"> | [C++](./16xxx/16043.cpp) |
+| [16061](https://boj.kr/16061) | You Are Fired! | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./16xxx/16061.cpp) |
 | [16070](https://boj.kr/16070) | It’s Time for a Montage | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./16xxx/16070.cpp) |
 | [16088](https://boj.kr/16088) | Finding Your Coach | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./16xxx/16088.cpp) |
 | [16099](https://boj.kr/16099) | Larger Sport Facility | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./16xxx/16099.cpp) |
@@ -2715,6 +2731,7 @@
 | [19685](https://boj.kr/19685) | Palindromic FizzBuzz | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./19xxx/19685.cpp) |
 | [19698](https://boj.kr/19698) | 헛간 청약 | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./19xxx/19698.cpp) |
 | [19699](https://boj.kr/19699) | 소-난다! | <img alt="Silver II" src="./assets/tier/9.svg"> | [C++](./19xxx/19699.cpp) |
+| [19709](https://boj.kr/19709) | LunchBox | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./19xxx/19709.cpp) |
 | [19719](https://boj.kr/19719) | Cash Gap | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./19xxx/19719.cpp) |
 | [19740](https://boj.kr/19740) | How Many Tests | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./19xxx/19740.cpp) |
 | [19741](https://boj.kr/19741) | Patterns | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./19xxx/19741.cpp) |
@@ -2724,6 +2741,7 @@
 | [19774](https://boj.kr/19774) | ABCD-код | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./19xxx/19774.cpp) |
 | [19786](https://boj.kr/19786) | Ставка | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./19xxx/19786.cpp) |
 | [19796](https://boj.kr/19796) | Реклама на заборе | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./19xxx/19796.cpp) |
+| [19805](https://boj.kr/19805) | Attractive Flowers | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./19xxx/19805.cpp) |
 | [19813](https://boj.kr/19813) | Dates | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./19xxx/19813.cpp) |
 | [19817](https://boj.kr/19817) | Company Merging | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./19xxx/19817.cpp) |
 | [19843](https://boj.kr/19843) | 수면 패턴 | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./19xxx/19843.cpp) |
@@ -2749,6 +2767,7 @@
 | [20113](https://boj.kr/20113) | 긴급 회의 | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./20xxx/20113.cpp) |
 | [20115](https://boj.kr/20115) | 에너지 드링크 | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./20xxx/20115.cpp) |
 | [20116](https://boj.kr/20116) | 상자의 균형 | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./20xxx/20116.cpp) |
+| [20117](https://boj.kr/20117) | 호반우 상인의 이상한 품질 계산법 | <img alt="Silver I" src="./assets/tier/10.svg"> | [C++](./20xxx/20117.cpp) |
 | [20124](https://boj.kr/20124) | 모르고리즘 회장님 추천 받습니다 | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./20xxx/20124.cpp) |
 | [20125](https://boj.kr/20125) | 쿠키의 신체 측정 | <img alt="Silver IV" src="./assets/tier/7.svg"> | [C++](./20xxx/20125.cpp) |
 | [20149](https://boj.kr/20149) | 선분 교차 3 | <img alt="Platinum IV" src="./assets/tier/17.svg"> | [C++](./20xxx/20149.cpp) |
@@ -2797,6 +2816,7 @@
 | [20529](https://boj.kr/20529) | 가장 가까운 세 사람의 심리적 거리 | <img alt="Silver I" src="./assets/tier/10.svg"> | [C++](./20xxx/20529.cpp) |
 | [20540](https://boj.kr/20540) | 연길이의 이상형 | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./20xxx/20540.cpp) |
 | [20551](https://boj.kr/20551) | Sort 마스터 배지훈의 후계자 | <img alt="Silver IV" src="./assets/tier/7.svg"> | [C++](./20xxx/20551.cpp) |
+| [20568](https://boj.kr/20568) | Recess Rocks | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./20xxx/20568.cpp) |
 | [20571](https://boj.kr/20571) | Elevators | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./20xxx/20571.cpp) |
 | [20575](https://boj.kr/20575) | Buffon's Needle | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./20xxx/20575.cpp) |
 | [20650](https://boj.kr/20650) | Do You Know Your ABCs? | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./20xxx/20650.cpp) |
@@ -3142,6 +3162,7 @@
 | [24739](https://boj.kr/24739) | Sequinary Numerals | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./24xxx/24739.cpp) |
 | [24747](https://boj.kr/24747) | Letterle | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./24xxx/24747.cpp) |
 | [24751](https://boj.kr/24751) | Betting | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./24xxx/24751.cpp) |
+| [24755](https://boj.kr/24755) | Election Paradox | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./24xxx/24755.cpp) |
 | [24767](https://boj.kr/24767) | Beehives | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./24xxx/24767.cpp) |
 | [24768](https://boj.kr/24768) | Left Beehind | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./24xxx/24768.cpp) |
 | [24783](https://boj.kr/24783) | Number Fun | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./24xxx/24783.cpp) |
@@ -3303,6 +3324,7 @@
 | [25915](https://boj.kr/25915) | 연세여 사랑한다 | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./25xxx/25915.cpp) |
 | [25932](https://boj.kr/25932) | Find the Twins | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./25xxx/25932.cpp) |
 | [25933](https://boj.kr/25933) | Medal Ranking | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./25xxx/25933.cpp) |
+| [25945](https://boj.kr/25945) | 컨테이너 재배치 | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./25xxx/25945.cpp) |
 | [25955](https://boj.kr/25955) | APC는 쉬운 난이도 순일까, 아닐까? | <img alt="Silver IV" src="./assets/tier/7.svg"> | [C++](./25xxx/25955.cpp) |
 | [25957](https://boj.kr/25957) | 단어 우월 효과 (캠브릿지 대학의 연구결과) | <img alt="Silver II" src="./assets/tier/9.svg"> | [C++](./25xxx/25957.cpp) |
 | [25965](https://boj.kr/25965) | 미션 도네이션 | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./25xxx/25965.cpp) |
@@ -3325,6 +3347,7 @@
 | [26084](https://boj.kr/26084) | DPS | <img alt="Silver II" src="./assets/tier/9.svg"> | [C++](./26xxx/26084.cpp) |
 | [26085](https://boj.kr/26085) | 효구와 호규 (Easy) | <img alt="Silver I" src="./assets/tier/10.svg"> | [C++](./26xxx/26085.cpp) |
 | [26090](https://boj.kr/26090) | 완전한 수열 | <img alt="Silver II" src="./assets/tier/9.svg"> | [C++](./26xxx/26090.cpp) |
+| [26091](https://boj.kr/26091) | 현대모비스 소프트웨어 아카데미 | <img alt="Silver I" src="./assets/tier/10.svg"> | [C++](./26xxx/26091.cpp) |
 | [26099](https://boj.kr/26099) | 설탕 배달 2 | <img alt="Silver IV" src="./assets/tier/7.svg"> | [C](./26xxx/26099.c) |
 | [26145](https://boj.kr/26145) | 출제비 재분배 | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./26xxx/26145.cpp) |
 | [26148](https://boj.kr/26148) | 세로 달력 | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./26xxx/26148.cpp) |
@@ -3351,6 +3374,7 @@
 | [26500](https://boj.kr/26500) | Absolutely | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./26xxx/26500.cpp) |
 | [26502](https://boj.kr/26502) | Decoder | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./26xxx/26502.cpp) |
 | [26503](https://boj.kr/26503) | Neighbor | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./26xxx/26503.cpp) |
+| [26506](https://boj.kr/26506) | Pilot Rating | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./26xxx/26506.cpp) |
 | [26509](https://boj.kr/26509) | Triangle | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./26xxx/26509.cpp) |
 | [26510](https://boj.kr/26510) | V for Vendetta | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./26xxx/26510.cpp) |
 | [26511](https://boj.kr/26511) | Complexity | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./26xxx/26511.cpp) |
@@ -3409,6 +3433,7 @@
 | [26948](https://boj.kr/26948) | Plankan | <img alt="Silver IV" src="./assets/tier/7.svg"> | [C++](./26xxx/26948.cpp) |
 | [26949](https://boj.kr/26949) | Kylskåpstransport | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./26xxx/26949.cpp) |
 | [26999](https://boj.kr/26999) | Satellite Photographs | <img alt="Silver II" src="./assets/tier/9.svg"> | [C++](./26xxx/26999.cpp) |
+| [27035](https://boj.kr/27035) | Bovine Ballroom Dancing | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./27xxx/27035.cpp) |
 | [27058](https://boj.kr/27058) | Message Decowding | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./27xxx/27058.cpp) |
 | [27065](https://boj.kr/27065) | 2022년이 아름다웠던 이유 | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./27xxx/27065.cpp) |
 | [27101](https://boj.kr/27101) | Metric Matrices | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./27xxx/27101.cpp) |
@@ -3489,9 +3514,11 @@
 | [27648](https://boj.kr/27648) | 증가 배열 만들기 | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./27xxx/27648.cpp) |
 | [27659](https://boj.kr/27659) | Queue skipping (Easy) | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./27xxx/27659.cpp) |
 | [27660](https://boj.kr/27660) | Queue skipping (Hard) | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./27xxx/27660.cpp) |
+| [27674](https://boj.kr/27674) | A+B | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./27xxx/27674.cpp) |
 | [27708](https://boj.kr/27708) | Antisort | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./27xxx/27708.cpp) |
 | [27736](https://boj.kr/27736) | 찬반투표 | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./27xxx/27736.cpp) |
 | [27737](https://boj.kr/27737) | 버섯 농장 | <img alt="Silver I" src="./assets/tier/10.svg"> | [C++](./27xxx/27737.cpp) |
+| [27829](https://boj.kr/27829) | Army Strength | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./27xxx/27829.cpp) |
 | [27836](https://boj.kr/27836) | Paradox With Averages | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./27xxx/27836.cpp) |
 | [27855](https://boj.kr/27855) | Cornhole | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./27xxx/27855.cpp) |
 | [27865](https://boj.kr/27865) | 랜덤 게임? | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./27xxx/27865.cpp) |
@@ -3506,6 +3533,7 @@
 | [27918](https://boj.kr/27918) | 탁구 경기 | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C](./27xxx/27918.c) |
 | [27922](https://boj.kr/27922) | 현대모비스 입사 프로젝트 | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./27xxx/27922.cpp) |
 | [27930](https://boj.kr/27930) | 당신은 운명을 믿나요? | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./27xxx/27930.cpp) |
+| [27931](https://boj.kr/27931) | Parity Constraint Closest Pair (Easy) | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./27xxx/27931.cpp) |
 | [27939](https://boj.kr/27939) | 가지 교배 | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./27xxx/27939.cpp) |
 | [27951](https://boj.kr/27951) | 옷걸이 | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./27xxx/27951.cpp) |
 | [27959](https://boj.kr/27959) | 초코바 | <img alt="Bronze V" src="./assets/tier/1.svg"> | [C++](./27xxx/27959.cpp) |
@@ -3555,6 +3583,7 @@
 | [28323](https://boj.kr/28323) | 불안정한 수열 | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./28xxx/28323.cpp) |
 | [28346](https://boj.kr/28346) | XOR Necklace | <img alt="Gold IV" src="./assets/tier/12.svg"> | [C++](./28xxx/28346.cpp) |
 | [28352](https://boj.kr/28352) | 10! | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./28xxx/28352.cpp) |
+| [28353](https://boj.kr/28353) | 고양이 카페 | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./28xxx/28353.cpp) |
 | [28358](https://boj.kr/28358) | 생일 맞추기 | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./28xxx/28358.cpp) |
 | [28373](https://boj.kr/28373) | Eszett | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./28xxx/28373.cpp) |
 | [28383](https://boj.kr/28383) | 다섯 제곱수의 합 | <img alt="Platinum V" src="./assets/tier/16.svg"> | [C++](./28xxx/28383.cpp) |
@@ -3586,7 +3615,9 @@
 | [28772](https://boj.kr/28772) | Подсчет хештегов | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./28xxx/28772.cpp) |
 | [28790](https://boj.kr/28790) | Игра в дженгу | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./28xxx/28790.cpp) |
 | [28808](https://boj.kr/28808) | Таблица результатов | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./28xxx/28808.cpp) |
+| [28813](https://boj.kr/28813) | Уничтожение дронов | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./28xxx/28813.cpp) |
 | [28840](https://boj.kr/28840) | Как покормить дракона | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./28xxx/28840.cpp) |
+| [28888](https://boj.kr/28888) | Садоводство в поезде | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./28xxx/28888.cpp) |
 | [28927](https://boj.kr/28927) | Киноманы | <img alt="Bronze V" src="./assets/tier/1.svg"> | [C++](./28xxx/28927.cpp) |
 | [28932](https://boj.kr/28932) | Префиксы-суффиксы | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./28xxx/28932.cpp) |
 | [28938](https://boj.kr/28938) | Конвейер | <img alt="Bronze V" src="./assets/tier/1.svg"> | [C++](./28xxx/28938.cpp) |
@@ -3618,6 +3649,7 @@
 | [29319](https://boj.kr/29319) | Начало | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./29xxx/29319.cpp) |
 | [29332](https://boj.kr/29332) | 보물 지도 | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./29xxx/29332.cpp) |
 | [29340](https://boj.kr/29340) | Отряд | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./29xxx/29340.cpp) |
+| [29375](https://boj.kr/29375) | Реагенты | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./29xxx/29375.cpp) |
 | [29454](https://boj.kr/29454) | Выражение | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./29xxx/29454.cpp) |
 | [29467](https://boj.kr/29467) | Шифровка | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./29xxx/29467.cpp) |
 | [29483](https://boj.kr/29483) | Химия | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./29xxx/29483.cpp) |
@@ -3774,6 +3806,7 @@
 | [30678](https://boj.kr/30678) | 별 안에 별 안에 별 찍기 | <img alt="Gold V" src="./assets/tier/11.svg"> | [C++](./30xxx/30678.cpp) |
 | [30684](https://boj.kr/30684) | 모르고리즘 회장 정하기 | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./30xxx/30684.cpp) |
 | [30700](https://boj.kr/30700) | KOREA 문자열 만들기 | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./30xxx/30700.cpp) |
+| [30701](https://boj.kr/30701) | 돌아온 똥게임 | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./30xxx/30701.cpp) |
 | [30702](https://boj.kr/30702) | 국기 색칠하기 | <img alt="Silver I" src="./assets/tier/10.svg"> | [C++](./30xxx/30702.cpp) |
 | [30716](https://boj.kr/30716) | Дети и буквы | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./30xxx/30716.cpp) |
 | [30767](https://boj.kr/30767) | Dungeons & Dragons | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./30xxx/30767.cpp) |
@@ -3835,6 +3868,7 @@
 | [31281](https://boj.kr/31281) | ЗЛАТНАТА СРЕДА | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./31xxx/31281.cpp) |
 | [31282](https://boj.kr/31282) | ЛОВНО КУЧЕ | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./31xxx/31282.cpp) |
 | [31306](https://boj.kr/31306) | Is Y a Vowel? | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./31xxx/31306.cpp) |
+| [31307](https://boj.kr/31307) | Lines Per Hour | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./31xxx/31307.cpp) |
 | [31312](https://boj.kr/31312) | Water Journal | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./31xxx/31312.cpp) |
 | [31324](https://boj.kr/31324) | Construction of Chand Baori | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./31xxx/31324.cpp) |
 | [31394](https://boj.kr/31394) | Scholarship | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./31xxx/31394.cpp) |
@@ -3927,6 +3961,7 @@
 | [31866](https://boj.kr/31866) | 손가락 게임 | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./31xxx/31866.cpp) |
 | [31867](https://boj.kr/31867) | 홀짝홀짝 | <img alt="Bronze IV" src="./assets/tier/2.svg"> | [C++](./31xxx/31867.cpp) |
 | [31868](https://boj.kr/31868) | 수박 게임 | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./31xxx/31868.cpp) |
+| [31872](https://boj.kr/31872) | 강의실 | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./31xxx/31872.cpp) |
 | [31880](https://boj.kr/31880) | K512컵 개최! | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./31xxx/31880.cpp) |
 | [31881](https://boj.kr/31881) | K512에 바이러스 퍼뜨리기 | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./31xxx/31881.cpp) |
 | [31882](https://boj.kr/31882) | 근수 | <img alt="Silver IV" src="./assets/tier/7.svg"> | [C++](./31xxx/31882.cpp) |
@@ -3960,6 +3995,10 @@
 | [32132](https://boj.kr/32132) | PlayStation이 아니에요 | <img alt="Bronze I" src="./assets/tier/5.svg"> | [C++](./32xxx/32132.cpp) |
 | [32141](https://boj.kr/32141) | 카드 게임 (Easy) | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./32xxx/32141.cpp) |
 | [32142](https://boj.kr/32142) | 서바이벌 | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./32xxx/32142.cpp) |
+| [32171](https://boj.kr/32171) | 울타리 공사 | <img alt="Bronze II" src="./assets/tier/4.svg"> | [C++](./32xxx/32171.cpp) |
+| [32172](https://boj.kr/32172) | 현권이와 신기한 수열 | <img alt="Silver V" src="./assets/tier/6.svg"> | [C++](./32xxx/32172.cpp) |
+| [32184](https://boj.kr/32184) | 디미고에 가고 싶어! | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./32xxx/32184.cpp) |
+| [32185](https://boj.kr/32185) | 꿈 열정 나눔 | <img alt="Silver IV" src="./assets/tier/7.svg"> | [C++](./32xxx/32185.cpp) |
 | [32193](https://boj.kr/32193) | 승강장의 깊이 | <img alt="Bronze III" src="./assets/tier/3.svg"> | [C++](./32xxx/32193.cpp) |
 | [32194](https://boj.kr/32194) | 질문은 계속돼 | <img alt="Silver II" src="./assets/tier/9.svg"> | [C++](./32xxx/32194.cpp) |
 | [32196](https://boj.kr/32196) | 급행 열차 | <img alt="Silver III" src="./assets/tier/8.svg"> | [C++](./32xxx/32196.cpp) |
