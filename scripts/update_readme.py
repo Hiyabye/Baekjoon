@@ -23,7 +23,7 @@ def get_problems(handle, page):
 
 # 문제 번호를 입력받아 문제 URL을 반환
 def get_problem_url(id):
-  return f"https://boj.kr/{id}"
+  return f"boj.kr/{id}"
 
 # 문제 제목의 특수문자를 처리하여 반환
 def get_problem_title(title):
@@ -36,12 +36,12 @@ def get_problem_title(title):
 def get_problem_tier(level):
   tier = {
     0: "Unrated",
-    1: "Bronze V", 2: "Bronze IV", 3: "Bronze III", 4: "Bronze II", 5: "Bronze I",
-    6: "Silver V", 7: "Silver IV", 8: "Silver III", 9: "Silver II", 10: "Silver I",
-    11: "Gold V", 12: "Gold IV", 13: "Gold III", 14: "Gold II", 15: "Gold I",
-    16: "Platinum V", 17: "Platinum IV", 18: "Platinum III", 19: "Platinum II", 20: "Platinum I",
-    21: "Diamond V", 22: "Diamond IV", 23: "Diamond III", 24: "Diamond II", 25: "Diamond I",
-    26: "Ruby V", 27: "Ruby IV", 28: "Ruby III", 29: "Ruby II", 30: "Ruby I"
+    1: "B5", 2: "B4", 3: "B3", 4: "B2", 5: "B1",
+    6: "S5", 7: "S4", 8: "S3", 9: "S2", 10: "S1",
+    11: "G5", 12: "G4", 13: "G3", 14: "G2", 15: "G1",
+    16: "P5", 17: "P4", 18: "P3", 19: "P2", 20: "P1",
+    21: "D5", 22: "D4", 23: "D3", 24: "D2", 25: "D1",
+    26: "R5", 27: "R4", 28: "R3", 29: "R2", 30: "R1"
   }
   return f'<img alt="{tier[level]}" src="./assets/tier/{level}.svg">'
 
