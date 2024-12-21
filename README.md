@@ -11,7 +11,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=hiyabye&theme=warm)
 
-마지막으로 업데이트: 2024-12-15 10:14:42 (KST)
+마지막으로 업데이트: 2024-12-21 10:03:12 (KST)
 
 목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -74,6 +74,7 @@
 | [1106](https://boj.kr/1106) | 호텔 | <img alt="G4" src="assets/tier/12.svg"> | [C++](01xxx/01106.cpp) |
 | [1107](https://boj.kr/1107) | 리모컨 | <img alt="G5" src="assets/tier/11.svg"> | [C++](01xxx/01107.cpp) |
 | [1110](https://boj.kr/1110) | 더하기 사이클 | <img alt="B1" src="assets/tier/5.svg"> | [C](01xxx/01110.c) |
+| [1111](https://boj.kr/1111) | IQ Test | <img alt="G3" src="assets/tier/13.svg"> | [C++](01xxx/01111.cpp) |
 | [1112](https://boj.kr/1112) | 진법 변환 | <img alt="G3" src="assets/tier/13.svg"> | [C++](01xxx/01112.cpp) |
 | [1117](https://boj.kr/1117) | 색칠 1 | <img alt="G5" src="assets/tier/11.svg"> | [C](01xxx/01117.c) |
 | [1120](https://boj.kr/1120) | 문자열 | <img alt="S4" src="assets/tier/7.svg"> | [C++](01xxx/01120.cpp) |
@@ -207,6 +208,7 @@
 | [1562](https://boj.kr/1562) | 계단 수 | <img alt="G1" src="assets/tier/15.svg"> | [C++](01xxx/01562.cpp) |
 | [1564](https://boj.kr/1564) | 팩토리얼5 | <img alt="S1" src="assets/tier/10.svg"> | [C++](01xxx/01564.cpp) |
 | [1568](https://boj.kr/1568) | 새 | <img alt="B2" src="assets/tier/4.svg"> | [C++](01xxx/01568.cpp) |
+| [1590](https://boj.kr/1590) | 캠프가는 영식 | <img alt="S4" src="assets/tier/7.svg"> | [C++](01xxx/01590.cpp) |
 | [1592](https://boj.kr/1592) | 영식이와 친구들 | <img alt="B2" src="assets/tier/4.svg"> | [C++](01xxx/01592.cpp) |
 | [1598](https://boj.kr/1598) | 꼬리를 무는 숫자 나열 | <img alt="B3" src="assets/tier/3.svg"> | [C++](01xxx/01598.cpp) |
 | [1602](https://boj.kr/1602) | 도망자 원숭이 | <img alt="P3" src="assets/tier/18.svg"> | [C++](01xxx/01602.cpp) |
@@ -229,6 +231,7 @@
 | [1699](https://boj.kr/1699) | 제곱수의 합 | <img alt="S2" src="assets/tier/9.svg"> | [C](01xxx/01699.c) |
 | [1703](https://boj.kr/1703) | 생장점 | <img alt="B3" src="assets/tier/3.svg"> | [C++](01xxx/01703.cpp) |
 | [1704](https://boj.kr/1704) | 붕어빵타이쿤 | <img alt="P4" src="assets/tier/17.svg"> | [C++](01xxx/01704.cpp) |
+| [1706](https://boj.kr/1706) | 크로스워드 | <img alt="S2" src="assets/tier/9.svg"> | [C++](01xxx/01706.cpp) |
 | [1708](https://boj.kr/1708) | 볼록 껍질 | <img alt="P5" src="assets/tier/16.svg"> | [C++](01xxx/01708.cpp) |
 | [1711](https://boj.kr/1711) | 직각삼각형 | <img alt="G5" src="assets/tier/11.svg"> | [C](01xxx/01711.c) |
 | [1712](https://boj.kr/1712) | 손익분기점 | <img alt="B2" src="assets/tier/4.svg"> | [C](01xxx/01712.c) |
@@ -236,6 +239,7 @@
 | [1717](https://boj.kr/1717) | 집합의 표현 | <img alt="G5" src="assets/tier/11.svg"> | [C++](01xxx/01717.cpp) |
 | [1718](https://boj.kr/1718) | 암호 | <img alt="B2" src="assets/tier/4.svg"> | [C++](01xxx/01718.cpp) |
 | [1719](https://boj.kr/1719) | 택배 | <img alt="G3" src="assets/tier/13.svg"> | [C++](01xxx/01719.cpp) |
+| [1722](https://boj.kr/1722) | 순열의 순서 | <img alt="G5" src="assets/tier/11.svg"> | [C++](01xxx/01722.cpp) |
 | [1725](https://boj.kr/1725) | 히스토그램 | <img alt="P5" src="assets/tier/16.svg"> | [C++](01xxx/01725.cpp) |
 | [1726](https://boj.kr/1726) | 로봇 | <img alt="G3" src="assets/tier/13.svg"> | [C++](01xxx/01726.cpp) |
 | [1730](https://boj.kr/1730) | 판화 | <img alt="S4" src="assets/tier/7.svg"> | [C++](01xxx/01730.cpp) |
@@ -293,7 +297,7 @@
 | [1926](https://boj.kr/1926) | 그림 | <img alt="S1" src="assets/tier/10.svg"> | [C++](01xxx/01926.cpp) |
 | [1927](https://boj.kr/1927) | 최소 힙 | <img alt="S2" src="assets/tier/9.svg"> | [C++](01xxx/01927.cpp) |
 | [1929](https://boj.kr/1929) | 소수 구하기 | <img alt="S3" src="assets/tier/8.svg"> | [C](01xxx/01929.c) |
-| [1931](https://boj.kr/1931) | 회의실 배정 | <img alt="S1" src="assets/tier/10.svg"> | [C++](01xxx/01931.cpp) |
+| [1931](https://boj.kr/1931) | 회의실 배정 | <img alt="G5" src="assets/tier/11.svg"> | [C++](01xxx/01931.cpp) |
 | [1932](https://boj.kr/1932) | 정수 삼각형 | <img alt="S1" src="assets/tier/10.svg"> | [C](01xxx/01932.c) |
 | [1934](https://boj.kr/1934) | 최소공배수 | <img alt="B1" src="assets/tier/5.svg"> | [C](01xxx/01934.c) |
 | [1935](https://boj.kr/1935) | 후위 표기식2 | <img alt="S3" src="assets/tier/8.svg"> | [C++](01xxx/01935.cpp) |
@@ -302,6 +306,7 @@
 | [1946](https://boj.kr/1946) | 신입 사원 | <img alt="S1" src="assets/tier/10.svg"> | [C++](01xxx/01946.cpp) |
 | [1952](https://boj.kr/1952) | 달팽이2 | <img alt="B1" src="assets/tier/5.svg"> | [C++](01xxx/01952.cpp) |
 | [1956](https://boj.kr/1956) | 운동 | <img alt="G4" src="assets/tier/12.svg"> | [C++](01xxx/01956.cpp) |
+| [1963](https://boj.kr/1963) | 소수 경로 | <img alt="G4" src="assets/tier/12.svg"> | [C++](01xxx/01963.cpp) |
 | [1964](https://boj.kr/1964) | 오각형, 오각형, 오각형… | <img alt="B2" src="assets/tier/4.svg"> | [C++](01xxx/01964.cpp) |
 | [1965](https://boj.kr/1965) | 상자넣기 | <img alt="S2" src="assets/tier/9.svg"> | [C++](01xxx/01965.cpp) |
 | [1966](https://boj.kr/1966) | 프린터 큐 | <img alt="S3" src="assets/tier/8.svg"> | [C++](01xxx/01966.cpp) |
@@ -764,6 +769,7 @@
 | [4655](https://boj.kr/4655) | Hangover | <img alt="B3" src="assets/tier/3.svg"> | [C++](04xxx/04655.cpp) |
 | [4659](https://boj.kr/4659) | 비밀번호 발음하기 | <img alt="S5" src="assets/tier/6.svg"> | [C++](04xxx/04659.cpp) |
 | [4673](https://boj.kr/4673) | 셀프 넘버 | <img alt="S5" src="assets/tier/6.svg"> | [C](04xxx/04673.c) |
+| [4675](https://boj.kr/4675) | Word Amalgamation | <img alt="S5" src="assets/tier/6.svg"> | [C++](04xxx/04675.cpp) |
 | [4677](https://boj.kr/4677) | Oil Deposits | <img alt="S2" src="assets/tier/9.svg"> | [C++](04xxx/04677.cpp) |
 | [4678](https://boj.kr/4678) | Skew Binary | <img alt="B2" src="assets/tier/4.svg"> | [C++](04xxx/04678.cpp) |
 | [4690](https://boj.kr/4690) | 완전 세제곱 | <img alt="B3" src="assets/tier/3.svg"> | [C++](04xxx/04690.cpp) |
@@ -836,6 +842,7 @@
 | [5217](https://boj.kr/5217) | 쌍의 합 | <img alt="B3" src="assets/tier/3.svg"> | [C++](05xxx/05217.cpp) |
 | [5218](https://boj.kr/5218) | 알파벳 거리 | <img alt="B2" src="assets/tier/4.svg"> | [C++](05xxx/05218.cpp) |
 | [5220](https://boj.kr/5220) | Error Detection | <img alt="B3" src="assets/tier/3.svg"> | [C++](05xxx/05220.cpp) |
+| [5221](https://boj.kr/5221) | Pythogorean Triples | <img alt="S4" src="assets/tier/7.svg"> | [C++](05xxx/05221.cpp) |
 | [5222](https://boj.kr/5222) | Vigenère Cipher | <img alt="B2" src="assets/tier/4.svg"> | [C++](05xxx/05222.cpp) |
 | [5235](https://boj.kr/5235) | Even Sum More Than Odd Sum | <img alt="B3" src="assets/tier/3.svg"> | [C++](05xxx/05235.cpp) |
 | [5237](https://boj.kr/5237) | Connected or Not Connected | <img alt="S3" src="assets/tier/8.svg"> | [C++](05xxx/05237.cpp) |
@@ -1718,6 +1725,7 @@
 | [11536](https://boj.kr/11536) | 줄 세우기 | <img alt="S5" src="assets/tier/6.svg"> | [C++](11xxx/11536.cpp) |
 | [11549](https://boj.kr/11549) | Identifying tea | <img alt="B4" src="assets/tier/2.svg"> | [C++](11xxx/11549.cpp) |
 | [11557](https://boj.kr/11557) | Yangjojang of The Year | <img alt="B1" src="assets/tier/5.svg"> | [C++](11xxx/11557.cpp) |
+| [11561](https://boj.kr/11561) | 징검다리 | <img alt="S3" src="assets/tier/8.svg"> | [C++](11xxx/11561.cpp) |
 | [11568](https://boj.kr/11568) | 민균이의 계략 | <img alt="S2" src="assets/tier/9.svg"> | [C++](11xxx/11568.cpp) |
 | [11575](https://boj.kr/11575) | Affine Cipher | <img alt="B2" src="assets/tier/4.svg"> | [C++](11xxx/11575.cpp) |
 | [11576](https://boj.kr/11576) | Base Conversion | <img alt="S5" src="assets/tier/6.svg"> | [C++](11xxx/11576.cpp) |
@@ -1732,6 +1740,7 @@
 | [11605](https://boj.kr/11605) | Magic Trick | <img alt="B2" src="assets/tier/4.svg"> | [C++](11xxx/11605.cpp) |
 | [11606](https://boj.kr/11606) | Egg Drop | <img alt="B2" src="assets/tier/4.svg"> | [C++](11xxx/11606.cpp) |
 | [11608](https://boj.kr/11608) | Complexity | <img alt="B2" src="assets/tier/4.svg"> | [C++](11xxx/11608.cpp) |
+| [11609](https://boj.kr/11609) | Class Time | <img alt="S5" src="assets/tier/6.svg"> | [C++](11xxx/11609.cpp) |
 | [11636](https://boj.kr/11636) | Stand on Zanzibar | <img alt="B2" src="assets/tier/4.svg"> | [C++](11xxx/11636.cpp) |
 | [11637](https://boj.kr/11637) | 인기 투표 | <img alt="S5" src="assets/tier/6.svg"> | [C++](11xxx/11637.cpp) |
 | [11645](https://boj.kr/11645) | I’ve Been Everywhere, Man | <img alt="S5" src="assets/tier/6.svg"> | [C++](11xxx/11645.cpp) |
@@ -1957,7 +1966,7 @@
 | [13304](https://boj.kr/13304) | 방 배정 | <img alt="B2" src="assets/tier/4.svg"> | [C++](13xxx/13304.cpp) |
 | [13305](https://boj.kr/13305) | 주유소 | <img alt="S3" src="assets/tier/8.svg"> | [C++](13xxx/13305.cpp) |
 | [13311](https://boj.kr/13311) | 행운의 편지 | <img alt="B3" src="assets/tier/3.svg"> | [C++](13xxx/13311.cpp) |
-| [13312](https://boj.kr/13312) | 아크코사인은 믿음입니다 | <img alt="G4" src="assets/tier/12.svg"> | [C++](13xxx/13312.cpp) |
+| [13312](https://boj.kr/13312) | 아크코사인은 믿음입니다 | <img alt="G3" src="assets/tier/13.svg"> | [C++](13xxx/13312.cpp) |
 | [13314](https://boj.kr/13314) | 플로이드에 오타가? | <img alt="G3" src="assets/tier/13.svg"> | [C++](13xxx/13314.cpp) |
 | [13322](https://boj.kr/13322) | 접두사 배열 | <img alt="B1" src="assets/tier/5.svg"> | [C++](13xxx/13322.cpp) |
 | [13333](https://boj.kr/13333) | Q-인덱스 | <img alt="S5" src="assets/tier/6.svg"> | [C++](13xxx/13333.cpp) |
@@ -2176,6 +2185,7 @@
 | [14758](https://boj.kr/14758) | Paint Me | <img alt="B2" src="assets/tier/4.svg"> | [C++](14xxx/14758.cpp) |
 | [14761](https://boj.kr/14761) | FizzBuzz | <img alt="B3" src="assets/tier/3.svg"> | [C++](14xxx/14761.cpp) |
 | [14767](https://boj.kr/14767) | Flow Shop | <img alt="S4" src="assets/tier/7.svg"> | [C++](14xxx/14767.cpp) |
+| [14769](https://boj.kr/14769) | Stacking Cups | <img alt="S5" src="assets/tier/6.svg"> | [C++](14xxx/14769.cpp) |
 | [14771](https://boj.kr/14771) | Advertising Revenue | <img alt="B2" src="assets/tier/4.svg"> | [C++](14xxx/14771.cpp) |
 | [14782](https://boj.kr/14782) | Bedtime Reading, I | <img alt="B3" src="assets/tier/3.svg"> | [C++](14xxx/14782.cpp) |
 | [14786](https://boj.kr/14786) | Ax+Bsin(x)=C ② | <img alt="G3" src="assets/tier/13.svg"> | [C](14xxx/14786.c) |
@@ -2699,6 +2709,7 @@
 | [18247](https://boj.kr/18247) | 겨울왕국 티켓 예매 | <img alt="B3" src="assets/tier/3.svg"> | [C++](18xxx/18247.cpp) |
 | [18256](https://boj.kr/18256) | Interleaved Periodic String | <img alt="B1" src="assets/tier/5.svg"> | [C++](18xxx/18256.cpp) |
 | [18258](https://boj.kr/18258) | 큐 2 | <img alt="S4" src="assets/tier/7.svg"> | [C++](18xxx/18258.cpp) |
+| [18265](https://boj.kr/18265) | MooBuzz | <img alt="S5" src="assets/tier/6.svg"> | [C++](18xxx/18265.cpp) |
 | [18268](https://boj.kr/18268) | Cow Gymnastics | <img alt="B1" src="assets/tier/5.svg"> | [C++](18xxx/18268.cpp) |
 | [18269](https://boj.kr/18269) | Where Am I? | <img alt="B1" src="assets/tier/5.svg"> | [C++](18xxx/18269.cpp) |
 | [18290](https://boj.kr/18290) | NM과 K (1) | <img alt="S1" src="assets/tier/10.svg"> | [C](18xxx/18290.c) |
@@ -2844,10 +2855,12 @@
 | [20374](https://boj.kr/20374) | Big Money | <img alt="B3" src="assets/tier/3.svg"> | [C++](20xxx/20374.cpp) |
 | [20410](https://boj.kr/20410) | 추첨상 사수 대작전! (Easy) | <img alt="B3" src="assets/tier/3.svg"> | [C++](20xxx/20410.cpp) |
 | [20436](https://boj.kr/20436) | ZOAC 3 | <img alt="S4" src="assets/tier/7.svg"> | [C++](20xxx/20436.cpp) |
+| [20444](https://boj.kr/20444) | 색종이와 가위 | <img alt="G5" src="assets/tier/11.svg"> | [C++](20xxx/20444.cpp) |
 | [20473](https://boj.kr/20473) | Гостиница | <img alt="B3" src="assets/tier/3.svg"> | [C++](20xxx/20473.cpp) |
 | [20492](https://boj.kr/20492) | 세금 | <img alt="B5" src="assets/tier/1.svg"> | [C](20xxx/20492.c) |
 | [20494](https://boj.kr/20494) | 스시 | <img alt="B2" src="assets/tier/4.svg"> | [C++](20xxx/20494.cpp) |
 | [20499](https://boj.kr/20499) | Darius님 한타 안 함? | <img alt="B4" src="assets/tier/2.svg"> | [C++](20xxx/20499.cpp) |
+| [20500](https://boj.kr/20500) | Ezreal 여눈부터 가네 ㅈㅈ | <img alt="G5" src="assets/tier/11.svg"> | [C++](20xxx/20500.cpp) |
 | [20528](https://boj.kr/20528) | 끝말잇기 | <img alt="B2" src="assets/tier/4.svg"> | [C++](20xxx/20528.cpp) |
 | [20529](https://boj.kr/20529) | 가장 가까운 세 사람의 심리적 거리 | <img alt="S1" src="assets/tier/10.svg"> | [C++](20xxx/20529.cpp) |
 | [20540](https://boj.kr/20540) | 연길이의 이상형 | <img alt="B3" src="assets/tier/3.svg"> | [C++](20xxx/20540.cpp) |
@@ -3253,6 +3266,7 @@
 | [25191](https://boj.kr/25191) | 치킨댄스를 추는 곰곰이를 본 임스 | <img alt="B4" src="assets/tier/2.svg"> | [C++](25xxx/25191.cpp) |
 | [25192](https://boj.kr/25192) | 인사성 밝은 곰곰이 | <img alt="S4" src="assets/tier/7.svg"> | [C++](25xxx/25192.cpp) |
 | [25193](https://boj.kr/25193) | 곰곰이의 식단 관리 | <img alt="S5" src="assets/tier/6.svg"> | [C++](25xxx/25193.cpp) |
+| [25204](https://boj.kr/25204) | 문자열 정렬 | <img alt="S4" src="assets/tier/7.svg"> | [C++](25xxx/25204.cpp) |
 | [25205](https://boj.kr/25205) | 경로당펑크 2077 | <img alt="B2" src="assets/tier/4.svg"> | [C++](25xxx/25205.cpp) |
 | [25206](https://boj.kr/25206) | 너의 평점은 | <img alt="S5" src="assets/tier/6.svg"> | [C](25xxx/25206.c) |
 | [25214](https://boj.kr/25214) | 크림 파스타 | <img alt="S4" src="assets/tier/7.svg"> | [C++](25xxx/25214.cpp) |
@@ -3391,6 +3405,7 @@
 | [26099](https://boj.kr/26099) | 설탕 배달 2 | <img alt="S4" src="assets/tier/7.svg"> | [C](26xxx/26099.c) |
 | [26145](https://boj.kr/26145) | 출제비 재분배 | <img alt="B3" src="assets/tier/3.svg"> | [C++](26xxx/26145.cpp) |
 | [26148](https://boj.kr/26148) | 세로 달력 | <img alt="B1" src="assets/tier/5.svg"> | [C++](26xxx/26148.cpp) |
+| [26150](https://boj.kr/26150) | Identify, Sort, Index, Solve | <img alt="S5" src="assets/tier/6.svg"> | [C++](26xxx/26150.cpp) |
 | [26152](https://boj.kr/26152) | 플래피 버드 스코어링 | <img alt="S1" src="assets/tier/10.svg"> | [C++](26xxx/26152.cpp) |
 | [26171](https://boj.kr/26171) | An Interactive Problem | <img alt="B1" src="assets/tier/5.svg"> | [C++](26xxx/26171.cpp) |
 | [26198](https://boj.kr/26198) | Chronogram | <img alt="B3" src="assets/tier/3.svg"> | [C++](26xxx/26198.cpp) |
@@ -3617,6 +3632,7 @@
 | [28239](https://boj.kr/28239) | 배고파(Easy) | <img alt="B1" src="assets/tier/5.svg"> | [C++](28xxx/28239.cpp) |
 | [28248](https://boj.kr/28248) | Deliv-e-droid | <img alt="B4" src="assets/tier/2.svg"> | [C++](28xxx/28248.cpp) |
 | [28249](https://boj.kr/28249) | Chili Peppers | <img alt="B4" src="assets/tier/2.svg"> | [C++](28xxx/28249.cpp) |
+| [28250](https://boj.kr/28250) | 이브, 프시케 그리고 푸른 MEX의 아내 | <img alt="S2" src="assets/tier/9.svg"> | [C++](28xxx/28250.cpp) |
 | [28255](https://boj.kr/28255) | 3단 초콜릿 아이스크림 | <img alt="B1" src="assets/tier/5.svg"> | [C++](28xxx/28255.cpp) |
 | [28278](https://boj.kr/28278) | 스택 2 | <img alt="S4" src="assets/tier/7.svg"> | [C++](28xxx/28278.cpp) |
 | [28279](https://boj.kr/28279) | 덱 2 | <img alt="S4" src="assets/tier/7.svg"> | [C++](28xxx/28279.cpp) |
@@ -4085,6 +4101,7 @@
 | [32399](https://boj.kr/32399) | 햄버거 정렬 | <img alt="B3" src="assets/tier/3.svg"> | [C++](32xxx/32399.cpp) |
 | [32400](https://boj.kr/32400) | 다트판 | <img alt="B2" src="assets/tier/4.svg"> | [C++](32xxx/32400.cpp) |
 | [32401](https://boj.kr/32401) | ANA는 회문이야 | <img alt="B2" src="assets/tier/4.svg"> | [C++](32xxx/32401.cpp) |
+| [32403](https://boj.kr/32403) | 전구 주기 맞추기 | <img alt="S5" src="assets/tier/6.svg"> | [C++](32xxx/32403.cpp) |
 | [32432](https://boj.kr/32432) | Attention to the Meeting | <img alt="B3" src="assets/tier/3.svg"> | [C++](32xxx/32432.cpp) |
 | [32436](https://boj.kr/32436) | Enigma of the Jewelry Case | <img alt="B2" src="assets/tier/4.svg"> | [C++](32xxx/32436.cpp) |
 | [32437](https://boj.kr/32437) | Fractions are better when continued | <img alt="B1" src="assets/tier/5.svg"> | [C++](32xxx/32437.cpp) |
