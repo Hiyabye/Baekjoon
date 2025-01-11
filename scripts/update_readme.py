@@ -21,10 +21,6 @@ def get_problems(handle, page):
   response.raise_for_status()
   return response.json()
 
-# 문제 번호를 입력받아 문제 URL을 반환
-def get_problem_url(id):
-  return f"https://boj.kr/{id}"
-
 # 문제 제목의 특수문자를 처리하여 반환
 def get_problem_title(title):
   title = title.replace("|", "\\|") # 17203번: ∑|ΔEasyMAX|
@@ -102,11 +98,10 @@ def get_table(problems):
 
   print("Generating table...")
   for (id, title, level) in tqdm(problems):
-    url = get_problem_url(id)
     title = get_problem_title(title)
     tier = get_problem_tier(level)
     path = get_solution_path(id)
-    table += f"| [{id}]({url}) | {title} | {tier} | {path}|\n"
+    table += f"| {id} | {title} | {tier} | {path}|\n"
   return table
 
 # 메인 함수
