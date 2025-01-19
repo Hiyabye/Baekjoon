@@ -11,7 +11,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=hiyabye&theme=warm)
 
-마지막으로 업데이트: 2025-01-18 10:00:29 (KST)
+마지막으로 업데이트: 2025-01-19 10:06:56 (KST)
 
 목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -660,6 +660,7 @@
 | 3273 | 두 수의 합 | <img alt="S3" src="assets/tier/8.svg"> | [C](03xxx/03273.c) |
 | 3276 | ICONS | <img alt="B3" src="assets/tier/3.svg"> | [C++](03xxx/03276.cpp) |
 | 3279 | DOLLARS | <img alt="S5" src="assets/tier/6.svg"> | [C++](03xxx/03279.cpp) |
+| 3282 | ROOMS | <img alt="B1" src="assets/tier/5.svg"> | [C++](03xxx/03282.cpp) |
 | 3412 | Darts | <img alt="B1" src="assets/tier/5.svg"> | [C++](03xxx/03412.cpp) |
 | 3417 | Vigenère Cipher Encryption | <img alt="B2" src="assets/tier/4.svg"> | [C++](03xxx/03417.cpp) |
 | 3432 | Game | <img alt="B1" src="assets/tier/5.svg"> | [C++](03xxx/03432.cpp) |
@@ -839,6 +840,7 @@
 | 5105 | Postman Joe | <img alt="B2" src="assets/tier/4.svg"> | [C++](05xxx/05105.cpp) |
 | 5107 | 마니또 | <img alt="S1" src="assets/tier/10.svg"> | [C++](05xxx/05107.cpp) |
 | 5121 | Alarmist | <img alt="B2" src="assets/tier/4.svg"> | [C++](05xxx/05121.cpp) |
+| 5139 | Oil Exploration | <img alt="B2" src="assets/tier/4.svg"> | [C++](05xxx/05139.cpp) |
 | 5145 | Subway Fares | <img alt="B2" src="assets/tier/4.svg"> | [C++](05xxx/05145.cpp) |
 | 5149 | Map Interface | <img alt="B2" src="assets/tier/4.svg"> | [C++](05xxx/05149.cpp) |
 | 5157 | Bailout Bonus | <img alt="B2" src="assets/tier/4.svg"> | [C++](05xxx/05157.cpp) |
@@ -2227,7 +2229,7 @@
 | 14729 | 칠무해 | <img alt="S5" src="assets/tier/6.svg"> | [C++](14xxx/14729.cpp) |
 | 14730 | 謎紛芥索紀 (Small) | <img alt="S5" src="assets/tier/6.svg"> | [C++](14xxx/14730.cpp) |
 | 14731 | 謎紛芥索紀 (Large) | <img alt="S1" src="assets/tier/10.svg"> | [C++](14xxx/14731.cpp) |
-| 14736 | Coke Challenge | <img alt="B1" src="assets/tier/5.svg"> | [C++](14xxx/14736.cpp) |
+| 14736 | Coke Challenge | <img alt="S5" src="assets/tier/6.svg"> | [C++](14xxx/14736.cpp) |
 | 14753 | MultiMax | <img alt="S4" src="assets/tier/7.svg"> | [C++](14xxx/14753.cpp) |
 | 14758 | Paint Me | <img alt="B2" src="assets/tier/4.svg"> | [C++](14xxx/14758.cpp) |
 | 14761 | FizzBuzz | <img alt="B3" src="assets/tier/3.svg"> | [C++](14xxx/14761.cpp) |
@@ -2960,6 +2962,7 @@
 | 20977 | JOI ソート (JOI Sort) | <img alt="B2" src="assets/tier/4.svg"> | [C++](20xxx/20977.cpp) |
 | 20978 | 共通要素 (Common Elements) | <img alt="B2" src="assets/tier/4.svg"> | [C++](20xxx/20978.cpp) |
 | 21022 | Three Points for a Win | <img alt="B3" src="assets/tier/3.svg"> | [C++](21xxx/21022.cpp) |
+| 21035 | Simple Operations in Matrix | <img alt="B1" src="assets/tier/5.svg"> | [C++](21xxx/21035.cpp) |
 | 21049 | Coin Stacks | <img alt="S2" src="assets/tier/9.svg"> | [C++](21xxx/21049.cpp) |
 | 21059 | Methodic Multiplication | <img alt="B1" src="assets/tier/5.svg"> | [C++](21xxx/21059.cpp) |
 | 21099 | Four XOR | <img alt="P4" src="assets/tier/17.svg"> | [C++](21xxx/21099.cpp) |
@@ -3321,6 +3324,7 @@
 | 24927 | Is It Even? | <img alt="B2" src="assets/tier/4.svg"> | [C++](24xxx/24927.cpp) |
 | 24930 | Ordinary Ordinals | <img alt="G5" src="assets/tier/11.svg"> | [C++](24xxx/24930.cpp) |
 | 24937 | SciComLove (2022) | <img alt="B2" src="assets/tier/4.svg"> | [C++](24xxx/24937.cpp) |
+| 24993 | KIARA is a Recursive Acronym | <img alt="B1" src="assets/tier/5.svg"> | [C++](24xxx/24993.cpp) |
 | 25024 | 시간과 날짜 | <img alt="B3" src="assets/tier/3.svg"> | [C++](25xxx/25024.cpp) |
 | 25033 | finitefunc | <img alt="S5" src="assets/tier/6.svg"> | [Python](25xxx/25033.py) |
 | 25045 | 비즈마켓 | <img alt="S3" src="assets/tier/8.svg"> | [C++](25xxx/25045.cpp) |
