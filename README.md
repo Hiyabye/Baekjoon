@@ -11,7 +11,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=hiyabye&theme=warm)
 
-마지막으로 업데이트: 2025-02-15 10:03:00 (KST)
+마지막으로 업데이트: 2025-02-16 10:08:56 (KST)
 
 목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -854,6 +854,7 @@
 | 5139 | Oil Exploration | <img alt="B2" src="assets/tier/4.svg"> | [C++](05xxx/05139.cpp) |
 | 5145 | Subway Fares | <img alt="B2" src="assets/tier/4.svg"> | [C++](05xxx/05145.cpp) |
 | 5149 | Map Interface | <img alt="B2" src="assets/tier/4.svg"> | [C++](05xxx/05149.cpp) |
+| 5155 | Gadget Purchases | <img alt="B2" src="assets/tier/4.svg"> | [C++](05xxx/05155.cpp) |
 | 5157 | Bailout Bonus | <img alt="B2" src="assets/tier/4.svg"> | [C++](05xxx/05157.cpp) |
 | 5163 | Isn’t It Funny How a Bear Likes Honey? | <img alt="B3" src="assets/tier/3.svg"> | [C++](05xxx/05163.cpp) |
 | 5176 | 대회 자리 | <img alt="B2" src="assets/tier/4.svg"> | [C++](05xxx/05176.cpp) |
@@ -1115,6 +1116,7 @@
 | 6904 | Picture Perfect | <img alt="B2" src="assets/tier/4.svg"> | [C++](06xxx/06904.cpp) |
 | 6907 | Floor Plan | <img alt="S1" src="assets/tier/10.svg"> | [C++](06xxx/06907.cpp) |
 | 6917 | AmeriCanadian | <img alt="B2" src="assets/tier/4.svg"> | [C++](06xxx/06917.cpp) |
+| 6918 | The Students' Council Breakfast | <img alt="B2" src="assets/tier/4.svg"> | [C++](06xxx/06918.cpp) |
 | 6929 | Dressing Up | <img alt="B2" src="assets/tier/4.svg"> | [C++](06xxx/06929.cpp) |
 | 6930 | Mod Inverse | <img alt="B2" src="assets/tier/4.svg"> | [C++](06xxx/06930.cpp) |
 | 6942 | 9966 | <img alt="B1" src="assets/tier/5.svg"> | [C++](06xxx/06942.cpp) |
@@ -1145,6 +1147,7 @@
 | 7241 | Skaičiai | <img alt="B2" src="assets/tier/4.svg"> | [C++](07xxx/07241.cpp) |
 | 7245 | Kurjeris | <img alt="B1" src="assets/tier/5.svg"> | [C++](07xxx/07245.cpp) |
 | 7274 | Liftas | <img alt="S5" src="assets/tier/6.svg"> | [C++](07xxx/07274.cpp) |
+| 7275 | Skalbiniai | <img alt="B2" src="assets/tier/4.svg"> | [C++](07xxx/07275.cpp) |
 | 7278 | Kaladėlės | <img alt="B2" src="assets/tier/4.svg"> | [C++](07xxx/07278.cpp) |
 | 7279 | Autobusas | <img alt="B3" src="assets/tier/3.svg"> | [C++](07xxx/07279.cpp) |
 | 7280 | Kortos | <img alt="B3" src="assets/tier/3.svg"> | [C++](07xxx/07280.cpp) |
@@ -1712,7 +1715,7 @@
 | 11140 | LOL | <img alt="S3" src="assets/tier/8.svg"> | [C++](11xxx/11140.cpp) |
 | 11145 | Is it a Number? | <img alt="B2" src="assets/tier/4.svg"> | [C++](11xxx/11145.cpp) |
 | 11149 | Decode the Message | <img alt="B2" src="assets/tier/4.svg"> | [C++](11xxx/11149.cpp) |
-| 11158 | Angry Grammar Nazi | <img alt="B2" src="assets/tier/4.svg"> | [C++](11xxx/11158.cpp) |
+| 11158 | Angry Grammar Nazi | <img alt="B1" src="assets/tier/5.svg"> | [C++](11xxx/11158.cpp) |
 | 11161 | Negative People in Da House | <img alt="B3" src="assets/tier/3.svg"> | [C++](11xxx/11161.cpp) |
 | 11170 | 0의 개수 | <img alt="B1" src="assets/tier/5.svg"> | [C++](11xxx/11170.cpp) |
 | 11176 | In the Shower | <img alt="B3" src="assets/tier/3.svg"> | [C++](11xxx/11176.cpp) |
@@ -2969,6 +2972,7 @@
 | 20436 | ZOAC 3 | <img alt="S4" src="assets/tier/7.svg"> | [C++](20xxx/20436.cpp) |
 | 20444 | 색종이와 가위 | <img alt="G5" src="assets/tier/11.svg"> | [C++](20xxx/20444.cpp) |
 | 20473 | Гостиница | <img alt="B3" src="assets/tier/3.svg"> | [C++](20xxx/20473.cpp) |
+| 20490 | Рыцарский щит | <img alt="B3" src="assets/tier/3.svg"> | [C++](20xxx/20490.cpp) |
 | 20492 | 세금 | <img alt="B5" src="assets/tier/1.svg"> | [C](20xxx/20492.c) |
 | 20494 | 스시 | <img alt="B2" src="assets/tier/4.svg"> | [C++](20xxx/20494.cpp) |
 | 20499 | Darius님 한타 안 함? | <img alt="B4" src="assets/tier/2.svg"> | [C++](20xxx/20499.cpp) |
@@ -3581,6 +3585,7 @@
 | 26509 | Triangle | <img alt="B3" src="assets/tier/3.svg"> | [C++](26xxx/26509.cpp) |
 | 26510 | V for Vendetta | <img alt="B3" src="assets/tier/3.svg"> | [C++](26xxx/26510.cpp) |
 | 26511 | Complexity | <img alt="B1" src="assets/tier/5.svg"> | [C++](26xxx/26511.cpp) |
+| 26515 | Judy | <img alt="B2" src="assets/tier/4.svg"> | [C++](26xxx/26515.cpp) |
 | 26516 | Mutint | <img alt="B2" src="assets/tier/4.svg"> | [C++](26xxx/26516.cpp) |
 | 26517 | 연속인가? ? | <img alt="S5" src="assets/tier/6.svg"> | [C++](26xxx/26517.cpp) |
 | 26518 | 수열의 극한값 | <img alt="S2" src="assets/tier/9.svg"> | [C++](26xxx/26518.cpp) |
@@ -3666,6 +3671,7 @@
 | 27215 | Непохожие числа | <img alt="B1" src="assets/tier/5.svg"> | [C++](27xxx/27215.cpp) |
 | 27219 | Робинзон Крузо | <img alt="B5" src="assets/tier/1.svg"> | [C++](27xxx/27219.cpp) |
 | 27220 | Ромб | <img alt="B2" src="assets/tier/4.svg"> | [C++](27xxx/27220.cpp) |
+| 27222 | Штангист | <img alt="B4" src="assets/tier/2.svg"> | [C++](27xxx/27222.cpp) |
 | 27225 | Класс | <img alt="B3" src="assets/tier/3.svg"> | [C++](27xxx/27225.cpp) |
 | 27239 | Шахматная доска | <img alt="B4" src="assets/tier/2.svg"> | [C++](27xxx/27239.cpp) |
 | 27240 | Электричка | <img alt="B4" src="assets/tier/2.svg"> | [C++](27xxx/27240.cpp) |
@@ -3778,7 +3784,7 @@
 | 28113 | 정보섬의 대중교통 | <img alt="B5" src="assets/tier/1.svg"> | [C](28xxx/28113.c) |
 | 28114 | 팀명 정하기 | <img alt="B2" src="assets/tier/4.svg"> | [C++](28xxx/28114.cpp) |
 | 28115 | 등차수열의 합 | <img alt="B1" src="assets/tier/5.svg"> | [C++](28xxx/28115.cpp) |
-| 28132 | 기벡을 안배운다고? | <img alt="G1" src="assets/tier/15.svg"> | [C++](28xxx/28132.cpp) |
+| 28132 | 기벡을 안배운다고? | <img alt="G2" src="assets/tier/14.svg"> | [C++](28xxx/28132.cpp) |
 | 28135 | Since 1973 | <img alt="B3" src="assets/tier/3.svg"> | [C++](28xxx/28135.cpp) |
 | 28136 | 원, 탁! | <img alt="S5" src="assets/tier/6.svg"> | [C++](28xxx/28136.cpp) |
 | 28138 | 재밌는 나머지 연산 | <img alt="S2" src="assets/tier/9.svg"> | [C++](28xxx/28138.cpp) |
@@ -3889,6 +3895,7 @@
 | 29546 | Файлы | <img alt="B4" src="assets/tier/2.svg"> | [C++](29xxx/29546.cpp) |
 | 29558 | Эксперимент | <img alt="B2" src="assets/tier/4.svg"> | [C++](29xxx/29558.cpp) |
 | 29574 | Языки | <img alt="B2" src="assets/tier/4.svg"> | [C++](29xxx/29574.cpp) |
+| 29586 | Оптическое распознавание символов | <img alt="B2" src="assets/tier/4.svg"> | [C++](29xxx/29586.cpp) |
 | 29587 | Последовательность | <img alt="B2" src="assets/tier/4.svg"> | [C++](29xxx/29587.cpp) |
 | 29598 | Два формата | <img alt="B2" src="assets/tier/4.svg"> | [C++](29xxx/29598.cpp) |
 | 29602 | Расписание | <img alt="B2" src="assets/tier/4.svg"> | [C++](29xxx/29602.cpp) |
@@ -4297,6 +4304,7 @@
 | 32529 | 래환이의 여자친구 사귀기 대작전 | <img alt="B2" src="assets/tier/4.svg"> | [C++](32xxx/32529.cpp) |
 | 32551 | Composed Rhythms | <img alt="B2" src="assets/tier/4.svg"> | [C++](32xxx/32551.cpp) |
 | 32560 | Amalgram | <img alt="B3" src="assets/tier/3.svg"> | [C++](32xxx/32560.cpp) |
+| 32571 | Leg Day | <img alt="B2" src="assets/tier/4.svg"> | [C++](32xxx/32571.cpp) |
 | 32585 | Building Pyramids | <img alt="B3" src="assets/tier/3.svg"> | [C++](32xxx/32585.cpp) |
 | 32587 | Dragged-out Duel | <img alt="B3" src="assets/tier/3.svg"> | [C++](32xxx/32587.cpp) |
 | 32589 | Flag Rotation | <img alt="S3" src="assets/tier/8.svg"> | [C++](32xxx/32589.cpp) |
@@ -4370,10 +4378,12 @@
 | 33170 | ブラックジャック (Blackjack) | <img alt="B5" src="assets/tier/1.svg"> | [C++](33xxx/33170.cpp) |
 | 33171 | いずれか片方 (Either, but Not Both) | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33171.cpp) |
 | 33172 | 周期文字列 (Cycle String) | <img alt="B1" src="assets/tier/5.svg"> | [C++](33xxx/33172.cpp) |
+| 33173 | マスキングテープ (Masking Tape) | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33173.cpp) |
 | 33178 | Micromasters | <img alt="B5" src="assets/tier/1.svg"> | [C++](33xxx/33178.cpp) |
 | 33179 | Hezardastan’s Annual Report | <img alt="B4" src="assets/tier/2.svg"> | [C++](33xxx/33179.cpp) |
 | 33191 | Yalda | <img alt="B4" src="assets/tier/2.svg"> | [C++](33xxx/33191.cpp) |
 | 33192 | Divar’s Salaries | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33192.cpp) |
 | 33213 | Fermatovi Fakini | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33213.cpp) |
 | 33249 | Circus Tent | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33249.cpp) |
+| 33253 | Game Night | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33253.cpp) |
 | 33277 | 국방시계 | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33277.cpp) |
