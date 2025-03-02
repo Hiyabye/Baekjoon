@@ -11,7 +11,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=hiyabye&theme=warm)
 
-마지막으로 업데이트: 2025-03-01 10:10:38 (KST)
+마지막으로 업데이트: 2025-03-02 10:09:50 (KST)
 
 목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -2191,7 +2191,7 @@
 | 14438 | 수열과 쿼리 17 | <img alt="G1" src="assets/tier/15.svg"> | [C++](14xxx/14438.cpp) |
 | 14440 | 정수 수열 | <img alt="G2" src="assets/tier/14.svg"> | [C++](14xxx/14440.cpp) |
 | 14442 | 벽 부수고 이동하기 2 | <img alt="G3" src="assets/tier/13.svg"> | [C++](14xxx/14442.cpp) |
-| 14445 | 케이크(?) 자르기 | <img alt="G5" src="assets/tier/11.svg"> | [C++](14xxx/14445.cpp) |
+| 14445 | 케이크(?) 자르기 | <img alt="G4" src="assets/tier/12.svg"> | [C++](14xxx/14445.cpp) |
 | 14456 | Hoof, Paper, Scissors (Bronze) | <img alt="B1" src="assets/tier/5.svg"> | [C++](14xxx/14456.cpp) |
 | 14467 | 소가 길을 건너간 이유 1 | <img alt="B1" src="assets/tier/5.svg"> | [C](14xxx/14467.c) |
 | 14468 | 소가 길을 건너간 이유 2 | <img alt="S4" src="assets/tier/7.svg"> | [C++](14xxx/14468.cpp) |
@@ -4409,6 +4409,7 @@
 | 33253 | Game Night | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33253.cpp) |
 | 33277 | 국방시계 | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33277.cpp) |
 | 33488 | 아름다운 수열 | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33488.cpp) |
+| 33510 | 이상한 나누기 | <img alt="S2" src="assets/tier/9.svg"> | [C++](33xxx/33510.cpp) |
 | 33515 | 노트북 세 대를 가지고 왔다 | <img alt="B5" src="assets/tier/1.svg"> | [C++](33xxx/33515.cpp) |
 | 33520 | 초코바 만들기 | <img alt="S5" src="assets/tier/6.svg"> | [C++](33xxx/33520.cpp) |
 | 33528 | Alphabetic Shift | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33528.cpp) |
