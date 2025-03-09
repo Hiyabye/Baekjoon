@@ -11,7 +11,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=hiyabye&theme=warm)
 
-마지막으로 업데이트: 2025-03-08 09:53:53 (KST)
+마지막으로 업데이트: 2025-03-09 09:58:26 (KST)
 
 목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -839,6 +839,7 @@
 | 5026 | 박사 과정 | <img alt="B2" src="assets/tier/4.svg"> | [C++](05xxx/05026.cpp) |
 | 5032 | 탄산 음료 | <img alt="B2" src="assets/tier/4.svg"> | [C++](05xxx/05032.cpp) |
 | 5043 | 정말 좋은 압축 | <img alt="S5" src="assets/tier/6.svg"> | [C++](05xxx/05043.cpp) |
+| 5046 | 전국 대학생 프로그래밍 대회 동아리 연합 | <img alt="B1" src="assets/tier/5.svg"> | [C++](05xxx/05046.cpp) |
 | 5052 | 전화번호 목록 | <img alt="G4" src="assets/tier/12.svg"> | [C++](05xxx/05052.cpp) |
 | 5054 | 주차의 신 | <img alt="B2" src="assets/tier/4.svg"> | [C++](05xxx/05054.cpp) |
 | 5059 | Shopaholic | <img alt="S4" src="assets/tier/7.svg"> | [C++](05xxx/05059.cpp) |
@@ -1195,7 +1196,7 @@
 | 7583 | Jumbled Words | <img alt="B2" src="assets/tier/4.svg"> | [C++](07xxx/07583.cpp) |
 | 7586 | Untied Airlines | <img alt="B2" src="assets/tier/4.svg"> | [C++](07xxx/07586.cpp) |
 | 7595 | Triangles | <img alt="B4" src="assets/tier/2.svg"> | [C++](07xxx/07595.cpp) |
-| 7597 | Tennis | <img alt="B1" src="assets/tier/5.svg"> | [C++](07xxx/07597.cpp) |
+| 7597 | Tennis | <img alt="B2" src="assets/tier/4.svg"> | [C++](07xxx/07597.cpp) |
 | 7598 | Bookings | <img alt="B2" src="assets/tier/4.svg"> | [C++](07xxx/07598.cpp) |
 | 7599 | Library Codes | <img alt="B2" src="assets/tier/4.svg"> | [C++](07xxx/07599.cpp) |
 | 7600 | 문자가 몇갤까 | <img alt="B2" src="assets/tier/4.svg"> | [C++](07xxx/07600.cpp) |
@@ -2644,6 +2645,8 @@
 | 16917 | 양념 반 후라이드 반 | <img alt="B2" src="assets/tier/4.svg"> | [C++](16xxx/16917.cpp) |
 | 16918 | 봄버맨 | <img alt="S1" src="assets/tier/10.svg"> | [C++](16xxx/16918.cpp) |
 | 16922 | 로마 숫자 만들기 | <img alt="S3" src="assets/tier/8.svg"> | [C++](16xxx/16922.cpp) |
+| 16926 | 배열 돌리기 1 | <img alt="G5" src="assets/tier/11.svg"> | [C++](16xxx/16926.cpp) |
+| 16927 | 배열 돌리기 2 | <img alt="G5" src="assets/tier/11.svg"> | [C++](16xxx/16927.cpp) |
 | 16931 | 겉넓이 구하기 | <img alt="S2" src="assets/tier/9.svg"> | [C++](16xxx/16931.cpp) |
 | 16933 | 벽 부수고 이동하기 3 | <img alt="G1" src="assets/tier/15.svg"> | [C++](16xxx/16933.cpp) |
 | 16938 | 캠프 준비 | <img alt="G5" src="assets/tier/11.svg"> | [C++](16xxx/16938.cpp) |
@@ -2710,6 +2713,7 @@
 | 17271 | 리그 오브 레전설 (Small) | <img alt="S2" src="assets/tier/9.svg"> | [C++](17xxx/17271.cpp) |
 | 17272 | 리그 오브 레전설 (Large) | <img alt="G1" src="assets/tier/15.svg"> | [C++](17xxx/17272.cpp) |
 | 17273 | 카드 공장 (Small) | <img alt="B2" src="assets/tier/4.svg"> | [C++](17xxx/17273.cpp) |
+| 17276 | 배열 돌리기 | <img alt="S1" src="assets/tier/10.svg"> | [C++](17xxx/17276.cpp) |
 | 17283 | I am Groot | <img alt="B1" src="assets/tier/5.svg"> | [C++](17xxx/17283.cpp) |
 | 17284 | Vending Machine | <img alt="B3" src="assets/tier/3.svg"> | [C++](17xxx/17284.cpp) |
 | 17285 | XORChic | <img alt="B2" src="assets/tier/4.svg"> | [C++](17xxx/17285.cpp) |
@@ -3102,6 +3106,7 @@
 | 21866 | 추첨을 통해 커피를 받자 | <img alt="B3" src="assets/tier/3.svg"> | [C++](21xxx/21866.cpp) |
 | 21867 | Java Bitecode | <img alt="B2" src="assets/tier/4.svg"> | [C++](21xxx/21867.cpp) |
 | 21870 | 시철이가 사랑한 GCD | <img alt="G5" src="assets/tier/11.svg"> | [C++](21xxx/21870.cpp) |
+| 21875 | Innohorse | <img alt="B4" src="assets/tier/2.svg"> | [C++](21xxx/21875.cpp) |
 | 21895 | Rock-Paper-Scissors for three | <img alt="B2" src="assets/tier/4.svg"> | [C++](21xxx/21895.cpp) |
 | 21918 | 전구 | <img alt="B2" src="assets/tier/4.svg"> | [C++](21xxx/21918.cpp) |
 | 21919 | 소수 최소 공배수 | <img alt="S3" src="assets/tier/8.svg"> | [C++](21xxx/21919.cpp) |
@@ -3624,6 +3629,7 @@
 | 26535 | Chicken Pen | <img alt="B3" src="assets/tier/3.svg"> | [C++](26xxx/26535.cpp) |
 | 26536 | Cowspeak | <img alt="B2" src="assets/tier/4.svg"> | [C++](26xxx/26536.cpp) |
 | 26537 | Animal Conference | <img alt="B2" src="assets/tier/4.svg"> | [C++](26xxx/26537.cpp) |
+| 26540 | Bloom | <img alt="B1" src="assets/tier/5.svg"> | [C++](26xxx/26540.cpp) |
 | 26544 | Histogram Fencing | <img alt="B1" src="assets/tier/5.svg"> | [C++](26xxx/26544.cpp) |
 | 26545 | Mathematics | <img alt="B5" src="assets/tier/1.svg"> | [C++](26xxx/26545.cpp) |
 | 26546 | Reverse | <img alt="B4" src="assets/tier/2.svg"> | [C++](26xxx/26546.cpp) |
@@ -4419,11 +4425,14 @@
 | 33249 | Circus Tent | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33249.cpp) |
 | 33253 | Game Night | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33253.cpp) |
 | 33277 | 국방시계 | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33277.cpp) |
+| 33358 | I Flipped The Calendar... | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33358.cpp) |
 | 33488 | 아름다운 수열 | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33488.cpp) |
 | 33510 | 이상한 나누기 | <img alt="S2" src="assets/tier/9.svg"> | [C++](33xxx/33510.cpp) |
 | 33515 | 노트북 세 대를 가지고 왔다 | <img alt="B5" src="assets/tier/1.svg"> | [C++](33xxx/33515.cpp) |
 | 33520 | 초코바 만들기 | <img alt="S5" src="assets/tier/6.svg"> | [C++](33xxx/33520.cpp) |
 | 33528 | Alphabetic Shift | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33528.cpp) |
+| 33534 | Hungry Wolves | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33534.cpp) |
 | 33538 | Crawling | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33538.cpp) |
 | 33540 | Helping Out | <img alt="S5" src="assets/tier/6.svg"> | [C++](33xxx/33540.cpp) |
 | 33541 | 2025는 무엇이 특별할까? | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33541.cpp) |
+| 33556 | Java String Equals | <img alt="B1" src="assets/tier/5.svg"> | [C++](33xxx/33556.cpp) |
