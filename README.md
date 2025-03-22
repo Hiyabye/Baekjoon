@@ -11,7 +11,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=hiyabye&theme=warm)
 
-마지막으로 업데이트: 2025-03-16 10:12:14 (KST)
+마지막으로 업데이트: 2025-03-22 10:06:38 (KST)
 
 목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -1189,7 +1189,7 @@
 | 7513 | 준살 프로그래밍 대회 | <img alt="B1" src="assets/tier/5.svg"> | [C++](07xxx/07513.cpp) |
 | 7515 | Prehistoric Operating Systems | <img alt="S4" src="assets/tier/7.svg"> | [C++](07xxx/07515.cpp) |
 | 7517 | Tudoku | <img alt="S1" src="assets/tier/10.svg"> | [C++](07xxx/07517.cpp) |
-| 7523 | Gauß | <img alt="B3" src="assets/tier/3.svg"> | [C++](07xxx/07523.cpp) |
+| 7523 | Gauß | <img alt="B2" src="assets/tier/4.svg"> | [C++](07xxx/07523.cpp) |
 | 7530 | Stamps | <img alt="S4" src="assets/tier/7.svg"> | [C++](07xxx/07530.cpp) |
 | 7562 | 나이트의 이동 | <img alt="S1" src="assets/tier/10.svg"> | [C++](07xxx/07562.cpp) |
 | 7567 | 그릇 | <img alt="B2" src="assets/tier/4.svg"> | [C](07xxx/07567.c) |
@@ -2558,6 +2558,7 @@
 | 16174 | 점프왕 쩰리 (Large) | <img alt="S1" src="assets/tier/10.svg"> | [C++](16xxx/16174.cpp) |
 | 16175 | General Election | <img alt="B3" src="assets/tier/3.svg"> | [C++](16xxx/16175.cpp) |
 | 16189 | Repetitive Palindrome | <img alt="B1" src="assets/tier/5.svg"> | [C++](16xxx/16189.cpp) |
+| 16193 | 차이를 최대로 2 | <img alt="G2" src="assets/tier/14.svg"> | [C++](16xxx/16193.cpp) |
 | 16194 | 카드 구매하기 2 | <img alt="S1" src="assets/tier/10.svg"> | [C](16xxx/16194.c) |
 | 16195 | 1, 2, 3 더하기 9 | <img alt="S1" src="assets/tier/10.svg"> | [C++](16xxx/16195.cpp) |
 | 16199 | 나이 계산하기 | <img alt="B4" src="assets/tier/2.svg"> | [C++](16xxx/16199.cpp) |
@@ -2749,6 +2750,7 @@
 | 17356 | 욱 제 | <img alt="B4" src="assets/tier/2.svg"> | [C++](17xxx/17356.cpp) |
 | 17362 | 수학은 체육과목 입니다 2 | <img alt="B4" src="assets/tier/2.svg"> | [C++](17xxx/17362.cpp) |
 | 17363 | 우유가 넘어지면? | <img alt="B1" src="assets/tier/5.svg"> | [C++](17xxx/17363.cpp) |
+| 17372 | 피보나치 수의 최대공약수의 합 | <img alt="D2" src="assets/tier/24.svg"> | [C++](17xxx/17372.cpp) |
 | 17386 | 선분 교차 1 | <img alt="G3" src="assets/tier/13.svg"> | [C](17xxx/17386.c) |
 | 17387 | 선분 교차 2 | <img alt="G2" src="assets/tier/14.svg"> | [C](17xxx/17387.c) |
 | 17388 | 와글와글 숭고한 | <img alt="B4" src="assets/tier/2.svg"> | [C++](17xxx/17388.cpp) |
@@ -2794,7 +2796,7 @@
 | 17795 | Ballpark Estimate | <img alt="B2" src="assets/tier/4.svg"> | [C++](17xxx/17795.cpp) |
 | 17826 | 나의 학점은? | <img alt="B2" src="assets/tier/4.svg"> | [C++](17xxx/17826.cpp) |
 | 17827 | 달팽이 리스트 | <img alt="S2" src="assets/tier/9.svg"> | [C](17xxx/17827.c) |
-| 17829 | 222-풀링 | <img alt="S2" src="assets/tier/9.svg"> | [C++](17xxx/17829.cpp) |
+| 17829 | 222-풀링 | <img alt="S3" src="assets/tier/8.svg"> | [C++](17xxx/17829.cpp) |
 | 17838 | 커맨드 | <img alt="B2" src="assets/tier/4.svg"> | [C++](17xxx/17838.cpp) |
 | 17845 | 수강 과목 | <img alt="G5" src="assets/tier/11.svg"> | [C++](17xxx/17845.cpp) |
 | 17851 | This Problem’s a Slam Dunk | <img alt="B2" src="assets/tier/4.svg"> | [C++](17xxx/17851.cpp) |
@@ -4150,7 +4152,7 @@
 | 30993 | 자동차 주차 | <img alt="S5" src="assets/tier/6.svg"> | [C++](30xxx/30993.cpp) |
 | 30995 | 문자열 제작 | <img alt="G1" src="assets/tier/15.svg"> | [C++](30xxx/30995.cpp) |
 | 30999 | 민주주의 | <img alt="B4" src="assets/tier/2.svg"> | [C++](30xxx/30999.cpp) |
-| 31000 | 교환 분배법칙 | <img alt="B1" src="assets/tier/5.svg"> | [C++](31xxx/31000.cpp) |
+| 31000 | 교환 분배법칙 | <img alt="S5" src="assets/tier/6.svg"> | [C++](31xxx/31000.cpp) |
 | 31001 | 주식 시뮬레이션 | <img alt="S1" src="assets/tier/10.svg"> | [C++](31xxx/31001.cpp) |
 | 31009 | 진주로 가자! (Easy) | <img alt="B3" src="assets/tier/3.svg"> | [C++](31xxx/31009.cpp) |
 | 31040 | Nine Knights | <img alt="B2" src="assets/tier/4.svg"> | [C++](31xxx/31040.cpp) |
@@ -4461,3 +4463,5 @@
 | 33540 | Helping Out | <img alt="S5" src="assets/tier/6.svg"> | [C++](33xxx/33540.cpp) |
 | 33541 | 2025는 무엇이 특별할까? | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33541.cpp) |
 | 33556 | Java String Equals | <img alt="B1" src="assets/tier/5.svg"> | [C++](33xxx/33556.cpp) |
+| 33571 | 구멍 | <img alt="B4" src="assets/tier/2.svg"> | [C++](33xxx/33571.cpp) |
+| 33572 | 자세히 보아야 예쁘다 | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33572.cpp) |
