@@ -11,7 +11,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=hiyabye&theme=warm)
 
-마지막으로 업데이트: 2025-03-22 10:06:38 (KST)
+마지막으로 업데이트: 2025-03-23 10:12:52 (KST)
 
 목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -389,6 +389,7 @@
 | 2252 | 줄 세우기 | <img alt="G3" src="assets/tier/13.svg"> | [C++](02xxx/02252.cpp) |
 | 2263 | 트리의 순회 | <img alt="G1" src="assets/tier/15.svg"> | [C++](02xxx/02263.cpp) |
 | 2268 | 수들의 합 7 | <img alt="G1" src="assets/tier/15.svg"> | [C++](02xxx/02268.cpp) |
+| 2290 | LCD Test | <img alt="S2" src="assets/tier/9.svg"> | [C++](02xxx/02290.cpp) |
 | 2292 | 벌집 | <img alt="B2" src="assets/tier/4.svg"> | [C](02xxx/02292.c) |
 | 2293 | 동전 1 | <img alt="G4" src="assets/tier/12.svg"> | [C](02xxx/02293.c) |
 | 2294 | 동전 2 | <img alt="G5" src="assets/tier/11.svg"> | [C++](02xxx/02294.cpp) |
@@ -761,7 +762,7 @@
 | 4447 | 좋은놈 나쁜놈 | <img alt="B2" src="assets/tier/4.svg"> | [C++](04xxx/04447.cpp) |
 | 4458 | 첫 글자를 대문자로 | <img alt="B3" src="assets/tier/3.svg"> | [C++](04xxx/04458.cpp) |
 | 4459 | Always Follow the Rules in Zombieland | <img alt="B3" src="assets/tier/3.svg"> | [C++](04xxx/04459.cpp) |
-| 4463 | 피보나치 수 분석 | <img alt="P3" src="assets/tier/18.svg"> | [Python](04xxx/04463.py) |
+| 4463 | 피보나치 수 분석 | <img alt="P4" src="assets/tier/17.svg"> | [Python](04xxx/04463.py) |
 | 4464 | Pride and Prejudice and Zombies | <img alt="D5" src="assets/tier/21.svg"> | [C++](04xxx/04464.cpp) |
 | 4470 | 줄번호 | <img alt="B4" src="assets/tier/2.svg"> | [C++](04xxx/04470.cpp) |
 | 4471 | The Navi-Computer is Down! | <img alt="B2" src="assets/tier/4.svg"> | [C++](04xxx/04471.cpp) |
@@ -4465,3 +4466,12 @@
 | 33556 | Java String Equals | <img alt="B1" src="assets/tier/5.svg"> | [C++](33xxx/33556.cpp) |
 | 33571 | 구멍 | <img alt="B4" src="assets/tier/2.svg"> | [C++](33xxx/33571.cpp) |
 | 33572 | 자세히 보아야 예쁘다 | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33572.cpp) |
+| 33612 | 피갤컵 | <img alt="B5" src="assets/tier/1.svg"> | [C++](33xxx/33612.cpp) |
+| 33639 | Candy Store | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33639.cpp) |
+| 33643 | Keys, Phone, Wallet | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33643.cpp) |
+| 33646 | Pencil Crayons | <img alt="B1" src="assets/tier/5.svg"> | [C++](33xxx/33646.cpp) |
+| 33651 | Vandalism | <img alt="B4" src="assets/tier/2.svg"> | [C++](33xxx/33651.cpp) |
+| 33652 | Testing LEDs | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33652.cpp) |
+| 33653 | Search Wizard | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33653.cpp) |
+| 33654 | Sort of Sort | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33654.cpp) |
+| 33657 | Tracing (Laser) Pointers | <img alt="S4" src="assets/tier/7.svg"> | [C++](33xxx/33657.cpp) |
