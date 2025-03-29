@@ -11,7 +11,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=hiyabye&theme=warm)
 
-마지막으로 업데이트: 2025-03-23 10:12:52 (KST)
+마지막으로 업데이트: 2025-03-29 10:07:43 (KST)
 
 목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -352,7 +352,7 @@
 | 2096 | 내려가기 | <img alt="G5" src="assets/tier/11.svg"> | [C++](02xxx/02096.cpp) |
 | 2097 | 조약돌 | <img alt="S5" src="assets/tier/6.svg"> | [C++](02xxx/02097.cpp) |
 | 2099 | The game of death | <img alt="G1" src="assets/tier/15.svg"> | [C++](02xxx/02099.cpp) |
-| 2108 | 통계학 | <img alt="S3" src="assets/tier/8.svg"> | [C](02xxx/02108.c) |
+| 2108 | 통계학 | <img alt="S2" src="assets/tier/9.svg"> | [C](02xxx/02108.c) |
 | 2110 | 공유기 설치 | <img alt="G4" src="assets/tier/12.svg"> | [C++](02xxx/02110.cpp) |
 | 2116 | 주사위 쌓기 | <img alt="G5" src="assets/tier/11.svg"> | [C++](02xxx/02116.cpp) |
 | 2121 | 넷이 놀기 | <img alt="S3" src="assets/tier/8.svg"> | [C++](02xxx/02121.cpp) |
@@ -939,7 +939,7 @@
 | 5555 | 반지 | <img alt="S5" src="assets/tier/6.svg"> | [C++](05xxx/05555.cpp) |
 | 5556 | 타일 | <img alt="B1" src="assets/tier/5.svg"> | [C++](05xxx/05556.cpp) |
 | 5557 | 1학년 | <img alt="G5" src="assets/tier/11.svg"> | [C](05xxx/05557.c) |
-| 5565 | 영수증 | <img alt="B3" src="assets/tier/3.svg"> | [C](05xxx/05565.c) |
+| 5565 | 영수증 | <img alt="B4" src="assets/tier/2.svg"> | [C](05xxx/05565.c) |
 | 5566 | 주사위 게임 | <img alt="B2" src="assets/tier/4.svg"> | [C++](05xxx/05566.cpp) |
 | 5567 | 결혼식 | <img alt="S2" src="assets/tier/9.svg"> | [C++](05xxx/05567.cpp) |
 | 5568 | 카드 놓기 | <img alt="S4" src="assets/tier/7.svg"> | [C++](05xxx/05568.cpp) |
@@ -2071,7 +2071,7 @@
 | 13301 | 타일 장식물 | <img alt="S5" src="assets/tier/6.svg"> | [C++](13xxx/13301.cpp) |
 | 13304 | 방 배정 | <img alt="B2" src="assets/tier/4.svg"> | [C++](13xxx/13304.cpp) |
 | 13305 | 주유소 | <img alt="S3" src="assets/tier/8.svg"> | [C++](13xxx/13305.cpp) |
-| 13311 | 행운의 편지 | <img alt="B3" src="assets/tier/3.svg"> | [C++](13xxx/13311.cpp) |
+| 13311 | 행운의 편지 | <img alt="B2" src="assets/tier/4.svg"> | [C++](13xxx/13311.cpp) |
 | 13312 | 아크코사인은 믿음입니다 | <img alt="G3" src="assets/tier/13.svg"> | [C++](13xxx/13312.cpp) |
 | 13314 | 플로이드에 오타가? | <img alt="G3" src="assets/tier/13.svg"> | [C++](13xxx/13314.cpp) |
 | 13322 | 접두사 배열 | <img alt="B1" src="assets/tier/5.svg"> | [C++](13xxx/13322.cpp) |
@@ -3088,6 +3088,7 @@
 | 21301 | Comfy Deviations | <img alt="B2" src="assets/tier/4.svg"> | [C++](21xxx/21301.cpp) |
 | 21312 | 홀짝 칵테일 | <img alt="B3" src="assets/tier/3.svg"> | [C++](21xxx/21312.cpp) |
 | 21313 | 문어 | <img alt="B2" src="assets/tier/4.svg"> | [C++](21xxx/21313.cpp) |
+| 21317 | 징검다리 건너기 | <img alt="S1" src="assets/tier/10.svg"> | [C++](21xxx/21317.cpp) |
 | 21335 | Another Eruption | <img alt="B4" src="assets/tier/2.svg"> | [C++](21xxx/21335.cpp) |
 | 21339 | Contest Struggles | <img alt="B3" src="assets/tier/3.svg"> | [C++](21xxx/21339.cpp) |
 | 21347 | Keyboardd | <img alt="B1" src="assets/tier/5.svg"> | [C++](21xxx/21347.cpp) |
@@ -3172,6 +3173,7 @@
 | 22290 | lattice | <img alt="S4" src="assets/tier/7.svg"> | [Python](22xxx/22290.py) |
 | 22291 | squarePrime | <img alt="S4" src="assets/tier/7.svg"> | [Python](22xxx/22291.py) |
 | 22341 | 사각형 면적 | <img alt="B2" src="assets/tier/4.svg"> | [C++](22xxx/22341.cpp) |
+| 22342 | 계산 로봇 | <img alt="S1" src="assets/tier/10.svg"> | [C++](22xxx/22342.cpp) |
 | 22351 | 수학은 체육과목 입니다 3 | <img alt="S4" src="assets/tier/7.svg"> | [C++](22xxx/22351.cpp) |
 | 22352 | 항체 인식 | <img alt="G5" src="assets/tier/11.svg"> | [C++](22xxx/22352.cpp) |
 | 22361 | nmマス計算 | <img alt="B2" src="assets/tier/4.svg"> | [C++](22xxx/22361.cpp) |
@@ -4443,7 +4445,7 @@
 | 33170 | ブラックジャック (Blackjack) | <img alt="B5" src="assets/tier/1.svg"> | [C++](33xxx/33170.cpp) |
 | 33171 | いずれか片方 (Either, but Not Both) | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33171.cpp) |
 | 33172 | 周期文字列 (Cycle String) | <img alt="B1" src="assets/tier/5.svg"> | [C++](33xxx/33172.cpp) |
-| 33173 | マスキングテープ (Masking Tape) | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33173.cpp) |
+| 33173 | マスキングテープ (Masking Tape) | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33173.cpp) |
 | 33178 | Micromasters | <img alt="B5" src="assets/tier/1.svg"> | [C++](33xxx/33178.cpp) |
 | 33179 | Hezardastan’s Annual Report | <img alt="B4" src="assets/tier/2.svg"> | [C++](33xxx/33179.cpp) |
 | 33191 | Yalda | <img alt="B4" src="assets/tier/2.svg"> | [C++](33xxx/33191.cpp) |
