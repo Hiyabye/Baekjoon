@@ -11,7 +11,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=hiyabye&theme=warm)
 
-마지막으로 업데이트: 2025-03-29 10:07:43 (KST)
+마지막으로 업데이트: 2025-04-05 10:08:01 (KST)
 
 목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -1727,7 +1727,7 @@
 | 11098 | 첼시를 도와줘! | <img alt="B2" src="assets/tier/4.svg"> | [C++](11xxx/11098.cpp) |
 | 11099 | Virus | <img alt="P4" src="assets/tier/17.svg"> | [C++](11xxx/11099.cpp) |
 | 11100 | Frogger | <img alt="P3" src="assets/tier/18.svg"> | [C++](11xxx/11100.cpp) |
-| 11101 | 꿍의 여친 만들기 | <img alt="S2" src="assets/tier/9.svg"> | [C++](11xxx/11101.cpp) |
+| 11101 | 꿍의 여친 만들기 | <img alt="S3" src="assets/tier/8.svg"> | [C++](11xxx/11101.cpp) |
 | 11104 | Fridge of Your Dreams | <img alt="B2" src="assets/tier/4.svg"> | [C++](11xxx/11104.cpp) |
 | 11109 | 괴짜 교수 | <img alt="B3" src="assets/tier/3.svg"> | [C++](11xxx/11109.cpp) |
 | 11113 | The Traveling Orienteerer | <img alt="B2" src="assets/tier/4.svg"> | [C++](11xxx/11113.cpp) |
@@ -1771,8 +1771,8 @@
 | 11296 | 가격 | <img alt="B2" src="assets/tier/4.svg"> | [C++](11xxx/11296.cpp) |
 | 11297 | Cypher | <img alt="B2" src="assets/tier/4.svg"> | [C++](11xxx/11297.cpp) |
 | 11312 | 삼각 무늬 - 2 | <img alt="B3" src="assets/tier/3.svg"> | [C++](11xxx/11312.cpp) |
-| 11313 | Best Buddies | <img alt="S1" src="assets/tier/10.svg"> | [C++](11xxx/11313.cpp) |
-| 11319 | Count Me In | <img alt="B2" src="assets/tier/4.svg"> | [C++](11xxx/11319.cpp) |
+| 11313 | Best Buddies | <img alt="S2" src="assets/tier/9.svg"> | [C++](11xxx/11313.cpp) |
+| 11319 | Count Me In | <img alt="B3" src="assets/tier/3.svg"> | [C++](11xxx/11319.cpp) |
 | 11320 | 삼각 무늬 - 1 | <img alt="B3" src="assets/tier/3.svg"> | [C++](11xxx/11320.cpp) |
 | 11328 | Strfry | <img alt="B2" src="assets/tier/4.svg"> | [C](11xxx/11328.c) |
 | 11337 | Largest inscribed rectangle | <img alt="B1" src="assets/tier/5.svg"> | [C++](11xxx/11337.cpp) |
@@ -1800,7 +1800,7 @@
 | 11443 | 짝수번째 피보나치 수의 합 | <img alt="G2" src="assets/tier/14.svg"> | [C++](11xxx/11443.cpp) |
 | 11444 | 피보나치 수 6 | <img alt="G2" src="assets/tier/14.svg"> | [C++](11xxx/11444.cpp) |
 | 11453 | Rummikub | <img alt="B1" src="assets/tier/5.svg"> | [C++](11xxx/11453.cpp) |
-| 11466 | Alex Origami Squares | <img alt="B3" src="assets/tier/3.svg"> | [C++](11xxx/11466.cpp) |
+| 11466 | Alex Origami Squares | <img alt="B2" src="assets/tier/4.svg"> | [C++](11xxx/11466.cpp) |
 | 11478 | 서로 다른 부분 문자열의 개수 | <img alt="S3" src="assets/tier/8.svg"> | [C++](11xxx/11478.cpp) |
 | 11497 | 통나무 건너뛰기 | <img alt="S1" src="assets/tier/10.svg"> | [C++](11xxx/11497.cpp) |
 | 11501 | 주식 | <img alt="S2" src="assets/tier/9.svg"> | [C++](11xxx/11501.cpp) |
@@ -1809,7 +1809,7 @@
 | 11505 | 구간 곱 구하기 | <img alt="G1" src="assets/tier/15.svg"> | [C++](11xxx/11505.cpp) |
 | 11507 | 카드셋트 | <img alt="S4" src="assets/tier/7.svg"> | [C++](11xxx/11507.cpp) |
 | 11508 | 2+1 세일 | <img alt="S4" src="assets/tier/7.svg"> | [C++](11xxx/11508.cpp) |
-| 11517 | Positive Con Sequences | <img alt="B2" src="assets/tier/4.svg"> | [C++](11xxx/11517.cpp) |
+| 11517 | Positive Con Sequences | <img alt="B1" src="assets/tier/5.svg"> | [C++](11xxx/11517.cpp) |
 | 11518 | Morse | <img alt="S5" src="assets/tier/6.svg"> | [C++](11xxx/11518.cpp) |
 | 11520 | And Then There Was 5 | <img alt="B3" src="assets/tier/3.svg"> | [C++](11xxx/11520.cpp) |
 | 11522 | Sum Kind of Problem | <img alt="B3" src="assets/tier/3.svg"> | [C++](11xxx/11522.cpp) |
@@ -2361,7 +2361,7 @@
 | 15104 | Odd Palindrome | <img alt="B1" src="assets/tier/5.svg"> | [C++](15xxx/15104.cpp) |
 | 15115 | Delayed Work | <img alt="B2" src="assets/tier/4.svg"> | [C++](15xxx/15115.cpp) |
 | 15117 | Latin Squares | <img alt="B1" src="assets/tier/5.svg"> | [C++](15xxx/15117.cpp) |
-| 15118 | Halfway | <img alt="S4" src="assets/tier/7.svg"> | [C++](15xxx/15118.cpp) |
+| 15118 | Halfway | <img alt="S3" src="assets/tier/8.svg"> | [C++](15xxx/15118.cpp) |
 | 15121 | Star Arrangements | <img alt="B2" src="assets/tier/4.svg"> | [C++](15xxx/15121.cpp) |
 | 15122 | Forbidden Zero | <img alt="B2" src="assets/tier/4.svg"> | [C++](15xxx/15122.cpp) |
 | 15128 | Congruent Numbers | <img alt="B4" src="assets/tier/2.svg"> | [C++](15xxx/15128.cpp) |
@@ -4469,6 +4469,7 @@
 | 33571 | 구멍 | <img alt="B4" src="assets/tier/2.svg"> | [C++](33xxx/33571.cpp) |
 | 33572 | 자세히 보아야 예쁘다 | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33572.cpp) |
 | 33612 | 피갤컵 | <img alt="B5" src="assets/tier/1.svg"> | [C++](33xxx/33612.cpp) |
+| 33631 | 1교시: 가정 | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33631.cpp) |
 | 33639 | Candy Store | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33639.cpp) |
 | 33643 | Keys, Phone, Wallet | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33643.cpp) |
 | 33646 | Pencil Crayons | <img alt="B1" src="assets/tier/5.svg"> | [C++](33xxx/33646.cpp) |
@@ -4477,3 +4478,10 @@
 | 33653 | Search Wizard | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33653.cpp) |
 | 33654 | Sort of Sort | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33654.cpp) |
 | 33657 | Tracing (Laser) Pointers | <img alt="S4" src="assets/tier/7.svg"> | [C++](33xxx/33657.cpp) |
+| 33663 | 루미의 진정한™ 보라색 찾기 | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33663.cpp) |
+| 33674 | 하늘에서 떨어지는 $N$개의 별 | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33674.cpp) |
+| 33675 | L-트로미노 타일링 | <img alt="B1" src="assets/tier/5.svg"> | [C++](33xxx/33675.cpp) |
+| 33677 | 푸앙이와 콩나무 | <img alt="S1" src="assets/tier/10.svg"> | [C++](33xxx/33677.cpp) |
+| 33689 | CPDU | <img alt="B4" src="assets/tier/2.svg"> | [C++](33xxx/33689.cpp) |
+| 33690 | 포린드롬 | <img alt="S5" src="assets/tier/6.svg"> | [C++](33xxx/33690.cpp) |
+| 33691 | Arkain 대시보드 | <img alt="S3" src="assets/tier/8.svg"> | [C++](33xxx/33691.cpp) |
