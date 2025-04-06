@@ -11,7 +11,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=hiyabye&theme=warm)
 
-마지막으로 업데이트: 2025-04-05 10:08:01 (KST)
+마지막으로 업데이트: 2025-04-06 10:13:26 (KST)
 
 목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -73,7 +73,7 @@
 | 1100 | 하얀 칸 | <img alt="B2" src="assets/tier/4.svg"> | [C](01xxx/01100.c) |
 | 1105 | 팔 | <img alt="S1" src="assets/tier/10.svg"> | [C++](01xxx/01105.cpp) |
 | 1106 | 호텔 | <img alt="G4" src="assets/tier/12.svg"> | [C++](01xxx/01106.cpp) |
-| 1107 | 리모컨 | <img alt="G5" src="assets/tier/11.svg"> | [C++](01xxx/01107.cpp) |
+| 1107 | 리모컨 | <img alt="G4" src="assets/tier/12.svg"> | [C++](01xxx/01107.cpp) |
 | 1110 | 더하기 사이클 | <img alt="B1" src="assets/tier/5.svg"> | [C](01xxx/01110.c) |
 | 1111 | IQ Test | <img alt="G3" src="assets/tier/13.svg"> | [C++](01xxx/01111.cpp) |
 | 1112 | 진법 변환 | <img alt="G3" src="assets/tier/13.svg"> | [C++](01xxx/01112.cpp) |
@@ -3077,6 +3077,7 @@
 | 21167 | Curve Speed | <img alt="B3" src="assets/tier/3.svg"> | [C++](21xxx/21167.cpp) |
 | 21180 | Reconstruct Sum | <img alt="B2" src="assets/tier/4.svg"> | [C++](21xxx/21180.cpp) |
 | 21185 | Some Sum | <img alt="B3" src="assets/tier/3.svg"> | [C++](21xxx/21185.cpp) |
+| 21191 | This Ain't Your Grandpa's Checkerboard | <img alt="B1" src="assets/tier/5.svg"> | [C++](21xxx/21191.cpp) |
 | 21194 | Meditation | <img alt="S5" src="assets/tier/6.svg"> | [C++](21xxx/21194.cpp) |
 | 21197 | Stopwatch | <img alt="B3" src="assets/tier/3.svg"> | [C++](21xxx/21197.cpp) |
 | 21200 | Forced Choice | <img alt="B3" src="assets/tier/3.svg"> | [C++](21xxx/21200.cpp) |
@@ -3996,7 +3997,7 @@
 | 29724 | 🍎📦 '사과상자'에 들어있는 것은 무엇? 현금? | <img alt="B1" src="assets/tier/5.svg"> | [C++](29xxx/29724.cpp) |
 | 29725 | 체스 초보 브실이 | <img alt="B4" src="assets/tier/2.svg"> | [C++](29xxx/29725.cpp) |
 | 29729 | 가변 배열 | <img alt="B3" src="assets/tier/3.svg"> | [C++](29xxx/29729.cpp) |
-| 29731 | 2033년 밈 투표 | <img alt="B5" src="assets/tier/1.svg"> | [C++](29xxx/29731.cpp) |
+| 29731 | 2033년 밈 투표 | <img alt="B4" src="assets/tier/2.svg"> | [C++](29xxx/29731.cpp) |
 | 29732 | Rick-Roll Virus | <img alt="B1" src="assets/tier/5.svg"> | [C++](29xxx/29732.cpp) |
 | 29734 | 집에선 안돼잉 | <img alt="B2" src="assets/tier/4.svg"> | [C++](29xxx/29734.cpp) |
 | 29735 | 택배가 안와잉 | <img alt="B1" src="assets/tier/5.svg"> | [C++](29xxx/29735.cpp) |
@@ -4462,6 +4463,7 @@
 | 33520 | 초코바 만들기 | <img alt="S5" src="assets/tier/6.svg"> | [C++](33xxx/33520.cpp) |
 | 33528 | Alphabetic Shift | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33528.cpp) |
 | 33534 | Hungry Wolves | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33534.cpp) |
+| 33537 | Breaking the Cipher | <img alt="S1" src="assets/tier/10.svg"> | [C++](33xxx/33537.cpp) |
 | 33538 | Crawling | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33538.cpp) |
 | 33540 | Helping Out | <img alt="S5" src="assets/tier/6.svg"> | [C++](33xxx/33540.cpp) |
 | 33541 | 2025는 무엇이 특별할까? | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33541.cpp) |
@@ -4482,6 +4484,11 @@
 | 33674 | 하늘에서 떨어지는 $N$개의 별 | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33674.cpp) |
 | 33675 | L-트로미노 타일링 | <img alt="B1" src="assets/tier/5.svg"> | [C++](33xxx/33675.cpp) |
 | 33677 | 푸앙이와 콩나무 | <img alt="S1" src="assets/tier/10.svg"> | [C++](33xxx/33677.cpp) |
+| 33680 | $p^{n}!$과 쿼리 | <img alt="G3" src="assets/tier/13.svg"> | [C++](33xxx/33680.cpp) |
 | 33689 | CPDU | <img alt="B4" src="assets/tier/2.svg"> | [C++](33xxx/33689.cpp) |
 | 33690 | 포린드롬 | <img alt="S5" src="assets/tier/6.svg"> | [C++](33xxx/33690.cpp) |
 | 33691 | Arkain 대시보드 | <img alt="S3" src="assets/tier/8.svg"> | [C++](33xxx/33691.cpp) |
+| 33701 | 새천년관 | <img alt="B4" src="assets/tier/2.svg"> | [C++](33xxx/33701.cpp) |
+| 33702 | 비밀번호 | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33702.cpp) |
+| 33709 | 치매예방수칙 3.3.3 | <img alt="B1" src="assets/tier/5.svg"> | [C++](33xxx/33709.cpp) |
+| 33753 | 주차 요금 정산하기 | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33753.cpp) |
