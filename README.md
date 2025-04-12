@@ -11,7 +11,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=hiyabye&theme=warm)
 
-마지막으로 업데이트: 2025-04-06 10:13:26 (KST)
+마지막으로 업데이트: 2025-04-12 10:08:23 (KST)
 
 목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -1078,7 +1078,7 @@
 | 6511 | Black and white painting | <img alt="B1" src="assets/tier/5.svg"> | [C++](06xxx/06511.cpp) |
 | 6550 | 부분 문자열 | <img alt="S5" src="assets/tier/6.svg"> | [C++](06xxx/06550.cpp) |
 | 6565 | Hard to Believe, but True! | <img alt="B2" src="assets/tier/4.svg"> | [C++](06xxx/06565.cpp) |
-| 6566 | 애너그램 그룹 | <img alt="S1" src="assets/tier/10.svg"> | [C++](06xxx/06566.cpp) |
+| 6566 | 애너그램 그룹 | <img alt="G5" src="assets/tier/11.svg"> | [C++](06xxx/06566.cpp) |
 | 6571 | 피보나치 수의 개수 | <img alt="S3" src="assets/tier/8.svg"> | [C++](06xxx/06571.cpp) |
 | 6588 | 골드바흐의 추측 | <img alt="S1" src="assets/tier/10.svg"> | [C](06xxx/06588.c) |
 | 6591 | 이항 쇼다운 | <img alt="S3" src="assets/tier/8.svg"> | [C++](06xxx/06591.cpp) |
@@ -2235,7 +2235,7 @@
 | 14531 | Bovine Genomics (Bronze) | <img alt="S5" src="assets/tier/6.svg"> | [C++](14xxx/14531.cpp) |
 | 14534 | String Permutation | <img alt="S4" src="assets/tier/7.svg"> | [C++](14xxx/14534.cpp) |
 | 14535 | Birthday Graph | <img alt="B3" src="assets/tier/3.svg"> | [C++](14xxx/14535.cpp) |
-| 14536 | Bricks on the Wall | <img alt="S2" src="assets/tier/9.svg"> | [C++](14xxx/14536.cpp) |
+| 14536 | Bricks on the Wall | <img alt="S1" src="assets/tier/10.svg"> | [C++](14xxx/14536.cpp) |
 | 14539 | Grid Pattern | <img alt="B2" src="assets/tier/4.svg"> | [C++](14xxx/14539.cpp) |
 | 14541 | Speed Limit | <img alt="B3" src="assets/tier/3.svg"> | [C++](14xxx/14541.cpp) |
 | 14542 | Outer Triangle Sum | <img alt="B2" src="assets/tier/4.svg"> | [C++](14xxx/14542.cpp) |
@@ -2852,7 +2852,7 @@
 | 18156 | Black and White | <img alt="B1" src="assets/tier/5.svg"> | [C++](18xxx/18156.cpp) |
 | 18158 | What an Easy Problem | <img alt="B2" src="assets/tier/4.svg"> | [C++](18xxx/18158.cpp) |
 | 18185 | 라면 사기 (Small) | <img alt="D5" src="assets/tier/21.svg"> | [C++](18xxx/18185.cpp) |
-| 18186 | 라면 사기 (Large) | <img alt="D4" src="assets/tier/22.svg"> | [C++](18xxx/18186.cpp) |
+| 18186 | 라면 사기 (Large) | <img alt="D5" src="assets/tier/21.svg"> | [C++](18xxx/18186.cpp) |
 | 18198 | Basketball One-on-One | <img alt="B4" src="assets/tier/2.svg"> | [C++](18xxx/18198.cpp) |
 | 18228 | 펭귄추락대책위원회 | <img alt="B2" src="assets/tier/4.svg"> | [C++](18xxx/18228.cpp) |
 | 18229 | 내가 살게, 아냐 내가 살게 | <img alt="B1" src="assets/tier/5.svg"> | [C++](18xxx/18229.cpp) |
@@ -3031,7 +3031,7 @@
 | 20546 | 🐜 기적의 매매법 🐜 | <img alt="S5" src="assets/tier/6.svg"> | [C++](20xxx/20546.cpp) |
 | 20551 | Sort 마스터 배지훈의 후계자 | <img alt="S4" src="assets/tier/7.svg"> | [C++](20xxx/20551.cpp) |
 | 20568 | Recess Rocks | <img alt="S5" src="assets/tier/6.svg"> | [C++](20xxx/20568.cpp) |
-| 20571 | Elevators | <img alt="B2" src="assets/tier/4.svg"> | [C++](20xxx/20571.cpp) |
+| 20571 | Elevators | <img alt="B3" src="assets/tier/3.svg"> | [C++](20xxx/20571.cpp) |
 | 20575 | Buffon's Needle | <img alt="B1" src="assets/tier/5.svg"> | [C++](20xxx/20575.cpp) |
 | 20650 | Do You Know Your ABCs? | <img alt="B1" src="assets/tier/5.svg"> | [C++](20xxx/20650.cpp) |
 | 20651 | Daisy Chains | <img alt="B1" src="assets/tier/5.svg"> | [C++](20xxx/20651.cpp) |
@@ -4103,7 +4103,7 @@
 | 30552 | Attendance | <img alt="B3" src="assets/tier/3.svg"> | [C++](30xxx/30552.cpp) |
 | 30569 | Last One Standing | <img alt="B3" src="assets/tier/3.svg"> | [C++](30xxx/30569.cpp) |
 | 30570 | Mini-Tetris 3023 | <img alt="B2" src="assets/tier/4.svg"> | [C++](30xxx/30570.cpp) |
-| 30580 | Natatorium | <img alt="B1" src="assets/tier/5.svg"> | [C++](30xxx/30580.cpp) |
+| 30580 | Natatorium | <img alt="B2" src="assets/tier/4.svg"> | [C++](30xxx/30580.cpp) |
 | 30585 | Поп-ит | <img alt="B4" src="assets/tier/2.svg"> | [C++](30xxx/30585.cpp) |
 | 30589 | Маска для монстров | <img alt="B1" src="assets/tier/5.svg"> | [C++](30xxx/30589.cpp) |
 | 30596 | Axis-Aligned Area | <img alt="B3" src="assets/tier/3.svg"> | [C++](30xxx/30596.cpp) |
@@ -4492,3 +4492,5 @@
 | 33702 | 비밀번호 | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33702.cpp) |
 | 33709 | 치매예방수칙 3.3.3 | <img alt="B1" src="assets/tier/5.svg"> | [C++](33xxx/33709.cpp) |
 | 33753 | 주차 요금 정산하기 | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33753.cpp) |
+| 33754 | 격자 막기 | <img alt="S4" src="assets/tier/7.svg"> | [C++](33xxx/33754.cpp) |
+| 33756 | 88888 | <img alt="S3" src="assets/tier/8.svg"> | [C++](33xxx/33756.cpp) |
