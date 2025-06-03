@@ -18,7 +18,7 @@ void solve(void) {
   string s; cin >> s;
   string t; cin >> t;
 
-  cout << (a(s, t) == b(s, t) ? a(s, t) : "-1");
+  cout << (a(s, t) == b(s, t) && a(t, s) == b(t, s) ? a(s, t) : "-1");
 }
 
 int main(void) {
