@@ -32,7 +32,7 @@ def get_problem_tier(level):
     21: "D5", 22: "D4", 23: "D3", 24: "D2", 25: "D1",
     26: "R5", 27: "R4", 28: "R3", 29: "R2", 30: "R1"
   }
-  return f'<img alt="{tier[level]}" src="assets/tier/{level}.svg">'
+  return f'<img alt="{tier[level]}" src="assets/{level}.svg" height="24">'
 
 # 문제 번호를 입력받아 솔루션 경로를 모두 반환 (문자열로)
 def get_solution_path(id):
