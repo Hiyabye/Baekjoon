@@ -4,14 +4,13 @@
 
 **백준 문제 풀이 저장소**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHiyabye%2FBaekjoon&count_bg=%2333BBBB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Hiyabye/Baekjoon?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Hiyabye/Baekjoon?style=flat-square)
 
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=hiyabye&theme=warm)
 
-마지막으로 업데이트: 2025-04-12 10:08:23 (KST)
+마지막으로 업데이트: 2025-06-15 13:57:46 (KST)
 
 목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -97,6 +96,7 @@
 | 1188 | 음식 평론가 | <img alt="G4" src="assets/tier/12.svg"> | [C++](01xxx/01188.cpp) |
 | 1189 | 컴백홈 | <img alt="S1" src="assets/tier/10.svg"> | [C++](01xxx/01189.cpp) |
 | 1193 | 분수찾기 | <img alt="S5" src="assets/tier/6.svg"> | [C](01xxx/01193.c) |
+| 1198 | 삼각형으로 자르기 | <img alt="S2" src="assets/tier/9.svg"> | [C++](01xxx/01198.cpp) |
 | 1202 | 보석 도둑 | <img alt="G2" src="assets/tier/14.svg"> | [C++](01xxx/01202.cpp) |
 | 1205 | 등수 구하기 | <img alt="S4" src="assets/tier/7.svg"> | [C++](01xxx/01205.cpp) |
 | 1212 | 8진수 2진수 | <img alt="B2" src="assets/tier/4.svg"> | [C](01xxx/01212.c) |
@@ -111,6 +111,7 @@
 | 1247 | 부호 | <img alt="B3" src="assets/tier/3.svg"> | [C++](01xxx/01247.cpp) [Python](01xxx/01247.py) |
 | 1251 | 단어 나누기 | <img alt="S5" src="assets/tier/6.svg"> | [C++](01xxx/01251.cpp) |
 | 1252 | 이진수 덧셈 | <img alt="B2" src="assets/tier/4.svg"> | [C++](01xxx/01252.cpp) |
+| 1253 | 좋다 | <img alt="G4" src="assets/tier/12.svg"> | [C++](01xxx/01253.cpp) |
 | 1254 | 팰린드롬 만들기 | <img alt="S2" src="assets/tier/9.svg"> | [C++](01xxx/01254.cpp) |
 | 1259 | 팰린드롬수 | <img alt="B1" src="assets/tier/5.svg"> | [C](01xxx/01259.c) |
 | 1260 | DFS와 BFS | <img alt="S2" src="assets/tier/9.svg"> | [C++](01xxx/01260.cpp) |
@@ -148,7 +149,8 @@
 | 1351 | 무한 수열 | <img alt="G5" src="assets/tier/11.svg"> | [C++](01xxx/01351.cpp) |
 | 1354 | 무한 수열 2 | <img alt="G5" src="assets/tier/11.svg"> | [C++](01xxx/01354.cpp) |
 | 1356 | 유진수 | <img alt="B1" src="assets/tier/5.svg"> | [C++](01xxx/01356.cpp) |
-| 1357 | 뒤집힌 덧셈 | <img alt="B1" src="assets/tier/5.svg"> | [C](01xxx/01357.c) |
+| 1357 | 뒤집힌 덧셈 | <img alt="B2" src="assets/tier/4.svg"> | [C](01xxx/01357.c) |
+| 1358 | 하키 | <img alt="S4" src="assets/tier/7.svg"> | [C++](01xxx/01358.cpp) |
 | 1359 | 복권 | <img alt="S4" src="assets/tier/7.svg"> | [C++](01xxx/01359.cpp) |
 | 1362 | 펫 | <img alt="B2" src="assets/tier/4.svg"> | [C++](01xxx/01362.cpp) |
 | 1365 | 꼬인 전깃줄 | <img alt="G2" src="assets/tier/14.svg"> | [C++](01xxx/01365.cpp) |
@@ -209,6 +211,7 @@
 | 1562 | 계단 수 | <img alt="G1" src="assets/tier/15.svg"> | [C++](01xxx/01562.cpp) |
 | 1564 | 팩토리얼5 | <img alt="S1" src="assets/tier/10.svg"> | [C++](01xxx/01564.cpp) |
 | 1568 | 새 | <img alt="B2" src="assets/tier/4.svg"> | [C++](01xxx/01568.cpp) |
+| 1569 | 정사각형으로 가리기 | <img alt="S1" src="assets/tier/10.svg"> | [C++](01xxx/01569.cpp) |
 | 1590 | 캠프가는 영식 | <img alt="S4" src="assets/tier/7.svg"> | [C++](01xxx/01590.cpp) |
 | 1592 | 영식이와 친구들 | <img alt="B2" src="assets/tier/4.svg"> | [C++](01xxx/01592.cpp) |
 | 1598 | 꼬리를 무는 숫자 나열 | <img alt="B3" src="assets/tier/3.svg"> | [C++](01xxx/01598.cpp) |
@@ -259,6 +262,7 @@
 | 1759 | 암호 만들기 | <img alt="G5" src="assets/tier/11.svg"> | [C++](01xxx/01759.cpp) |
 | 1761 | 정점들의 거리 | <img alt="P5" src="assets/tier/16.svg"> | [C++](01xxx/01761.cpp) |
 | 1764 | 듣보잡 | <img alt="S4" src="assets/tier/7.svg"> | [C++](01xxx/01764.cpp) |
+| 1768 | Center of symmetry | <img alt="S2" src="assets/tier/9.svg"> | [C++](01xxx/01768.cpp) |
 | 1769 | 3의 배수 | <img alt="S5" src="assets/tier/6.svg"> | [C++](01xxx/01769.cpp) |
 | 1773 | 폭죽쇼 | <img alt="B2" src="assets/tier/4.svg"> | [C++](01xxx/01773.cpp) |
 | 1780 | 종이의 개수 | <img alt="S2" src="assets/tier/9.svg"> | [C++](01xxx/01780.cpp) |
@@ -284,6 +288,7 @@
 | 1864 | 문어 숫자 | <img alt="B2" src="assets/tier/4.svg"> | [C++](01xxx/01864.cpp) |
 | 1871 | 좋은 자동차 번호판 | <img alt="B2" src="assets/tier/4.svg"> | [C++](01xxx/01871.cpp) |
 | 1874 | 스택 수열 | <img alt="S2" src="assets/tier/9.svg"> | [C++](01xxx/01874.cpp) |
+| 1876 | 튕기는 볼링공 | <img alt="S1" src="assets/tier/10.svg"> | [C++](01xxx/01876.cpp) |
 | 1890 | 점프 | <img alt="S1" src="assets/tier/10.svg"> | [C++](01xxx/01890.cpp) |
 | 1894 | 4번째 점 | <img alt="B1" src="assets/tier/5.svg"> | [C++](01xxx/01894.cpp) |
 | 1895 | 필터 | <img alt="S4" src="assets/tier/7.svg"> | [C++](01xxx/01895.cpp) |
@@ -347,7 +352,7 @@
 | 2082 | 시계 | <img alt="S3" src="assets/tier/8.svg"> | [C++](02xxx/02082.cpp) |
 | 2083 | 럭비 클럽 | <img alt="B4" src="assets/tier/2.svg"> | [C++](02xxx/02083.cpp) |
 | 2086 | 피보나치 수의 합 | <img alt="G1" src="assets/tier/15.svg"> | [C++](02xxx/02086.cpp) |
-| 2089 | -2진수 | <img alt="S1" src="assets/tier/10.svg"> | [C++](02xxx/02089.cpp) |
+| 2089 | -2진수 | <img alt="S2" src="assets/tier/9.svg"> | [C++](02xxx/02089.cpp) |
 | 2090 | 조화평균 | <img alt="S4" src="assets/tier/7.svg"> | [C++](02xxx/02090.cpp) |
 | 2096 | 내려가기 | <img alt="G5" src="assets/tier/11.svg"> | [C++](02xxx/02096.cpp) |
 | 2097 | 조약돌 | <img alt="S5" src="assets/tier/6.svg"> | [C++](02xxx/02097.cpp) |
@@ -382,9 +387,10 @@
 | 2224 | 명제 증명 | <img alt="G4" src="assets/tier/12.svg"> | [C++](02xxx/02224.cpp) |
 | 2225 | 합분해 | <img alt="G5" src="assets/tier/11.svg"> | [C++](02xxx/02225.cpp) |
 | 2231 | 분해합 | <img alt="B2" src="assets/tier/4.svg"> | [C](02xxx/02231.c) |
+| 2232 | 지뢰 | <img alt="S2" src="assets/tier/9.svg"> | [C++](02xxx/02232.cpp) |
 | 2234 | 성곽 | <img alt="G3" src="assets/tier/13.svg"> | [C++](02xxx/02234.cpp) |
 | 2239 | 스도쿠 | <img alt="G4" src="assets/tier/12.svg"> | [C++](02xxx/02239.cpp) |
-| 2240 | 자두나무 | <img alt="G5" src="assets/tier/11.svg"> | [C++](02xxx/02240.cpp) |
+| 2240 | 자두나무 | <img alt="G4" src="assets/tier/12.svg"> | [C++](02xxx/02240.cpp) |
 | 2246 | 콘도 선정 | <img alt="B1" src="assets/tier/5.svg"> | [C++](02xxx/02246.cpp) |
 | 2252 | 줄 세우기 | <img alt="G3" src="assets/tier/13.svg"> | [C++](02xxx/02252.cpp) |
 | 2263 | 트리의 순회 | <img alt="G1" src="assets/tier/15.svg"> | [C++](02xxx/02263.cpp) |
@@ -394,7 +400,7 @@
 | 2293 | 동전 1 | <img alt="G4" src="assets/tier/12.svg"> | [C](02xxx/02293.c) |
 | 2294 | 동전 2 | <img alt="G5" src="assets/tier/11.svg"> | [C++](02xxx/02294.cpp) |
 | 2295 | 세 수의 합 | <img alt="G4" src="assets/tier/12.svg"> | [C++](02xxx/02295.cpp) |
-| 2302 | 극장 좌석 | <img alt="S1" src="assets/tier/10.svg"> | [C++](02xxx/02302.cpp) |
+| 2302 | 극장 좌석 | <img alt="G5" src="assets/tier/11.svg"> | [C++](02xxx/02302.cpp) |
 | 2303 | 숫자 게임 | <img alt="S5" src="assets/tier/6.svg"> | [C++](02xxx/02303.cpp) |
 | 2309 | 일곱 난쟁이 | <img alt="B1" src="assets/tier/5.svg"> | [C](02xxx/02309.c) |
 | 2312 | 수 복원하기 | <img alt="S3" src="assets/tier/8.svg"> | [C](02xxx/02312.c) |
@@ -421,7 +427,7 @@
 | 2417 | 정수 제곱근 | <img alt="S4" src="assets/tier/7.svg"> | [C++](02xxx/02417.cpp) |
 | 2420 | 사파리월드 | <img alt="B5" src="assets/tier/1.svg"> | [C](02xxx/02420.c) [C++](02xxx/02420.cpp) |
 | 2422 | 한윤정이 이탈리아에 가서 아이스크림을 사먹는데 | <img alt="S4" src="assets/tier/7.svg"> | [C++](02xxx/02422.cpp) |
-| 2427 | 2012 지구 멸망 | <img alt="D5" src="assets/tier/21.svg"> | [C++](02xxx/02427.cpp) |
+| 2427 | 2012 지구 멸망 | <img alt="P1" src="assets/tier/20.svg"> | [C++](02xxx/02427.cpp) |
 | 2428 | 표절 | <img alt="S3" src="assets/tier/8.svg"> | [C++](02xxx/02428.cpp) |
 | 2435 | 기상청 인턴 신현수 | <img alt="B1" src="assets/tier/5.svg"> | [C++](02xxx/02435.cpp) |
 | 2436 | 공약수 | <img alt="G5" src="assets/tier/11.svg"> | [C++](02xxx/02436.cpp) |
@@ -457,7 +463,7 @@
 | 2495 | 연속구간 | <img alt="B2" src="assets/tier/4.svg"> | [C++](02xxx/02495.cpp) |
 | 2501 | 약수 구하기 | <img alt="B3" src="assets/tier/3.svg"> | [C](02xxx/02501.c) [C++](02xxx/02501.cpp) |
 | 2502 | 떡 먹는 호랑이 | <img alt="S1" src="assets/tier/10.svg"> | [C++](02xxx/02502.cpp) |
-| 2503 | 숫자 야구 | <img alt="S3" src="assets/tier/8.svg"> | [C++](02xxx/02503.cpp) |
+| 2503 | 숫자 야구 | <img alt="S2" src="assets/tier/9.svg"> | [C++](02xxx/02503.cpp) |
 | 2504 | 괄호의 값 | <img alt="G5" src="assets/tier/11.svg"> | [C++](02xxx/02504.cpp) |
 | 2506 | 점수계산 | <img alt="B3" src="assets/tier/3.svg"> | [C](02xxx/02506.c) |
 | 2511 | 카드놀이 | <img alt="B2" src="assets/tier/4.svg"> | [C++](02xxx/02511.cpp) |
@@ -470,6 +476,7 @@
 | 2527 | 직사각형 | <img alt="S1" src="assets/tier/10.svg"> | [C](02xxx/02527.c) |
 | 2529 | 부등호 | <img alt="S1" src="assets/tier/10.svg"> | [C++](02xxx/02529.cpp) |
 | 2530 | 인공지능 시계 | <img alt="B4" src="assets/tier/2.svg"> | [C](02xxx/02530.c) |
+| 2531 | 회전 초밥 | <img alt="S1" src="assets/tier/10.svg"> | [C++](02xxx/02531.cpp) |
 | 2533 | 사회망 서비스(SNS) | <img alt="G3" src="assets/tier/13.svg"> | [C++](02xxx/02533.cpp) |
 | 2535 | 아시아 정보올림피아드 | <img alt="S5" src="assets/tier/6.svg"> | [C++](02xxx/02535.cpp) |
 | 2546 | 경제학과 정원영 | <img alt="B1" src="assets/tier/5.svg"> | [C++](02xxx/02546.cpp) |
@@ -513,6 +520,7 @@
 | 2631 | 줄세우기 | <img alt="G4" src="assets/tier/12.svg"> | [C++](02xxx/02631.cpp) |
 | 2635 | 수 이어가기 | <img alt="S5" src="assets/tier/6.svg"> | [C++](02xxx/02635.cpp) |
 | 2644 | 촌수계산 | <img alt="S2" src="assets/tier/9.svg"> | [C++](02xxx/02644.cpp) |
+| 2659 | 십자카드 문제 | <img alt="S3" src="assets/tier/8.svg"> | [C++](02xxx/02659.cpp) |
 | 2660 | 회장뽑기 | <img alt="G5" src="assets/tier/11.svg"> | [C++](02xxx/02660.cpp) |
 | 2661 | 좋은수열 | <img alt="G4" src="assets/tier/12.svg"> | [C++](02xxx/02661.cpp) |
 | 2667 | 단지번호붙이기 | <img alt="S1" src="assets/tier/10.svg"> | [C](02xxx/02667.c) |
@@ -539,7 +547,7 @@
 | 2739 | 구구단 | <img alt="B5" src="assets/tier/1.svg"> | [C](02xxx/02739.c) [C++](02xxx/02739.cpp) |
 | 2740 | 행렬 곱셈 | <img alt="S5" src="assets/tier/6.svg"> | [C++](02xxx/02740.cpp) |
 | 2741 | N 찍기 | <img alt="B5" src="assets/tier/1.svg"> | [C](02xxx/02741.c) [C++](02xxx/02741.cpp) |
-| 2742 | 기찍 N | <img alt="B4" src="assets/tier/2.svg"> | [C](02xxx/02742.c) |
+| 2742 | 기찍 N | <img alt="B5" src="assets/tier/1.svg"> | [C](02xxx/02742.c) |
 | 2743 | 단어 길이 재기 | <img alt="B5" src="assets/tier/1.svg"> | [C](02xxx/02743.c) [C++](02xxx/02743.cpp) |
 | 2744 | 대소문자 바꾸기 | <img alt="B5" src="assets/tier/1.svg"> | [C](02xxx/02744.c) [C++](02xxx/02744.cpp) |
 | 2745 | 진법 변환 | <img alt="B2" src="assets/tier/4.svg"> | [C](02xxx/02745.c) |
@@ -721,6 +729,7 @@
 | 4097 | 수익 | <img alt="S2" src="assets/tier/9.svg"> | [C++](04xxx/04097.cpp) |
 | 4101 | 크냐? | <img alt="B5" src="assets/tier/1.svg"> | [C](04xxx/04101.c) |
 | 4107 | Knitting | <img alt="B2" src="assets/tier/4.svg"> | [C++](04xxx/04107.cpp) |
+| 4108 | 지뢰찾기 | <img alt="S5" src="assets/tier/6.svg"> | [C++](04xxx/04108.cpp) |
 | 4117 | Combination Lock | <img alt="B2" src="assets/tier/4.svg"> | [C++](04xxx/04117.cpp) |
 | 4118 | Fred’s Lotto Tickets | <img alt="B2" src="assets/tier/4.svg"> | [C++](04xxx/04118.cpp) |
 | 4134 | 다음 소수 | <img alt="S4" src="assets/tier/7.svg"> | [C](04xxx/04134.c) |
@@ -746,12 +755,14 @@
 | 4312 | 3의 제곱 | <img alt="S3" src="assets/tier/8.svg"> | [C++](04xxx/04312.cpp) |
 | 4327 | Combination Lock | <img alt="B2" src="assets/tier/4.svg"> | [C++](04xxx/04327.cpp) |
 | 4328 | 기초 나머지 계산 | <img alt="B1" src="assets/tier/5.svg"> | [C++](04xxx/04328.cpp) |
+| 4335 | 숫자 맞추기 | <img alt="S5" src="assets/tier/6.svg"> | [C++](04xxx/04335.cpp) |
 | 4344 | 평균은 넘겠지 | <img alt="B1" src="assets/tier/5.svg"> | [C](04xxx/04344.c) |
 | 4349 | Blocks | <img alt="B2" src="assets/tier/4.svg"> | [C++](04xxx/04349.cpp) |
 | 4355 | 서로소 | <img alt="G1" src="assets/tier/15.svg"> | [C++](04xxx/04355.cpp) |
 | 4358 | 생태학 | <img alt="S2" src="assets/tier/9.svg"> | [C++](04xxx/04358.cpp) |
 | 4375 | 1 | <img alt="S3" src="assets/tier/8.svg"> | [C++](04xxx/04375.cpp) |
 | 4378 | 트ㅏㅊ; | <img alt="S5" src="assets/tier/6.svg"> | [C++](04xxx/04378.cpp) |
+| 4383 | 점프는 즐거워 | <img alt="S5" src="assets/tier/6.svg"> | [C++](04xxx/04383.cpp) |
 | 4388 | 받아올림 | <img alt="B3" src="assets/tier/3.svg"> | [C++](04xxx/04388.cpp) |
 | 4395 | Steps | <img alt="G5" src="assets/tier/11.svg"> | [C++](04xxx/04395.cpp) |
 | 4396 | 지뢰 찾기 | <img alt="S4" src="assets/tier/7.svg"> | [C++](04xxx/04396.cpp) |
@@ -766,7 +777,7 @@
 | 4464 | Pride and Prejudice and Zombies | <img alt="D5" src="assets/tier/21.svg"> | [C++](04xxx/04464.cpp) |
 | 4470 | 줄번호 | <img alt="B4" src="assets/tier/2.svg"> | [C++](04xxx/04470.cpp) |
 | 4471 | The Navi-Computer is Down! | <img alt="B2" src="assets/tier/4.svg"> | [C++](04xxx/04471.cpp) |
-| 4482 | Tetrahedral Stacks of Cannonballs | <img alt="B2" src="assets/tier/4.svg"> | [C++](04xxx/04482.cpp) |
+| 4482 | Tetrahedral Stacks of Cannonballs | <img alt="B1" src="assets/tier/5.svg"> | [C++](04xxx/04482.cpp) |
 | 4483 | “Robot Roll Call – Cambot...Servo...Gypsy...Croooow” | <img alt="B1" src="assets/tier/5.svg"> | [C++](04xxx/04483.cpp) |
 | 4486 | Pencils from the 19th Century | <img alt="B1" src="assets/tier/5.svg"> | [C++](04xxx/04486.cpp) |
 | 4493 | 가위 바위 보? | <img alt="B3" src="assets/tier/3.svg"> | [C++](04xxx/04493.cpp) |
@@ -992,6 +1003,7 @@
 | 5789 | 한다 안한다 | <img alt="B3" src="assets/tier/3.svg"> | [C++](05xxx/05789.cpp) |
 | 5790 | Log Books | <img alt="B2" src="assets/tier/4.svg"> | [C++](05xxx/05790.cpp) |
 | 5800 | 성적 통계 | <img alt="S5" src="assets/tier/6.svg"> | [C++](05xxx/05800.cpp) |
+| 5840 | Breed Proximity | <img alt="S5" src="assets/tier/6.svg"> | [C++](05xxx/05840.cpp) |
 | 5883 | 아이폰 9S | <img alt="S4" src="assets/tier/7.svg"> | [C++](05xxx/05883.cpp) |
 | 5893 | 17배 | <img alt="B3" src="assets/tier/3.svg"> | [C++](05xxx/05893.cpp) |
 | 5911 | 선물 | <img alt="S3" src="assets/tier/8.svg"> | [C++](05xxx/05911.cpp) |
@@ -1046,6 +1058,7 @@
 | 6160 | Election Time | <img alt="S5" src="assets/tier/6.svg"> | [C++](06xxx/06160.cpp) |
 | 6162 | Superlatives | <img alt="B3" src="assets/tier/3.svg"> | [C++](06xxx/06162.cpp) |
 | 6170 | World Cup Noise | <img alt="S3" src="assets/tier/8.svg"> | [C++](06xxx/06170.cpp) |
+| 6177 | Statistics | <img alt="S5" src="assets/tier/6.svg"> | [C++](06xxx/06177.cpp) |
 | 6186 | Best Grass | <img alt="S5" src="assets/tier/6.svg"> | [C++](06xxx/06186.cpp) |
 | 6188 | Clear Cold Water | <img alt="S2" src="assets/tier/9.svg"> | [C++](06xxx/06188.cpp) |
 | 6190 | Another Cow Number Game | <img alt="B3" src="assets/tier/3.svg"> | [C++](06xxx/06190.cpp) |
@@ -1085,6 +1098,7 @@
 | 6603 | 로또 | <img alt="S2" src="assets/tier/9.svg"> | [C++](06xxx/06603.cpp) |
 | 6609 | 모기곱셈 | <img alt="B2" src="assets/tier/4.svg"> | [C++](06xxx/06609.cpp) |
 | 6627 | The Easiest Problem is This One | <img alt="B2" src="assets/tier/4.svg"> | [C++](06xxx/06627.cpp) |
+| 6645 | Stock Exchange | <img alt="B1" src="assets/tier/5.svg"> | [C++](06xxx/06645.cpp) |
 | 6657 | Soccer Tournament | <img alt="G4" src="assets/tier/12.svg"> | [C++](06xxx/06657.cpp) |
 | 6679 | 싱기한 네자리 숫자 | <img alt="B2" src="assets/tier/4.svg"> | [C++](06xxx/06679.cpp) |
 | 6693 | Complicated Route | <img alt="B2" src="assets/tier/4.svg"> | [C++](06xxx/06693.cpp) |
@@ -1143,6 +1157,7 @@
 | 6942 | 9966 | <img alt="B1" src="assets/tier/5.svg"> | [C++](06xxx/06942.cpp) |
 | 6943 | Slot Machines | <img alt="B1" src="assets/tier/5.svg"> | [C++](06xxx/06943.cpp) |
 | 6965 | Censor | <img alt="B2" src="assets/tier/4.svg"> | [C++](06xxx/06965.cpp) |
+| 6970 | Sentences | <img alt="B1" src="assets/tier/5.svg"> | [C++](06xxx/06970.cpp) |
 | 6974 | Long Division | <img alt="B3" src="assets/tier/3.svg"> | [Python](06xxx/06974.py) |
 | 6975 | Deficient, Perfect, and Abundant | <img alt="B3" src="assets/tier/3.svg"> | [C++](06xxx/06975.cpp) |
 | 6976 | Divisibility by 11 | <img alt="B2" src="assets/tier/4.svg"> | [Python](06xxx/06976.py) |
@@ -1163,7 +1178,7 @@
 | 7181 | Mõttemeister | <img alt="B3" src="assets/tier/3.svg"> | [C++](07xxx/07181.cpp) |
 | 7213 | Akmuo, popierius, žirklės | <img alt="B1" src="assets/tier/5.svg"> | [C++](07xxx/07213.cpp) |
 | 7218 | Pasislėpę romėniški skaičiai | <img alt="B3" src="assets/tier/3.svg"> | [C++](07xxx/07218.cpp) |
-| 7239 | Pjūklas | <img alt="B1" src="assets/tier/5.svg"> | [C++](07xxx/07239.cpp) |
+| 7239 | Pjūklas | <img alt="S5" src="assets/tier/6.svg"> | [C++](07xxx/07239.cpp) |
 | 7240 | Rogutės | <img alt="B3" src="assets/tier/3.svg"> | [C++](07xxx/07240.cpp) |
 | 7241 | Skaičiai | <img alt="B2" src="assets/tier/4.svg"> | [C++](07xxx/07241.cpp) |
 | 7245 | Kurjeris | <img alt="B1" src="assets/tier/5.svg"> | [C++](07xxx/07245.cpp) |
@@ -1179,7 +1194,7 @@
 | 7326 | Number Steps | <img alt="B1" src="assets/tier/5.svg"> | [C++](07xxx/07326.cpp) |
 | 7360 | Undercut | <img alt="B2" src="assets/tier/4.svg"> | [C++](07xxx/07360.cpp) |
 | 7366 | Counting Sheep | <img alt="B2" src="assets/tier/4.svg"> | [C++](07xxx/07366.cpp) |
-| 7390 | Easy Trading | <img alt="S4" src="assets/tier/7.svg"> | [C++](07xxx/07390.cpp) |
+| 7390 | Easy Trading | <img alt="S5" src="assets/tier/6.svg"> | [C++](07xxx/07390.cpp) |
 | 7453 | 합이 0인 네 정수 | <img alt="G2" src="assets/tier/14.svg"> | [C++](07xxx/07453.cpp) |
 | 7466 | Honey and Milk Land | <img alt="B1" src="assets/tier/5.svg"> | [C++](07xxx/07466.cpp) |
 | 7482 | 상자 만들기 | <img alt="S5" src="assets/tier/6.svg"> | [C++](07xxx/07482.cpp) |
@@ -1203,6 +1218,7 @@
 | 7582 | On the Bus | <img alt="B2" src="assets/tier/4.svg"> | [C++](07xxx/07582.cpp) |
 | 7583 | Jumbled Words | <img alt="B2" src="assets/tier/4.svg"> | [C++](07xxx/07583.cpp) |
 | 7586 | Untied Airlines | <img alt="B2" src="assets/tier/4.svg"> | [C++](07xxx/07586.cpp) |
+| 7587 | Anagrams | <img alt="S4" src="assets/tier/7.svg"> | [C++](07xxx/07587.cpp) |
 | 7595 | Triangles | <img alt="B4" src="assets/tier/2.svg"> | [C++](07xxx/07595.cpp) |
 | 7596 | MP3 Songs | <img alt="S5" src="assets/tier/6.svg"> | [C++](07xxx/07596.cpp) |
 | 7597 | Tennis | <img alt="B2" src="assets/tier/4.svg"> | [C++](07xxx/07597.cpp) |
@@ -1299,6 +1315,7 @@
 | 8891 | 점 숫자 | <img alt="S4" src="assets/tier/7.svg"> | [C++](08xxx/08891.cpp) |
 | 8892 | 팰린드롬 | <img alt="S5" src="assets/tier/6.svg"> | [C++](08xxx/08892.cpp) |
 | 8896 | 가위 바위 보 | <img alt="S3" src="assets/tier/8.svg"> | [C](08xxx/08896.c) |
+| 8911 | 거북이 | <img alt="S3" src="assets/tier/8.svg"> | [C++](08xxx/08911.cpp) |
 | 8912 | Sales | <img alt="B2" src="assets/tier/4.svg"> | [C++](08xxx/08912.cpp) |
 | 8932 | 7종 경기 | <img alt="B3" src="assets/tier/3.svg"> | [C++](08xxx/08932.cpp) |
 | 8933 | MCS | <img alt="S3" src="assets/tier/8.svg"> | [C++](08xxx/08933.cpp) |
@@ -1382,6 +1399,7 @@
 | 9375 | 패션왕 신해빈 | <img alt="S3" src="assets/tier/8.svg"> | [C++](09xxx/09375.cpp) |
 | 9377 | String LD | <img alt="B2" src="assets/tier/4.svg"> | [C++](09xxx/09377.cpp) |
 | 9387 | Gholam’s Simple Game | <img alt="B2" src="assets/tier/4.svg"> | [C++](09xxx/09387.cpp) |
+| 9388 | Arbiter Login | <img alt="B1" src="assets/tier/5.svg"> | [C++](09xxx/09388.cpp) |
 | 9398 | A Password Policy Requirement | <img alt="B2" src="assets/tier/4.svg"> | [C++](09xxx/09398.cpp) |
 | 9414 | 프로그래밍 대회 전용 부지 | <img alt="S4" src="assets/tier/7.svg"> | [C++](09xxx/09414.cpp) |
 | 9417 | 최대 GCD | <img alt="S4" src="assets/tier/7.svg"> | [C++](09xxx/09417.cpp) |
@@ -1390,6 +1408,7 @@
 | 9433 | Zombie Invasion | <img alt="B2" src="assets/tier/4.svg"> | [C++](09xxx/09433.cpp) |
 | 9437 | 사라진 페이지 찾기 | <img alt="B2" src="assets/tier/4.svg"> | [C++](09xxx/09437.cpp) |
 | 9440 | 숫자 더하기 | <img alt="S2" src="assets/tier/9.svg"> | [C++](09xxx/09440.cpp) |
+| 9442 | Sort Me | <img alt="S4" src="assets/tier/7.svg"> | [C++](09xxx/09442.cpp) |
 | 9443 | Arrangement of Contest | <img alt="B3" src="assets/tier/3.svg"> | [C++](09xxx/09443.cpp) |
 | 9449 | Garage | <img alt="B1" src="assets/tier/5.svg"> | [C++](09xxx/09449.cpp) |
 | 9455 | 박스 | <img alt="B1" src="assets/tier/5.svg"> | [C++](09xxx/09455.cpp) |
@@ -1505,6 +1524,7 @@
 | 10104 | Party Invitation | <img alt="B2" src="assets/tier/4.svg"> | [C++](10xxx/10104.cpp) |
 | 10105 | Assigning Partners | <img alt="B1" src="assets/tier/5.svg"> | [C++](10xxx/10105.cpp) |
 | 10156 | 과자 | <img alt="B4" src="assets/tier/2.svg"> | [C](10xxx/10156.c) |
+| 10157 | 자리배정 | <img alt="S3" src="assets/tier/8.svg"> | [C++](10xxx/10157.cpp) |
 | 10158 | 개미 | <img alt="S3" src="assets/tier/8.svg"> | [C++](10xxx/10158.cpp) |
 | 10159 | 저울 | <img alt="G4" src="assets/tier/12.svg"> | [C++](10xxx/10159.cpp) |
 | 10162 | 전자레인지 | <img alt="B3" src="assets/tier/3.svg"> | [C](10xxx/10162.c) |
@@ -1545,7 +1565,7 @@
 | 10347 | Reverse Rot | <img alt="B2" src="assets/tier/4.svg"> | [C++](10xxx/10347.cpp) |
 | 10372 | Alarm Clock | <img alt="B1" src="assets/tier/5.svg"> | [C++](10xxx/10372.cpp) |
 | 10373 | Buffcraft | <img alt="G5" src="assets/tier/11.svg"> | [C++](10xxx/10373.cpp) |
-| 10375 | Digits | <img alt="G4" src="assets/tier/12.svg"> | [C++](10xxx/10375.cpp) |
+| 10375 | Digits | <img alt="G3" src="assets/tier/13.svg"> | [C++](10xxx/10375.cpp) |
 | 10378 | Grave | <img alt="S4" src="assets/tier/7.svg"> | [C++](10xxx/10378.cpp) |
 | 10381 | Joy of Flight | <img alt="G4" src="assets/tier/12.svg"> | [C++](10xxx/10381.cpp) |
 | 10383 | The Cost of Moving | <img alt="B1" src="assets/tier/5.svg"> | [C++](10xxx/10383.cpp) |
@@ -1576,7 +1596,7 @@
 | 10531 | Golf Bot | <img alt="P1" src="assets/tier/20.svg"> | [C++](10xxx/10531.cpp) |
 | 10539 | 수빈이와 수열 | <img alt="B2" src="assets/tier/4.svg"> | [C++](10xxx/10539.cpp) |
 | 10540 | KLOPKA | <img alt="B2" src="assets/tier/4.svg"> | [C++](10xxx/10540.cpp) |
-| 10545 | 뚜기뚜기메뚜기 | <img alt="B1" src="assets/tier/5.svg"> | [C++](10xxx/10545.cpp) |
+| 10545 | 뚜기뚜기메뚜기 | <img alt="S5" src="assets/tier/6.svg"> | [C++](10xxx/10545.cpp) |
 | 10546 | 배부른 마라토너 | <img alt="S4" src="assets/tier/7.svg"> | [C++](10xxx/10546.cpp) |
 | 10551 | STROJOPIS | <img alt="B2" src="assets/tier/4.svg"> | [C++](10xxx/10551.cpp) |
 | 10552 | DOM | <img alt="S2" src="assets/tier/9.svg"> | [C++](10xxx/10552.cpp) |
@@ -1621,7 +1641,7 @@
 | 10814 | 나이순 정렬 | <img alt="S5" src="assets/tier/6.svg"> | [C](10xxx/10814.c) |
 | 10815 | 숫자 카드 | <img alt="S5" src="assets/tier/6.svg"> | [C++](10xxx/10815.cpp) |
 | 10816 | 숫자 카드 2 | <img alt="S4" src="assets/tier/7.svg"> | [C++](10xxx/10816.cpp) |
-| 10817 | 세 수 | <img alt="B3" src="assets/tier/3.svg"> | [C](10xxx/10817.c) |
+| 10817 | 세 수 | <img alt="B4" src="assets/tier/2.svg"> | [C](10xxx/10817.c) |
 | 10818 | 최소, 최대 | <img alt="B3" src="assets/tier/3.svg"> | [C](10xxx/10818.c) |
 | 10819 | 차이를 최대로 | <img alt="S2" src="assets/tier/9.svg"> | [C++](10xxx/10819.cpp) |
 | 10820 | 문자열 분석 | <img alt="B2" src="assets/tier/4.svg"> | [C++](10xxx/10820.cpp) |
@@ -1653,7 +1673,7 @@
 | 10886 | 0 = not cute / 1 = cute | <img alt="B3" src="assets/tier/3.svg"> | [C](10xxx/10886.c) |
 | 10889 | Ancient symbol | <img alt="Unrated" src="assets/tier/0.svg"> | [C++](10xxx/10889.cpp) |
 | 10892 | Divide into triangle | <img alt="S3" src="assets/tier/8.svg"> | [C++](10xxx/10892.cpp) |
-| 10895 | Great Pow! | <img alt="S1" src="assets/tier/10.svg"> | [C++](10xxx/10895.cpp) |
+| 10895 | Great Pow! | <img alt="S2" src="assets/tier/9.svg"> | [C++](10xxx/10895.cpp) |
 | 10902 | Penalty calculation | <img alt="B3" src="assets/tier/3.svg"> | [C++](10xxx/10902.cpp) |
 | 10914 | Veni, vidi, vici | <img alt="B1" src="assets/tier/5.svg"> | [C++](10xxx/10914.cpp) |
 | 10926 | ??! | <img alt="B5" src="assets/tier/1.svg"> | [C](10xxx/10926.c) [C++](10xxx/10926.cpp) |
@@ -1792,6 +1812,7 @@
 | 11404 | 플로이드 | <img alt="G4" src="assets/tier/12.svg"> | [C++](11xxx/11404.cpp) |
 | 11414 | LCM | <img alt="G1" src="assets/tier/15.svg"> | [C++](11xxx/11414.cpp) |
 | 11423 | Primes | <img alt="S1" src="assets/tier/10.svg"> | [C++](11xxx/11423.cpp) |
+| 11431 | Mr. Gorbachev, Tear Down This Wall! | <img alt="B2" src="assets/tier/4.svg"> | [C++](11xxx/11431.cpp) |
 | 11434 | Ampelmännchen | <img alt="B3" src="assets/tier/3.svg"> | [C++](11xxx/11434.cpp) |
 | 11437 | LCA | <img alt="G3" src="assets/tier/13.svg"> | [C++](11xxx/11437.cpp) |
 | 11440 | 피보나치 수의 제곱의 합 | <img alt="P5" src="assets/tier/16.svg"> | [C++](11xxx/11440.cpp) |
@@ -1818,6 +1839,7 @@
 | 11536 | 줄 세우기 | <img alt="S5" src="assets/tier/6.svg"> | [C++](11xxx/11536.cpp) |
 | 11549 | Identifying tea | <img alt="B4" src="assets/tier/2.svg"> | [C++](11xxx/11549.cpp) |
 | 11557 | Yangjojang of The Year | <img alt="B1" src="assets/tier/5.svg"> | [C++](11xxx/11557.cpp) |
+| 11558 | The Game of Death | <img alt="S4" src="assets/tier/7.svg"> | [C++](11xxx/11558.cpp) |
 | 11559 | Puyo Puyo | <img alt="G4" src="assets/tier/12.svg"> | [C++](11xxx/11559.cpp) |
 | 11561 | 징검다리 | <img alt="S3" src="assets/tier/8.svg"> | [C++](11xxx/11561.cpp) |
 | 11568 | 민균이의 계략 | <img alt="S2" src="assets/tier/9.svg"> | [C++](11xxx/11568.cpp) |
@@ -1874,6 +1896,7 @@
 | 11760 | Mastering Mastermind | <img alt="B2" src="assets/tier/4.svg"> | [C++](11xxx/11760.cpp) |
 | 11762 | A Towering Problem | <img alt="B1" src="assets/tier/5.svg"> | [C++](11xxx/11762.cpp) |
 | 11772 | POT | <img alt="B3" src="assets/tier/3.svg"> | [C++](11xxx/11772.cpp) |
+| 11773 | ESEJ | <img alt="S5" src="assets/tier/6.svg"> | [C++](11xxx/11773.cpp) |
 | 11778 | 피보나치 수와 최대공약수 | <img alt="P5" src="assets/tier/16.svg"> | [C++](11xxx/11778.cpp) |
 | 11780 | 플로이드 2 | <img alt="G2" src="assets/tier/14.svg"> | [C++](11xxx/11780.cpp) |
 | 11784 | Hex Code | <img alt="B1" src="assets/tier/5.svg"> | [C++](11xxx/11784.cpp) |
@@ -1885,6 +1908,7 @@
 | 11816 | 8진수, 10진수, 16진수 | <img alt="B2" src="assets/tier/4.svg"> | [C](11xxx/11816.c) |
 | 11819 | The Shortest does not Mean the Simplest | <img alt="S1" src="assets/tier/10.svg"> | [C++](11xxx/11819.cpp) |
 | 11866 | 요세푸스 문제 0 | <img alt="S4" src="assets/tier/7.svg"> | [C++](11xxx/11866.cpp) |
+| 11867 | 박스 나누기 게임 | <img alt="S2" src="assets/tier/9.svg"> | [C++](11xxx/11867.cpp) |
 | 11868 | 님 게임 2 | <img alt="P4" src="assets/tier/17.svg"> | [C++](11xxx/11868.cpp) |
 | 11869 | 님블 | <img alt="P4" src="assets/tier/17.svg"> | [C++](11xxx/11869.cpp) |
 | 11871 | 님 게임 홀짝 | <img alt="P3" src="assets/tier/18.svg"> | [C++](11xxx/11871.cpp) |
@@ -1907,9 +1931,11 @@
 | 11950 | 2016 IOI | <img alt="S3" src="assets/tier/8.svg"> | [C++](11xxx/11950.cpp) |
 | 11966 | 2의 제곱인가? | <img alt="B3" src="assets/tier/3.svg"> | [C++](11xxx/11966.cpp) |
 | 11970 | Fence Painting | <img alt="B3" src="assets/tier/3.svg"> | [C++](11xxx/11970.cpp) |
+| 11971 | 속도 위반 | <img alt="S5" src="assets/tier/6.svg"> | [C++](11xxx/11971.cpp) |
 | 11976 | Promotion Counting | <img alt="B1" src="assets/tier/5.svg"> | [C++](11xxx/11976.cpp) |
 | 11985 | 오렌지 출하 | <img alt="G4" src="assets/tier/12.svg"> | [C++](11xxx/11985.cpp) |
 | 11999 | Milk Pails (Bronze) | <img alt="S5" src="assets/tier/6.svg"> | [C++](11xxx/11999.cpp) |
+| 12005 | Diamond Collector (Bronze) | <img alt="S5" src="assets/tier/6.svg"> | [C++](12xxx/12005.cpp) |
 | 12014 | 주식 | <img alt="G2" src="assets/tier/14.svg"> | [C++](12xxx/12014.cpp) |
 | 12015 | 가장 긴 증가하는 부분 수열 2 | <img alt="G2" src="assets/tier/14.svg"> | [C](12xxx/12015.c) |
 | 12018 | Yonsei TOTO | <img alt="S3" src="assets/tier/8.svg"> | [C++](12xxx/12018.cpp) |
@@ -1940,6 +1966,7 @@
 | 12168 | Infinite House of Pancakes (Small) | <img alt="S2" src="assets/tier/9.svg"> | [C++](12xxx/12168.cpp) |
 | 12169 | Infinite House of Pancakes (Large) | <img alt="G5" src="assets/tier/11.svg"> | [C++](12xxx/12169.cpp) |
 | 12174 | #include <Google I/O.h> | <img alt="B2" src="assets/tier/4.svg"> | [C++](12xxx/12174.cpp) |
+| 12175 | Dreary Design (Small) | <img alt="S5" src="assets/tier/6.svg"> | [C++](12xxx/12175.cpp) |
 | 12184 | GBus count (Small) | <img alt="B2" src="assets/tier/4.svg"> | [C++](12xxx/12184.cpp) |
 | 12185 | GBus count (Large) | <img alt="B2" src="assets/tier/4.svg"> | [C++](12xxx/12185.cpp) |
 | 12198 | Password Attacker (Small) | <img alt="B1" src="assets/tier/5.svg"> | [C++](12xxx/12198.cpp) |
@@ -1996,6 +2023,7 @@
 | 12760 | 최후의 승자는 누구? | <img alt="S5" src="assets/tier/6.svg"> | [C++](12xxx/12760.cpp) |
 | 12778 | CTP공국으로 이민 가자 | <img alt="B2" src="assets/tier/4.svg"> | [C++](12xxx/12778.cpp) |
 | 12780 | 원피스 | <img alt="B2" src="assets/tier/4.svg"> | [C++](12xxx/12780.cpp) |
+| 12782 | 비트 우정지수 | <img alt="S4" src="assets/tier/7.svg"> | [C++](12xxx/12782.cpp) |
 | 12785 | 토쟁이의 등굣길 | <img alt="S1" src="assets/tier/10.svg"> | [C++](12xxx/12785.cpp) |
 | 12788 | 제 2회 IUPC는 잘 개최될 수 있을까? | <img alt="S4" src="assets/tier/7.svg"> | [C++](12xxx/12788.cpp) |
 | 12789 | 도키도키 간식드리미 | <img alt="S3" src="assets/tier/8.svg"> | [C++](12xxx/12789.cpp) |
@@ -2006,6 +2034,7 @@
 | 12836 | 가계부 (Easy) | <img alt="B2" src="assets/tier/4.svg"> | [C++](12xxx/12836.cpp) |
 | 12837 | 가계부 (Hard) | <img alt="G1" src="assets/tier/15.svg"> | [C++](12xxx/12837.cpp) |
 | 12840 | 창용이의 시계 | <img alt="B3" src="assets/tier/3.svg"> | [C++](12xxx/12840.cpp) |
+| 12845 | 모두의 마블 | <img alt="S3" src="assets/tier/8.svg"> | [C++](12xxx/12845.cpp) |
 | 12847 | 꿀 아르바이트 | <img alt="S3" src="assets/tier/8.svg"> | [C++](12xxx/12847.cpp) |
 | 12849 | 본대 산책 | <img alt="S1" src="assets/tier/10.svg"> | [C++](12xxx/12849.cpp) |
 | 12850 | 본대 산책2 | <img alt="P5" src="assets/tier/16.svg"> | [C++](12xxx/12850.cpp) |
@@ -2022,6 +2051,7 @@
 | 12981 | 공 포장하기 | <img alt="S4" src="assets/tier/7.svg"> | [C++](12xxx/12981.cpp) |
 | 13015 | 별 찍기 - 23 | <img alt="S4" src="assets/tier/7.svg"> | [C](13xxx/13015.c) |
 | 13022 | 늑대와 올바른 단어 | <img alt="S2" src="assets/tier/9.svg"> | [C++](13xxx/13022.cpp) |
+| 13023 | ABCDE | <img alt="G5" src="assets/tier/11.svg"> | [C++](13xxx/13023.cpp) |
 | 13035 | Rectangle and Squares | <img alt="B1" src="assets/tier/5.svg"> | [C++](13xxx/13035.cpp) |
 | 13063 | Lobby | <img alt="B3" src="assets/tier/3.svg"> | [C++](13xxx/13063.cpp) |
 | 13064 | Cameras | <img alt="B2" src="assets/tier/4.svg"> | [C++](13xxx/13064.cpp) |
@@ -2082,6 +2112,7 @@
 | 13366 | Math Contest | <img alt="B3" src="assets/tier/3.svg"> | [C++](13xxx/13366.cpp) |
 | 13371 | Dolphin | <img alt="S5" src="assets/tier/6.svg"> | [C++](13xxx/13371.cpp) |
 | 13398 | 연속합 2 | <img alt="G5" src="assets/tier/11.svg"> | [C++](13xxx/13398.cpp) |
+| 13399 | Rearranging a Sequence | <img alt="S5" src="assets/tier/6.svg"> | [C++](13xxx/13399.cpp) |
 | 13410 | 거꾸로 구구단 | <img alt="B2" src="assets/tier/4.svg"> | [C++](13xxx/13410.cpp) |
 | 13411 | 하늘에서 정의가 빗발친다! | <img alt="S4" src="assets/tier/7.svg"> | [C++](13xxx/13411.cpp) |
 | 13412 | 서로소 쌍 | <img alt="S2" src="assets/tier/9.svg"> | [C++](13xxx/13412.cpp) |
@@ -2231,7 +2262,7 @@
 | 14503 | 로봇 청소기 | <img alt="G5" src="assets/tier/11.svg"> | [C++](14xxx/14503.cpp) |
 | 14505 | 팰린드롬 개수 구하기 (Small) | <img alt="G3" src="assets/tier/13.svg"> | [C++](14xxx/14505.cpp) |
 | 14517 | 팰린드롬 개수 구하기 (Large) | <img alt="P5" src="assets/tier/16.svg"> | [C++](14xxx/14517.cpp) |
-| 14530 | The Lost Cow | <img alt="B2" src="assets/tier/4.svg"> | [C++](14xxx/14530.cpp) |
+| 14530 | The Lost Cow | <img alt="B1" src="assets/tier/5.svg"> | [C++](14xxx/14530.cpp) |
 | 14531 | Bovine Genomics (Bronze) | <img alt="S5" src="assets/tier/6.svg"> | [C++](14xxx/14531.cpp) |
 | 14534 | String Permutation | <img alt="S4" src="assets/tier/7.svg"> | [C++](14xxx/14534.cpp) |
 | 14535 | Birthday Graph | <img alt="B3" src="assets/tier/3.svg"> | [C++](14xxx/14535.cpp) |
@@ -2278,6 +2309,7 @@
 | 14656 | 조교는 새디스트야!! | <img alt="B3" src="assets/tier/3.svg"> | [C++](14xxx/14656.cpp) |
 | 14659 | 한조서열정리하고옴ㅋㅋ | <img alt="B1" src="assets/tier/5.svg"> | [C++](14xxx/14659.cpp) |
 | 14670 | 병약한 영정 | <img alt="S4" src="assets/tier/7.svg"> | [C++](14xxx/14670.cpp) |
+| 14674 | STOP USING MONEY | <img alt="S3" src="assets/tier/8.svg"> | [C++](14xxx/14674.cpp) |
 | 14681 | 사분면 고르기 | <img alt="B5" src="assets/tier/1.svg"> | [C](14xxx/14681.c) [C++](14xxx/14681.cpp) |
 | 14682 | Shifty Sum | <img alt="B3" src="assets/tier/3.svg"> | [C++](14xxx/14682.cpp) |
 | 14683 | Exactly Electrical | <img alt="B3" src="assets/tier/3.svg"> | [C++](14xxx/14683.cpp) |
@@ -2343,7 +2375,7 @@
 | 15008 | Falling Apart | <img alt="B1" src="assets/tier/5.svg"> | [C++](15xxx/15008.cpp) |
 | 15025 | Judging Moose | <img alt="B4" src="assets/tier/2.svg"> | [C++](15xxx/15025.cpp) |
 | 15029 | Cued In | <img alt="B1" src="assets/tier/5.svg"> | [C++](15xxx/15029.cpp) |
-| 15032 | Flipping Coins | <img alt="G3" src="assets/tier/13.svg"> | [C++](15xxx/15032.cpp) |
+| 15032 | Flipping Coins | <img alt="G4" src="assets/tier/12.svg"> | [C++](15xxx/15032.cpp) |
 | 15035 | I Work All Day | <img alt="B2" src="assets/tier/4.svg"> | [C++](15xxx/15035.cpp) |
 | 15036 | Just A Minim | <img alt="B3" src="assets/tier/3.svg"> | [C++](15xxx/15036.cpp) |
 | 15048 | Jogo de Boca | <img alt="B1" src="assets/tier/5.svg"> | [C++](15xxx/15048.cpp) |
@@ -2370,6 +2402,7 @@
 | 15131 | Auxiliary Project | <img alt="S3" src="assets/tier/8.svg"> | [C++](15xxx/15131.cpp) |
 | 15151 | Incomplete Book | <img alt="B3" src="assets/tier/3.svg"> | [C++](15xxx/15151.cpp) |
 | 15155 | Analysis of Advanced Analytics | <img alt="B2" src="assets/tier/4.svg"> | [C++](15xxx/15155.cpp) |
+| 15161 | Grass Cutting | <img alt="B1" src="assets/tier/5.svg"> | [C++](15xxx/15161.cpp) |
 | 15177 | Kiwis vs Kangaroos | <img alt="B2" src="assets/tier/4.svg"> | [C++](15xxx/15177.cpp) |
 | 15178 | Angles | <img alt="B3" src="assets/tier/3.svg"> | [C++](15xxx/15178.cpp) |
 | 15179 | Golf Croquet | <img alt="B2" src="assets/tier/4.svg"> | [C++](15xxx/15179.cpp) |
@@ -2377,7 +2410,7 @@
 | 15181 | Beautiful Music | <img alt="B2" src="assets/tier/4.svg"> | [C++](15xxx/15181.cpp) |
 | 15184 | Letter Count | <img alt="B2" src="assets/tier/4.svg"> | [C++](15xxx/15184.cpp) |
 | 15226 | House of Cards | <img alt="B1" src="assets/tier/5.svg"> | [Python](15xxx/15226.py) |
-| 15228 | 3D Printed Statues | <img alt="S5" src="assets/tier/6.svg"> | [C++](15xxx/15228.cpp) |
+| 15228 | 3D Printed Statues | <img alt="B1" src="assets/tier/5.svg"> | [C++](15xxx/15228.cpp) |
 | 15232 | Rectangles | <img alt="B5" src="assets/tier/1.svg"> | [C++](15xxx/15232.cpp) |
 | 15233 | Final Score | <img alt="S4" src="assets/tier/7.svg"> | [C++](15xxx/15233.cpp) |
 | 15234 | Number Pairs | <img alt="B2" src="assets/tier/4.svg"> | [C++](15xxx/15234.cpp) |
@@ -2396,7 +2429,7 @@
 | 15312 | 이름 궁합 | <img alt="S5" src="assets/tier/6.svg"> | [C++](15xxx/15312.cpp) |
 | 15319 | 동혁이의 생일선물 | <img alt="G4" src="assets/tier/12.svg"> | [C++](15xxx/15319.cpp) |
 | 15322 | Košnja | <img alt="B2" src="assets/tier/4.svg"> | [C++](15xxx/15322.cpp) |
-| 15328 | 산타의 선물 | <img alt="G2" src="assets/tier/14.svg"> | [C++](15xxx/15328.cpp) |
+| 15328 | 산타의 선물 | <img alt="G3" src="assets/tier/13.svg"> | [C++](15xxx/15328.cpp) |
 | 15330 | Parallel Lines | <img alt="G2" src="assets/tier/14.svg"> | [C++](15xxx/15330.cpp) |
 | 15340 | Sim Card | <img alt="B3" src="assets/tier/3.svg"> | [C++](15xxx/15340.cpp) |
 | 15341 | Bank Card Verifier | <img alt="B1" src="assets/tier/5.svg"> | [C++](15xxx/15341.cpp) |
@@ -2485,6 +2518,7 @@
 | 15784 | 질투진서 | <img alt="B3" src="assets/tier/3.svg"> | [C++](15xxx/15784.cpp) |
 | 15786 | Send me the money | <img alt="B1" src="assets/tier/5.svg"> | [C++](15xxx/15786.cpp) |
 | 15787 | 기차가 어둠을 헤치고 은하수를 | <img alt="S2" src="assets/tier/9.svg"> | [C++](15xxx/15787.cpp) |
+| 15791 | 세진이의 미팅 | <img alt="G1" src="assets/tier/15.svg"> | [C++](15xxx/15791.cpp) |
 | 15792 | A/B - 2 | <img alt="B1" src="assets/tier/5.svg"> | [C++](15xxx/15792.cpp) |
 | 15803 | PLAYERJINAH’S BOTTLEGROUNDS | <img alt="S5" src="assets/tier/6.svg"> | [C++](15xxx/15803.cpp) |
 | 15810 | 풍선 공장 | <img alt="S2" src="assets/tier/9.svg"> | [C++](15xxx/15810.cpp) |
@@ -2494,6 +2528,7 @@
 | 15819 | 너의 핸들은 | <img alt="B1" src="assets/tier/5.svg"> | [C++](15xxx/15819.cpp) |
 | 15820 | 맞았는데 왜 틀리죠? | <img alt="B3" src="assets/tier/3.svg"> | [C++](15xxx/15820.cpp) |
 | 15824 | 너 봄에는 캡사이신이 맛있단다 | <img alt="G2" src="assets/tier/14.svg"> | [C++](15xxx/15824.cpp) |
+| 15828 | Router | <img alt="S4" src="assets/tier/7.svg"> | [C++](15xxx/15828.cpp) |
 | 15829 | Hashing | <img alt="B2" src="assets/tier/4.svg"> | [C](15xxx/15829.c) |
 | 15836 | Matrix Multiplication Calculator | <img alt="S5" src="assets/tier/6.svg"> | [C++](15xxx/15836.cpp) |
 | 15838 | Wak Sani Satay | <img alt="B3" src="assets/tier/3.svg"> | [C++](15xxx/15838.cpp) |
@@ -2506,6 +2541,7 @@
 | 15881 | Pen Pineapple Apple Pen | <img alt="B1" src="assets/tier/5.svg"> | [C++](15xxx/15881.cpp) |
 | 15885 | 고장난 시계 | <img alt="S5" src="assets/tier/6.svg"> | [C++](15xxx/15885.cpp) |
 | 15886 | 내 선물을 받아줘 2 | <img alt="S3" src="assets/tier/8.svg"> | [C++](15xxx/15886.cpp) |
+| 15887 | 욱제는 결벽증이야!! | <img alt="S5" src="assets/tier/6.svg"> | [C++](15xxx/15887.cpp) |
 | 15888 | 정답은 이수근이야!! | <img alt="S2" src="assets/tier/9.svg"> | [C++](15xxx/15888.cpp) |
 | 15890 | 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 2018 | <img alt="Unrated" src="assets/tier/0.svg"> | [C++](15xxx/15890.cpp) |
 | 15894 | 수학은 체육과목 입니다 | <img alt="B3" src="assets/tier/3.svg"> | [C](15xxx/15894.c) [C++](15xxx/15894.cpp) |
@@ -2576,6 +2612,7 @@
 | 16304 | A Prize No One Can Win | <img alt="S5" src="assets/tier/6.svg"> | [C++](16xxx/16304.cpp) |
 | 16306 | Cardboard Container | <img alt="B1" src="assets/tier/5.svg"> | [C++](16xxx/16306.cpp) |
 | 16316 | Baby Bites | <img alt="B3" src="assets/tier/3.svg"> | [C++](16xxx/16316.cpp) |
+| 16317 | Code Cleanups | <img alt="B1" src="assets/tier/5.svg"> | [C++](16xxx/16317.cpp) |
 | 16337 | Die | <img alt="B2" src="assets/tier/4.svg"> | [C++](16xxx/16337.cpp) |
 | 16341 | Horsemeet | <img alt="S3" src="assets/tier/8.svg"> | [C++](16xxx/16341.cpp) |
 | 16360 | Go Latin | <img alt="B1" src="assets/tier/5.svg"> | [C++](16xxx/16360.cpp) |
@@ -2595,6 +2632,7 @@
 | 16431 | 베시와 데이지 | <img alt="B3" src="assets/tier/3.svg"> | [C++](16xxx/16431.cpp) |
 | 16433 | 주디와 당근농장 | <img alt="B1" src="assets/tier/5.svg"> | [C++](16xxx/16433.cpp) |
 | 16435 | 스네이크버드 | <img alt="S5" src="assets/tier/6.svg"> | [C++](16xxx/16435.cpp) |
+| 16439 | 치킨치킨치킨 | <img alt="S4" src="assets/tier/7.svg"> | [C++](16xxx/16439.cpp) |
 | 16445 | Desvendando Monty Hall | <img alt="B3" src="assets/tier/3.svg"> | [C++](16xxx/16445.cpp) |
 | 16446 | Enigma | <img alt="B2" src="assets/tier/4.svg"> | [C++](16xxx/16446.cpp) |
 | 16456 | 하와와 대학생쨩 하와이로 가는 거시와요~ | <img alt="S1" src="assets/tier/10.svg"> | [C++](16xxx/16456.cpp) |
@@ -2650,7 +2688,7 @@
 | 16755 | Magnus | <img alt="B1" src="assets/tier/5.svg"> | [C++](16xxx/16755.cpp) |
 | 16756 | Pismo | <img alt="S5" src="assets/tier/6.svg"> | [C++](16xxx/16756.cpp) |
 | 16769 | Mixing Milk | <img alt="B2" src="assets/tier/4.svg"> | [C++](16xxx/16769.cpp) |
-| 16770 | The Bucket List | <img alt="B2" src="assets/tier/4.svg"> | [C++](16xxx/16770.cpp) |
+| 16770 | The Bucket List | <img alt="B1" src="assets/tier/5.svg"> | [C++](16xxx/16770.cpp) |
 | 16785 | ソーシャルゲーム (Social Game) | <img alt="B3" src="assets/tier/3.svg"> | [C++](16xxx/16785.cpp) |
 | 16786 | すごろくと駒 (Sugoroku and Pieces) | <img alt="B2" src="assets/tier/4.svg"> | [C++](16xxx/16786.cpp) |
 | 16787 | マルバツスタンプ (Circle Cross Stamps) | <img alt="B1" src="assets/tier/5.svg"> | [C++](16xxx/16787.cpp) |
@@ -2672,6 +2710,8 @@
 | 16944 | 강력한 비밀번호 | <img alt="B2" src="assets/tier/4.svg"> | [C++](16xxx/16944.cpp) |
 | 16948 | 데스 나이트 | <img alt="S1" src="assets/tier/10.svg"> | [C++](16xxx/16948.cpp) |
 | 16953 | A → B | <img alt="S2" src="assets/tier/9.svg"> | [C++](16xxx/16953.cpp) |
+| 16955 | 오목, 이길 수 있을까? | <img alt="S4" src="assets/tier/7.svg"> | [C++](16xxx/16955.cpp) |
+| 16956 | 늑대와 양 | <img alt="S3" src="assets/tier/8.svg"> | [C++](16xxx/16956.cpp) |
 | 16961 | 탭 vs 공백 | <img alt="B1" src="assets/tier/5.svg"> | [C++](16xxx/16961.cpp) |
 | 16968 | 차량 번호판 1 | <img alt="B1" src="assets/tier/5.svg"> | [C++](16xxx/16968.cpp) |
 | 16970 | 정수 좌표의 개수 | <img alt="S1" src="assets/tier/10.svg"> | [C++](16xxx/16970.cpp) |
@@ -2788,6 +2828,7 @@
 | 17586 | Diagonal Cut | <img alt="S1" src="assets/tier/10.svg"> | [C++](17xxx/17586.cpp) |
 | 17588 | Missing Numbers | <img alt="B3" src="assets/tier/3.svg"> | [C++](17xxx/17588.cpp) |
 | 17598 | Animal King Election | <img alt="B4" src="assets/tier/2.svg"> | [C++](17xxx/17598.cpp) |
+| 17599 | Bags | <img alt="S5" src="assets/tier/6.svg"> | [C++](17xxx/17599.cpp) |
 | 17608 | 막대기 | <img alt="B2" src="assets/tier/4.svg"> | [C](17xxx/17608.c) |
 | 17614 | 369 | <img alt="B3" src="assets/tier/3.svg"> | [C++](17xxx/17614.cpp) |
 | 17618 | 신기한 수 | <img alt="B3" src="assets/tier/3.svg"> | [C++](17xxx/17618.cpp) |
@@ -2811,7 +2852,7 @@
 | 17903 | Counting Clauses | <img alt="B4" src="assets/tier/2.svg"> | [C++](17xxx/17903.cpp) |
 | 17906 | Fishmongers | <img alt="S4" src="assets/tier/7.svg"> | [C++](17xxx/17906.cpp) |
 | 17910 | Joint Attack | <img alt="S5" src="assets/tier/6.svg"> | [C++](17xxx/17910.cpp) |
-| 17912 | License to Launch | <img alt="B3" src="assets/tier/3.svg"> | [C++](17xxx/17912.cpp) |
+| 17912 | License to Launch | <img alt="B4" src="assets/tier/2.svg"> | [C++](17xxx/17912.cpp) |
 | 17919 | Östgötska | <img alt="B2" src="assets/tier/4.svg"> | [C++](17xxx/17919.cpp) |
 | 17924 | Cooking Water | <img alt="B2" src="assets/tier/4.svg"> | [C++](17xxx/17924.cpp) |
 | 17925 | Problem Classification | <img alt="S2" src="assets/tier/9.svg"> | [C++](17xxx/17925.cpp) |
@@ -2838,11 +2879,13 @@
 | 18108 | 1998년생인 내가 태국에서는 2541년생?! | <img alt="B5" src="assets/tier/1.svg"> | [C](18xxx/18108.c) [C++](18xxx/18108.cpp) |
 | 18110 | solved.ac | <img alt="S4" src="assets/tier/7.svg"> | [C++](18xxx/18110.cpp) |
 | 18111 | 마인크래프트 | <img alt="S2" src="assets/tier/9.svg"> | [C++](18xxx/18111.cpp) |
+| 18112 | 이진수 게임 | <img alt="G5" src="assets/tier/11.svg"> | [C++](18xxx/18112.cpp) |
 | 18114 | 블랙 프라이데이 | <img alt="G5" src="assets/tier/11.svg"> | [C++](18xxx/18114.cpp) |
 | 18115 | 카드 놓기 | <img alt="S3" src="assets/tier/8.svg"> | [C++](18xxx/18115.cpp) |
 | 18117 | 분수 | <img alt="P5" src="assets/tier/16.svg"> | [C++](18xxx/18117.cpp) |
 | 18119 | 단어 암기 | <img alt="G4" src="assets/tier/12.svg"> | [C++](18xxx/18119.cpp) |
 | 18125 | 고양이 사료 | <img alt="B1" src="assets/tier/5.svg"> | [C++](18xxx/18125.cpp) |
+| 18126 | 너구리 구구 | <img alt="S2" src="assets/tier/9.svg"> | [C++](18xxx/18126.cpp) |
 | 18127 | 모형결정 | <img alt="B3" src="assets/tier/3.svg"> | [C++](18xxx/18127.cpp) |
 | 18129 | 이상한 암호코드 | <img alt="B1" src="assets/tier/5.svg"> | [C++](18xxx/18129.cpp) |
 | 18130 | 여름나기 | <img alt="B1" src="assets/tier/5.svg"> | [C++](18xxx/18130.cpp) |
@@ -2928,8 +2971,10 @@
 | 19577 | 수학은 재밌어 | <img alt="P5" src="assets/tier/16.svg"> | [C++](19xxx/19577.cpp) |
 | 19583 | 싸이버개강총회 | <img alt="S2" src="assets/tier/9.svg"> | [C++](19xxx/19583.cpp) |
 | 19587 | 객실 배치 | <img alt="G1" src="assets/tier/15.svg"> | [C++](19xxx/19587.cpp) |
+| 19592 | 장난감 경주 | <img alt="S5" src="assets/tier/6.svg"> | [C++](19xxx/19592.cpp) |
 | 19598 | 최소 회의실 개수 | <img alt="G5" src="assets/tier/11.svg"> | [C++](19xxx/19598.cpp) |
 | 19602 | Dog Treats | <img alt="B4" src="assets/tier/2.svg"> | [C++](19xxx/19602.cpp) |
+| 19603 | Epidemiology | <img alt="B1" src="assets/tier/5.svg"> | [C++](19xxx/19603.cpp) |
 | 19604 | Art | <img alt="B2" src="assets/tier/4.svg"> | [C++](19xxx/19604.cpp) |
 | 19637 | IF문 좀 대신 써줘 | <img alt="S3" src="assets/tier/8.svg"> | [C++](19xxx/19637.cpp) |
 | 19675 | Sudoku Variant | <img alt="S3" src="assets/tier/8.svg"> | [C++](19xxx/19675.cpp) |
@@ -2977,6 +3022,7 @@
 | 20124 | 모르고리즘 회장님 추천 받습니다 | <img alt="B2" src="assets/tier/4.svg"> | [C++](20xxx/20124.cpp) |
 | 20125 | 쿠키의 신체 측정 | <img alt="S4" src="assets/tier/7.svg"> | [C++](20xxx/20125.cpp) |
 | 20149 | 선분 교차 3 | <img alt="P4" src="assets/tier/17.svg"> | [C++](20xxx/20149.cpp) |
+| 20152 | Game Addiction | <img alt="S2" src="assets/tier/9.svg"> | [C++](20xxx/20152.cpp) |
 | 20153 | 영웅이는 2의 거듭 제곱을 좋아해! 영웅이는 2의 거듭 제곱을 좋아해! | <img alt="S2" src="assets/tier/9.svg"> | [C++](20xxx/20153.cpp) |
 | 20154 | 이 구역의 승자는 누구야?! | <img alt="B1" src="assets/tier/5.svg"> | [C++](20xxx/20154.cpp) |
 | 20155 | 우리 집 밑에 편의점이 있는데 | <img alt="B2" src="assets/tier/4.svg"> | [C++](20xxx/20155.cpp) |
@@ -3087,6 +3133,7 @@
 | 21285 | Namnsdag | <img alt="B1" src="assets/tier/5.svg"> | [C++](21xxx/21285.cpp) |
 | 21300 | Bottle Return | <img alt="B5" src="assets/tier/1.svg"> | [C++](21xxx/21300.cpp) |
 | 21301 | Comfy Deviations | <img alt="B2" src="assets/tier/4.svg"> | [C++](21xxx/21301.cpp) |
+| 21309 | Cardinal Adjacencies | <img alt="B1" src="assets/tier/5.svg"> | [C++](21xxx/21309.cpp) |
 | 21312 | 홀짝 칵테일 | <img alt="B3" src="assets/tier/3.svg"> | [C++](21xxx/21312.cpp) |
 | 21313 | 문어 | <img alt="B2" src="assets/tier/4.svg"> | [C++](21xxx/21313.cpp) |
 | 21317 | 징검다리 건너기 | <img alt="S1" src="assets/tier/10.svg"> | [C++](21xxx/21317.cpp) |
@@ -3124,6 +3171,7 @@
 | 21734 | SMUPC의 등장 | <img alt="B2" src="assets/tier/4.svg"> | [C++](21xxx/21734.cpp) |
 | 21736 | 헌내기는 친구가 필요해 | <img alt="S2" src="assets/tier/9.svg"> | [C](21xxx/21736.c) |
 | 21756 | 지우개 | <img alt="B2" src="assets/tier/4.svg"> | [C++](21xxx/21756.cpp) |
+| 21760 | 야구 시즌 | <img alt="S5" src="assets/tier/6.svg"> | [C++](21xxx/21760.cpp) |
 | 21763 | Bingo | <img alt="S2" src="assets/tier/9.svg"> | [C++](21xxx/21763.cpp) |
 | 21771 | 가희야 거기서 자는 거 아니야 | <img alt="B1" src="assets/tier/5.svg"> | [C++](21xxx/21771.cpp) |
 | 21841 | Bubbles | <img alt="S5" src="assets/tier/6.svg"> | [C++](21xxx/21841.cpp) |
@@ -3170,7 +3218,7 @@
 | 22251 | 빌런 호석 | <img alt="G5" src="assets/tier/11.svg"> | [C++](22xxx/22251.cpp) |
 | 22277 | Non-Integer Donuts | <img alt="B1" src="assets/tier/5.svg"> | [C++](22xxx/22277.cpp) |
 | 22279 | Quality-Adjusted Life-Year | <img alt="B3" src="assets/tier/3.svg"> | [C++](22xxx/22279.cpp) |
-| 22289 | 큰 수 곱셈 (3) | <img alt="P1" src="assets/tier/20.svg"> | [C++](22xxx/22289.cpp) |
+| 22289 | 큰 수 곱셈 (3) | <img alt="D5" src="assets/tier/21.svg"> | [C++](22xxx/22289.cpp) |
 | 22290 | lattice | <img alt="S4" src="assets/tier/7.svg"> | [Python](22xxx/22290.py) |
 | 22291 | squarePrime | <img alt="S4" src="assets/tier/7.svg"> | [Python](22xxx/22291.py) |
 | 22341 | 사각형 면적 | <img alt="B2" src="assets/tier/4.svg"> | [C++](22xxx/22341.cpp) |
@@ -3200,6 +3248,7 @@
 | 22950 | 이진수 나눗셈 | <img alt="B1" src="assets/tier/5.svg"> | [C++](22xxx/22950.cpp) |
 | 22952 | permutation making | <img alt="S3" src="assets/tier/8.svg"> | [C++](22xxx/22952.cpp) |
 | 22966 | 가장 쉬운 문제를 찾는 문제 | <img alt="B2" src="assets/tier/4.svg"> | [C++](22xxx/22966.cpp) |
+| 22970 | 문제 재탕 | <img alt="S5" src="assets/tier/6.svg"> | [C++](22xxx/22970.cpp) |
 | 22986 | Flat Earth | <img alt="B1" src="assets/tier/5.svg"> | [C++](22xxx/22986.cpp) |
 | 22993 | 서든어택 3 | <img alt="S4" src="assets/tier/7.svg"> | [C++](22xxx/22993.cpp) |
 | 22994 | 이미지 축소 | <img alt="S1" src="assets/tier/10.svg"> | [C++](22xxx/22994.cpp) |
@@ -3213,6 +3262,7 @@
 | 23057 | 도전 숫자왕 | <img alt="S2" src="assets/tier/9.svg"> | [C++](23xxx/23057.cpp) |
 | 23058 | 뒤집기 게임 | <img alt="G3" src="assets/tier/13.svg"> | [C++](23xxx/23058.cpp) |
 | 23080 | 스키테일 암호 | <img alt="B3" src="assets/tier/3.svg"> | [C++](23xxx/23080.cpp) |
+| 23083 | 꿀벌 승연이 | <img alt="G5" src="assets/tier/11.svg"> | [C++](23xxx/23083.cpp) |
 | 23103 | Academic Distance | <img alt="B3" src="assets/tier/3.svg"> | [C++](23xxx/23103.cpp) |
 | 23175 | Histogram Sequence 3 | <img alt="B2" src="assets/tier/4.svg"> | [C++](23xxx/23175.cpp) |
 | 23234 | The World Responds | <img alt="B5" src="assets/tier/1.svg"> | [C](23xxx/23234.c) |
@@ -3391,6 +3441,7 @@
 | 24484 | 알고리즘 수업 - 깊이 우선 탐색 6 | <img alt="S2" src="assets/tier/9.svg"> | [C++](24xxx/24484.cpp) |
 | 24494 | Herdle | <img alt="S4" src="assets/tier/7.svg"> | [C++](24xxx/24494.cpp) |
 | 24499 | blobyum | <img alt="S4" src="assets/tier/7.svg"> | [C++](24xxx/24499.cpp) |
+| 24509 | 상품의 주인은? | <img alt="S5" src="assets/tier/6.svg"> | [C++](24xxx/24509.cpp) |
 | 24510 | 시간복잡도를 배운 도도 | <img alt="B2" src="assets/tier/4.svg"> | [C++](24xxx/24510.cpp) |
 | 24511 | queuestack | <img alt="S3" src="assets/tier/8.svg"> | [C++](24xxx/24511.cpp) |
 | 24516 | 잘 알려진 수열 구하기 | <img alt="S3" src="assets/tier/8.svg"> | [C++](24xxx/24516.cpp) |
@@ -3419,8 +3470,9 @@
 | 24755 | Election Paradox | <img alt="S5" src="assets/tier/6.svg"> | [C++](24xxx/24755.cpp) |
 | 24765 | Mia | <img alt="B2" src="assets/tier/4.svg"> | [C++](24xxx/24765.cpp) |
 | 24767 | Beehives | <img alt="B2" src="assets/tier/4.svg"> | [C++](24xxx/24767.cpp) |
-| 24768 | Left Beehind | <img alt="B3" src="assets/tier/3.svg"> | [C++](24xxx/24768.cpp) |
+| 24768 | Left Beehind | <img alt="B4" src="assets/tier/2.svg"> | [C++](24xxx/24768.cpp) |
 | 24769 | Beekeeper | <img alt="B2" src="assets/tier/4.svg"> | [C++](24xxx/24769.cpp) |
+| 24770 | Carousel Rides | <img alt="B2" src="assets/tier/4.svg"> | [C++](24xxx/24770.cpp) |
 | 24771 | Un-bear-able Zoo | <img alt="S4" src="assets/tier/7.svg"> | [C++](24xxx/24771.cpp) |
 | 24783 | Number Fun | <img alt="B3" src="assets/tier/3.svg"> | [C++](24xxx/24783.cpp) |
 | 24789 | Railroad | <img alt="S5" src="assets/tier/6.svg"> | [C++](24xxx/24789.cpp) |
@@ -3429,6 +3481,7 @@
 | 24803 | Provinces and Gold | <img alt="B3" src="assets/tier/3.svg"> | [C++](24xxx/24803.cpp) |
 | 24805 | Climbing Worm | <img alt="B3" src="assets/tier/3.svg"> | [C++](24xxx/24805.cpp) |
 | 24807 | Math Homework | <img alt="B3" src="assets/tier/3.svg"> | [C++](24xxx/24807.cpp) |
+| 24809 | Broken Swords | <img alt="B2" src="assets/tier/4.svg"> | [C++](24xxx/24809.cpp) |
 | 24818 | Field Trip | <img alt="B1" src="assets/tier/5.svg"> | [C++](24xxx/24818.cpp) |
 | 24820 | Spelling Bee | <img alt="B2" src="assets/tier/4.svg"> | [C++](24xxx/24820.cpp) |
 | 24830 | Broken Calculator | <img alt="B3" src="assets/tier/3.svg"> | [C++](24xxx/24830.cpp) |
@@ -3446,6 +3499,7 @@
 | 24927 | Is It Even? | <img alt="B2" src="assets/tier/4.svg"> | [C++](24xxx/24927.cpp) |
 | 24930 | Ordinary Ordinals | <img alt="G5" src="assets/tier/11.svg"> | [C++](24xxx/24930.cpp) |
 | 24937 | SciComLove (2022) | <img alt="B2" src="assets/tier/4.svg"> | [C++](24xxx/24937.cpp) |
+| 24957 | Loop of Chocolate | <img alt="B1" src="assets/tier/5.svg"> | [C++](24xxx/24957.cpp) |
 | 24993 | KIARA is a Recursive Acronym | <img alt="B1" src="assets/tier/5.svg"> | [C++](24xxx/24993.cpp) |
 | 25024 | 시간과 날짜 | <img alt="B3" src="assets/tier/3.svg"> | [C++](25xxx/25024.cpp) |
 | 25033 | finitefunc | <img alt="S5" src="assets/tier/6.svg"> | [Python](25xxx/25033.py) |
@@ -3657,7 +3711,7 @@
 | 26532 | Acres | <img alt="B4" src="assets/tier/2.svg"> | [C++](26xxx/26532.cpp) |
 | 26534 | Goats | <img alt="B2" src="assets/tier/4.svg"> | [C++](26xxx/26534.cpp) |
 | 26535 | Chicken Pen | <img alt="B3" src="assets/tier/3.svg"> | [C++](26xxx/26535.cpp) |
-| 26536 | Cowspeak | <img alt="B2" src="assets/tier/4.svg"> | [C++](26xxx/26536.cpp) |
+| 26536 | Cowspeak | <img alt="B1" src="assets/tier/5.svg"> | [C++](26xxx/26536.cpp) |
 | 26537 | Animal Conference | <img alt="B2" src="assets/tier/4.svg"> | [C++](26xxx/26537.cpp) |
 | 26540 | Bloom | <img alt="B1" src="assets/tier/5.svg"> | [C++](26xxx/26540.cpp) |
 | 26544 | Histogram Fencing | <img alt="B1" src="assets/tier/5.svg"> | [C++](26xxx/26544.cpp) |
@@ -3712,6 +3766,8 @@
 | 26949 | Kylskåpstransport | <img alt="B2" src="assets/tier/4.svg"> | [C++](26xxx/26949.cpp) |
 | 26984 | Cow Phrasebook | <img alt="B1" src="assets/tier/5.svg"> | [C++](26xxx/26984.cpp) |
 | 26999 | Satellite Photographs | <img alt="S2" src="assets/tier/9.svg"> | [C++](26xxx/26999.cpp) |
+| 27024 | Fence Height | <img alt="S5" src="assets/tier/6.svg"> | [C++](27xxx/27024.cpp) |
+| 27025 | Morning Exercises | <img alt="B2" src="assets/tier/4.svg"> | [C++](27xxx/27025.cpp) |
 | 27035 | Bovine Ballroom Dancing | <img alt="S5" src="assets/tier/6.svg"> | [C++](27xxx/27035.cpp) |
 | 27037 | The Middle Squares | <img alt="B1" src="assets/tier/5.svg"> | [C++](27xxx/27037.cpp) |
 | 27049 | ISBN | <img alt="B1" src="assets/tier/5.svg"> | [C++](27xxx/27049.cpp) |
@@ -3722,6 +3778,8 @@
 | 27106 | Making Change | <img alt="B2" src="assets/tier/4.svg"> | [C++](27xxx/27106.cpp) |
 | 27108 | Ordered Fractions | <img alt="S4" src="assets/tier/7.svg"> | [C++](27xxx/27108.cpp) |
 | 27110 | 특식 배부 | <img alt="B4" src="assets/tier/2.svg"> | [C++](27xxx/27110.cpp) |
+| 27111 | 출입 기록 | <img alt="S5" src="assets/tier/6.svg"> | [C++](27xxx/27111.cpp) |
+| 27127 | Unique Quotients | <img alt="B1" src="assets/tier/5.svg"> | [C++](27xxx/27127.cpp) |
 | 27130 | Long Multiplication | <img alt="B3" src="assets/tier/3.svg"> | [Python](27xxx/27130.py) |
 | 27134 | Subset Sums | <img alt="G5" src="assets/tier/11.svg"> | [C++](27xxx/27134.cpp) |
 | 27159 | 노 땡스! | <img alt="B3" src="assets/tier/3.svg"> | [C++](27xxx/27159.cpp) |
@@ -3836,6 +3894,7 @@
 | 27982 | 큐브 더미 | <img alt="B2" src="assets/tier/4.svg"> | [C++](27xxx/27982.cpp) |
 | 27983 | 리본 (Easy) | <img alt="B3" src="assets/tier/3.svg"> | [C++](27xxx/27983.cpp) |
 | 28014 | 첨탑 밀어서 부수기 | <img alt="B3" src="assets/tier/3.svg"> | [C++](28xxx/28014.cpp) |
+| 28043 | Daily Trips | <img alt="B1" src="assets/tier/5.svg"> | [C++](28xxx/28043.cpp) |
 | 28061 | 레몬 따기 | <img alt="B3" src="assets/tier/3.svg"> | [C++](28xxx/28061.cpp) |
 | 28062 | 준석이의 사탕 사기 | <img alt="B2" src="assets/tier/4.svg"> | [C++](28xxx/28062.cpp) |
 | 28063 | 동전 복사 | <img alt="B1" src="assets/tier/5.svg"> | [C++](28xxx/28063.cpp) |
@@ -3871,14 +3930,15 @@
 | 28290 | 안밖? 밖안? 계단? 역계단? | <img alt="B4" src="assets/tier/2.svg"> | [C++](28xxx/28290.cpp) |
 | 28294 | 프랙탈 | <img alt="G3" src="assets/tier/13.svg"> | [C++](28xxx/28294.cpp) |
 | 28295 | 체육은 코딩과목 입니다 | <img alt="B4" src="assets/tier/2.svg"> | [C](28xxx/28295.c) |
-| 28298 | 더 흔한 타일 색칠 문제 | <img alt="S3" src="assets/tier/8.svg"> | [C++](28xxx/28298.cpp) |
+| 28298 | 더 흔한 타일 색칠 문제 | <img alt="S2" src="assets/tier/9.svg"> | [C++](28xxx/28298.cpp) |
 | 28323 | 불안정한 수열 | <img alt="B1" src="assets/tier/5.svg"> | [C++](28xxx/28323.cpp) |
+| 28324 | 스케이트 연습 | <img alt="S4" src="assets/tier/7.svg"> | [C++](28xxx/28324.cpp) |
 | 28346 | XOR Necklace | <img alt="G4" src="assets/tier/12.svg"> | [C++](28xxx/28346.cpp) |
 | 28352 | 10! | <img alt="B4" src="assets/tier/2.svg"> | [C++](28xxx/28352.cpp) |
 | 28353 | 고양이 카페 | <img alt="S3" src="assets/tier/8.svg"> | [C++](28xxx/28353.cpp) |
 | 28358 | 생일 맞추기 | <img alt="B1" src="assets/tier/5.svg"> | [C++](28xxx/28358.cpp) |
 | 28373 | Eszett | <img alt="B2" src="assets/tier/4.svg"> | [C++](28xxx/28373.cpp) |
-| 28383 | 다섯 제곱수의 합 | <img alt="P4" src="assets/tier/17.svg"> | [C++](28xxx/28383.cpp) |
+| 28383 | 다섯 제곱수의 합 | <img alt="P3" src="assets/tier/18.svg"> | [C++](28xxx/28383.cpp) |
 | 28417 | 스케이트보드 | <img alt="B3" src="assets/tier/3.svg"> | [C++](28xxx/28417.cpp) |
 | 28419 | 더하기 | <img alt="S4" src="assets/tier/7.svg"> | [C++](28xxx/28419.cpp) |
 | 28431 | 양말 짝 맞추기 | <img alt="B4" src="assets/tier/2.svg"> | [C++](28xxx/28431.cpp) |
@@ -3949,6 +4009,7 @@
 | 29319 | Начало | <img alt="B3" src="assets/tier/3.svg"> | [C++](29xxx/29319.cpp) |
 | 29332 | 보물 지도 | <img alt="B2" src="assets/tier/4.svg"> | [C++](29xxx/29332.cpp) |
 | 29340 | Отряд | <img alt="B4" src="assets/tier/2.svg"> | [C++](29xxx/29340.cpp) |
+| 29342 | Война клонов | <img alt="B2" src="assets/tier/4.svg"> | [C++](29xxx/29342.cpp) |
 | 29344 | Спичрайтер Йоды | <img alt="B2" src="assets/tier/4.svg"> | [C++](29xxx/29344.cpp) |
 | 29375 | Реагенты | <img alt="B1" src="assets/tier/5.svg"> | [C++](29xxx/29375.cpp) |
 | 29412 | Огни светофора | <img alt="B3" src="assets/tier/3.svg"> | [C++](29xxx/29412.cpp) |
@@ -3997,6 +4058,7 @@
 | 29724 | 🍎📦 '사과상자'에 들어있는 것은 무엇? 현금? | <img alt="B1" src="assets/tier/5.svg"> | [C++](29xxx/29724.cpp) |
 | 29725 | 체스 초보 브실이 | <img alt="B4" src="assets/tier/2.svg"> | [C++](29xxx/29725.cpp) |
 | 29729 | 가변 배열 | <img alt="B3" src="assets/tier/3.svg"> | [C++](29xxx/29729.cpp) |
+| 29730 | 임스의 데일리 인증 스터디 | <img alt="S3" src="assets/tier/8.svg"> | [C++](29xxx/29730.cpp) |
 | 29731 | 2033년 밈 투표 | <img alt="B4" src="assets/tier/2.svg"> | [C++](29xxx/29731.cpp) |
 | 29732 | Rick-Roll Virus | <img alt="B1" src="assets/tier/5.svg"> | [C++](29xxx/29732.cpp) |
 | 29734 | 집에선 안돼잉 | <img alt="B2" src="assets/tier/4.svg"> | [C++](29xxx/29734.cpp) |
@@ -4029,6 +4091,7 @@
 | 30017 | 치즈버거 만들기 | <img alt="B4" src="assets/tier/2.svg"> | [C++](30xxx/30017.cpp) |
 | 30018 | 타슈 | <img alt="B3" src="assets/tier/3.svg"> | [C++](30xxx/30018.cpp) |
 | 30019 | 강의실 예약 시스템 | <img alt="B2" src="assets/tier/4.svg"> | [C++](30xxx/30019.cpp) |
+| 30020 | 치즈버거 만들기 2 | <img alt="S4" src="assets/tier/7.svg"> | [C++](30xxx/30020.cpp) |
 | 30030 | 스위트콘 가격 구하기 | <img alt="B5" src="assets/tier/1.svg"> | [C++](30xxx/30030.cpp) |
 | 30031 | 지폐 세기 | <img alt="B4" src="assets/tier/2.svg"> | [C++](30xxx/30031.cpp) |
 | 30032 | 알파벳 뒤집기 | <img alt="B3" src="assets/tier/3.svg"> | [C++](30xxx/30032.cpp) |
@@ -4177,6 +4240,7 @@
 | 31243 | ВРЕМЕ | <img alt="B3" src="assets/tier/3.svg"> | [C++](31xxx/31243.cpp) |
 | 31244 | СИМЕТРИЧНИ ЧИСЛА | <img alt="B3" src="assets/tier/3.svg"> | [C++](31xxx/31244.cpp) |
 | 31245 | ТАБЕЛА | <img alt="B3" src="assets/tier/3.svg"> | [C++](31xxx/31245.cpp) |
+| 31246 | 모바일 광고 입찰 | <img alt="S5" src="assets/tier/6.svg"> | [C++](31xxx/31246.cpp) |
 | 31258 | МАКСИМАЛНА ПЕЧАЛБА | <img alt="B1" src="assets/tier/5.svg"> | [C++](31xxx/31258.cpp) |
 | 31259 | ЧЕСТОТА | <img alt="B2" src="assets/tier/4.svg"> | [C++](31xxx/31259.cpp) |
 | 31260 | ПРАВОЪГЪЛНИК | <img alt="B3" src="assets/tier/3.svg"> | [C++](31xxx/31260.cpp) |
@@ -4197,7 +4261,7 @@
 | 31403 | $A + B - C$ | <img alt="B4" src="assets/tier/2.svg"> | [C++](31xxx/31403.cpp) |
 | 31404 | 아리스, 청소합니다! (Easy) | <img alt="G2" src="assets/tier/14.svg"> | [C++](31xxx/31404.cpp) |
 | 31408 | 당직 근무표 | <img alt="B1" src="assets/tier/5.svg"> | [C++](31xxx/31408.cpp) |
-| 31416 | 가상 검증 기술 | <img alt="B1" src="assets/tier/5.svg"> | [C++](31xxx/31416.cpp) |
+| 31416 | 가상 검증 기술 | <img alt="S5" src="assets/tier/6.svg"> | [C++](31xxx/31416.cpp) |
 | 31422 | AND, OR, XOR 2 | <img alt="P5" src="assets/tier/16.svg"> | [C++](31xxx/31422.cpp) |
 | 31428 | 엘리스 트랙 매칭 | <img alt="B4" src="assets/tier/2.svg"> | [C++](31xxx/31428.cpp) |
 | 31429 | SUAPC 2023 Summer | <img alt="B5" src="assets/tier/1.svg"> | [C++](31xxx/31429.cpp) |
@@ -4219,6 +4283,7 @@
 | 31521 | Four Die Rolls | <img alt="B1" src="assets/tier/5.svg"> | [C++](31xxx/31521.cpp) |
 | 31526 | Rampant Growth | <img alt="B2" src="assets/tier/4.svg"> | [C++](31xxx/31526.cpp) |
 | 31533 | Furiosa AI 영상 처리 가속 | <img alt="B2" src="assets/tier/4.svg"> | [C++](31xxx/31533.cpp) |
+| 31534 | 현대모비스 선풍기 굴리기 | <img alt="S4" src="assets/tier/7.svg"> | [C++](31xxx/31534.cpp) |
 | 31561 | 시계탑 | <img alt="B3" src="assets/tier/3.svg"> | [C++](31xxx/31561.cpp) |
 | 31562 | 전주 듣고 노래 맞히기 | <img alt="B1" src="assets/tier/5.svg"> | [C++](31xxx/31562.cpp) |
 | 31575 | 도시와 비트코인 | <img alt="S3" src="assets/tier/8.svg"> | [C++](31xxx/31575.cpp) |
@@ -4239,7 +4304,7 @@
 | 31628 | 가지 한 두름 주세요 | <img alt="B3" src="assets/tier/3.svg"> | [C++](31xxx/31628.cpp) |
 | 31636 | 三連続 (Three Consecutive) | <img alt="B4" src="assets/tier/2.svg"> | [C++](31xxx/31636.cpp) |
 | 31637 | ダンス (Dance) | <img alt="S4" src="assets/tier/7.svg"> | [C++](31xxx/31637.cpp) |
-| 31648 | Palindrome Game | <img alt="G5" src="assets/tier/11.svg"> | [C++](31xxx/31648.cpp) |
+| 31648 | Palindrome Game | <img alt="G4" src="assets/tier/12.svg"> | [C++](31xxx/31648.cpp) |
 | 31650 | Maximizing Productivity | <img alt="S4" src="assets/tier/7.svg"> | [C++](31xxx/31650.cpp) |
 | 31654 | Adding Trouble | <img alt="B5" src="assets/tier/1.svg"> | [C++](31xxx/31654.cpp) |
 | 31655 | International Dates | <img alt="B3" src="assets/tier/3.svg"> | [C++](31xxx/31655.cpp) |
@@ -4248,6 +4313,7 @@
 | 31668 | 특별한 가지 | <img alt="B4" src="assets/tier/2.svg"> | [C++](31xxx/31668.cpp) |
 | 31669 | 특별한 학교 탈출 | <img alt="B3" src="assets/tier/3.svg"> | [C++](31xxx/31669.cpp) |
 | 31670 | 특별한 마법 공격 | <img alt="S2" src="assets/tier/9.svg"> | [C++](31xxx/31670.cpp) |
+| 31674 | 특별한 기술력 | <img alt="S2" src="assets/tier/9.svg"> | [C++](31xxx/31674.cpp) |
 | 31694 | Kto wygrał? | <img alt="B3" src="assets/tier/3.svg"> | [C++](31xxx/31694.cpp) |
 | 31712 | 핑크빈 레이드 | <img alt="B3" src="assets/tier/3.svg"> | [C++](31xxx/31712.cpp) |
 | 31718 | Double Up | <img alt="S4" src="assets/tier/7.svg"> | [C++](31xxx/31718.cpp) |
@@ -4284,6 +4350,7 @@
 | 31866 | 손가락 게임 | <img alt="B2" src="assets/tier/4.svg"> | [C++](31xxx/31866.cpp) |
 | 31867 | 홀짝홀짝 | <img alt="B4" src="assets/tier/2.svg"> | [C++](31xxx/31867.cpp) |
 | 31868 | 수박 게임 | <img alt="B3" src="assets/tier/3.svg"> | [C++](31xxx/31868.cpp) |
+| 31870 | 버블버블 | <img alt="S3" src="assets/tier/8.svg"> | [C++](31xxx/31870.cpp) |
 | 31872 | 강의실 | <img alt="S3" src="assets/tier/8.svg"> | [C++](31xxx/31872.cpp) |
 | 31880 | K512컵 개최! | <img alt="B2" src="assets/tier/4.svg"> | [C++](31xxx/31880.cpp) |
 | 31881 | K512에 바이러스 퍼뜨리기 | <img alt="B2" src="assets/tier/4.svg"> | [C++](31xxx/31881.cpp) |
@@ -4304,7 +4371,7 @@
 | 31994 | 강당 대관 | <img alt="B4" src="assets/tier/2.svg"> | [C++](31xxx/31994.cpp) |
 | 31995 | 게임말 올려놓기 | <img alt="B2" src="assets/tier/4.svg"> | [C++](31xxx/31995.cpp) |
 | 32012 | Talking About Numbers | <img alt="G5" src="assets/tier/11.svg"> | [C++](32xxx/32012.cpp) |
-| 32023 | Tightly Packed | <img alt="S5" src="assets/tier/6.svg"> | [C++](32xxx/32023.cpp) |
+| 32023 | Tightly Packed | <img alt="S4" src="assets/tier/7.svg"> | [C++](32xxx/32023.cpp) |
 | 32025 | 체육은 수학과목 입니다 | <img alt="B4" src="assets/tier/2.svg"> | [C++](32xxx/32025.cpp) |
 | 32032 | 만보기 대행 서비스 | <img alt="G1" src="assets/tier/15.svg"> | [C++](32xxx/32032.cpp) |
 | 32046 | Snacks within 300 Yen | <img alt="B3" src="assets/tier/3.svg"> | [C++](32xxx/32046.cpp) |
@@ -4312,7 +4379,7 @@
 | 32048 | Honeycomb Distance | <img alt="S2" src="assets/tier/9.svg"> | [C++](32xxx/32048.cpp) |
 | 32068 | 보물 찾기 | <img alt="B3" src="assets/tier/3.svg"> | [C++](32xxx/32068.cpp) |
 | 32076 | Easy as ABC | <img alt="S4" src="assets/tier/7.svg"> | [C++](32xxx/32076.cpp) |
-| 32088 | Triangle Construction | <img alt="G4" src="assets/tier/12.svg"> | [C++](32xxx/32088.cpp) |
+| 32088 | Triangle Construction | <img alt="G3" src="assets/tier/13.svg"> | [C++](32xxx/32088.cpp) |
 | 32089 | 部員の変遷 | <img alt="B4" src="assets/tier/2.svg"> | [C++](32xxx/32089.cpp) |
 | 32090 | シンプルなエディタ | <img alt="B2" src="assets/tier/4.svg"> | [C++](32xxx/32090.cpp) |
 | 32132 | PlayStation이 아니에요 | <img alt="B1" src="assets/tier/5.svg"> | [C++](32xxx/32132.cpp) |
@@ -4393,6 +4460,7 @@
 | 32729 | Sõnasnäki lahendamine | <img alt="B2" src="assets/tier/4.svg"> | [C++](32xxx/32729.cpp) |
 | 32748 | $f(A + B)$ | <img alt="S5" src="assets/tier/6.svg"> | [C++](32xxx/32748.cpp) |
 | 32751 | 햄버거 | <img alt="B2" src="assets/tier/4.svg"> | [C++](32xxx/32751.cpp) |
+| 32752 | 수열이에요? | <img alt="S5" src="assets/tier/6.svg"> | [C++](32xxx/32752.cpp) |
 | 32753 | 네 또 수열입니다 | <img alt="S4" src="assets/tier/7.svg"> | [C++](32xxx/32753.cpp) |
 | 32762 | 더치 페이 | <img alt="B2" src="assets/tier/4.svg"> | [C++](32xxx/32762.cpp) |
 | 32775 | 가희와 4시간의 벽 1 | <img alt="B5" src="assets/tier/1.svg"> | [C++](32xxx/32775.cpp) |
@@ -4403,8 +4471,10 @@
 | 32795 | Intuitive Elements | <img alt="B3" src="assets/tier/3.svg"> | [C++](32xxx/32795.cpp) |
 | 32800 | Bus Assignment | <img alt="B3" src="assets/tier/3.svg"> | [C++](32xxx/32800.cpp) |
 | 32801 | Generalized FizzBuzz | <img alt="B4" src="assets/tier/2.svg"> | [C++](32xxx/32801.cpp) |
+| 32802 | Mouse Pursuit | <img alt="B2" src="assets/tier/4.svg"> | [C++](32xxx/32802.cpp) |
 | 32805 | A Stack of Gold | <img alt="B2" src="assets/tier/4.svg"> | [C++](32xxx/32805.cpp) |
 | 32841 | Welcome Sign | <img alt="B2" src="assets/tier/4.svg"> | [C++](32xxx/32841.cpp) |
+| 32855 | Which One is Larger | <img alt="B2" src="assets/tier/4.svg"> | [C++](32xxx/32855.cpp) |
 | 32860 | 수수수수퍼노바 | <img alt="B2" src="assets/tier/4.svg"> | [C++](32xxx/32860.cpp) |
 | 32866 | 코인의 신 건모 | <img alt="B3" src="assets/tier/3.svg"> | [C++](32xxx/32866.cpp) |
 | 32888 | Consolidating Windows | <img alt="B3" src="assets/tier/3.svg"> | [C++](32xxx/32888.cpp) |
@@ -4455,6 +4525,7 @@
 | 33225 | Glass Reflection | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33225.cpp) |
 | 33249 | Circus Tent | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33249.cpp) |
 | 33253 | Game Night | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33253.cpp) |
+| 33257 | 상현이의 물리학및실험1 실험 대작전 | <img alt="S4" src="assets/tier/7.svg"> | [C++](33xxx/33257.cpp) |
 | 33277 | 국방시계 | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33277.cpp) |
 | 33358 | I Flipped The Calendar... | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33358.cpp) |
 | 33488 | 아름다운 수열 | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33488.cpp) |
@@ -4494,3 +4565,35 @@
 | 33753 | 주차 요금 정산하기 | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33753.cpp) |
 | 33754 | 격자 막기 | <img alt="S4" src="assets/tier/7.svg"> | [C++](33xxx/33754.cpp) |
 | 33756 | 88888 | <img alt="S3" src="assets/tier/8.svg"> | [C++](33xxx/33756.cpp) |
+| 33772 | Wow | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33772.cpp) |
+| 33779 | Back and Forth | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33779.cpp) |
+| 33781 | Diagnosis | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33781.cpp) |
+| 33810 | SciComLove (2025) | <img alt="B4" src="assets/tier/2.svg"> | [C++](33xxx/33810.cpp) |
+| 33845 | PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네 | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33845.cpp) |
+| 33846 | 삽입 정렬을 해볼까 | <img alt="S5" src="assets/tier/6.svg"> | [C++](33xxx/33846.cpp) |
+| 33868 | 스티커 나눠주기 | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33868.cpp) |
+| 33869 | 일기 암호화하기 | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33869.cpp) |
+| 33883 | Acentuación del idioma español | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33883.cpp) |
+| 33884 | 클리크 조절 | <img alt="B1" src="assets/tier/5.svg"> | [C++](33xxx/33884.cpp) |
+| 33896 | 아깝게 놓친 COSS 장학금 | <img alt="S5" src="assets/tier/6.svg"> | [C++](33xxx/33896.cpp) |
+| 33909 | 알파벳 블록 | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33909.cpp) |
+| 33910 | 합의 최소 | <img alt="S5" src="assets/tier/6.svg"> | [C++](33xxx/33910.cpp) |
+| 33937 | 태권도와 복싱을 합한 운동 | <img alt="B1" src="assets/tier/5.svg"> | [C++](33xxx/33937.cpp) |
+| 33938 | 간단한 동전 문제 (Easy) | <img alt="S5" src="assets/tier/6.svg"> | [C++](33xxx/33938.cpp) |
+| 33943 | 간단한 동전 문제 (Hard) | <img alt="G4" src="assets/tier/12.svg"> | [C++](33xxx/33943.cpp) |
+| 33950 | 어게인 포닉스 | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33950.cpp) |
+| 33963 | 돈복사 | <img alt="B2" src="assets/tier/4.svg"> | [C++](33xxx/33963.cpp) |
+| 33964 | 레퓨닛의 덧셈 | <img alt="B4" src="assets/tier/2.svg"> | [C++](33xxx/33964.cpp) |
+| 33965 | 주사위 피라미드 | <img alt="S5" src="assets/tier/6.svg"> | [C++](33xxx/33965.cpp) |
+| 33985 | 그거 왜 말해! | <img alt="S4" src="assets/tier/7.svg"> | [C++](33xxx/33985.cpp) |
+| 33990 | 3대 512 | <img alt="B3" src="assets/tier/3.svg"> | [C++](33xxx/33990.cpp) |
+| 33991 | 전철 통학 | <img alt="S5" src="assets/tier/6.svg"> | [C++](33xxx/33991.cpp) |
+| 33992 | 사막 탐험 | <img alt="S3" src="assets/tier/8.svg"> | [C++](33xxx/33992.cpp) |
+| 33993 | 지정좌석제 | <img alt="G5" src="assets/tier/11.svg"> | [C++](33xxx/33993.cpp) |
+| 33994 | Magical Trees | <img alt="G3" src="assets/tier/13.svg"> | [C++](33xxx/33994.cpp) |
+| 33995 | LCS Making | <img alt="G2" src="assets/tier/14.svg"> | [C++](33xxx/33995.cpp) |
+| 33996 | 점진적인 수열 | <img alt="P4" src="assets/tier/17.svg"> | [C++](33xxx/33996.cpp) |
+| 34009 | Bob부 멍충이 | <img alt="B2" src="assets/tier/4.svg"> | [C++](34xxx/34009.cpp) |
+| 34020 | [M] Meaning of an Average | <img alt="S3" src="assets/tier/8.svg"> | [C++](34xxx/34020.cpp) |
+| 34021 | [T] 스코어보드가 121분 남은 시점에서 프리즈되었습니다. | <img alt="B3" src="assets/tier/3.svg"> | [C++](34xxx/34021.cpp) |
+| 34023 | 창하의 뉴스와미디어 이야기 | <img alt="S4" src="assets/tier/7.svg"> | [C++](34xxx/34023.cpp) |

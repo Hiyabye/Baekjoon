@@ -78,7 +78,6 @@ def get_header(handle):
   header = '<div align="center">\n\n'
   header += "# Baekjoon\n\n"
   header += "**백준 문제 풀이 저장소**\n\n"
-  header += "[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHiyabye%2FBaekjoon&count_bg=%2333BBBB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)\n"
   header += "![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Hiyabye/Baekjoon?style=flat-square)\n"
   header += "![GitHub last commit](https://img.shields.io/github/last-commit/Hiyabye/Baekjoon?style=flat-square)\n\n"
   header += "[![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)\n"
