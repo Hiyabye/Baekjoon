@@ -21,13 +21,6 @@ def get_problems(handle, page):
   response.raise_for_status()
   return response.json()
 
-# 문제 제목의 특수문자를 처리하여 반환
-def get_problem_title(title):
-  title = title.replace("|", "\\|") # 17203번: ∑|ΔEasyMAX|
-  title = title.replace("\\(", "$") # 10386번: LaTeX로 구성된 제목
-  title = title.replace("\\)", "$") # 10386번: LaTeX로 구성된 제목
-  return title
-
 # 문제 난이도를 입력받아 문제 티어를 반환
 def get_problem_tier(level):
   tier = {
@@ -92,15 +85,14 @@ def get_header(handle):
 
 # README.md 테이블을 반환
 def get_table(problems):
-  table = "| 번호 | 제목 | 레벨 | 코드 |\n"
-  table += "|:---:|:---:|:---:|:---:|\n"
+  table = "| 번호 | 레벨 | 코드 |\n"
+  table += "|:---:|:---:|:---:|\n"
 
   print("Generating table...")
-  for (id, title, level) in tqdm(problems):
-    title = get_problem_title(title)
+  for (id, level) in tqdm(problems):
     tier = get_problem_tier(level)
     path = get_solution_path(id)
-    table += f"| {id} | {title} | {tier} | {path}|\n"
+    table += f"| {id} | {tier} | {path}|\n"
   return table
 
 # 메인 함수
@@ -122,11 +114,11 @@ if __name__ == "__main__":
         attempts += 1
         print(f"Failed to get problems from page {page}, attempt {attempts}")
         sleep(1)
-      else:
-        print(f"Failed to get problems from page {page} after 3 attempts")
-        continue
+    if attempts == 3:
+      print(f"Failed to get problems from page {page} after 3 attempts, skipping")
+      continue
     for problem in solved["items"]:
-      problems.append((int(problem["problemId"]), problem["titleKo"], int(problem["level"])))
+      problems.append((int(problem["problemId"]), int(problem["level"])))
 
   # README.md 파일 업데이트
   with open("README.md.tmp", "w", encoding="utf-8") as f:
