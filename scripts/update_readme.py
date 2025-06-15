@@ -80,7 +80,6 @@ def get_header(handle):
   header += " (KST)\n\n"
   header += "목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.\n\n"
   header += "코드를 그대로 복붙하는 것은 자제 부탁드립니다.\n\n"
-  header += "</div>\n\n"
   return header
 
 # README.md 테이블을 반환
@@ -94,6 +93,10 @@ def get_table(problems):
     path = get_solution_path(id)
     table += f"| {id} | {tier} | {path}|\n"
   return table
+
+def get_footer():
+  footer = "\n</div>"
+  return footer
 
 # 메인 함수
 if __name__ == "__main__":
@@ -122,7 +125,7 @@ if __name__ == "__main__":
 
   # README.md 파일 업데이트
   with open("README.md.tmp", "w", encoding="utf-8") as f:
-    f.write(get_header("hiyabye") + get_table(problems))
+    f.write(get_header("hiyabye") + get_table(problems) + get_footer())
 
   # README.md.tmp과 README.md을 비교하여 변경사항이 있으면 업데이트
   # 이때 첫 20줄은 헤더이므로 비교에서 제외

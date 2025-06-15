@@ -10,13 +10,11 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=hiyabye&theme=warm)
 
-마지막으로 업데이트: 2025-06-15 14:31:23 (KST)
+마지막으로 업데이트: 2025-06-15 14:35:41 (KST)
 
 목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.
 
 코드를 그대로 복붙하는 것은 자제 부탁드립니다.
-
-</div>
 
 | 번호 | 레벨 | 코드 |
 |:---:|:---:|:---:|
@@ -4597,3 +4595,5 @@
 | 34020 | <img alt="S3" src="assets/8.svg" height="24"> | [C++](34xxx/34020.cpp) |
 | 34021 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](34xxx/34021.cpp) |
 | 34023 | <img alt="S4" src="assets/7.svg" height="24"> | [C++](34xxx/34023.cpp) |
+
+</div>
