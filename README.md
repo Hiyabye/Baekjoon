@@ -10,7 +10,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/hiyabye)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=hiyabye&theme=warm)
 
-마지막으로 업데이트: 2025-12-03 17:54:12 (KST)
+마지막으로 업데이트: 2025-12-27 18:10:25 (KST)
 
 목록이 너무 길어서 `Ctrl+F` 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -752,7 +752,7 @@
 | 4082 | <img alt="G4" src="assets/12.svg" height="24"> | [C++](04xxx/04082.cpp) |
 | 4084 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](04xxx/04084.cpp) |
 | 4095 | <img alt="G4" src="assets/12.svg" height="24"> | [C++](04xxx/04095.cpp) |
-| 4096 | <img alt="S4" src="assets/7.svg" height="24"> | [C++](04xxx/04096.cpp) |
+| 4096 | <img alt="S3" src="assets/8.svg" height="24"> | [C++](04xxx/04096.cpp) |
 | 4097 | <img alt="S2" src="assets/9.svg" height="24"> | [C++](04xxx/04097.cpp) |
 | 4101 | <img alt="B5" src="assets/1.svg" height="24"> | [C](04xxx/04101.c) |
 | 4107 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](04xxx/04107.cpp) |
@@ -1119,7 +1119,7 @@
 | 6463 | <img alt="S5" src="assets/6.svg" height="24"> | [C++](06xxx/06463.cpp) |
 | 6469 | <img alt="B1" src="assets/5.svg" height="24"> | [C++](06xxx/06469.cpp) |
 | 6474 | <img alt="S5" src="assets/6.svg" height="24"> | [C++](06xxx/06474.cpp) |
-| 6479 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](06xxx/06479.cpp) [Python](06xxx/06479.py) |
+| 6479 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](06xxx/06479.cpp) |
 | 6491 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](06xxx/06491.cpp) |
 | 6500 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](06xxx/06500.cpp) |
 | 6502 | <img alt="B2" src="assets/4.svg" height="24"> | [C](06xxx/06502.c) |
@@ -1217,6 +1217,8 @@
 | 7173 | <img alt="B1" src="assets/5.svg" height="24"> | [C++](07xxx/07173.cpp) |
 | 7181 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](07xxx/07181.cpp) |
 | 7213 | <img alt="S5" src="assets/6.svg" height="24"> | [C++](07xxx/07213.cpp) |
+| 7214 | <img alt="B1" src="assets/5.svg" height="24"> | [C++](07xxx/07214.cpp) |
+| 7215 | <img alt="B1" src="assets/5.svg" height="24"> | [C++](07xxx/07215.cpp) |
 | 7218 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](07xxx/07218.cpp) |
 | 7239 | <img alt="B1" src="assets/5.svg" height="24"> | [C++](07xxx/07239.cpp) |
 | 7240 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](07xxx/07240.cpp) |
@@ -1413,7 +1415,7 @@
 | 9272 | <img alt="S1" src="assets/10.svg" height="24"> | [C++](09xxx/09272.cpp) |
 | 9285 | <img alt="B1" src="assets/5.svg" height="24"> | [Text](09xxx/09285.txt) |
 | 9286 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](09xxx/09286.cpp) |
-| 9287 | <img alt="B1" src="assets/5.svg" height="24"> | [C++](09xxx/09287.cpp) |
+| 9287 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](09xxx/09287.cpp) |
 | 9288 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](09xxx/09288.cpp) |
 | 9289 | <img alt="B1" src="assets/5.svg" height="24"> | [C++](09xxx/09289.cpp) |
 | 9290 | <img alt="S4" src="assets/7.svg" height="24"> | [C++](09xxx/09290.cpp) |
@@ -1642,7 +1644,7 @@
 | 10430 | <img alt="B5" src="assets/1.svg" height="24"> | [C](10xxx/10430.c) [C++](10xxx/10430.cpp) |
 | 10431 | <img alt="S5" src="assets/6.svg" height="24"> | [C++](10xxx/10431.cpp) |
 | 10432 | <img alt="S4" src="assets/7.svg" height="24"> | [C++](10xxx/10432.cpp) |
-| 10434 | <img alt="S2" src="assets/9.svg" height="24"> | [C++](10xxx/10434.cpp) |
+| 10434 | <img alt="S3" src="assets/8.svg" height="24"> | [C++](10xxx/10434.cpp) |
 | 10448 | <img alt="B1" src="assets/5.svg" height="24"> | [C++](10xxx/10448.cpp) |
 | 10451 | <img alt="S3" src="assets/8.svg" height="24"> | [C++](10xxx/10451.cpp) |
 | 10471 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](10xxx/10471.cpp) |
@@ -1770,7 +1772,7 @@
 | 10990 | <img alt="B3" src="assets/3.svg" height="24"> | [C](10xxx/10990.c) |
 | 10991 | <img alt="B3" src="assets/3.svg" height="24"> | [C](10xxx/10991.c) |
 | 10992 | <img alt="B3" src="assets/3.svg" height="24"> | [C](10xxx/10992.c) |
-| 10993 | <img alt="G4" src="assets/12.svg" height="24"> | [C](10xxx/10993.c) |
+| 10993 | <img alt="G3" src="assets/13.svg" height="24"> | [C](10xxx/10993.c) |
 | 10994 | <img alt="S4" src="assets/7.svg" height="24"> | [C](10xxx/10994.c) |
 | 10995 | <img alt="B3" src="assets/3.svg" height="24"> | [C](10xxx/10995.c) |
 | 10996 | <img alt="B2" src="assets/4.svg" height="24"> | [C](10xxx/10996.c) |
@@ -2160,7 +2162,7 @@
 | 13234 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](13xxx/13234.cpp) |
 | 13235 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](13xxx/13235.cpp) |
 | 13236 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](13xxx/13236.cpp) |
-| 13238 | <img alt="S5" src="assets/6.svg" height="24"> | [C++](13xxx/13238.cpp) |
+| 13238 | <img alt="B1" src="assets/5.svg" height="24"> | [C++](13xxx/13238.cpp) |
 | 13239 | <img alt="S1" src="assets/10.svg" height="24"> | [C++](13xxx/13239.cpp) |
 | 13240 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](13xxx/13240.cpp) |
 | 13241 | <img alt="S5" src="assets/6.svg" height="24"> | [C](13xxx/13241.c) |
@@ -2355,7 +2357,7 @@
 | 14545 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](14xxx/14545.cpp) |
 | 14547 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](14xxx/14547.cpp) |
 | 14551 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](14xxx/14551.cpp) |
-| 14561 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](14xxx/14561.cpp) |
+| 14561 | <img alt="B1" src="assets/5.svg" height="24"> | [C++](14xxx/14561.cpp) |
 | 14563 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](14xxx/14563.cpp) |
 | 14564 | <img alt="B1" src="assets/5.svg" height="24"> | [C++](14xxx/14564.cpp) |
 | 14566 | <img alt="B1" src="assets/5.svg" height="24"> | [C++](14xxx/14566.cpp) |
@@ -2741,7 +2743,7 @@
 | 16480 | <img alt="P4" src="assets/17.svg" height="24"> | [C++](16xxx/16480.cpp) |
 | 16481 | <img alt="P4" src="assets/17.svg" height="24"> | [C++](16xxx/16481.cpp) |
 | 16483 | <img alt="B3" src="assets/3.svg" height="24"> | [C](16xxx/16483.c) |
-| 16484 | <img alt="G2" src="assets/14.svg" height="24"> | [C++](16xxx/16484.cpp) |
+| 16484 | <img alt="G3" src="assets/13.svg" height="24"> | [C++](16xxx/16484.cpp) |
 | 16485 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](16xxx/16485.cpp) |
 | 16486 | <img alt="B4" src="assets/2.svg" height="24"> | [C++](16xxx/16486.cpp) |
 | 16488 | <img alt="S4" src="assets/7.svg" height="24"> | [C++](16xxx/16488.cpp) |
@@ -2794,7 +2796,7 @@
 | 16847 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](16xxx/16847.cpp) |
 | 16861 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](16xxx/16861.cpp) |
 | 16864 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](16xxx/16864.cpp) |
-| 16894 | <img alt="G3" src="assets/13.svg" height="24"> | [C++](16xxx/16894.cpp) |
+| 16894 | <img alt="G4" src="assets/12.svg" height="24"> | [C++](16xxx/16894.cpp) |
 | 16895 | <img alt="P4" src="assets/17.svg" height="24"> | [C++](16xxx/16895.cpp) |
 | 16916 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](16xxx/16916.cpp) |
 | 16917 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](16xxx/16917.cpp) |
@@ -3640,7 +3642,7 @@
 | 24839 | <img alt="S4" src="assets/7.svg" height="24"> | [C++](24xxx/24839.cpp) |
 | 24855 | <img alt="B1" src="assets/5.svg" height="24"> | [C++](24xxx/24855.cpp) |
 | 24860 | <img alt="B4" src="assets/2.svg" height="24"> | [C++](24xxx/24860.cpp) |
-| 24864 | <img alt="P1" src="assets/20.svg" height="24"> | [C++](24xxx/24864.cpp) |
+| 24864 | <img alt="D5" src="assets/21.svg" height="24"> | [C++](24xxx/24864.cpp) |
 | 24867 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](24xxx/24867.cpp) |
 | 24871 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](24xxx/24871.cpp) |
 | 24883 | <img alt="B5" src="assets/1.svg" height="24"> | [C++](24xxx/24883.cpp) |
@@ -4342,7 +4344,7 @@
 | 30402 | <img alt="B4" src="assets/2.svg" height="24"> | [C++](30xxx/30402.cpp) |
 | 30403 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](30xxx/30403.cpp) |
 | 30404 | <img alt="S4" src="assets/7.svg" height="24"> | [C++](30xxx/30404.cpp) |
-| 30406 | <img alt="G5" src="assets/11.svg" height="24"> | [C++](30xxx/30406.cpp) |
+| 30406 | <img alt="S1" src="assets/10.svg" height="24"> | [C++](30xxx/30406.cpp) |
 | 30413 | <img alt="G3" src="assets/13.svg" height="24"> | [C++](30xxx/30413.cpp) |
 | 30434 | <img alt="B1" src="assets/5.svg" height="24"> | [C++](30xxx/30434.cpp) |
 | 30445 | <img alt="S5" src="assets/6.svg" height="24"> | [C++](30xxx/30445.cpp) |
@@ -4443,7 +4445,7 @@
 | 31215 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](31xxx/31215.cpp) |
 | 31216 | <img alt="S5" src="assets/6.svg" height="24"> | [C++](31xxx/31216.cpp) |
 | 31217 | <img alt="S3" src="assets/8.svg" height="24"> | [C++](31xxx/31217.cpp) |
-| 31218 | <img alt="S2" src="assets/9.svg" height="24"> | [C++](31xxx/31218.cpp) |
+| 31218 | <img alt="S3" src="assets/8.svg" height="24"> | [C++](31xxx/31218.cpp) |
 | 31229 | <img alt="S5" src="assets/6.svg" height="24"> | [C++](31xxx/31229.cpp) |
 | 31243 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](31xxx/31243.cpp) |
 | 31244 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](31xxx/31244.cpp) |
@@ -4633,7 +4635,7 @@
 | 32315 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](32xxx/32315.cpp) |
 | 32326 | <img alt="B5" src="assets/1.svg" height="24"> | [C++](32xxx/32326.cpp) |
 | 32327 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](32xxx/32327.cpp) |
-| 32335 | <img alt="S3" src="assets/8.svg" height="24"> | [C++](32xxx/32335.cpp) |
+| 32335 | <img alt="S2" src="assets/9.svg" height="24"> | [C++](32xxx/32335.cpp) |
 | 32342 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](32xxx/32342.cpp) |
 | 32343 | <img alt="B1" src="assets/5.svg" height="24"> | [C++](32xxx/32343.cpp) |
 | 32344 | <img alt="S5" src="assets/6.svg" height="24"> | [C++](32xxx/32344.cpp) |
@@ -4835,7 +4837,7 @@
 | 33925 | <img alt="S3" src="assets/8.svg" height="24"> | [C++](33xxx/33925.cpp) |
 | 33927 | <img alt="S2" src="assets/9.svg" height="24"> | [C++](33xxx/33927.cpp) |
 | 33937 | <img alt="B1" src="assets/5.svg" height="24"> | [C++](33xxx/33937.cpp) |
-| 33938 | <img alt="S5" src="assets/6.svg" height="24"> | [C++](33xxx/33938.cpp) |
+| 33938 | <img alt="S4" src="assets/7.svg" height="24"> | [C++](33xxx/33938.cpp) |
 | 33943 | <img alt="G4" src="assets/12.svg" height="24"> | [C++](33xxx/33943.cpp) |
 | 33950 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](33xxx/33950.cpp) |
 | 33963 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](33xxx/33963.cpp) |
@@ -4980,5 +4982,41 @@
 | 34666 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](34xxx/34666.cpp) |
 | 34667 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](34xxx/34667.cpp) |
 | 34668 | <img alt="S5" src="assets/6.svg" height="24"> | [C++](34xxx/34668.cpp) |
+| 34687 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](34xxx/34687.cpp) |
+| 34691 | <img alt="B5" src="assets/1.svg" height="24"> | [C++](34xxx/34691.cpp) |
+| 34703 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](34xxx/34703.cpp) |
+| 34721 | <img alt="B5" src="assets/1.svg" height="24"> | [C++](34xxx/34721.cpp) |
+| 34722 | <img alt="B4" src="assets/2.svg" height="24"> | [C++](34xxx/34722.cpp) |
+| 34723 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](34xxx/34723.cpp) |
+| 34749 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](34xxx/34749.cpp) |
+| 34750 | <img alt="B4" src="assets/2.svg" height="24"> | [C++](34xxx/34750.cpp) |
+| 34758 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](34xxx/34758.cpp) |
+| 34759 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](34xxx/34759.cpp) |
+| 34760 | <img alt="B1" src="assets/5.svg" height="24"> | [C++](34xxx/34760.cpp) |
+| 34778 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](34xxx/34778.cpp) |
+| 34795 | <img alt="B4" src="assets/2.svg" height="24"> | [C++](34xxx/34795.cpp) |
+| 34797 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](34xxx/34797.cpp) |
+| 34798 | <img alt="B4" src="assets/2.svg" height="24"> | [C++](34xxx/34798.cpp) |
+| 34802 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](34xxx/34802.cpp) |
+| 34813 | <img alt="B5" src="assets/1.svg" height="24"> | [C++](34xxx/34813.cpp) |
+| 34814 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](34xxx/34814.cpp) |
+| 34815 | <img alt="S3" src="assets/8.svg" height="24"> | [C++](34xxx/34815.cpp) |
+| 34823 | <img alt="B4" src="assets/2.svg" height="24"> | [C++](34xxx/34823.cpp) |
+| 34824 | <img alt="B4" src="assets/2.svg" height="24"> | [C++](34xxx/34824.cpp) |
+| 34845 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](34xxx/34845.cpp) |
+| 34848 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](34xxx/34848.cpp) |
+| 34849 | <img alt="B5" src="assets/1.svg" height="24"> | [C++](34xxx/34849.cpp) |
+| 34850 | <img alt="B1" src="assets/5.svg" height="24"> | [C++](34xxx/34850.cpp) |
+| 34872 | <img alt="B1" src="assets/5.svg" height="24"> | [C++](34xxx/34872.cpp) |
+| 34873 | <img alt="B2" src="assets/4.svg" height="24"> | [C++](34xxx/34873.cpp) |
+| 34891 | <img alt="B4" src="assets/2.svg" height="24"> | [C++](34xxx/34891.cpp) |
+| 34917 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](34xxx/34917.cpp) |
+| 34921 | <img alt="B5" src="assets/1.svg" height="24"> | [C++](34xxx/34921.cpp) |
+| 34922 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](34xxx/34922.cpp) |
+| 34934 | <img alt="B4" src="assets/2.svg" height="24"> | [C++](34xxx/34934.cpp) |
+| 34935 | <img alt="B4" src="assets/2.svg" height="24"> | [C++](34xxx/34935.cpp) |
+| 34945 | <img alt="B5" src="assets/1.svg" height="24"> | [C++](34xxx/34945.cpp) |
+| 34946 | <img alt="B4" src="assets/2.svg" height="24"> | [C++](34xxx/34946.cpp) |
+| 34998 | <img alt="B3" src="assets/3.svg" height="24"> | [C++](34xxx/34998.cpp) |
 
 </div>
