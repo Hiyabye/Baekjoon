@@ -1,0 +1,8 @@
+# Artistic Style options for this repo's C/C++ solutions
+style=attach
+indent=spaces=2
+indent-switches
+keep-one-line-statements
+keep-one-line-blocks
+# Don't leave .orig backup files next to formatted sources
+suffix=none
