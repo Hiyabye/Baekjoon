@@ -15,7 +15,7 @@ void solve(void) {
     }
     n--;
   }
-  
+
   cout << v[0];
   for (int i=1; i<n; i++) cout << "," << v[i];
 }

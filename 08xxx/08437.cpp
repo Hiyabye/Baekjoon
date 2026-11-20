@@ -16,7 +16,7 @@ using namespace std;
 // - https://github.com/indy256/codelibrary/blob/main/cpp/numeric/bigint.cpp
 // - https://github.com/ngthanhtrung23/ACM_Notebook_new/blob/master/Math/bigint.h
 // - https://github.com/koosaga/olympiad/blob/master/Library/codes/math/bigint.cpp
-// 
+//
 // Tested:
 // - https://judge.yosupo.jp/problem/addition_of_big_integers
 // - https://judge.yosupo.jp/problem/multiplication_of_big_integers

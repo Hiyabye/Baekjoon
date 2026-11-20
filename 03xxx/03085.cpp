@@ -7,7 +7,7 @@ using namespace std;
 int check(int n, int x, int y, vector<vector<char> > &a) {
   int row = 0, col = 0;
   char cur = a[x][y];
-  
+
   for (int i=x; i<n; i++) {
     if (a[i][y] == cur) row++;
     else break;

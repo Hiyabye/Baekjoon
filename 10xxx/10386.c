@@ -18,29 +18,29 @@ long long gcd(long long a, long long b) {
 fraction add(fraction f1, fraction f2) {
   fraction f = {f1.nu*f2.de+f2.nu*f1.de, f1.de*f2.de};
   long long g = gcd(ab(f.nu), ab(f.de));
-  return (fraction){f.nu/g, f.de/g};
+  return (fraction) {f.nu/g, f.de/g};
 }
 
 fraction subtract(fraction f1, fraction f2) {
   fraction f = {f1.nu*f2.de-f2.nu*f1.de, f1.de*f2.de};
   long long g = gcd(ab(f.nu), ab(f.de));
-  return (fraction){f.nu/g, f.de/g};
+  return (fraction) {f.nu/g, f.de/g};
 }
 
 fraction multiply(fraction f1, fraction f2) {
   fraction f = {f1.nu*f2.nu, f1.de*f2.de};
   long long g = gcd(ab(f.nu), ab(f.de));
-  return (fraction){f.nu/g, f.de/g};
+  return (fraction) {f.nu/g, f.de/g};
 }
 
 fraction divide(fraction f1, fraction f2) {
   fraction f = {f1.nu*f2.de, f1.de*f2.nu};
   long long g = gcd(ab(f.nu), ab(f.de));
-  return (fraction){f.nu/g, f.de/g};
+  return (fraction) {f.nu/g, f.de/g};
 }
 
 fraction reverse(fraction f) {
-  return (fraction){f.de, f.nu};
+  return (fraction) {f.de, f.nu};
 }
 
 void print(fraction f) {
@@ -75,17 +75,17 @@ void solve(int n1, int n2) {
   fraction f1, f2;
 
   for (int i=0; i<n1; i++) scanf("%lld", &r1[i]);
-  f1 = (fraction){r1[n1-1], 1};
+  f1 = (fraction) {r1[n1-1], 1};
   for (int i=n1-2; i>=0; i--) {
     f1 = reverse(f1);
-    f1 = add(f1, (fraction){r1[i], 1});
+    f1 = add(f1, (fraction) {r1[i], 1});
   }
 
   for (int i=0; i<n2; i++) scanf("%lld", &r2[i]);
-  f2 = (fraction){r2[n2-1], 1};
+  f2 = (fraction) {r2[n2-1], 1};
   for (int i=n2-2; i>=0; i--) {
     f2 = reverse(f2);
-    f2 = add(f2, (fraction){r2[i], 1});
+    f2 = add(f2, (fraction) {r2[i], 1});
   }
 
   print(add(f1, f2));

@@ -23,7 +23,7 @@ void solve(void) {
     if (a[lo]+a[hi] < 0) lo++;
     else hi--;
   }
-  
+
   cout << ans.first << " " << ans.second;
 }
 

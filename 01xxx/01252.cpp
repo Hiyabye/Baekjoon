@@ -10,7 +10,7 @@ void solve(void) {
 
   while (a.length() > 1 && a.back() == '0') a.pop_back();
   while (b.length() > 1 && b.back() == '0') b.pop_back();
-  
+
   string c = "";
   int carry = 0;
   for (int i=0; i<max(a.length(), b.length()); i++) {

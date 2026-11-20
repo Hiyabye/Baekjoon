@@ -8,7 +8,7 @@ void solve(void) {
     cin >> k;
     sum += k;
   }
-  
+
   cout << sum << "\n";
 }
 

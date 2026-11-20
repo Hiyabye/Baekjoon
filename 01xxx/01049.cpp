@@ -20,7 +20,7 @@ void solve(void) {
     if (one * n <= six) ans += one * n;
     else ans += six;
   }
-  
+
   cout << ans << "\n";
 }
 

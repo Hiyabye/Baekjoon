@@ -8,7 +8,7 @@ void solve(void) {
   cin >> s;
   list<char> l;
   auto cur = l.end();
-  
+
   for (auto c : s) {
     if (c == '<') {
       if (cur != l.begin()) cur--;

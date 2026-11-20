@@ -3,7 +3,7 @@ using namespace std;
 
 void solve(void) {
   int a, b, c, d; cin >> a >> b >> c >> d;
-  
+
   cout << (a*b > c*d ? "M" : (a*b < c*d ? "P" : "E"));
 }
 

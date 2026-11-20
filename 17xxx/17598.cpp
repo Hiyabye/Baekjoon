@@ -4,7 +4,7 @@ using namespace std;
 
 void solve(void) {
   int ans = 0;
-  
+
   for (int i=0; i<9; i++) {
     string s; cin >> s;
     ans += (s == "Lion") ? 1 : -1;

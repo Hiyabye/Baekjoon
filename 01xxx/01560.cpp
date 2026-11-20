@@ -19,7 +19,7 @@ string add(const string &a, const string &b) {
     carry = sum / 10;
     c += i2c(sum % 10);
   }
-  
+
   reverse(c.begin(), c.end());
   return c;
 }

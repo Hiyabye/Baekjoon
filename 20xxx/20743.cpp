@@ -17,7 +17,7 @@ void solve(void) {
   for (const auto &[k, v] : mp) {
     if (v >= 2) ans = max(ans, k);
   }
-  
+
   if (~ans) cout << ans << "\n";
   else cout << "none\n";
 }

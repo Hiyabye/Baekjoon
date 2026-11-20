@@ -13,7 +13,7 @@ int main(void) {
     cnt[n % 10]++;
     n /= 10;
   }
-  
+
   for (int i=0; i<10; i++) {
     if (i == 6 || i == 9) continue;
     max = cnt[i] > max ? cnt[i] : max;

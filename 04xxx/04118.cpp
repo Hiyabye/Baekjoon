@@ -19,7 +19,7 @@ bool solve(void) {
     s.insert(x);
   }
   cout << (check(s) ? "Yes" : "No") << "\n";
-  
+
   return true;
 }
 

@@ -8,7 +8,7 @@ void solve(void) {
 
   vector<vector<long long>> dp(n+2, vector<long long>(3, 0));
   dp[2][1] = dp[2][2] = 1;
-  
+
   for (int i=3; i<=n; i++) {
     dp[i][0] = (dp[i-1][1] + dp[i-1][2]) % MOD;
     dp[i][1] = (dp[i-1][2] + dp[i-1][0]) % MOD;

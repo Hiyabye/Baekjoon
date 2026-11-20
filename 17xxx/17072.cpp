@@ -3,7 +3,7 @@ using namespace std;
 
 char calc(int r, int g, int b) {
   int i = 2126 * r + 7152 * g + 722 * b;
-  
+
   if (i < 510000) return '#';
   if (i < 1020000) return 'o';
   if (i < 1530000) return '+';

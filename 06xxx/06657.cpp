@@ -146,7 +146,7 @@ bool solve(void) {
     cout << t[i].p << "\n";
   }
   cout << "\n";
-  
+
   return true;
 }
 

@@ -5,7 +5,7 @@ using namespace std;
 
 void solve(void) {
   int n; cin >> n;
-  
+
   vector<int> ans(13, 0);
   while (n--) {
     int a; string b; cin >> a >> b;

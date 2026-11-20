@@ -19,7 +19,7 @@ void solve(void) {
   int y = stoi(s.substr(0, 4));
   int m = stoi(s.substr(5, 2));
   int d = stoi(s.substr(8, 2));
-  
+
   while (--n) next(y, m, d);
   cout << y << "-" << (m < 10 ? "0" : "") << m << "-" << (d < 10 ? "0" : "") << d;
 }

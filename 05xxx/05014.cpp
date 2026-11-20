@@ -8,7 +8,7 @@ void solve(void) {
 
   vector<bool> visited(f+1, false);
   queue<pair<int, int>> q; q.push({s, 0});
-  
+
   while (!q.empty()) {
     auto [cur, cnt] = q.front(); q.pop();
     if (cur == g) { cout << cnt; return; }

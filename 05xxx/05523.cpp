@@ -10,7 +10,7 @@ void solve(void) {
     if (a > b) x++;
     if (a < b) y++;
   }
-  
+
   cout << x << " " << y;
 }
 

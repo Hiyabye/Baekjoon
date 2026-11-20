@@ -11,7 +11,7 @@ int main(void) {
     scanf("%d", &n);
     t += n;
   }
-  
+
   if (s >= t) printf("%d", s);
   else printf("%d", t);
   return 0;

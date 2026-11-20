@@ -8,7 +8,7 @@ bool solve(void) {
 
   int a = pow(b, 1/n);
   if (abs(pow(a, n) - b) > abs(pow(a+1, n) - b)) a++;
-  
+
   cout << a << "\n";
   return true;
 }

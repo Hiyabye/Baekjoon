@@ -4,7 +4,7 @@ using namespace std;
 
 void solve(void) {
   string s; getline(cin, s);
-  
+
   if (s.find("(") == string::npos) {
     cout << s << "\n-";
   } else {

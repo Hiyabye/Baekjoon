@@ -17,7 +17,7 @@ long long five(long long n) {
 void solve(void) {
   long long n, m;
   cin >> n >> m;
-  
+
   cout << min(two(n)-two(m)-two(n-m), five(n)-five(m)-five(n-m));
 }
 

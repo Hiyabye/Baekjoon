@@ -74,7 +74,7 @@ int main(void) {
           location++;
         }
         break;
-      
+
       default:
         count++;
         location++;

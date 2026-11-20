@@ -17,9 +17,9 @@ inline double dist(const Point& a, const Point& b) {
 
 inline Point circle(const Point& a, const Point& b, const Point& c) {
   return Point(
-    ((b.x*b.x-c.x*c.x+b.y*b.y-c.y*c.y)*(a.y-b.y)-(b.x*b.x-a.x*a.x+b.y*b.y-a.y*a.y)*(c.y-b.y)) / (2*(a.x-b.x)*(c.y-b.y)-2*(c.x-b.x)*(a.y-b.y)),
-    ((b.y*b.y-c.y*c.y+b.x*b.x-c.x*c.x)*(a.x-b.x)-(b.y*b.y-a.y*a.y+b.x*b.x-a.x*a.x)*(c.x-b.x)) / (2*(a.y-b.y)*(c.x-b.x)-2*(c.y-b.y)*(a.x-b.x))
-  );
+           ((b.x*b.x-c.x*c.x+b.y*b.y-c.y*c.y)*(a.y-b.y)-(b.x*b.x-a.x*a.x+b.y*b.y-a.y*a.y)*(c.y-b.y)) / (2*(a.x-b.x)*(c.y-b.y)-2*(c.x-b.x)*(a.y-b.y)),
+           ((b.y*b.y-c.y*c.y+b.x*b.x-c.x*c.x)*(a.x-b.x)-(b.y*b.y-a.y*a.y+b.x*b.x-a.x*a.x)*(c.x-b.x)) / (2*(a.y-b.y)*(c.x-b.x)-2*(c.y-b.y)*(a.x-b.x))
+         );
 }
 
 bool check(const Point& mid, const vector<Point>& v, double r) {

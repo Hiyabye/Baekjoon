@@ -7,7 +7,7 @@ void solve(int idx) {
   int c, n; cin >> c >> n;
   vector<int> m(c);
   for (int i=0; i<c; i++) cin >> m[i];
-  
+
   while (n--) {
     int b; cin >> b; b--;
     m[b]--;

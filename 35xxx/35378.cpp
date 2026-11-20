@@ -12,7 +12,7 @@ void solve(void) {
   while (a * (a + 1) / 2 < n) a++;
   long long b = n - (a - 1) * a / 2 - 1;
   long long g = gcd(a, b);
-  
+
   cout << a;
   if (b) cout << " " << b / g << "/" << a / g;
 }

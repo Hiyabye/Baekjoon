@@ -6,7 +6,7 @@ void solve(void) {
   int h, w, q; cin >> h >> w >> q;
   vector<vector<int>> ans(h+1, vector<int>(w+1, 0));
   vector<vector<bool>> tape(h+1, vector<bool>(w+1, false));
-  
+
   while (q--) {
     int op; cin >> op;
     if (op == 1) {

@@ -12,7 +12,7 @@ int gcd(int a, int b) {
 void solve(void) {
   string s; getline(cin, s);
   stringstream ss(s);
-  
+
   vector<int> v; int x;
   while (ss >> x) v.push_back(x);
 

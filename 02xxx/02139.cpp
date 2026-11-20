@@ -9,7 +9,7 @@ bool leap(int y) {
 bool solve(void) {
   int d, m, y; cin >> d >> m >> y;
   if (d == 0 && m == 0 && y == 0) return false;
-  
+
   const vector<int> v = {0, 31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334};
 
   cout << d + v[m-1] + (leap(y) && m > 2) << "\n";

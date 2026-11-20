@@ -6,7 +6,7 @@ using namespace std;
 void solve(void) {
   string s; cin >> s;
   int n = s.length();
-  
+
   sort(s.begin(), s.end());
   s.erase(unique(s.begin(), s.end()), s.end());
   cout << n - s.length();

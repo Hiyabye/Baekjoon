@@ -10,7 +10,7 @@ int main(void) {
     p = p-out+in;
     max = p > max ? p : max;
   }
-  
+
   printf("%d", max);
   return 0;
 }

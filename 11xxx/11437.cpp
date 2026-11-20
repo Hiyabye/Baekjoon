@@ -17,7 +17,7 @@ void solve(void) {
   queue<int> q;
   visited[1] = true;
   q.push(1);
-  
+
   while (!q.empty()) {
     int cur = q.front(); q.pop();
     for (int nxt : adj[cur]) {

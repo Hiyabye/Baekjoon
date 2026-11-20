@@ -8,7 +8,7 @@ using namespace std;
 
 struct pair_hash {
   size_t operator()(const tuple<char, char, string> &t) const {
-    return hash<string>{}(get<2>(t));
+    return hash<string> {}(get<2>(t));
   }
 };
 

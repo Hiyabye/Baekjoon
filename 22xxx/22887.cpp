@@ -15,7 +15,7 @@ void solve(int idx) {
     r[n-i] += clamp(c-n+1, 0, i);
     c -= clamp(c-n+1, 0, i);
   }
-  
+
   vector<int> y(n);
   for (int i=0; i<n; i++) y[i] = i+1;
   for (int i=n-2; i>=0; i--) reverse(y.begin()+i, y.begin()+i+r[i+1]);

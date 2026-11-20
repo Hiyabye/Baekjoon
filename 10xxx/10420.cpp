@@ -14,7 +14,7 @@ void next(int &y, int &m, int &d) {
 
 void solve(void) {
   int n; cin >> n;
-  
+
   int y = 2014, m = 4, d = 2;
   while (--n) next(y, m, d);
   cout << y << "-" << (m < 10 ? "0" : "") << m << "-" << (d < 10 ? "0" : "") << d;

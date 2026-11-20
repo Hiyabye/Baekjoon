@@ -7,7 +7,7 @@ bool solve(void) {
   int x, s; cin >> x >> s;
   vector<int> c(n), p(n);
   for (int i=0; i<n; i++) cin >> c[i] >> p[i];
-  
+
   for (int i=0; i<n; i++) {
     if (x < c[i]) continue;
     if (p[i] > s) return true;

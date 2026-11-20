@@ -10,7 +10,7 @@ int factorial(int n) {
 
 int solve(int n) {
   int count = 0;
-  
+
   for (int three=0; three<=n/3; three++) {
     for (int two=0; two<=(n-three*3)/2; two++) {
       int one = n-three*3-two*2;

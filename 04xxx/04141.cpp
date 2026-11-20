@@ -4,7 +4,7 @@ using namespace std;
 
 bool solve(void) {
   string s; cin >> s;
-  
+
   for (char &c : s) {
     if ('a' <= c && c <= 'z') c = c - 'a' + 'A';
     c = '2' + (c > 'C') + (c > 'F') + (c > 'I') + (c > 'L') + (c > 'O') + (c > 'S') + (c > 'V');

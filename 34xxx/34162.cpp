@@ -3,7 +3,7 @@ using namespace std;
 
 void solve(void) {
   int k; cin >> k;
-  
+
   if (k == 1) {
     cout << "0\n1" << endl;
   } else {

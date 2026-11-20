@@ -12,7 +12,7 @@ void solve(void) {
   double m = (1.0 - g - k) / (1.0 - k);
   double y = (1.0 - b - k) / (1.0 - k);
   if (k == 1.0) c = m = y = 0.0;
-  
+
   cout << fixed << setprecision(5) << c << " " << m << " " << y << " " << k;
 }
 

@@ -24,9 +24,8 @@ int solve(int r, int c) {
   if (abs(r) >= abs(c))
     if (r >= 0)   return 4*n*n+2*n+1+(n+c);     // bottom line
     else          return 4*n*n-2*n+1+(n-c);     // top line
-  else
-    if (c >= 0)   return 4*n*n-4*n+2+(n-r-1);   // right line
-    else          return 4*n*n+1+(n+r);         // left line
+  else if (c >= 0)   return 4*n*n-4*n+2+(n-r-1);  // right line
+  else          return 4*n*n+1+(n+r);         // left line
 }
 
 int main(void) {

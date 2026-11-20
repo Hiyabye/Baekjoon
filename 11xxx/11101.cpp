@@ -33,7 +33,7 @@ void solve(void) {
     int idx = s.find(':');
     mp[s.substr(0, idx)] = stoi(s.substr(idx+1));
   }
-  
+
   int ans = 1e9;
   stack<string> st;
   while (!b.empty()) {

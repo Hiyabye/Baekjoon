@@ -1,7 +1,7 @@
 #include <iostream>
 #include <set>
 #include <string>
-using namespace std; 
+using namespace std;
 
 inline bool same(const string &s) {
   for (int i=1; i<s.length(); i++) {

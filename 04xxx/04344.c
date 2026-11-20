@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+
 int main(void) {
   int c, n, score[1000];
 

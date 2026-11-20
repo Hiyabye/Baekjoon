@@ -5,7 +5,7 @@ int solve(void) {
   int n; cin >> n;
 
   for (int k=1; k*k<=n; k++) {
-    if (1 + k + k*k == n) return k; 
+    if (1 + k + k*k == n) return k;
   }
   return -1;
 }

@@ -13,7 +13,7 @@ void solve(void) {
   int x = calc(a, c, r+1, g, b);
   int y = calc(a, c, r, g+1, b);
   int z = calc(a, c, r, g, b+1);
-  
+
   cout << (x >= y && x >= z ? "RED" : y >= z ? "GREEN" : "BLUE") << "\n";
 }
 

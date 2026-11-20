@@ -4,7 +4,7 @@ using namespace std;
 
 void solve(void) {
   int n, m; cin >> n >> m;
-  
+
   set<int> ans;
   for (int i=1; i<=n; i++) ans.insert(i);
   while (m--) {

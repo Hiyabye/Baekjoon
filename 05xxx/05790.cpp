@@ -28,7 +28,7 @@ bool solve(void) {
     if (c > d) b += c + d;
   }
   cout << (a >= 3000 && b >= 600 && flag ? "PASS" : "NON") << "\n";
-  
+
   return true;
 }
 

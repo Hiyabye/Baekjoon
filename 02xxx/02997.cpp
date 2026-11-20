@@ -8,7 +8,7 @@ void solve(void) {
   if (a > b) swap(a, b);
   if (b > c) swap(b, c);
   if (a > b) swap(a, b);
-  
+
   cout << (b-a == c-b ? c+b-a : (b-a < c-b ? 2*b-a : a+c-b));
 }
 

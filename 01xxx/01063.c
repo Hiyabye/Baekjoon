@@ -6,101 +6,101 @@ typedef enum Command {
 
 void move(char king[], char stone[], Command command) {
   switch(command) {
-  case R:
-    if (king[0] != 'H') king[0]++;
-    if (king[0] == stone[0] && king[1] == stone[1]) {
-      if (stone[0] != 'H') stone[0]++;
-      else king[0]--;
-    }
-    break;
-
-  case L:
-    if (king[0] != 'A') king[0]--;
-    if (king[0] == stone[0] && king[1] == stone[1]) {
-      if (stone[0] != 'A') stone[0]--;
-      else king[0]++;
-    }
-    break;
-
-  case B:
-    if (king[1] != '1') king[1]--;
-    if (king[0] == stone[0] && king[1] == stone[1]) {
-      if (stone[1] != '1') stone[1]--;
-      else king[1]++;
-    }
-    break;
-
-  case T:
-    if (king[1] != '8') king[1]++;
-    if (king[0] == stone[0] && king[1] == stone[1]) {
-      if (stone[1] != '8') stone[1]++;
-      else king[1]--;
-    }
-    break;
-
-  case RT:
-    if (king[0] != 'H' && king[1] != '8') {
-      king[0]++;
-      king[1]++;
-    }
-    if (king[0] == stone[0] && king[1] == stone[1]) {
-      if (stone[0] != 'H' && stone[1] != '8') {
-        stone[0]++;
-        stone[1]++;
-      } else {
-        king[0]--;
-        king[1]--;
+    case R:
+      if (king[0] != 'H') king[0]++;
+      if (king[0] == stone[0] && king[1] == stone[1]) {
+        if (stone[0] != 'H') stone[0]++;
+        else king[0]--;
       }
-    }
-    break;
+      break;
 
-  case LT:
-    if (king[0] != 'A' && king[1] != '8') {
-      king[0]--;
-      king[1]++;
-    }
-    if (king[0] == stone[0] && king[1] == stone[1]) {
-      if (stone[0] != 'A' && stone[1] != '8') {
-        stone[0]--;
-        stone[1]++;
-      } else {
-        king[0]++;
-        king[1]--;
+    case L:
+      if (king[0] != 'A') king[0]--;
+      if (king[0] == stone[0] && king[1] == stone[1]) {
+        if (stone[0] != 'A') stone[0]--;
+        else king[0]++;
       }
-    }
-    break;
+      break;
 
-  case RB:
-    if (king[0] != 'H' && king[1] != '1') {
-      king[0]++;
-      king[1]--;
-    }
-    if (king[0] == stone[0] && king[1] == stone[1]) {
-      if (stone[0] != 'H' && stone[1] != '1') {
-        stone[0]++;
-        stone[1]--;
-      } else {
-        king[0]--;
-        king[1]++;
+    case B:
+      if (king[1] != '1') king[1]--;
+      if (king[0] == stone[0] && king[1] == stone[1]) {
+        if (stone[1] != '1') stone[1]--;
+        else king[1]++;
       }
-    }
-    break;
+      break;
 
-  case LB:
-    if (king[0] != 'A' && king[1] != '1') {
-      king[0]--;
-      king[1]--;
-    }
-    if (king[0] == stone[0] && king[1] == stone[1]) {
-      if (stone[0] != 'A' && stone[1] != '1') {
-        stone[0]--;
-        stone[1]--;
-      } else {
+    case T:
+      if (king[1] != '8') king[1]++;
+      if (king[0] == stone[0] && king[1] == stone[1]) {
+        if (stone[1] != '8') stone[1]++;
+        else king[1]--;
+      }
+      break;
+
+    case RT:
+      if (king[0] != 'H' && king[1] != '8') {
         king[0]++;
         king[1]++;
       }
-    }
-    break;
+      if (king[0] == stone[0] && king[1] == stone[1]) {
+        if (stone[0] != 'H' && stone[1] != '8') {
+          stone[0]++;
+          stone[1]++;
+        } else {
+          king[0]--;
+          king[1]--;
+        }
+      }
+      break;
+
+    case LT:
+      if (king[0] != 'A' && king[1] != '8') {
+        king[0]--;
+        king[1]++;
+      }
+      if (king[0] == stone[0] && king[1] == stone[1]) {
+        if (stone[0] != 'A' && stone[1] != '8') {
+          stone[0]--;
+          stone[1]++;
+        } else {
+          king[0]++;
+          king[1]--;
+        }
+      }
+      break;
+
+    case RB:
+      if (king[0] != 'H' && king[1] != '1') {
+        king[0]++;
+        king[1]--;
+      }
+      if (king[0] == stone[0] && king[1] == stone[1]) {
+        if (stone[0] != 'H' && stone[1] != '1') {
+          stone[0]++;
+          stone[1]--;
+        } else {
+          king[0]--;
+          king[1]++;
+        }
+      }
+      break;
+
+    case LB:
+      if (king[0] != 'A' && king[1] != '1') {
+        king[0]--;
+        king[1]--;
+      }
+      if (king[0] == stone[0] && king[1] == stone[1]) {
+        if (stone[0] != 'A' && stone[1] != '1') {
+          stone[0]--;
+          stone[1]--;
+        } else {
+          king[0]++;
+          king[1]++;
+        }
+      }
+      break;
   }
 }
 

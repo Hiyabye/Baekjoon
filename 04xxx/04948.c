@@ -5,7 +5,7 @@ int num[123456*2+1];
 
 int isPrime(int n) {
   int i = 2;
-  
+
   if (n == 1) return 0;
   while (1) {
     if (i <= sqrt(n)) {

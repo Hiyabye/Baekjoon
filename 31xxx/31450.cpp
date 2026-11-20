@@ -3,7 +3,7 @@ using namespace std;
 
 bool solve(void) {
   int m, k; cin >> m >> k;
-  
+
   return m % k == 0;
 }
 

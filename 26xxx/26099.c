@@ -13,7 +13,7 @@ int main(void) {
     case 3: three = n / 3; break;
     case 4: five--; n += 5; three = n / 3; break;
   }
-  
+
   if (five < 0) printf("-1");
   else printf("%lld", three + five);
   return 0;

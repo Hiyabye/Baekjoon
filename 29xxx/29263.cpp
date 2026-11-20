@@ -18,7 +18,7 @@ inline bool check(int n, int m, const vector<vector<int>> &v, int x, int y) {
 void solve(void) {
   int n, m; cin >> n >> m;
   vector<vector<int>> v(n, vector<int>(m));
-  for (int i=0; i<n; i++) for (int j=0; j<m; j++) cin >> v[i][j]; 
+  for (int i=0; i<n; i++) for (int j=0; j<m; j++) cin >> v[i][j];
 
   int ans = 0;
   for (int i=0; i<n; i++) for (int j=0; j<m; j++) {

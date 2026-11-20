@@ -12,9 +12,9 @@ void solve(void) {
       case 1: cin >> x; dq.push_front(x); break;
       case 2: cin >> x; dq.push_back(x); break;
       case 3: if (dq.empty()) cout << "-1\n";
-              else { cout << dq.front() << "\n"; dq.pop_front(); } break;
+        else { cout << dq.front() << "\n"; dq.pop_front(); } break;
       case 4: if (dq.empty()) cout << "-1\n";
-              else { cout << dq.back() << "\n"; dq.pop_back(); } break;
+        else { cout << dq.back() << "\n"; dq.pop_back(); } break;
       case 5: cout << dq.size() << "\n"; break;
       case 6: cout << (dq.empty() ? 1 : 0) << "\n"; break;
       case 7: cout << (dq.empty() ? -1 : dq.front()) << "\n"; break;

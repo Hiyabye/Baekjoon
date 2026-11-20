@@ -9,7 +9,7 @@ void solve(void) {
     cin >> q >> p;
     sum += q * p;
   }
-  
+
   cout << sum << "\n";
 }
 

@@ -46,7 +46,7 @@ bool solve(vector<string>& f) {
 int main(void) {
   ios::sync_with_stdio(false);
   cin.tie(nullptr);
-  
+
   vector<string> f = precompute();
   while (solve(f));
   return 0;

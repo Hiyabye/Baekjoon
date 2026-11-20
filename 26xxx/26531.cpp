@@ -4,7 +4,7 @@ using namespace std;
 void solve(void) {
   int a, b, c; char op;
   cin >> a >> op >> b >> op >> c;
-  
+
   cout << (a + b == c ? "YES" : "NO");
 }
 

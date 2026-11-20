@@ -10,7 +10,7 @@ bool solve(int idx) {
   int n2 = n1 % 2 == 0 ? n1/2 : (n1+1)/2;
   int n3 = n2*3;
   int n4 = n3/9;
-  
+
   if (n1 % 2 == 0) cout << idx << ". even " << n4 << "\n";
   else cout << idx << ". odd " << n4 << "\n";
   return true;

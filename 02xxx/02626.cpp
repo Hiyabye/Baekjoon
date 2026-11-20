@@ -39,7 +39,7 @@ void solve(void) {
     ans.y += (v[idx].y - ans.y) * delta;
     delta *= DECAY;
   }
-  
+
   if (abs(ans.x) < 1e-9) ans.x = 0;
   if (abs(ans.y) < 1e-9) ans.y = 0;
   if (abs(r) < 1e-9) r = 0;

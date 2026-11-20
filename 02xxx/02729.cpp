@@ -24,7 +24,7 @@ void solve(void) {
   reverse(c.begin(), c.end());
   if (c.empty()) c = "0";
 
-  cout << c << "\n"; 
+  cout << c << "\n";
 }
 
 int main(void) {

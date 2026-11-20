@@ -3,7 +3,7 @@ using namespace std;
 
 bool solve(void) {
   int i, f; cin >> i >> f;
-  
+
   return (i <= 1 && f <= 2) || (i <= 2 && f <= 1);
 }
 

@@ -7,7 +7,7 @@ void solve(int idx) {
   m -= 45;
   if (m < 0) m += 60, h--;
   if (h < 0) h += 24;
-  
+
   cout << "Case #" << idx << ": " << h << " " << m << "\n";
 }
 

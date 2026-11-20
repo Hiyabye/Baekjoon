@@ -11,7 +11,7 @@ void solve(void) {
     else if (x == 2) b++;
     else c++;
   }
-  
+
   cout << (a < n ? 1 : (b < n ? 2 : 3)) << "\n";
   cout << (a > n ? 1 : (b > n ? 2 : 3));
 }

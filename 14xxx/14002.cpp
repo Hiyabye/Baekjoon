@@ -27,7 +27,7 @@ void solve(void) {
     }
   }
   cout << dp[max_idx] << "\n";
-  
+
   stack<int> s;
   while (max_idx != -1) {
     s.push(a[max_idx]);

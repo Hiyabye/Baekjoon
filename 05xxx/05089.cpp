@@ -13,7 +13,7 @@ bool solve(int idx) {
     string s; getline(cin, s);
     st.insert(s);
   }
-  
+
   cout << "Week " << idx << " " << st.size() << "\n";
   return true;
 }

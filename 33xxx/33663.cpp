@@ -33,10 +33,10 @@ bool solve(void) {
   double R, G, B; cin >> R >> G >> B;
 
   return (
-    (hlo <= H(R, G, B) && H(R, G, B) <= hhi) &&
-    (slo <= S(R, G, B) && S(R, G, B) <= shi) &&
-    (vlo <= V(R, G, B) && V(R, G, B) <= vhi)
-  );
+           (hlo <= H(R, G, B) && H(R, G, B) <= hhi) &&
+           (slo <= S(R, G, B) && S(R, G, B) <= shi) &&
+           (vlo <= V(R, G, B) && V(R, G, B) <= vhi)
+         );
 }
 
 int main(void) {

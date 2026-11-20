@@ -15,7 +15,7 @@ void solve(void) {
     if (cnt >= 2) break;
   }
   if (n > 1) cnt++;
-  
+
   cout << (cnt == 2 ? "cubelover" : "koosaga");
 }
 

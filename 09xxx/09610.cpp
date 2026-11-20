@@ -5,7 +5,7 @@ using namespace std;
 void solve(void) {
   int n, x, y;
   cin >> n;
-  
+
   vector<int> ans(5, 0);
   while (n--) {
     cin >> x >> y;

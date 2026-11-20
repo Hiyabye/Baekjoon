@@ -38,13 +38,13 @@ void solve(void) {
         }
         st.push(c);
         break;
-        
+
       default:
         cout << c;
         break;
     }
   }
-  
+
   while (!st.empty()) {
     cout << st.top();
     st.pop();

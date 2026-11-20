@@ -4,7 +4,7 @@ using namespace std;
 void solve(void) {
   int x;
   cin >> x;
-  
+
   int ans = 0;
   for (int i=0; i<=6; i++) {
     if (x & (1<<i)) ans++;

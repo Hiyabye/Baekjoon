@@ -37,7 +37,7 @@ bool solve(void) {
   }
   cout << fixed << setprecision(3) << "You can go to (" << ans.first << "," << ans.second;
   cout << fixed << setprecision(3) << "), the distance is " << hypot(ans.first, ans.second) << " steps.\n";
-  
+
   return true;
 }
 

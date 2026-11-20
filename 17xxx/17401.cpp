@@ -21,7 +21,7 @@ public:
   // matrix multiplication
   Matrix operator*(const Matrix &rhs) const {
     Matrix ret(n);
-    
+
     for (int i=0; i<n; i++) {
       for (int j=0; j<n; j++) {
         for (int k=0; k<n; k++) {

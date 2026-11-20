@@ -3,7 +3,7 @@ using namespace std;
 
 void solve(void) {
   int a = 1;
-  while (true){
+  while (true) {
     cout << "? A " << a << endl;
     int resp; cin >> resp;
     if (resp == 1) break;
@@ -11,7 +11,7 @@ void solve(void) {
   }
 
   int b = 1;
-  while (true){
+  while (true) {
     cout << "? B " << b << endl;
     int resp; cin >> resp;
     if (resp == 1) break;

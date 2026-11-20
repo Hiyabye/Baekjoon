@@ -14,7 +14,7 @@ void solve(void) {
     int j = find(a.begin(), a.begin()+i+1, mx) - a.begin();
     swap(a[i], a[j]); k--;
   }
-  
+
   if (k > 0) cout << "-1";
   else for (int i=0; i<n; i++) cout << a[i] << " ";
 }

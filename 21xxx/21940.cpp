@@ -26,7 +26,7 @@ void solve(void) {
     }
     ans[i].second = i+1;
   }
-  
+
   sort(ans.begin(), ans.end());
   cout << ans[0].second;
   for (int i=1; i<n; i++) {

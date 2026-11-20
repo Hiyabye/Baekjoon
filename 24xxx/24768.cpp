@@ -10,7 +10,7 @@ bool solve(void) {
   else if (x == y) cout << "Undecided.";
   else cout << "To the convention.";
   cout << "\n";
-  
+
   return true;
 }
 

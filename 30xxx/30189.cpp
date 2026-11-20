@@ -17,7 +17,7 @@ void solve(void) {
 
   int ans = 0;
   for (int i=0; i<=n+m; i++) ans += f(n, m, i);
-  cout << ans; 
+  cout << ans;
 }
 
 int main(void) {

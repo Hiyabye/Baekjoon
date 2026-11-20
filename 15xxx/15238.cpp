@@ -7,7 +7,7 @@ using namespace std;
 void solve(void) {
   int n; cin >> n;
   string s; cin >> s;
-  
+
   vector<int> cnt(26, 0);
   for (char c : s) cnt[c-'a']++;
 

@@ -5,7 +5,7 @@ using namespace std;
 
 void solve(void) {
   string n; cin >> n;
-  
+
   string sum = to_string(stoi(n) + stoi(string(n.rbegin(), n.rend())));
   for (int i=0; i<sum.length()/2; i++) {
     if (sum[i] != sum[sum.length()-i-1]) {

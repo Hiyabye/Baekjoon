@@ -6,7 +6,7 @@
 long long int r_power(long long int i) {
   if (i == 0) return 1;
   if (i == 1) return R;
-  
+
   long long int tmp = r_power(i/2);
   tmp = tmp * tmp % MOD;
   if (i%2 == 0) return tmp;

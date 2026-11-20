@@ -12,7 +12,7 @@ bool solve(void) {
     if (x[i] == x[i+1]) return false;
     v[i] = x[i+1] - x[i];
   }
-  
+
   if (v[0] < 0 || v[n-2] > 0) return false;
   for (int i=1; i<n-1; i++) {
     if (v[i] * v[i-1] < 0) continue;

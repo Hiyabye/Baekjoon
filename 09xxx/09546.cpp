@@ -3,7 +3,7 @@ using namespace std;
 
 void solve(void) {
   int k; cin >> k;
-  
+
   cout << (1<<k)-1 << "\n";
 }
 

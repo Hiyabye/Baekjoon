@@ -16,7 +16,7 @@ void solve(void) {
   }
   t = to_string(n + 1906) + t + to_string(s.length() - t.length() + 4);
   reverse(t.begin(), t.end());
-  
+
   cout << "smupc_" << t;
 }
 

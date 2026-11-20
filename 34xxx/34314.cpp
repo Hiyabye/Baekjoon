@@ -5,7 +5,7 @@ using namespace std;
 
 void solve(void) {
   int g, d; cin >> g >> d;
-  
+
   vector<int> dp(g+d+1, 0); dp[0] = 1;
   for (int i=1; i<=g; i++) for (int j=1; j<=d; j++) {
     if (i < j) continue;

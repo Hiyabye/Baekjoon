@@ -15,7 +15,7 @@ void solve(int idx) {
     ans += a[i];
   }
   ans += ((n-m) & 1) ? (a[(n+m-3)/2] + a[(n+m-1)/2]) / 2 : a[(n+m-2)/2];
-  
+
   cout << "Case #" << idx << ": " << fixed << setprecision(7) << ans << "\n";
 }
 

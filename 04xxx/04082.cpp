@@ -28,7 +28,7 @@ int backtrack(int idx, int sum) {
 bool solve(void) {
   for (int i=0; i<12; i++) cin >> a[i];
   if (*max_element(a.begin(), a.end()) == 0) return false;
-  
+
   fill(b.begin(), b.end(), 0);
   fill(c.begin(), c.end(), 0);
   b[0] = a[0]; c[0] = 1;

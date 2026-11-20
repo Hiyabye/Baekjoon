@@ -34,7 +34,7 @@ private:
 
     return trim(c);
   }
-  
+
 public:
   BigNum(void) : num("0") {}
   BigNum(const string &s) : num(s) {}

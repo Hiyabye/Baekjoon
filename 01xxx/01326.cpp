@@ -21,7 +21,7 @@ void solve(void) {
   vector<int> ans(n+1, 1e9); ans[a] = 0;
   queue<int> q; q.push(a);
   calc(n, a, v[a], ans, q);
-  
+
   while (!q.empty()) {
     int cur = q.front(); q.pop();
     calc(n, cur, v[cur], ans, q);

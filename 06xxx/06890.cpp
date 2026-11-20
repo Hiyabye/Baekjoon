@@ -12,7 +12,7 @@ inline char calc(char a, char b) {
 void solve(void) {
   string a; getline(cin, a);
   string b; getline(cin, b);
-  
+
   for (int i=0; i<b.length(); i++) {
     if ('A' <= b[i] && b[i] <= 'Z') continue;
     b.erase(i--, 1);

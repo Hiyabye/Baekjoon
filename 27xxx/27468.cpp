@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void solve(void){
+void solve(void) {
   int n; cin >> n;
 
   cout << "YES\n";

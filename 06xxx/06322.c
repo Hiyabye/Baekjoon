@@ -18,7 +18,7 @@ int main(void) {
     } else if (c == -1) {
       printf("c = %.3f\n", sqrt((float)a*a + b*b));
     }
-    
+
     scanf("%d %d %d", &a, &b, &c);
   }
   return 0;

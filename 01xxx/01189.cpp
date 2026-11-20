@@ -8,7 +8,7 @@ int dx[4] = {0, 1, 0, -1};
 int dfs(int r, int c, int k, vector<vector<char>> &v, int y, int x) {
   if (y == 0 && x == c-1) return k == 0;
   if (k == 0) return 0;
-  
+
   int ret = 0;
   for (int i=0; i<4; i++) {
     int ny = y + dy[i], nx = x + dx[i];

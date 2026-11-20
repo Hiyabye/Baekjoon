@@ -18,10 +18,10 @@ void solve(void) {
 }
 
 int main(void) {
-	ios::sync_with_stdio(false);
-	cin.tie(nullptr);
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
 
   int t; cin >> t;
   while (t--) solve();
-	return 0;
+  return 0;
 }

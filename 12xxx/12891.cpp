@@ -6,7 +6,7 @@ void solve(void) {
   int n, m; cin >> n >> m;
   string s; cin >> s;
   int a, c, g, t; cin >> a >> c >> g >> t;
-  
+
   for (int i=0; i<m; i++) {
     if (s[i] == 'A') a--;
     else if (s[i] == 'C') c--;

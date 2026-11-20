@@ -5,7 +5,7 @@ using namespace std;
 inline string calc(const string &s, int t) {
   int m = stoi(s.substr(0, 2)) * 60 + stoi(s.substr(3, 2)) + t;
   return (m / 60 < 10 ? "0" : "") + to_string(m / 60) + ":"
-       + (m % 60 < 10 ? "0" : "") + to_string(m % 60);
+         + (m % 60 < 10 ? "0" : "") + to_string(m % 60);
 }
 
 void solve(void) {

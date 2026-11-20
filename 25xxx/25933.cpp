@@ -21,7 +21,7 @@ void solve(void) {
 
   for (int i=0; i<3; i++) cout << a[i] << " ";
   for (int i=0; i<3; i++) cout << b[i] << " ";
-  
+
   if (color(a, b) && count(a, b)) cout << "both";
   else if (color(a, b)) cout << "color";
   else if (count(a, b)) cout << "count";

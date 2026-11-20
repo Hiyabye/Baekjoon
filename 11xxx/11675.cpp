@@ -21,7 +21,7 @@ int main(void) {
   cin.tie(nullptr);
 
   vector<int> v = precompute();
-  
+
   int n; cin >> n;
   while (n--) solve(v);
   return 0;

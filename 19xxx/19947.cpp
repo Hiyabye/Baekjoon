@@ -5,7 +5,7 @@ using namespace std;
 
 void solve(void) {
   int h, y; cin >> h >> y;
-  
+
   vector<int> dp(y+1, 0); dp[0] = h;
   for (int i=1; i<=y; i++) {
     dp[i] = dp[i-1] * 1.05;

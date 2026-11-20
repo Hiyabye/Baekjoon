@@ -7,7 +7,7 @@ void solve(void) {
   int n, m, ans = 0;
   cin >> n >> m;
   map<string, bool> a;
-  
+
   string s;
   for (int i=0; i<n; i++) {
     cin >> s;

@@ -22,7 +22,7 @@ void solve(void) {
   vector<bool> diff(m+1, false);
   for (int i=0; i<n; i++) diff[ans[i].first] = true;
   cout << count(diff.begin(), diff.end(), true) << "\n";
-  
+
   for (int i=0; i<n; i++) {
     cout << ans[i].first << " " << ans[i].second << "\n";
   }

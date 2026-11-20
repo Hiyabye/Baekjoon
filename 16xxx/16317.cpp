@@ -16,7 +16,7 @@ void solve(void) {
     if (accumulate(v.begin(), v.end(), 0) >= 20) v.clear(), ans++;
   }
   if (!v.empty()) ans++;
-  
+
   cout << ans;
 }
 

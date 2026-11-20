@@ -17,7 +17,7 @@ void solve(void) {
     int me, mn; cin >> me >> mn;
     mp[me] = mn;
   }
-  
+
   int r; cin >> r;
   while (r--) {
     int l; cin >> l;

@@ -3,7 +3,7 @@ using namespace std;
 
 void solve(void) {
   char c; cin >> c;
-  
+
   cout << (c == 'N' || c == 'n' ? "Naver D2" : "Naver Whale");
 }
 

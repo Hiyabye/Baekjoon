@@ -21,7 +21,7 @@ void solve(void) {
     if (cnt >= n) l = m;
     else r = m-1;
   }
-  
+
   cout << l;
 }
 

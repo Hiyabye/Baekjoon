@@ -6,7 +6,7 @@ bitset<33554432> b;
 
 void solve(void) {
   int num;
-  
+
   while (cin >> num) {
     if (b[num]) continue;
     b[num] = true;

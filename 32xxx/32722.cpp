@@ -8,9 +8,9 @@ bool solve(void) {
 }
 
 int main(void) {
-	ios::sync_with_stdio(false);
-	cin.tie(nullptr);
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
 
   cout << (solve() ? "JAH" : "EI");
-	return 0;
+  return 0;
 }

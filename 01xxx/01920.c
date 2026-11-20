@@ -30,7 +30,7 @@ void mergeSort(int arr[], int l, int r) {
 
 int binarySearch(int arr[], int l, int r, int target, int size) {
   if (l < 0 || r >= size || l > r) return -1;
-  
+
   int mid = l+(r-l)/2;
   if (target > arr[mid]) return binarySearch(arr, mid+1, r, target, size);
   else if (target < arr[mid]) return binarySearch(arr, l, mid-1, target, size);

@@ -29,7 +29,7 @@ long long f(long long n) {
 
 void solve(void) {
   long long a, b; cin >> a >> b;
-  
+
   cout << (f(b) - f(a-1) + MOD) % MOD;
 }
 

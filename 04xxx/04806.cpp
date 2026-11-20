@@ -5,7 +5,7 @@ using namespace std;
 void solve(void) {
   int ans = 0;
   string s;
-  
+
   while (getline(cin, s)) ans++;
   cout << ans;
 }

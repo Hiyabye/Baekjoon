@@ -18,8 +18,8 @@ void solve(void) {
   }
 
   cout << calc(mp, 0, 3) + calc(mp, 1, 2) +
-          calc(mp, 0, 2) + calc(mp, 1, 3) +
-          calc(mp, 0, 1) + calc(mp, 2, 3);
+       calc(mp, 0, 2) + calc(mp, 1, 3) +
+       calc(mp, 0, 1) + calc(mp, 2, 3);
 }
 
 int main(void) {

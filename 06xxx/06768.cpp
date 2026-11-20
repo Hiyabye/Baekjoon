@@ -3,7 +3,7 @@ using namespace std;
 
 void solve(void) {
   int j; cin >> j;
- 
+
   cout << (j-1) * (j-2) * (j-3) / 6;
 }
 

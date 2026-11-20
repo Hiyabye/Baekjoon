@@ -13,7 +13,7 @@ void solve(void) {
     if (v[i][j]) continue;
     dp[0][i][j] += dp[0][i][j-1] + dp[1][i][j-1];
     if (!v[i-1][j] && !v[i][j-1] && !v[i-1][j-1]) {
-        dp[1][i][j] += dp[0][i-1][j-1] + dp[1][i-1][j-1] + dp[2][i-1][j-1];
+      dp[1][i][j] += dp[0][i-1][j-1] + dp[1][i-1][j-1] + dp[2][i-1][j-1];
     }
     dp[2][i][j] += dp[1][i-1][j] + dp[2][i-1][j];
   }
@@ -23,7 +23,7 @@ void solve(void) {
 int main(void) {
   ios::sync_with_stdio(false);
   cin.tie(nullptr);
-  
+
   solve();
   return 0;
 }

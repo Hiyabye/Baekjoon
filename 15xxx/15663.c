@@ -45,7 +45,7 @@ int main(void) {
     c[i] = 0;
   }
   bubbleSort();
-  
+
   solve(0);
   return 0;
 }

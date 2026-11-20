@@ -16,7 +16,7 @@ double solve(void) {
   if (r1 + r2 < d) return 0;
   if (abs(r1 - r2) >= d) return pow(min(r1, r2), 2) * acos(-1);
   return pow(r1, 2) * (th(r1, d, r2) * 2 - sin(th(r1, d, r2) * 2)) / 2
-       + pow(r2, 2) * (th(r2, d, r1) * 2 - sin(th(r2, d, r1) * 2)) / 2;
+         + pow(r2, 2) * (th(r2, d, r1) * 2 - sin(th(r2, d, r1) * 2)) / 2;
 }
 
 int main(void) {

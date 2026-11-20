@@ -7,7 +7,7 @@ void solve(void) {
 
   string s = "";
   for (int i=0; i<26; i++) s += 'a' + i;
-  
+
   while (n--) {
     int a; cin >> a;
     cout << s[a];

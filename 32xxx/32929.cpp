@@ -3,7 +3,7 @@ using namespace std;
 
 void solve(void) {
   int x; cin >> x;
-  
+
   cout << (x % 3 == 0 ? 'S' : (x % 3 == 1 ? 'U' : 'O'));
 }
 

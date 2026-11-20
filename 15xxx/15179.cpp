@@ -15,7 +15,7 @@ void solve(void) {
       case 'D': if (i & 1) d += 2; else c += 2; break;
       case 'O': if (i & 1) c++;    else d++;    break;
     }
-    
+
     if (c > 6) { cout << a << " " << 7 << " " << b << " " << d << ". " << a << " has won."; return; }
     if (d > 6) { cout << a << " " << c << " " << b << " " << 7 << ". " << b << " has won."; return; }
   }

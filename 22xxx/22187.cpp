@@ -9,7 +9,7 @@ void solve(void) {
   stack<char> st;
   bool save = false;
   string ans = "";
-  
+
   for (char c : s) {
     if (c == '(') {
       save = true;

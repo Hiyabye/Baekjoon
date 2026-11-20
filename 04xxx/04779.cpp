@@ -13,7 +13,7 @@ void rec(string &s, int a, int b) {
 void solve(int n) {
   int sz = 1;
   while (n--) sz *= 3;
-  
+
   string s(sz, '-');
   rec(s, 0, sz);
   cout << s << "\n";

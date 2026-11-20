@@ -17,7 +17,7 @@ bool solve(void) {
 
   int c = s.find('C');
   cout << base26(stoi(s.substr(c+1))) << stoi(s.substr(1, c-1)) << "\n";
-  
+
   return true;
 }
 

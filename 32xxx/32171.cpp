@@ -4,7 +4,7 @@ using namespace std;
 
 void solve(void) {
   int n; cin >> n;
-  
+
   int x_min = 1e9, x_max = -1e9, y_min = 1e9, y_max = -1e9;
   while (n--) {
     int a, b, c, d; cin >> a >> b >> c >> d;

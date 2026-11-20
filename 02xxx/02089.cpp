@@ -22,7 +22,7 @@ void solve(void) {
     n /= -2;
   }
   reverse(ans.begin(), ans.end());
-  
+
   cout << ans;
 }
 

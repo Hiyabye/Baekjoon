@@ -7,7 +7,7 @@ void solve(void) {
   int n, m; cin >> n >> m;
   vector<vector<int>> v(n, vector<int>(m));
   for (int i=0; i<n; i++) for (int j=0; j<m; j++) cin >> v[i][j];
-  
+
   vector<vector<vector<int>>> dp(n, vector<vector<int>>(m, vector<int>(3, 1e9)));
   for (int i=0; i<m; i++) for (int j=0; j<3; j++) dp[0][i][j] = v[0][i];
   for (int i=1; i<n; i++) {

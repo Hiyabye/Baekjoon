@@ -10,7 +10,7 @@ void solve(void) {
   int n; cin >> n;
   int m; cin >> m;
   int c; cin >> c;
-  
+
   int M = 0, C = 0;
   for (int i=0; i<=(n+m-1)/m; i++) {
     for (int j=(n-i*m)/c; j<=(n-i*m+c-1)/c; j++) {

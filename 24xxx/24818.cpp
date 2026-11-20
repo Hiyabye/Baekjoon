@@ -7,7 +7,7 @@ void solve(void) {
   int n; cin >> n;
   vector<int> v(n+1, 0);
   for (int i=1; i<=n; i++) cin >> v[i];
-  
+
   for (int i=2; i<=n; i++) v[i] += v[i-1];
   if (v[n] % 3) {
     cout << -1;

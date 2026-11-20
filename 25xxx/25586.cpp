@@ -23,7 +23,7 @@ void solve(void) {
     }
   }
   int r = root(parent, 1);
-  
+
   queue<int> q; q.push(r);
   vector<bool> visited(n+1, false); visited[r] = true;
   vector<vector<int>> ans(n+1, vector<int>(n+1, 0));

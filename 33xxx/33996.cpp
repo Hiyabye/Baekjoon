@@ -31,7 +31,7 @@ void solve(void) {
       }
       p[j] = {s[i]-s[j], {cnt, sum}};
     }
-    sort(p.begin(), p.end(), [](auto &a, auto &b){ return a.first < b.first; });
+    sort(p.begin(), p.end(), [](auto &a, auto &b) { return a.first < b.first; });
     a[i].reserve(p.size()); b[i].reserve(p.size()); c[i].reserve(p.size());
     for (int k=0, m=p.size(); k<m; ) {
       long long d = p[k].first;

@@ -10,7 +10,7 @@ void solve(void) {
   for (int i=a; i<=b; i++) {
     if (abs(k-i) <= x) ans++;
   }
-  
+
   if (ans) cout << ans;
   else cout << "IMPOSSIBLE";
 }

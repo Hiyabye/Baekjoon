@@ -7,7 +7,7 @@ void solve(void) {
     int x; cin >> x;
     sum += x;
   }
-  
+
   cout << sum * 5;
 }
 

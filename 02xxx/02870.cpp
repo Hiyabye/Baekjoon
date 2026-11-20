@@ -11,7 +11,7 @@ string trim(string s) {
 
 void solve(void) {
   int n; cin >> n;
-  
+
   vector<string> v;
   while (n--) {
     string s; cin >> s;

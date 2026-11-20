@@ -24,7 +24,7 @@ bool solve(void) {
     a = a.substr(0, 1) + "0" + a.substr(1);
   }
   cout << stoi(a) + stoi(b) << "\n";
-  
+
   return true;
 }
 

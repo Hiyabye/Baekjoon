@@ -27,7 +27,7 @@ void solve(void) {
     for (int i=0; i<n; i++) cur += calc(a[i], b[p[i]]);
     ans = max(ans, cur);
   } while (next_permutation(p.begin(), p.end()));
-  
+
   cout << ans;
 }
 

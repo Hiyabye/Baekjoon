@@ -16,8 +16,8 @@ void solve(void) {
   sort(z.begin(), z.end(), greater<int>());
 
   cout << accumulate(x.begin(), x.end(), 0) +
-          accumulate(y.begin(), y.end(), 0) +
-          accumulate(z.begin(), z.end(), 0) << "\n";
+       accumulate(y.begin(), y.end(), 0) +
+       accumulate(z.begin(), z.end(), 0) << "\n";
 
   int ans = 0;
   for (int i=0; i<min({b, c, d}); i++) {

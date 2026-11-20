@@ -20,7 +20,7 @@ void precompute(void) {
 void solve(void) {
   int n;
   cin >> n;
-  
+
   cout << (a[n+1000000] > 0 ? 1 : (a[n+1000000] < 0 ? -1 : 0)) << "\n";
   cout << abs(a[n+1000000]);
 }

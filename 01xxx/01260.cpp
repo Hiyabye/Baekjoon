@@ -6,7 +6,7 @@ using namespace std;
 void dfs(vector<vector<bool> > &p, vector<bool> &visited, int cur) {
   visited[cur] = true;
   cout << cur << " ";
-  
+
   for (int i=1; i<p.size(); i++) {
     if (p[cur][i] && !visited[i]) {
       dfs(p, visited, i);

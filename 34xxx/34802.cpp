@@ -10,7 +10,7 @@ bool solve(void) {
   int s = (stoi(b.substr(0, 2)) - stoi(a.substr(0, 2))) * 3600 +
           (stoi(b.substr(3, 2)) - stoi(a.substr(3, 2))) * 60 +
           (stoi(b.substr(6, 2)) - stoi(a.substr(6, 2)));
-  
+
   return t * (100 - k) <= s * 100;
 }
 

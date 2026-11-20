@@ -23,7 +23,7 @@ void solve(int idx, int n) {
   printf("마을 사람들은 모두 그 선인에게 수많은 질문을 했고, 모두 지혜롭게 대답해 주었지.\n");
   margin(idx);
   printf("그의 답은 대부분 옳았다고 하네. 그런데 어느 날, 그 선인에게 한 선비가 찾아와서 물었어.\"\n");
-  
+
   if (idx < n) solve(idx+1, n);
 
   margin(idx);

@@ -10,7 +10,7 @@ void solve(void) {
 
   vector<int> cnt(26, 0);
   for (char c : s) cnt[c - 'A']++;
-  
+
   cout << min({cnt['H'-'A'], cnt['I'-'A'], cnt['A'-'A'], cnt['R'-'A'], cnt['C'-'A']});
 }
 

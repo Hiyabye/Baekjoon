@@ -9,7 +9,7 @@ inline bool calc1(int a, int b, const vector<vector<char>> &v, int idx) {
     if (c == '\0') c = v[i][j];
     else if (v[i][j] != c) return false;
   }
-  return true; 
+  return true;
 }
 
 inline bool calc2(int a, int b, const vector<vector<char>> &v, int idx) {
@@ -19,7 +19,7 @@ inline bool calc2(int a, int b, const vector<vector<char>> &v, int idx) {
     if (c == '\0') c = v[i][j];
     else if (v[i][j] != c) return false;
   }
-  return true; 
+  return true;
 }
 
 bool solve(void) {

@@ -8,7 +8,7 @@ int gcd(int a, int b) {
 void solve(void) {
   int a, b; cin >> a >> b;
   int g = gcd(a, b);
-  
+
   cout << a / g << " " << b / g << "\n";
 }
 

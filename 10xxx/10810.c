@@ -7,7 +7,7 @@ void solve(int arr[], int i, int j, int k) {
 }
 
 int main(void) {
-  int n, m, i, j , k;
+  int n, m, i, j, k;
   int arr[100] = { 0 };
 
   scanf("%d %d", &n, &m);

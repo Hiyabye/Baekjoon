@@ -30,7 +30,7 @@ void quickSort(int arr[], int l, int r) {
 
 int main(void) {
   int n, a[100000];
-  
+
   scanf("%d", &n);
   for (int i=0; i<n; i++) {
     scanf("%d", &a[i]);

@@ -30,7 +30,7 @@ bool solve(void) {
     if (!v[i][j]) continue;
     calc(w, h, v, i, j);
   }
-  
+
   cout << (check(w, h, v) ? "YES" : "NO") << "\n";
   return true;
 }

@@ -10,7 +10,7 @@ void solve(void) {
   int d = a * b;
   int q = d / 100;
   int r = d % 100;
-  
+
   cout << a << " " << b << " " << c << " " << d << " " << q << " " << r << "\n" << c + q << " " << r;
 }
 

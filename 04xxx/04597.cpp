@@ -11,7 +11,7 @@ bool solve(void) {
     cnt += s[i] - '0';
     cout << s[i];
   }
-  
+
   cout << (s[n-1] == 'e' && cnt & 1 || s[n-1] == 'o' && !(cnt & 1) ? '1' : '0') << "\n";
   return true;
 }

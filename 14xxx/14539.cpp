@@ -7,7 +7,7 @@ void solve(int idx) {
   cout << "Case #" << idx << ":\n";
   for (int i=0; i<=r*(h+1); i++) {
     for (int j=0; j<=c*(w+1); j++) {
-      cout << (i % (h+1) ? (j % (w+1) ? '*' : '|') : (j % (w+1) ? '-' : '+')); 
+      cout << (i % (h+1) ? (j % (w+1) ? '*' : '|') : (j % (w+1) ? '-' : '+'));
     }
     cout << "\n";
   }

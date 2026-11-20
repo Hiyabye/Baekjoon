@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+
 int main(void) {
   printf("|\\_/|\n");
   printf("|q p|   /}\n");

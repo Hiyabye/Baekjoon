@@ -8,7 +8,7 @@ bool solve(void) {
     string s; cin >> s;
     l -= s.length();
   }
-  
+
   if (n == 1) return l == 0;
   return l >= n - 1 && l % (n - 1) == 0;
 }

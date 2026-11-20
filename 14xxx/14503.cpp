@@ -29,7 +29,7 @@ void solve(void) {
       break;
     }
     if (flag) continue;
-    
+
     r -= dr[d]; c -= dc[d];
   } while (valid(n, m, r, c) && v[r][c] != 1);
   cout << ans;

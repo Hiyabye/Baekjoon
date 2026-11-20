@@ -3,7 +3,7 @@ using namespace std;
 
 void solve(void) {
   int n; cin >> n;
-    
+
   cout << (n % 3 != 0);
 }
 

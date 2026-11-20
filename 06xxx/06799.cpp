@@ -24,7 +24,7 @@ void solve(void) {
   if (n == 0) return;
   if (n == 1) { cout << v[0].name; return; }
   sort(v.begin(), v.end(), cmp);
-  
+
   cout << v[0].name << "\n" << v[1].name;
 }
 

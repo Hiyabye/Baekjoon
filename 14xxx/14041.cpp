@@ -13,7 +13,7 @@ void solve(void) {
 
   int t = stoi(s.substr(0, 2)) * 60 + stoi(s.substr(3, 2));
   for (int i=0; i<120; i++) t = (t + next(t)) % 1440;
-  
+
   cout << (t / 60 < 10 ? "0" : "") << t / 60 << ":" << (t % 60 < 10 ? "0" : "") << t % 60;
 }
 

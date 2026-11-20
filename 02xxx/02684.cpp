@@ -5,7 +5,7 @@ using namespace std;
 void solve(void) {
   string s; cin >> s;
   int n = s.length();
-  
+
   vector<int> ans(8, 0);
   for (int i=0; i<n-2; i++) {
     int a = s[i] == 'T' ? 0 : 4;

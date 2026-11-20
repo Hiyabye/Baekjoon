@@ -3,7 +3,7 @@ using namespace std;
 
 void solve(void) {
   int ans = 0, n;
-  
+
   while (cin >> n) ans += n;
   cout << ans;
 }

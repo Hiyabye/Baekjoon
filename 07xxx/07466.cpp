@@ -14,7 +14,7 @@ int solve(void) {
     int x; cin >> x;
     b += x;
   }
-  
+
   if (n == 1 && e == 1) return 0;
   else if (n == 1)      return b;
   else if (e == 1)      return a;

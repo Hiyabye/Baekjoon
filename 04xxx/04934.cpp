@@ -13,9 +13,9 @@ inline int calc(int h, int m, int s, int u) {
 
 inline int diff(const Time &t1, const Time &t2) {
   return ((t2.h - t1.h) * calc(1, 0, 0, 0)
-        + (t2.m - t1.m) * calc(0, 1, 0, 0)
-        + (t2.s - t1.s) * calc(0, 0, 1, 0)
-        + (t2.u - t1.u) * calc(0, 0, 0, 1)) % 4320000;
+          + (t2.m - t1.m) * calc(0, 1, 0, 0)
+          + (t2.s - t1.s) * calc(0, 0, 1, 0)
+          + (t2.u - t1.u) * calc(0, 0, 0, 1)) % 4320000;
 }
 
 void solve(int idx) {

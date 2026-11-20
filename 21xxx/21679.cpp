@@ -6,7 +6,7 @@ void solve(void) {
   int n; cin >> n;
   vector<int> c(n);
   for (int i=0; i<n; i++) cin >> c[i];
-  
+
   int k; cin >> k;
   while (k--) {
     int p; cin >> p; p--;

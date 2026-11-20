@@ -19,7 +19,7 @@ bool solve(void) {
     }
   }
   cout << "A " << a << " B " << b << "\n";
-  
+
   return true;
 }
 

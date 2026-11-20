@@ -15,7 +15,7 @@ void solve(void) {
     dp[i*2] = alpha[a[i]-'A'];
     dp[i*2+1] = alpha[b[i]-'A'];
   }
-  
+
   for (int i=0; i<n*2-2; i++) {
     for (int j=0; j<n*2-i-1; j++) {
       dp[j] = (dp[j] + dp[j+1]) % 10;

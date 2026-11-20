@@ -6,11 +6,11 @@ struct dot {
 };
 
 void merge(struct dot d[], int l, int m, int r) {
-  int i, j, k; 
+  int i, j, k;
   int n1 = m-l+1;
-  int n2 = r-m; 
+  int n2 = r-m;
   struct dot L[n1], R[n2];
-  
+
   for (i=0; i<n1; i++) {
     L[i].x = d[l+i].x;
     L[i].y = d[l+i].y;
@@ -21,10 +21,10 @@ void merge(struct dot d[], int l, int m, int r) {
   }
 
   i=0, j=0, k=l;
-  while (i<n1 && j<n2) { 
-    if (L[i].y < R[j].y) { 
-      d[k].x = L[i].x; 
-      d[k].y = L[i].y; 
+  while (i<n1 && j<n2) {
+    if (L[i].y < R[j].y) {
+      d[k].x = L[i].x;
+      d[k].y = L[i].y;
       i++;
     } else if (L[i].y == R[j].y) {
       if (L[i].x <= R[j].x) {
@@ -37,24 +37,24 @@ void merge(struct dot d[], int l, int m, int r) {
         j++;
       }
     } else { // L[i].y < R[j].y
-      d[k].x = R[j].x; 
-      d[k].y = R[j].y; 
-      j++; 
+      d[k].x = R[j].x;
+      d[k].y = R[j].y;
+      j++;
     }
-    k++; 
-  } 
-  
-  while (i < n1) { 
+    k++;
+  }
+
+  while (i < n1) {
     d[k].x = L[i].x;
     d[k].y = L[i].y;
-    i++, k++; 
-  } 
-  
-  while (j < n2) { 
-    d[k].x = R[j].x; 
-    d[k].y = R[j].y; 
-    j++, k++; 
-  } 
+    i++, k++;
+  }
+
+  while (j < n2) {
+    d[k].x = R[j].x;
+    d[k].y = R[j].y;
+    j++, k++;
+  }
 }
 
 void mergeSort(struct dot d[], int l, int r) {

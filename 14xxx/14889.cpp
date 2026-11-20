@@ -40,7 +40,7 @@ void solve(void) {
       cin >> s[i][j];
     }
   }
-  
+
   cout << backtrack(0, 0);
 }
 

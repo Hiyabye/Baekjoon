@@ -2,7 +2,7 @@
 #include <vector>
 #include <queue>
 using namespace std;
-  
+
 int n, k;
 vector<int> dist(100001, -1);
 queue<int> q;

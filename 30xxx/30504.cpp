@@ -17,7 +17,7 @@ void solve(void) {
   vector<int> b(n);
   for (int i=0; i<n; i++) cin >> b[i];
   sort(b.begin(), b.end());
-  
+
   for (int i=0; i<n; i++) {
     if (b[i] < a[i].first) {
       cout << -1;

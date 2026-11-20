@@ -14,7 +14,7 @@ void solve(void) {
   string s; cin >> s;
   int w; cin >> w;
   string ans; cin >> ans; w--;
-  
+
   while (w--) {
     string t; cin >> t;
     if (calc(s, t) < calc(s, ans)) ans = t;

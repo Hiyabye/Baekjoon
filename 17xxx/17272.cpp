@@ -28,7 +28,7 @@ void solve(void) {
   Matrix base(m, vector<long long>(m, 0));
   base[0][0] = base[0][m-1] = 1;
   for (int i=1; i<m; i++) base[i][i-1] = 1;
-  
+
   cout << matpow(base, n)[0][0];
 }
 

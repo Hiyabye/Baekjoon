@@ -5,7 +5,7 @@ using namespace std;
 
 int solve(long long n) {
   vector<bool> v(10, false);
-  
+
   long long k = 0;
   while (++k) {
     long long t = n * k;

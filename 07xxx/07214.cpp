@@ -14,7 +14,7 @@ void solve(void) {
   int k, s; cin >> k >> s;
   vector<int> n(s);
   for (int i=0; i<s; i++) cin >> n[i];
-  
+
   if (!check(k, s, n)) {
     cout << -1;
     return;

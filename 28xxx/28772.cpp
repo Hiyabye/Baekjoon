@@ -15,7 +15,7 @@ bool valid(const string &s) {
 void solve(void) {
   string s; getline(cin, s);
   stringstream ss(s); string t;
-  
+
   map<string, int> mp;
   while (ss >> t) {
     if (valid(t)) mp[t]++;

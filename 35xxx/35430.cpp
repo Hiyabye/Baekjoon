@@ -3,7 +3,7 @@ using namespace std;
 
 void solve(void) {
   long long n, m, x; cin >> n >> m >> x;
-  
+
   for (long long i=1; i*i<=x; i++) {
     if (x % i) continue;
     long long j = x / i;

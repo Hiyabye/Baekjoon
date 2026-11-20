@@ -10,10 +10,10 @@ int main(void) {
       totalCredit += credit;
     }
     switch (grade[0]) {
-    case 'A': totalGrade += credit * 4.0; break;
-    case 'B': totalGrade += credit * 3.0; break;
-    case 'C': totalGrade += credit * 2.0; break;
-    case 'D': totalGrade += credit * 1.0; break;
+      case 'A': totalGrade += credit * 4.0; break;
+      case 'B': totalGrade += credit * 3.0; break;
+      case 'C': totalGrade += credit * 2.0; break;
+      case 'D': totalGrade += credit * 1.0; break;
     }
     if (grade[1] == '+') {
       totalGrade += credit * 0.5;

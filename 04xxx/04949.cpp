@@ -12,14 +12,14 @@ bool solve(void) {
   bool ok = true;
   for (int i=0; i<s.size(); i++) {
     switch (s[i]) {
-    case '(': case '[': st.push(s[i]);
-                        break;
-    case ')': if (st.empty() || st.top() != '(') ok = false;
-              else st.pop();
-              break;
-    case ']': if (st.empty() || st.top() != '[') ok = false;
-              else st.pop();
-              break;
+      case '(': case '[': st.push(s[i]);
+        break;
+      case ')': if (st.empty() || st.top() != '(') ok = false;
+        else st.pop();
+        break;
+      case ']': if (st.empty() || st.top() != '[') ok = false;
+        else st.pop();
+        break;
     }
   }
   if (!st.empty()) ok = false;

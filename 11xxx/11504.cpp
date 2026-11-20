@@ -17,7 +17,7 @@ void solve(void) {
 
   vector<int> v(n);
   for (int i=0; i<n; i++) cin >> v[i];
-  
+
   int ans = 0;
   for (int i=0; i<n; i++) {
     int z = 0;

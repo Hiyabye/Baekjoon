@@ -17,7 +17,7 @@ void solve(void) {
       else ans++;
     }
   }
-  
+
   cout << ans;
 }
 

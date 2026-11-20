@@ -10,6 +10,6 @@ int main(void) {
   for (int i=0; i<30; i++)
     if (a[i] == 0)
       printf("%d\n", i+1);
-      
+
   return 0;
 }

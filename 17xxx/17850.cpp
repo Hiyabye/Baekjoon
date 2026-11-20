@@ -18,11 +18,11 @@ void solve(void) {
   }
 
   cout << (int)(
-    (double)v[0].first / v[0].second * l +
-    (double)v[1].first / v[1].second * h +
-    (double)v[2].first / v[2].second * p +
-    (double)v[3].first / v[3].second * e
-  );
+         (double)v[0].first / v[0].second * l +
+         (double)v[1].first / v[1].second * h +
+         (double)v[2].first / v[2].second * p +
+         (double)v[3].first / v[3].second * e
+       );
 }
 
 int main(void) {

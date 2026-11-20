@@ -8,7 +8,7 @@ int cal(int a, int b, int c) {
   if (w[x][y][z] != 0)      return w[x][y][z];
   if (a<=0 || b<=0 || c<=0) return 1;
   if (a>20 || b>20 || c>20) return cal(20,20,20);
-  
+
   if (a<b && b<c) {
     w[x][y][z-1] = cal(a,b,c-1);
     w[x][y-1][z-1] = cal(a,b-1,c-1);
