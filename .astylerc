@@ -2,6 +2,7 @@
 style=attach
 indent=spaces=2
 indent-switches
+indent-namespaces
 keep-one-line-statements
 keep-one-line-blocks
 # Don't leave .orig backup files next to formatted sources
